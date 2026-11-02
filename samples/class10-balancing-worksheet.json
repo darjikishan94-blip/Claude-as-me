@@ -14,22 +14,67 @@
     {
       "title": "Balance these",
       "questions": [
-        {"q": "H_{2} + O_{2} → H_{2}O", "lines": 1, "answer": "2H_{2} + O_{2} → 2H_{2}O"},
-        {"q": "Mg + O_{2} → MgO", "lines": 1, "answer": "2Mg + O_{2} → 2MgO"},
-        {"q": "Na + H_{2}O → NaOH + H_{2}", "lines": 1, "answer": "2Na + 2H_{2}O → 2NaOH + H_{2}"},
-        {"q": "Al + O_{2} → Al_{2}O_{3}", "lines": 1, "answer": "4Al + 3O_{2} → 2Al_{2}O_{3}"},
-        {"q": "CH_{4} + O_{2} → CO_{2} + H_{2}O", "lines": 1, "answer": "CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O"},
-        {"q": "KClO_{3} → KCl + O_{2}", "lines": 1, "answer": "2KClO_{3} → 2KCl + 3O_{2}"},
-        {"q": "Fe + H_{2}O → Fe_{3}O_{4} + H_{2}", "lines": 1, "answer": "3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}"},
-        {"q": "BaCl_{2} + Al_{2}(SO_{4})_{3} → BaSO_{4} + AlCl_{3}", "lines": 1, "answer": "3BaCl_{2} + Al_{2}(SO_{4})_{3} → 3BaSO_{4} + 2AlCl_{3}"},
-        {"q": "Pb(NO_{3})_{2} → PbO + NO_{2} + O_{2}", "lines": 1, "answer": "2Pb(NO_{3})_{2} → 2PbO + 4NO_{2} + O_{2}"},
-        {"q": "C_{6}H_{12}O_{6} + O_{2} → CO_{2} + H_{2}O", "lines": 1, "answer": "C_{6}H_{12}O_{6} + 6O_{2} → 6CO_{2} + 6H_{2}O"}
-      ]
+        {
+          "q": "H_{2} + O_{2} → H_{2}O",
+          "lines": 1,
+          "answer": "2H_{2} + O_{2} → 2H_{2}O"
+        },
+        {
+          "q": "Mg + O_{2} → MgO",
+          "lines": 1,
+          "answer": "2Mg + O_{2} → 2MgO"
+        },
+        {
+          "q": "Na + H_{2}O → NaOH + H_{2}",
+          "lines": 1,
+          "answer": "2Na + 2H_{2}O → 2NaOH + H_{2}"
+        },
+        {
+          "q": "Al + O_{2} → Al_{2}O_{3}",
+          "lines": 1,
+          "answer": "4Al + 3O_{2} → 2Al_{2}O_{3}"
+        },
+        {
+          "q": "CH_{4} + O_{2} → CO_{2} + H_{2}O",
+          "lines": 1,
+          "answer": "CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O"
+        },
+        {
+          "q": "KClO_{3} → KCl + O_{2}",
+          "lines": 1,
+          "answer": "2KClO_{3} → 2KCl + 3O_{2}"
+        },
+        {
+          "q": "Fe + H_{2}O → Fe_{3}O_{4} + H_{2}",
+          "lines": 1,
+          "answer": "3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}"
+        },
+        {
+          "q": "BaCl_{2} + Al_{2}(SO_{4})_{3} → BaSO_{4} + AlCl_{3}",
+          "lines": 1,
+          "answer": "3BaCl_{2} + Al_{2}(SO_{4})_{3} → 3BaSO_{4} + 2AlCl_{3}"
+        },
+        {
+          "q": "Pb(NO_{3})_{2} → PbO + NO_{2} + O_{2}",
+          "lines": 1,
+          "answer": "2Pb(NO_{3})_{2} → 2PbO + 4NO_{2} + O_{2}"
+        },
+        {
+          "q": "C_{6}H_{12}O_{6} + O_{2} → CO_{2} + H_{2}O",
+          "lines": 1,
+          "answer": "C_{6}H_{12}O_{6} + 6O_{2} → 6CO_{2} + 6H_{2}O"
+        }
+      ],
+      "unbalanced": true
     },
     {
       "title": "Challenge",
       "questions": [
-        {"q": "Write the balanced equation, with physical states, for the reaction of zinc with dilute sulphuric acid. Name the gas formed.", "lines": 3, "answer": "Zn(s) + H_{2}SO_{4}(aq) → ZnSO_{4}(aq) + H_{2}(g). The gas is hydrogen."}
+        {
+          "q": "Write the balanced equation, with physical states, for the reaction of zinc with dilute sulphuric acid. Name the gas formed.",
+          "lines": 3,
+          "answer": "Zn(s) + H_{2}SO_{4}(aq) → ZnSO_{4}(aq) + H_{2}(g). The gas is hydrogen."
+        }
       ]
     }
   ],

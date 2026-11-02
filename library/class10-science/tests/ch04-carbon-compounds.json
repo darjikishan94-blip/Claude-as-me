@@ -1,0 +1,236 @@
+{
+  "type": "test",
+  "file_name": "c10-ch04-test-carbon-compounds",
+  "title": "Ch 4 Test: Carbon and its Compounds",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Write balanced chemical equations and structural formulae wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Ethane, with the molecular formula C_{2}H_{6}, has:",
+          "marks": 1,
+          "options": [
+            "6 covalent bonds",
+            "7 covalent bonds",
+            "8 covalent bonds",
+            "9 covalent bonds"
+          ],
+          "answer": "(b) 7 covalent bonds: one C–C bond and six C–H bonds."
+        },
+        {
+          "q": "Butanone is a four-carbon compound with the functional group:",
+          "marks": 1,
+          "options": [
+            "carboxylic acid",
+            "aldehyde",
+            "alcohol",
+            "ketone"
+          ],
+          "answer": "(d) ketone"
+        },
+        {
+          "q": "The next higher homologue of ethanol (C_{2}H_{5}OH) is:",
+          "marks": 1,
+          "options": [
+            "CH_{3}OH",
+            "C_{2}H_{5}COOH",
+            "C_{3}H_{7}OH",
+            "C_{3}H_{8}"
+          ],
+          "answer": "(c) C_{3}H_{7}OH (propanol). Consecutive members differ by –CH_{2}–."
+        },
+        {
+          "q": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that:",
+          "marks": 1,
+          "options": [
+            "the fuel is not burning completely",
+            "the food is not cooked completely",
+            "the fuel is wet",
+            "the fuel is burning completely"
+          ],
+          "answer": "(a) the fuel is not burning completely (the soot is unburnt carbon)."
+        },
+        {
+          "q": "Which of the following is an unsaturated hydrocarbon?",
+          "marks": 1,
+          "options": [
+            "C_{3}H_{8}",
+            "CH_{4}",
+            "C_{2}H_{4}",
+            "C_{2}H_{6}"
+          ],
+          "answer": "(c) C_{2}H_{4} (ethene). It has a carbon–carbon double bond."
+        },
+        {
+          "q": "**Assertion (A):** Carbon forms covalent bonds rather than ionic bonds.  **Reason (R):** Carbon has four valence electrons, and it is difficult for it to gain or lose four electrons.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a). Gaining or losing four electrons needs a lot of energy, so carbon shares electrons instead."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is a homologous series? Write the formulae of the first two members of the alkyne series.",
+          "marks": 2,
+          "answer": "A series of compounds in which the same functional group replaces hydrogen in a carbon chain, and consecutive members differ by a –CH_{2}– unit (14 u). Alkynes: ethyne C_{2}H_{2} and propyne C_{3}H_{4}.",
+          "marking": [
+            "Definition: 1",
+            "Two formulae: ½ + ½"
+          ],
+          "or": {
+            "q": "Give two reasons why carbon forms a very large number of compounds.",
+            "marks": 2,
+            "answer": "(1) Catenation: carbon can form bonds with other carbon atoms, giving long chains, branched chains and rings. (2) Tetravalency: with a valency of four, carbon can bond with four other atoms of carbon or other elements such as H, O, N, S and Cl.",
+            "marking": [
+              "Catenation: 1",
+              "Tetravalency: 1"
+            ]
+          }
+        },
+        {
+          "q": "What is saponification? Write the balanced equation for the reaction of ethyl ethanoate with sodium hydroxide.",
+          "marks": 2,
+          "answer": "The reaction of an ester with an alkali (sodium hydroxide) that gives back the alcohol and the sodium salt of the carboxylic acid. It is used to make soap. CH_{3}COOC_{2}H_{5} + NaOH → C_{2}H_{5}OH + CH_{3}COONa",
+          "marking": [
+            "Definition: 1",
+            "Balanced equation: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about ethanol:",
+          "subparts": [
+            {
+              "q": "Write the balanced equation for the reaction of ethanol with sodium.",
+              "marks": 1,
+              "answer": "2C_{2}H_{5}OH + 2Na → 2C_{2}H_{5}ONa + H_{2}. Hydrogen gas is given off and sodium ethoxide is formed."
+            },
+            {
+              "q": "What is formed when ethanol is heated with excess concentrated sulphuric acid at 443 K? Write the equation.",
+              "marks": 1,
+              "answer": "Ethene is formed (dehydration): C_{2}H_{5}OH → C_{2}H_{4} + H_{2}O"
+            },
+            {
+              "q": "Name the product formed when ethanol is oxidised with alkaline potassium permanganate.",
+              "marks": 1,
+              "answer": "Ethanoic acid (CH_{3}COOH)"
+            }
+          ]
+        },
+        {
+          "q": "What is esterification? Write the balanced equation for the formation of an ester from ethanoic acid and ethanol, and give one use of esters.",
+          "marks": 3,
+          "answer": "The reaction of a carboxylic acid with an alcohol, in the presence of an acid catalyst, to form a sweet-smelling ester. CH_{3}COOH + C_{2}H_{5}OH → CH_{3}COOC_{2}H_{5} + H_{2}O (with concentrated H_{2}SO_{4}). Uses: in perfumes and as flavouring agents.",
+          "marking": [
+            "Definition: 1",
+            "Balanced equation: 1",
+            "Use: 1"
+          ],
+          "or": {
+            "q": "How are soaps different from detergents? Why does soap not work well in hard water?",
+            "marks": 3,
+            "answer": "Soaps are sodium or potassium salts of long-chain carboxylic acids. Detergents are generally ammonium or sulphonate salts of long-chain carboxylic acids. In hard water, soap reacts with calcium and magnesium salts to form an insoluble substance called scum, so a lot of soap is wasted. The charged ends of detergents do not form insoluble precipitates with calcium and magnesium ions, so detergents work in hard water too.",
+            "marking": [
+              "Difference: 1",
+              "Scum formation: 1",
+              "Detergents work in hard water: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain the cleansing action of soap. Use the idea of micelles.",
+              "marks": 3,
+              "answer": "A soap molecule has an ionic (hydrophilic) end that dissolves in water and a long hydrocarbon (hydrophobic) tail that dissolves in oil. In water, the tails stick into the oily dirt while the ionic ends face the water, forming clusters called micelles with the dirt in the centre. The micelles stay suspended in water, so the dirt is easily rinsed away.",
+              "marking": [
+                "Structure of soap molecule: 1",
+                "Micelle formation: 1",
+                "Dirt removed on rinsing: 1"
+              ]
+            },
+            {
+              "q": "What is hydrogenation? Give one industrial use.",
+              "marks": 2,
+              "answer": "The addition of hydrogen to unsaturated hydrocarbons in the presence of a catalyst such as nickel or palladium. Use: to make vegetable ghee from vegetable oils.",
+              "marking": [
+                "Definition with catalyst: 1",
+                "Use: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What are structural isomers? Write the structures of the two isomers of butane. [3]\n(b) Why are covalent compounds generally poor conductors of electricity? [2]",
+            "marks": 5,
+            "answer": "(a) Compounds with the same molecular formula but different structures. Butane C_{4}H_{10}: n-butane CH_{3}–CH_{2}–CH_{2}–CH_{3} and isobutane (2-methylpropane) CH_{3}–CH(CH_{3})–CH_{3}. (b) The bonds are formed by sharing electrons, so no ions (charged particles) are formed to carry current.",
+            "marking": [
+              "(a) definition 1, two structures 1 + 1",
+              "(b) no ions formed 2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Carbon compounds burn in oxygen to give carbon dioxide and water, along with heat and light. Saturated hydrocarbons generally burn with a clean blue flame, while unsaturated hydrocarbons give a yellow flame with lots of black smoke. In a gas stove, the air holes let in enough oxygen for complete combustion. If the air holes get blocked, the flame becomes yellow and sooty.",
+          "subparts": [
+            {
+              "q": "Write the balanced equation for the complete combustion of methane.",
+              "marks": 1,
+              "answer": "CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O + heat and light"
+            },
+            {
+              "q": "Which type of hydrocarbon burns with a sooty yellow flame?",
+              "marks": 1,
+              "answer": "Unsaturated hydrocarbons."
+            },
+            {
+              "q": "Why does the flame become sooty when the air holes are blocked, and why is this a problem?",
+              "marks": 2,
+              "answer": "There is not enough oxygen, so combustion is incomplete and unburnt carbon (soot) is formed. This wastes fuel, blackens vessels, and incomplete combustion can also produce poisonous carbon monoxide.",
+              "marking": [
+                "Incomplete combustion due to less oxygen: 1",
+                "One problem: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

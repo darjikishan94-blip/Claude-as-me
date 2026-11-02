@@ -1,0 +1,229 @@
+{
+  "type": "test",
+  "file_name": "c10-ch07-test-how-do-organisms-reproduce",
+  "title": "Ch 7 Test: How do Organisms Reproduce?",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Asexual reproduction takes place through budding in:",
+          "marks": 1,
+          "options": [
+            "Amoeba",
+            "Plasmodium",
+            "yeast",
+            "Leishmania"
+          ],
+          "answer": "(c) yeast"
+        },
+        {
+          "q": "Which of the following is NOT a part of the female reproductive system in human beings?",
+          "marks": 1,
+          "options": [
+            "Ovary",
+            "Vas deferens",
+            "Uterus",
+            "Fallopian tube"
+          ],
+          "answer": "(b) Vas deferens (part of the male system)"
+        },
+        {
+          "q": "The anther contains:",
+          "marks": 1,
+          "options": [
+            "sepals",
+            "ovules",
+            "pistil",
+            "pollen grains"
+          ],
+          "answer": "(d) pollen grains"
+        },
+        {
+          "q": "Planaria can grow a complete new organism from a cut body piece. This is called:",
+          "marks": 1,
+          "options": [
+            "budding",
+            "regeneration",
+            "spore formation",
+            "binary fission"
+          ],
+          "answer": "(b) regeneration"
+        },
+        {
+          "q": "Rhizopus (bread mould) reproduces by:",
+          "marks": 1,
+          "options": [
+            "fragmentation",
+            "budding",
+            "spore formation",
+            "binary fission"
+          ],
+          "answer": "(c) spore formation"
+        },
+        {
+          "q": "**Assertion (A):** Variation is useful for the survival of a species over time.  **Reason (R):** If the environment changes drastically, some variants may be better able to survive.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is the importance of DNA copying in reproduction?",
+          "marks": 2,
+          "answer": "DNA carries the information for the body design. Copying DNA passes this information from parent to offspring, so the offspring are similar to the parent. Small errors in copying lead to variations, which help in survival over time.",
+          "marking": [
+            "Passes on body design information: 1",
+            "Leads to variation: 1"
+          ],
+          "or": {
+            "q": "Give two advantages of vegetative propagation.",
+            "marks": 2,
+            "answer": "(Any two) Plants that have lost the ability to produce seeds, such as banana, orange, rose and jasmine, can still be grown. Plants bear flowers and fruits earlier than those grown from seed. All the new plants are genetically similar to the parent, so useful characters are kept.",
+            "marking": [
+              "Any two: 1 + 1"
+            ]
+          }
+        },
+        {
+          "q": "Differentiate between self-pollination and cross-pollination.",
+          "marks": 2,
+          "answer": "In self-pollination, pollen is transferred to the stigma of the same flower (or another flower on the same plant). In cross-pollination, pollen is transferred to the stigma of a flower on another plant of the same species, by agents like wind, water or animals.",
+          "marking": [
+            "Each correct definition: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about events after fertilisation in a flower:",
+          "subparts": [
+            {
+              "q": "What happens to the zygote?",
+              "marks": 1,
+              "answer": "It divides several times to form an embryo inside the ovule."
+            },
+            {
+              "q": "What do the ovule and the ovary develop into?",
+              "marks": 1,
+              "answer": "The ovule develops into a seed, and the ovary develops into a fruit."
+            },
+            {
+              "q": "What happens to the petals, sepals and stamens?",
+              "marks": 1,
+              "answer": "They may shrivel and fall off."
+            }
+          ]
+        },
+        {
+          "q": "Describe any three methods of contraception and how each works.",
+          "marks": 3,
+          "answer": "(Any three) Barrier method: a condom prevents sperm from reaching the egg. Hormonal method: oral pills change the hormonal balance so that eggs are not released. Copper-T or loop placed in the uterus prevents pregnancy. Surgical method: the vas deferens in males or the fallopian tube in females is blocked.",
+          "marking": [
+            "Each method with how it works: 1"
+          ],
+          "or": {
+            "q": "How does binary fission differ from multiple fission? Give one example of each.",
+            "marks": 3,
+            "answer": "In binary fission, a single-celled organism divides into two equal halves (e.g. Amoeba; Leishmania divides in a definite plane). In multiple fission, the single cell divides into many daughter cells at the same time, often inside a protective cyst (e.g. Plasmodium).",
+            "marking": [
+              "Binary fission + example: 1½",
+              "Multiple fission + example: 1½"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following about human reproduction:",
+          "subparts": [
+            {
+              "q": "Where are the eggs produced, where does fertilisation take place, and where does the embryo get implanted?",
+              "marks": 3,
+              "answer": "Eggs are produced in the ovaries (one egg is released every month). Fertilisation takes place in the oviduct (fallopian tube). The fertilised egg (zygote) gets implanted in the lining of the uterus.",
+              "marking": [
+                "Each correct part: 1"
+              ]
+            },
+            {
+              "q": "How does the embryo get nourishment inside the mother's body?",
+              "marks": 2,
+              "answer": "Through the placenta, a disc embedded in the uterine wall. It has villi on the embryo's side, surrounded by blood spaces on the mother's side. This gives a large surface area for glucose and oxygen to pass from the mother to the embryo, and for wastes to pass back.",
+              "marking": [
+                "Placenta: 1",
+                "Villi / large surface area for exchange: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What is the role of the seminal vesicles and the prostate gland? [2]\n(b) Why are the testes located outside the abdominal cavity? [1]\n(c) Name two sexually transmitted diseases and one way to prevent them. [2]",
+            "marks": 5,
+            "answer": "(a) Their secretions are added to the sperm, so the sperm are in a fluid. This makes their transport easier and also provides nutrition. (b) Sperm formation needs a lower temperature than normal body temperature. (c) Any two: gonorrhoea, syphilis (bacterial), warts, HIV-AIDS (viral). Prevention: using a condom (barrier method).",
+            "marking": [
+              "(a) 2",
+              "(b) 1",
+              "(c) two diseases 1, prevention 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A gardener wanted many rose plants with exactly the same flower colour as one prized plant. He cut small pieces of its stem with buds and planted them in moist soil. In another bed, he grew potato plants from pieces of potato that had 'eyes'. He also noticed that a Bryophyllum leaf lying on wet soil produced tiny new plants from the notches along its edge.",
+          "subparts": [
+            {
+              "q": "Name the method used to grow the rose plants.",
+              "marks": 1,
+              "answer": "Cutting (vegetative propagation)."
+            },
+            {
+              "q": "What are the 'eyes' of a potato?",
+              "marks": 1,
+              "answer": "Buds on the potato tuber (a modified underground stem)."
+            },
+            {
+              "q": "Why do the new rose plants have the same flower colour as the parent? Give one limitation of this method.",
+              "marks": 2,
+              "answer": "They are produced asexually, so they are genetically almost identical to the parent. Limitation: there is little variation, so all the plants may be equally affected by a disease or a change in the environment.",
+              "marking": [
+                "Asexual, genetically similar: 1",
+                "Limitation: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,236 @@
+{
+  "type": "test",
+  "file_name": "c10-ch03-test-metals-non-metals",
+  "title": "Ch 3 Test: Metals and Non-metals",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Write balanced chemical equations wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which metal is a liquid at room temperature?",
+          "marks": 1,
+          "options": [
+            "Sodium",
+            "Gallium",
+            "Bromine",
+            "Mercury"
+          ],
+          "answer": "(d) Mercury. Bromine is a liquid too, but it is a non-metal."
+        },
+        {
+          "q": "Which of the following can be beaten into thin sheets?",
+          "marks": 1,
+          "options": [
+            "Phosphorus",
+            "Zinc",
+            "Sulphur",
+            "Oxygen"
+          ],
+          "answer": "(b) Zinc. Metals are malleable."
+        },
+        {
+          "q": "Which metal is stored under kerosene?",
+          "marks": 1,
+          "options": [
+            "Iron",
+            "Copper",
+            "Sodium",
+            "Aluminium"
+          ],
+          "answer": "(c) Sodium. It reacts so vigorously with air and moisture that it can catch fire."
+        },
+        {
+          "q": "A metal oxide that reacts with both acids and bases to form salt and water is called:",
+          "marks": 1,
+          "options": [
+            "a basic oxide",
+            "an amphoteric oxide",
+            "an acidic oxide",
+            "a neutral oxide"
+          ],
+          "answer": "(b) an amphoteric oxide, e.g. Al_{2}O_{3}, ZnO"
+        },
+        {
+          "q": "Ionic compounds conduct electricity:",
+          "marks": 1,
+          "options": [
+            "in the molten state or in aqueous solution",
+            "in the solid state",
+            "never",
+            "only in the gaseous state"
+          ],
+          "answer": "(a). The ions are free to move only in the molten state or in solution."
+        },
+        {
+          "q": "**Assertion (A):** Aluminium is more reactive than iron, yet aluminium articles do not corrode easily.  **Reason (R):** Aluminium forms a thin, protective layer of oxide on its surface.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a). The oxide layer stops further reaction. Anodising makes this layer thicker."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Zinc gives hydrogen gas with dilute hydrochloric acid, but copper does not. Why? Write the balanced equation for the reaction of zinc.",
+          "marks": 2,
+          "answer": "Copper is less reactive than hydrogen (it is below hydrogen in the reactivity series), so it cannot displace hydrogen from the acid. Zinc is more reactive than hydrogen: Zn + 2HCl → ZnCl_{2} + H_{2}",
+          "marking": [
+            "Reason (reactivity series): 1",
+            "Balanced equation: 1"
+          ],
+          "or": {
+            "q": "Why is hydrogen gas usually not given off when a metal reacts with nitric acid? Name two metals that do give hydrogen with very dilute nitric acid.",
+            "marks": 2,
+            "answer": "Nitric acid is a strong oxidising agent. It oxidises the hydrogen produced to water and is itself reduced to oxides of nitrogen. Magnesium and manganese give hydrogen with very dilute HNO_{3}.",
+            "marking": [
+              "Reason (oxidising agent): 1",
+              "Mg and Mn: ½ + ½"
+            ]
+          }
+        },
+        {
+          "q": "What are amphoteric oxides? Give two examples.",
+          "marks": 2,
+          "answer": "Metal oxides that react with both acids and bases to give salt and water. Examples: aluminium oxide (Al_{2}O_{3}) and zinc oxide (ZnO). For example, Al_{2}O_{3} + 6HCl → 2AlCl_{3} + 3H_{2}O and Al_{2}O_{3} + 2NaOH → 2NaAlO_{2} + H_{2}O.",
+          "marking": [
+            "Definition: 1",
+            "Two examples: ½ + ½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about the metals aluminium, copper, iron and zinc:",
+          "subparts": [
+            {
+              "q": "Arrange them in decreasing order of reactivity.",
+              "marks": 1,
+              "answer": "Al > Zn > Fe > Cu"
+            },
+            {
+              "q": "Will a reaction take place when copper is added to iron(II) sulphate solution? Give a reason.",
+              "marks": 1,
+              "answer": "No. Copper is less reactive than iron, so it cannot displace iron."
+            },
+            {
+              "q": "Write the balanced equation for the reaction of zinc with copper sulphate solution.",
+              "marks": 1,
+              "answer": "Zn + CuSO_{4} → ZnSO_{4} + Cu"
+            }
+          ]
+        },
+        {
+          "q": "Mercury is obtained from its ore, cinnabar (HgS). Explain the steps with balanced equations.",
+          "marks": 3,
+          "answer": "Mercury is low in the reactivity series, so heating alone is enough. Cinnabar is first roasted in air to form mercuric oxide: 2HgS + 3O_{2} → 2HgO + 2SO_{2}. On further heating, mercuric oxide is reduced to mercury: 2HgO → 2Hg + O_{2}",
+          "marking": [
+            "Low reactivity, so heating is enough: 1",
+            "Roasting equation: 1",
+            "Reduction equation: 1"
+          ],
+          "or": {
+            "q": "What is a thermite reaction? Write the balanced equation and give one use.",
+            "marks": 3,
+            "answer": "The reaction of iron(III) oxide with aluminium. It is highly exothermic, so the iron is produced in the molten state: Fe_{2}O_{3} + 2Al → 2Fe + Al_{2}O_{3} + heat. Use: joining railway tracks or cracked machine parts.",
+            "marking": [
+              "Description: 1",
+              "Balanced equation: 1",
+              "Use: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Differentiate between roasting and calcination. Give one balanced equation for each.",
+              "marks": 3,
+              "answer": "Roasting: a sulphide ore is heated strongly in excess air, e.g. 2ZnS + 3O_{2} → 2ZnO + 2SO_{2}. Calcination: a carbonate ore is heated strongly in limited air, e.g. ZnCO_{3} → ZnO + CO_{2}",
+              "marking": [
+                "Difference: 1",
+                "Each equation: 1 + 1"
+              ]
+            },
+            {
+              "q": "Give two methods of preventing the rusting of iron, and explain galvanisation.",
+              "marks": 2,
+              "answer": "Methods (any two): painting, oiling, greasing, chrome plating, anodising, making alloys. Galvanisation means coating iron or steel with a thin layer of zinc. The zinc protects the iron even if the coating is broken.",
+              "marking": [
+                "Two methods: 1",
+                "Galvanisation: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Why do ionic compounds have high melting points? [2]\n(b) Ionic compounds are generally soluble in water but not in kerosene. Why? [1]\n(c) Why do ionic compounds conduct electricity in the molten state but not in the solid state? [2]",
+            "marks": 5,
+            "answer": "(a) There are strong forces of attraction between the oppositely charged ions, so a large amount of energy is needed to break them. (b) Water is a polar solvent and can separate the ions. Kerosene and petrol are non-polar. (c) In the solid state the ions are held in fixed positions and cannot move. In the molten state the ions are free to move and carry charge.",
+            "marking": [
+              "(a) 2",
+              "(b) 1",
+              "(c) 2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Pure gold, known as 24 carat gold, is very soft and is not suitable for making jewellery. It is alloyed with silver or copper to make it hard. In India, jewellery is usually made of 22 carat gold. An alloy is a homogeneous mixture of two or more metals, or of a metal and a non-metal. Brass is an alloy of copper and zinc, bronze of copper and tin, and solder of lead and tin. The melting point and electrical conductivity of an alloy are lower than those of the pure metals.",
+          "subparts": [
+            {
+              "q": "What does 22 carat gold mean?",
+              "marks": 1,
+              "answer": "22 parts of pure gold alloyed with 2 parts of copper or silver."
+            },
+            {
+              "q": "Name the metals in bronze.",
+              "marks": 1,
+              "answer": "Copper and tin."
+            },
+            {
+              "q": "Why is solder used for welding electrical wires together? Give one more reason for making alloys.",
+              "marks": 2,
+              "answer": "Solder has a low melting point. Other reasons (any one): to increase hardness or strength, to reduce corrosion, to change electrical conductivity.",
+              "marking": [
+                "Low melting point: 1",
+                "Another reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

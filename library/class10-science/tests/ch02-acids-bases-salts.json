@@ -1,0 +1,230 @@
+{
+  "type": "test",
+  "file_name": "c10-ch02-test-acids-bases-salts",
+  "title": "Ch 2 Test: Acids, Bases and Salts",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Write balanced chemical equations wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "A solution turns red litmus blue. Its pH is most likely to be:",
+          "marks": 1,
+          "options": [
+            "1",
+            "10",
+            "4",
+            "5"
+          ],
+          "answer": "(b) 10. A solution that turns red litmus blue is basic, so its pH is more than 7."
+        },
+        {
+          "q": "Which gas is given off when dilute hydrochloric acid is added to sodium carbonate?",
+          "marks": 1,
+          "options": [
+            "Hydrogen",
+            "Chlorine",
+            "Oxygen",
+            "Carbon dioxide"
+          ],
+          "answer": "(d) Carbon dioxide. Na_{2}CO_{3} + 2HCl → 2NaCl + H_{2}O + CO_{2}"
+        },
+        {
+          "q": "The chemical formula of bleaching powder is:",
+          "marks": 1,
+          "options": [
+            "CaCO_{3}",
+            "Ca(OH)_{2}",
+            "CaOCl_{2}",
+            "CaSO_{4}"
+          ],
+          "answer": "(c) CaOCl_{2}"
+        },
+        {
+          "q": "Which of the following is used as an antacid?",
+          "marks": 1,
+          "options": [
+            "Sodium chloride",
+            "Vinegar",
+            "Milk of magnesia",
+            "Lemon juice"
+          ],
+          "answer": "(c) Milk of magnesia, Mg(OH)_{2}, a mild base that neutralises excess stomach acid."
+        },
+        {
+          "q": "Plaster of Paris is obtained by heating:",
+          "marks": 1,
+          "options": [
+            "limestone",
+            "baking soda",
+            "washing soda",
+            "gypsum"
+          ],
+          "answer": "(d) gypsum (CaSO_{4}·2H_{2}O), heated at 373 K, which gives CaSO_{4}·½H_{2}O."
+        },
+        {
+          "q": "**Assertion (A):** A concentrated acid should be diluted by adding the acid slowly to water, and not water to the acid.  **Reason (R):** Mixing a concentrated acid with water is a highly exothermic process.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a). Adding water to the acid can make the mixture splash out and the container may break due to the heat."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why does dry HCl gas not change the colour of dry blue litmus paper?",
+          "marks": 2,
+          "answer": "Acids show acidic behaviour only in the presence of water, because H^{+} ions (H_{3}O^{+}) are produced only in solution. Dry HCl gas does not dissociate into H^{+} ions, so it does not affect dry litmus.",
+          "marking": [
+            "Acids need water to produce H^{+} ions: 1",
+            "Dry HCl does not form H^{+} ions: 1"
+          ],
+          "or": {
+            "q": "What is the difference between a strong acid and a weak acid? Give one example of each.",
+            "marks": 2,
+            "answer": "A strong acid ionises completely in water and gives a large number of H^{+} ions (e.g. HCl, H_{2}SO_{4}, HNO_{3}). A weak acid ionises only partially and gives fewer H^{+} ions (e.g. acetic acid, carbonic acid).",
+            "marking": [
+              "Difference: 1",
+              "One example each: ½ + ½"
+            ]
+          }
+        },
+        {
+          "q": "Write the chemical name and formula of baking soda. Write the equation for the reaction that takes place when it is heated.",
+          "marks": 2,
+          "answer": "Sodium hydrogencarbonate, NaHCO_{3}. On heating: 2NaHCO_{3} → Na_{2}CO_{3} + H_{2}O + CO_{2}",
+          "marking": [
+            "Name and formula: 1",
+            "Balanced equation: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A student tests three solutions P, Q and R with universal indicator and finds their pH to be 2, 7 and 12 respectively.",
+          "subparts": [
+            {
+              "q": "Which solution is neutral?",
+              "marks": 1,
+              "answer": "Q (pH 7)"
+            },
+            {
+              "q": "Which solution has the highest concentration of H^{+} ions?",
+              "marks": 1,
+              "answer": "P. The lower the pH, the higher the H^{+} ion concentration."
+            },
+            {
+              "q": "Which solution will turn phenolphthalein pink?",
+              "marks": 1,
+              "answer": "R (pH 12), because it is basic."
+            }
+          ]
+        },
+        {
+          "q": "What is the chlor-alkali process? Write the balanced equation and give one use of each product.",
+          "marks": 3,
+          "answer": "When electricity is passed through brine (an aqueous solution of sodium chloride), it decomposes to form sodium hydroxide, chlorine and hydrogen: 2NaCl(aq) + 2H_{2}O(l) → 2NaOH(aq) + Cl_{2}(g) + H_{2}(g). Chlorine is given off at the anode and hydrogen at the cathode. Uses: NaOH for soaps, detergents and paper; Cl_{2} for water treatment, PVC and bleaching powder; H_{2} for fuels, margarine and ammonia for fertilisers.",
+          "marking": [
+            "Explanation (electrolysis of brine): 1",
+            "Balanced equation: 1",
+            "One use of each product: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is a neutralisation reaction? Give one balanced equation.",
+              "marks": 2,
+              "answer": "The reaction between an acid and a base to give a salt and water. NaOH + HCl → NaCl + H_{2}O",
+              "marking": [
+                "Definition: 1",
+                "Balanced equation: 1"
+              ]
+            },
+            {
+              "q": "How is washing soda obtained from sodium carbonate? Write its formula and give one use.",
+              "marks": 2,
+              "answer": "By recrystallisation of sodium carbonate: Na_{2}CO_{3} + 10H_{2}O → Na_{2}CO_{3}·10H_{2}O. Uses (any one): in the glass, soap and paper industries; for cleaning; to remove permanent hardness of water; to make borax.",
+              "marking": [
+                "Method/equation with formula: 1",
+                "One use: 1"
+              ]
+            },
+            {
+              "q": "Why should curd and sour substances not be kept in brass or copper vessels?",
+              "marks": 1,
+              "answer": "They contain acids, which react with the metal to form harmful (poisonous) compounds and also corrode the vessel."
+            }
+          ],
+          "or": {
+            "q": "(a) What happens when an acid reacts with a metal? Explain with a balanced equation, and describe how you would test the gas formed. [3]\n(b) How do antacids give relief during indigestion? Name one antacid. [2]",
+            "marks": 5,
+            "answer": "(a) The acid reacts with the metal to form a salt and hydrogen gas, e.g. Zn + H_{2}SO_{4} → ZnSO_{4} + H_{2}. Test: bring a burning candle near the gas. It burns with a pop sound, which shows hydrogen. (b) During indigestion the stomach produces too much hydrochloric acid. Antacids are mild bases that neutralise the excess acid. Example: milk of magnesia (magnesium hydroxide).",
+            "marking": [
+              "(a) statement 1, equation 1, pop test 1",
+              "(b) neutralises excess acid 1, example 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Tooth enamel, made of calcium hydroxyapatite (a form of calcium phosphate), is the hardest substance in the body. It does not dissolve in water, but it is corroded when the pH in the mouth falls below 5.5. Bacteria in the mouth produce acids by breaking down sugar and food particles that remain after eating. Toothpastes, which are generally basic, are used to clean the teeth.",
+          "subparts": [
+            {
+              "q": "Below what pH does tooth decay start?",
+              "marks": 1,
+              "answer": "5.5"
+            },
+            {
+              "q": "Why are toothpastes generally basic?",
+              "marks": 1,
+              "answer": "To neutralise the excess acid in the mouth and prevent tooth decay."
+            },
+            {
+              "q": "What produces the acid in the mouth? Suggest two ways to prevent tooth decay.",
+              "marks": 2,
+              "answer": "Bacteria break down sugar and food particles left in the mouth and produce acids. Prevention (any two): brush after eating, rinse the mouth after meals, avoid sticky sweets, cut down on sugary snacks.",
+              "marking": [
+                "Source of acid: 1",
+                "Two ways: ½ + ½"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,235 @@
+{
+  "type": "test",
+  "file_name": "c10-ch10-test-human-eye-colourful-world",
+  "title": "Ch 10 Test: The Human Eye and the Colourful World",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Draw neat, labelled ray diagrams wherever required."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The human eye can focus on objects at different distances by adjusting the focal length of the eye lens. This is due to:",
+          "marks": 1,
+          "options": [
+            "presbyopia",
+            "accommodation",
+            "near-sightedness",
+            "far-sightedness"
+          ],
+          "answer": "(b) accommodation"
+        },
+        {
+          "q": "The human eye forms the image of an object at its:",
+          "marks": 1,
+          "options": [
+            "cornea",
+            "iris",
+            "pupil",
+            "retina"
+          ],
+          "answer": "(d) retina"
+        },
+        {
+          "q": "The least distance of distinct vision for a young adult with normal vision is about:",
+          "marks": 1,
+          "options": [
+            "25 m",
+            "2.5 cm",
+            "25 cm",
+            "2.5 m"
+          ],
+          "answer": "(c) 25 cm"
+        },
+        {
+          "q": "The change in focal length of the eye lens is caused by the action of the:",
+          "marks": 1,
+          "options": [
+            "ciliary muscles",
+            "pupil",
+            "retina",
+            "iris"
+          ],
+          "answer": "(a) ciliary muscles"
+        },
+        {
+          "q": "Myopia (near-sightedness) is corrected using a:",
+          "marks": 1,
+          "options": [
+            "convex lens",
+            "concave lens",
+            "bifocal lens",
+            "cylindrical lens"
+          ],
+          "answer": "(b) concave lens of suitable power"
+        },
+        {
+          "q": "**Assertion (A):** The sky appears blue on a clear day.  **Reason (R):** Blue light has a shorter wavelength and is scattered much more strongly by the fine particles in the atmosphere than red light.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why do stars twinkle?",
+          "marks": 2,
+          "answer": "Starlight is refracted by the atmosphere, whose refractive index keeps changing (atmospheric refraction). Stars are very far away and act like point sources, so the apparent position of the star and the amount of light entering the eye keep changing. The star looks brighter at one moment and fainter the next.",
+          "marking": [
+            "Atmospheric refraction with changing conditions: 1",
+            "Flickering position/brightness: 1"
+          ],
+          "or": {
+            "q": "Why does the Sun appear reddish at sunrise and sunset?",
+            "marks": 2,
+            "answer": "Near the horizon, sunlight travels through a much thicker layer of air before reaching our eyes. Most of the blue light (shorter wavelength) is scattered away, so mainly red light (longer wavelength) reaches us.",
+            "marking": [
+              "Longer path through atmosphere: 1",
+              "Blue scattered away, red reaches eye: 1"
+            ]
+          }
+        },
+        {
+          "q": "What is dispersion of white light? What causes it?",
+          "marks": 2,
+          "answer": "The splitting of white light into its seven component colours (VIBGYOR) by a prism. Different colours bend through different angles when they pass through the prism, so they separate.",
+          "marking": [
+            "Definition: 1",
+            "Different colours bend by different amounts: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A student can see distant objects clearly but cannot read a book held at a normal distance.",
+          "subparts": [
+            {
+              "q": "Name this defect of vision.",
+              "marks": 1,
+              "answer": "Hypermetropia (far-sightedness)."
+            },
+            {
+              "q": "Give two possible causes.",
+              "marks": 1,
+              "answer": "The focal length of the eye lens is too long, or the eyeball has become too small."
+            },
+            {
+              "q": "Name the lens used to correct it, and say how it helps.",
+              "marks": 1,
+              "answer": "A convex lens of suitable power. It provides extra focusing power so that the image is formed on the retina."
+            }
+          ]
+        },
+        {
+          "q": "The Sun is visible about 2 minutes before actual sunrise and about 2 minutes after actual sunset. Explain why.",
+          "marks": 3,
+          "answer": "This is due to atmospheric refraction. When the Sun is slightly below the horizon, its light passes from rarer to denser layers of air and bends towards the normal. So the Sun appears to be above the horizon, at a raised position. The difference between actual and apparent sunrise or sunset is about 2 minutes.",
+          "marking": [
+            "Atmospheric refraction: 1",
+            "Light bends, Sun appears raised: 1",
+            "About 2 minutes earlier/later: 1"
+          ],
+          "or": {
+            "q": "What is the Tyndall effect? Why are danger signal lights red in colour?",
+            "marks": 3,
+            "answer": "The Tyndall effect is the scattering of light by colloidal particles, which makes the path of a light beam visible (e.g. sunlight through a canopy or a dusty room). Danger signals are red because red light is scattered the least by fog or smoke, so it can be seen clearly from a distance.",
+            "marking": [
+              "Tyndall effect: 1",
+              "Red is least scattered: 1",
+              "Visible from far: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is myopia? Give two causes, and explain how it is corrected.",
+              "marks": 3,
+              "answer": "Myopia (near-sightedness): a person can see nearby objects clearly but not distant ones, because the image is formed in front of the retina. Causes: excessive curvature of the eye lens, or elongation of the eyeball. Correction: a concave lens of suitable power, which brings the image back onto the retina.",
+              "marking": [
+                "Definition (image in front of retina): 1",
+                "Two causes: 1",
+                "Concave lens correction: 1"
+              ]
+            },
+            {
+              "q": "What is presbyopia? How is it corrected?",
+              "marks": 2,
+              "answer": "With age, the power of accommodation of the eye decreases because the ciliary muscles weaken and the eye lens becomes less flexible. The near point moves farther away, making it hard to see nearby objects. It is corrected with a convex lens, or with bifocal lenses if the person also has myopia.",
+              "marking": [
+                "Cause: 1",
+                "Correction: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Describe the formation of a spectrum by a glass prism. Which colour bends the least and which the most? [3]\n(b) How did Newton show that white light is made of seven colours? [2]",
+            "marks": 5,
+            "answer": "(a) When white light passes through a glass prism, different colours bend through different angles and split into a band of seven colours called a spectrum (VIBGYOR). Red bends the least and violet bends the most. (b) Newton placed a second, identical prism upside down next to the first. The spectrum from the first prism recombined into white light after passing through the second.",
+            "marking": [
+              "(a) dispersion 1, spectrum 1, red least / violet most 1",
+              "(b) inverted second prism 1, white light recombined 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A rainbow is a natural spectrum that appears in the sky after a rain shower. It is caused by the dispersion of sunlight by tiny water droplets in the atmosphere. A rainbow always forms in the direction opposite to the Sun. The droplets act like small prisms: they refract and disperse the sunlight, reflect it internally, and refract it again as it comes out of the droplet.",
+          "subparts": [
+            {
+              "q": "In which direction must you face to see a rainbow?",
+              "marks": 1,
+              "answer": "Away from the Sun (with the Sun behind you)."
+            },
+            {
+              "q": "What acts as a prism in the formation of a rainbow?",
+              "marks": 1,
+              "answer": "Tiny water droplets in the atmosphere."
+            },
+            {
+              "q": "Name, in order, the three phenomena of light that occur inside a raindrop.",
+              "marks": 2,
+              "answer": "Refraction with dispersion, then internal reflection, then refraction again.",
+              "marking": [
+                "All three in order: 2 (two correct: 1)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,233 @@
+{
+  "type": "test",
+  "file_name": "c10-ch06-test-control-coordination",
+  "title": "Ch 6 Test: Control and Coordination",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following is a plant hormone?",
+          "marks": 1,
+          "options": [
+            "Insulin",
+            "Cytokinin",
+            "Thyroxin",
+            "Oestrogen"
+          ],
+          "answer": "(b) Cytokinin"
+        },
+        {
+          "q": "The gap between two neurons is called a:",
+          "marks": 1,
+          "options": [
+            "dendrite",
+            "axon",
+            "synapse",
+            "impulse"
+          ],
+          "answer": "(c) synapse"
+        },
+        {
+          "q": "The brain is responsible for:",
+          "marks": 1,
+          "options": [
+            "thinking",
+            "regulating the heartbeat",
+            "balancing the body",
+            "all of the above"
+          ],
+          "answer": "(d) all of the above"
+        },
+        {
+          "q": "Which hormone regulates the blood sugar level?",
+          "marks": 1,
+          "options": [
+            "Insulin",
+            "Adrenaline",
+            "Thyroxin",
+            "Growth hormone"
+          ],
+          "answer": "(a) Insulin (secreted by the pancreas)"
+        },
+        {
+          "q": "The bending of a plant shoot towards light is called:",
+          "marks": 1,
+          "options": [
+            "geotropism",
+            "hydrotropism",
+            "chemotropism",
+            "phototropism"
+          ],
+          "answer": "(d) phototropism"
+        },
+        {
+          "q": "**Assertion (A):** Iodised salt is advised in our diet.  **Reason (R):** Iodine is needed by the thyroid gland to make thyroxin.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a). A deficiency of iodine can cause goitre."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is a reflex action? Give two examples.",
+          "marks": 2,
+          "answer": "A sudden, automatic response to a stimulus that happens without conscious thinking. Examples (any two): pulling the hand away from a hot object, blinking when a bright light falls on the eyes, sneezing, knee-jerk.",
+          "marking": [
+            "Definition: 1",
+            "Two examples: ½ + ½"
+          ],
+          "or": {
+            "q": "How do the leaves of the touch-me-not plant respond to touch? How is this movement different from a shoot bending towards light?",
+            "marks": 2,
+            "answer": "The leaves fold up and droop when touched. Cells change shape by changing the amount of water in them, and there is no growth involved. The bending of a shoot towards light is a growth-related movement: cells on the shaded side grow longer because of auxin.",
+            "marking": [
+              "Touch-me-not: water/cell shape change, no growth: 1",
+              "Shoot: growth-related movement: 1"
+            ]
+          }
+        },
+        {
+          "q": "Why is adrenaline called the 'emergency hormone'? Give two of its effects on the body.",
+          "marks": 2,
+          "answer": "It is secreted by the adrenal glands directly into the blood when we are scared or in danger, and it prepares the body to respond. Effects (any two): the heart beats faster, sending more oxygen to the muscles; blood supply to the digestive system and skin is reduced; the breathing rate increases.",
+          "marking": [
+            "Secreted in emergency situations: 1",
+            "Two effects: ½ + ½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about a neuron:",
+          "subparts": [
+            {
+              "q": "In which part of a neuron is information first acquired?",
+              "marks": 1,
+              "answer": "At the dendritic tip (dendrites)."
+            },
+            {
+              "q": "Through which part does the information travel as an electrical impulse?",
+              "marks": 1,
+              "answer": "From the dendrite to the cell body, and then along the axon to its end."
+            },
+            {
+              "q": "How is the impulse passed on to the next neuron?",
+              "marks": 1,
+              "answer": "At the end of the axon, the electrical impulse sets off the release of chemicals. These cross the gap (synapse) and start a similar electrical impulse in the dendrite of the next neuron."
+            }
+          ]
+        },
+        {
+          "q": "Name the plant hormone that:",
+          "subparts": [
+            {
+              "q": "promotes cell division.",
+              "marks": 1,
+              "answer": "Cytokinin"
+            },
+            {
+              "q": "inhibits growth and causes wilting of leaves.",
+              "marks": 1,
+              "answer": "Abscisic acid"
+            },
+            {
+              "q": "is made at the shoot tip and helps cells grow longer.",
+              "marks": 1,
+              "answer": "Auxin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "For each condition, name the gland and the hormone involved: (a) dwarfism, (b) diabetes, (c) goitre.",
+              "marks": 3,
+              "answer": "(a) Pituitary gland: deficiency of growth hormone in childhood. (b) Pancreas: insulin not secreted in proper amounts. (c) Thyroid gland: thyroxin, due to iodine deficiency.",
+              "marking": [
+                "Each gland + hormone: 1"
+              ]
+            },
+            {
+              "q": "Why is a feedback mechanism important in the secretion of hormones? Give an example.",
+              "marks": 2,
+              "answer": "The timing and amount of hormone released must be precise, and feedback mechanisms regulate this. Example: when blood sugar rises, cells of the pancreas detect it and secrete more insulin. As the sugar level falls, insulin secretion is reduced.",
+              "marking": [
+                "Regulates timing/amount: 1",
+                "Insulin example: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Name the three main regions of the brain and give one function of each. [3]\n(b) How is the brain protected? [2]",
+            "marks": 5,
+            "answer": "(a) Forebrain: the main thinking part, with areas for sensory information, voluntary actions, hunger and so on. Midbrain: controls many involuntary actions. Hindbrain: the cerebellum controls posture and balance, and the medulla controls blood pressure, salivation and vomiting. (b) The brain sits inside a bony box (the skull/cranium) and is surrounded by a fluid-filled balloon that acts as a shock absorber.",
+            "marking": [
+              "(a) each region with function: 1",
+              "(b) skull 1, fluid/shock absorption 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A student placed a potted plant near a window for a week. The shoot bent towards the window, while the roots grew downwards. The student read that a hormone made at the shoot tip diffuses towards the shaded side of the shoot. This makes the cells on that side grow longer, so the shoot bends towards light.",
+          "subparts": [
+            {
+              "q": "Name the response of the shoot towards light.",
+              "marks": 1,
+              "answer": "Phototropism (positive)."
+            },
+            {
+              "q": "Name the hormone involved, and say where it is made.",
+              "marks": 1,
+              "answer": "Auxin, made at the shoot tip."
+            },
+            {
+              "q": "Explain why the shoot bends towards light. Name the response of the roots to gravity.",
+              "marks": 2,
+              "answer": "Auxin diffuses to the shaded side, where the cells grow longer than on the lit side, so the shoot bends towards light. Roots show positive geotropism (they grow downwards).",
+              "marking": [
+                "Shaded side cells elongate more: 1",
+                "Positive geotropism: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

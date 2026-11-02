@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch05-test-life-processes",
+  "title": "Ch 5 Test: Life Processes",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Draw neat, labelled diagrams wherever required."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The kidneys in human beings are a part of the system for:",
+          "marks": 1,
+          "options": [
+            "nutrition",
+            "respiration",
+            "excretion",
+            "transportation"
+          ],
+          "answer": "(c) excretion"
+        },
+        {
+          "q": "The xylem in plants is responsible for the transport of:",
+          "marks": 1,
+          "options": [
+            "food",
+            "water",
+            "amino acids",
+            "oxygen"
+          ],
+          "answer": "(b) water (and dissolved minerals)"
+        },
+        {
+          "q": "The autotrophic mode of nutrition requires:",
+          "marks": 1,
+          "options": [
+            "carbon dioxide and water",
+            "chlorophyll",
+            "sunlight",
+            "all of the above"
+          ],
+          "answer": "(d) all of the above"
+        },
+        {
+          "q": "In aerobic respiration, the breakdown of pyruvate to give carbon dioxide, water and energy takes place in the:",
+          "marks": 1,
+          "options": [
+            "cytoplasm",
+            "chloroplast",
+            "nucleus",
+            "mitochondria"
+          ],
+          "answer": "(d) mitochondria"
+        },
+        {
+          "q": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+          "marks": 1,
+          "options": [
+            "Pulmonary artery",
+            "Aorta",
+            "Pulmonary vein",
+            "Vena cava"
+          ],
+          "answer": "(c) Pulmonary vein"
+        },
+        {
+          "q": "**Assertion (A):** The walls of the ventricles are thicker than the walls of the atria.  **Reason (R):** The ventricles have to pump blood out of the heart into various organs with high pressure.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "How are the alveoli designed to maximise the exchange of gases?",
+          "marks": 2,
+          "answer": "The alveoli are balloon-like structures that give a very large surface area. Their walls are very thin, and they have an extensive network of blood capillaries, so gases diffuse easily.",
+          "marking": [
+            "Large surface area: 1",
+            "Thin walls + capillary network: 1"
+          ],
+          "or": {
+            "q": "Name the three substances secreted by the gastric glands, and give the function of each.",
+            "marks": 2,
+            "answer": "Hydrochloric acid gives an acidic medium for pepsin to act and kills germs. Pepsin is an enzyme that digests proteins. Mucus protects the inner lining of the stomach from the acid.",
+            "marking": [
+              "Three substances with functions: 2 (deduct ½ per error)"
+            ]
+          }
+        },
+        {
+          "q": "Why is it necessary to separate oxygenated and deoxygenated blood in mammals and birds?",
+          "marks": 2,
+          "answer": "Mammals and birds need a lot of energy, especially to maintain a constant body temperature. Keeping the two kinds of blood separate gives a highly efficient supply of oxygen to the body.",
+          "marking": [
+            "High energy need / constant body temperature: 1",
+            "Efficient oxygen supply: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about photosynthesis:",
+          "subparts": [
+            {
+              "q": "Write the balanced equation for photosynthesis.",
+              "marks": 1,
+              "answer": "6CO_{2} + 12H_{2}O → C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O (in the presence of sunlight and chlorophyll)"
+            },
+            {
+              "q": "List the three events that occur during photosynthesis.",
+              "marks": 2,
+              "answer": "(1) Chlorophyll absorbs light energy. (2) Light energy is converted to chemical energy, and water molecules are split into hydrogen and oxygen. (3) Carbon dioxide is reduced to carbohydrates.",
+              "marking": [
+                "Three events: 2 (any two correct: 1)"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Describe how fats are digested in our body.",
+          "marks": 3,
+          "answer": "Fats reach the small intestine as large globules. Bile juice from the liver makes the medium alkaline and breaks the fat globules into smaller globules (emulsification). Lipase from the pancreas then breaks down the emulsified fats. Finally, glands in the wall of the small intestine secrete intestinal juice, which converts fats into fatty acids and glycerol.",
+          "marking": [
+            "Bile: alkaline medium + emulsification: 1",
+            "Pancreatic lipase: 1",
+            "Intestinal juice: fatty acids and glycerol: 1"
+          ],
+          "or": {
+            "q": "Describe the structure and working of a nephron.",
+            "marks": 3,
+            "answer": "Each kidney has many nephrons. A nephron has a cup-shaped Bowman's capsule containing a cluster of capillaries called the glomerulus, which filters the blood. The filtrate passes through a long tubule, where useful substances such as glucose, amino acids, salts and a major amount of water are selectively reabsorbed. The remaining fluid (urine) goes to the collecting duct and then to the ureter.",
+            "marking": [
+              "Glomerulus / Bowman's capsule filtration: 1",
+              "Reabsorption in tubule: 1",
+              "Urine to collecting duct and ureter: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Give three differences between aerobic and anaerobic respiration.",
+              "marks": 3,
+              "answer": "Aerobic respiration uses oxygen, while anaerobic respiration happens without oxygen. Aerobic respiration is completed in the mitochondria, while anaerobic respiration happens in the cytoplasm. Aerobic respiration produces carbon dioxide and water, while anaerobic respiration produces ethanol and carbon dioxide (yeast) or lactic acid (muscles). Aerobic respiration releases much more energy.",
+              "marking": [
+                "Any three differences: 1 each"
+              ]
+            },
+            {
+              "q": "Why do we sometimes get muscle cramps after vigorous exercise?",
+              "marks": 2,
+              "answer": "During vigorous exercise there is a lack of oxygen in the muscle cells, so pyruvate is converted into lactic acid. The build-up of lactic acid causes cramps.",
+              "marking": [
+                "Lack of oxygen: 1",
+                "Lactic acid build-up: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What is translocation in plants? Which tissue carries it out? [2]\n(b) How does water move upward in tall plants? [3]",
+            "marks": 5,
+            "answer": "(a) Translocation is the transport of the soluble products of photosynthesis (food) from the leaves to other parts of the plant. It takes place in the phloem and uses energy from ATP. (b) Root cells take up ions from the soil, creating a concentration difference, so water enters the roots and is pushed up the xylem (root pressure, important at night). During the day, water evaporates from the leaves through the stomata (transpiration). This creates a suction that pulls water up through the xylem. Transpiration pull is the main force in tall plants.",
+            "marking": [
+              "(a) definition 1, phloem 1",
+              "(b) root pressure 1, transpiration 1, suction/pull through xylem 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "When the kidneys fail, an artificial kidney (dialysis machine) can be used. It contains a number of tubes with a semi-permeable lining, suspended in a tank filled with dialysing fluid. This fluid has the same osmotic pressure as blood, except that it contains no nitrogenous wastes. The patient's blood is passed through these tubes, and the nitrogenous wastes pass from the blood into the dialysing fluid. The purified blood is pumped back into the patient.",
+          "subparts": [
+            {
+              "q": "Name the main nitrogenous waste removed from the blood.",
+              "marks": 1,
+              "answer": "Urea (and uric acid)."
+            },
+            {
+              "q": "Why does the dialysing fluid contain no nitrogenous wastes?",
+              "marks": 1,
+              "answer": "So that the wastes can diffuse from the blood, where their concentration is higher, into the fluid."
+            },
+            {
+              "q": "How is dialysis different from the working of a healthy kidney?",
+              "marks": 2,
+              "answer": "In dialysis there is no reabsorption. A healthy kidney selectively reabsorbs useful substances like glucose, amino acids, salts and water back into the blood.",
+              "marking": [
+                "No reabsorption in dialysis: 1",
+                "Kidney reabsorbs useful substances: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

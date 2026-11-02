@@ -1,0 +1,97 @@
+{
+  "type": "notes",
+  "academy": "Level Up Academy",
+  "title": "Quick Revision: Chemical Reactions and Equations",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {
+      "h": "Types of reactions"
+    },
+    {
+      "table": [
+        [
+          "Type",
+          "What happens",
+          "Example"
+        ],
+        [
+          "Combination",
+          "Two or more reactants form one product",
+          "CaO + H_{2}O → Ca(OH)_{2}"
+        ],
+        [
+          "Decomposition",
+          "One reactant breaks into simpler products (by heat, electricity or light)",
+          "CaCO_{3} → CaO + CO_{2} (on heating)"
+        ],
+        [
+          "Displacement",
+          "A more reactive element pushes a less reactive one out of its compound",
+          "Fe + CuSO_{4} → FeSO_{4} + Cu"
+        ],
+        [
+          "Double displacement",
+          "Two compounds exchange ions, often forming a precipitate",
+          "Na_{2}SO_{4} + BaCl_{2} → BaSO_{4}↓ + 2NaCl"
+        ],
+        [
+          "Redox",
+          "One substance is oxidised while another is reduced",
+          "CuO + H_{2} → Cu + H_{2}O"
+        ]
+      ]
+    },
+    {
+      "h": "Must-know points"
+    },
+    {
+      "bullets": [
+        "**Oxidation** = gain of oxygen or loss of hydrogen. **Reduction** = loss of oxygen or gain of hydrogen.",
+        "**Exothermic** reactions release heat (respiration, burning of fuels). **Endothermic** reactions absorb heat (most decomposition reactions).",
+        "Signs of a chemical reaction: change in state, change in colour, gas given off, change in temperature.",
+        "Balance equations with **coefficients only**. Never change the subscripts in a formula."
+      ]
+    },
+    {
+      "box": [
+        "**Corrosion:** a metal is slowly eaten away by moisture, air or acids. Rust = Fe_{2}O_{3}·xH_{2}O. Prevent with paint, oil/grease or galvanising.",
+        "**Rancidity:** fats and oils get oxidised and their smell and taste change. Prevent with antioxidants, nitrogen flushing, airtight containers or the fridge."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Changing a formula (H_{2}O → H_{2}O_{2}) to \"balance\" an equation.",
+        "Forgetting physical states (s), (l), (g), (aq) when the question asks for them.",
+        "Writing \"blue to green\" for Fe + CuSO_{4}. The solution turns from blue to **light green**."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Balance: Al + O_{2} → Al_{2}O_{3}",
+      "unbalanced": true
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. In ZnO + C → Zn + CO, which substance is oxidised?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "3. Why is respiration called an exothermic reaction?"
+    },
+    {
+      "lines": 2
+    }
+  ],
+  "file_name": "c10-ch01-notes-chemical-reactions"
+}

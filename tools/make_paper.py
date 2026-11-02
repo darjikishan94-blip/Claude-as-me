@@ -29,6 +29,11 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from check_spec import check_spec  # noqa: E402
+
+SPEC_DIR = Path('.')
+
 FONT = "Liberation Sans"  # metric-compatible with Arial; present on the render box
 PAGE_W, MARGIN = 21.0, 1.7
 TEXT_W = PAGE_W - 2 * MARGIN
@@ -59,6 +64,13 @@ def add_rich(par, text, size=None, bold=False, italic=False, color=None):
             part, sub = part[2:-1], True
         elif part.startswith("^{"):
             part, sup = part[2:-1], True
+        if "\n" in part and not (sub or sup):
+            pieces = part.split("\n")
+            for j, piece in enumerate(pieces):
+                if j:
+                    par.add_run().add_break()
+                add_rich(par, piece, size=size, bold=run_bold, italic=italic, color=color)
+            continue
         run = par.add_run(part)
         run.bold = run_bold
         run.italic = italic
@@ -131,6 +143,20 @@ def boxed(doc, text=None, height_cm=None, shade=None, size=10.5):
         trPr.append(h)
     para(doc, "", after=2)
     return t
+
+
+def add_image(doc, path, width_cm=7.0, indent=0.0):
+    img = Path(path)
+    if not img.is_absolute():
+        img = SPEC_DIR / img
+    if not img.exists():
+        print(f"  WARNING: image not found: {img}")
+        para(doc, f"[image missing: {path}]", size=9, italic=True, color=GREY, indent=indent)
+        return
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.space_after = Pt(4)
+    p.add_run().add_picture(str(img), width=Cm(float(width_cm)))
 
 
 def add_page_number_footer(section, label):
@@ -292,6 +318,8 @@ def render_question(doc, number, q, worksheet, indent=0.0):
     q_line(doc, number, q["q"], marks, indent=indent, keep=has_body)
     body_indent = indent + 0.9
 
+    if q.get("image"):
+        add_image(doc, q["image"], q.get("image_width_cm", 7))
     if q.get("options"):
         options_block(doc, q["options"], body_indent)
     for i, sub in enumerate(q.get("subparts", [])):
@@ -394,7 +422,7 @@ def key_entry(doc, number, q, indent=0.0):
             para(doc, f"• {pt}", size=10, after=0, indent=body + 0.3)
 
 
-def short(text, n=110):
+def short(text, n=150):
     """Truncate to about n visible characters without breaking **bold** / _{sub} / ^{sup} markup."""
     flat = " ".join(str(text).split())
     out, seen = [], 0
@@ -408,7 +436,10 @@ def short(text, n=110):
             continue
         if TOKEN.fullmatch(part):  # don't split a markup token
             break
-        out.append(part[: max(0, n - seen)].rstrip())
+        cut = part[: max(0, n - seen)]
+        if " " in cut:
+            cut = cut[: cut.rfind(" ")]
+        out.append(cut.rstrip())
         break
     result = "".join(out)
     return result if result == flat else result.rstrip() + "…"
@@ -451,6 +482,13 @@ def render_notes(spec, path):
             para(doc, "", after=3)
         elif "lines" in block:
             answer_lines(doc, block["lines"], indent=0)
+        elif "image" in block:
+            add_image(doc, block["image"], block.get("width_cm", 8))
+            if block.get("caption"):
+                para(doc, block["caption"], size=9, italic=True, align=WD_ALIGN_PARAGRAPH.CENTER,
+                     color=GREY, after=4)
+        elif "pagebreak" in block:
+            doc.add_page_break()
     doc.save(path)
 
 
@@ -473,9 +511,23 @@ def main():
     ap.add_argument("spec")
     ap.add_argument("--out", default="private/output")
     ap.add_argument("--no-pdf", action="store_true")
+    ap.add_argument("--force", action="store_true", help="render even if accuracy checks fail")
     args = ap.parse_args()
 
+    global SPEC_DIR
+    SPEC_DIR = Path(args.spec).resolve().parent
     spec = json.loads(Path(args.spec).read_text(encoding="utf-8"))
+    errors, warnings = check_spec(spec)
+    for w in warnings:
+        print("  WARN", w)
+    if errors:
+        print("ACCURACY CHECK FAILED:")
+        for e in errors:
+            print("  -", e)
+        if not args.force:
+            sys.exit(3)
+    else:
+        print("Accuracy check OK (equations balanced, MCQ keys valid)")
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     slug = slugify(spec.get("file_name") or

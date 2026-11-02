@@ -28,30 +28,51 @@
             "3Fe + 2H_{2}O → Fe_{3}O_{4} + 2H_{2}",
             "Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}"
           ],
-          "answer": "(b) 3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}. Both sides have 3 Fe, 8 H and 4 O."
+          "answer": "(b) 3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}. Both sides have 3 Fe, 8 H and 4 O.",
+          "unbalanced": true
         },
         {
           "q": "When dilute hydrochloric acid is added to zinc granules, the gas evolved is:",
           "marks": 1,
-          "options": ["oxygen", "hydrogen", "chlorine", "carbon dioxide"],
+          "options": [
+            "oxygen",
+            "hydrogen",
+            "chlorine",
+            "carbon dioxide"
+          ],
           "answer": "(b) hydrogen. Zn + 2HCl → ZnCl_{2} + H_{2}"
         },
         {
           "q": "2AgCl(s) → 2Ag(s) + Cl_{2}(g) takes place in sunlight. This is an example of:",
           "marks": 1,
-          "options": ["combination reaction", "thermal decomposition", "photolytic decomposition", "displacement reaction"],
+          "options": [
+            "combination reaction",
+            "thermal decomposition",
+            "photolytic decomposition",
+            "displacement reaction"
+          ],
           "answer": "(c) photolytic decomposition (decomposition by light)"
         },
         {
           "q": "In the reaction CuO + H_{2} → Cu + H_{2}O, the substance that gets oxidised is:",
           "marks": 1,
-          "options": ["CuO", "H_{2}", "Cu", "H_{2}O"],
+          "options": [
+            "CuO",
+            "H_{2}",
+            "Cu",
+            "H_{2}O"
+          ],
           "answer": "(b) H_{2}. It gains oxygen to form H_{2}O."
         },
         {
           "q": "Which of the following is an exothermic process?",
           "marks": 1,
-          "options": ["Electrolysis of water", "Respiration", "Decomposition of calcium carbonate", "Photosynthesis"],
+          "options": [
+            "Electrolysis of water",
+            "Respiration",
+            "Decomposition of calcium carbonate",
+            "Photosynthesis"
+          ],
           "answer": "(b) Respiration. Glucose is oxidised and energy is released."
         },
         {
@@ -74,18 +95,27 @@
           "q": "Why should a magnesium ribbon be cleaned with sandpaper before burning it in air? Write the balanced equation for its burning.",
           "marks": 2,
           "answer": "The ribbon has a layer of magnesium oxide (formed by reaction with air) on its surface, which stops it from burning easily. Sandpaper removes this layer. 2Mg(s) + O_{2}(g) → 2MgO(s)",
-          "marking": ["Reason (oxide layer removed): 1", "Balanced equation: 1"]
+          "marking": [
+            "Reason (oxide layer removed): 1",
+            "Balanced equation: 1"
+          ]
         },
         {
           "q": "What is a precipitation reaction? Give one example with a balanced chemical equation.",
           "marks": 2,
           "answer": "A reaction in which an insoluble solid (precipitate) is formed. Na_{2}SO_{4}(aq) + BaCl_{2}(aq) → BaSO_{4}(s) + 2NaCl(aq), which gives a white precipitate of BaSO_{4}.",
-          "marking": ["Definition: 1", "Correct balanced example: 1"],
+          "marking": [
+            "Definition: 1",
+            "Correct balanced example: 1"
+          ],
           "or": {
             "q": "Why are bags of chips flushed with nitrogen gas? Name the process this prevents.",
             "marks": 2,
             "answer": "Nitrogen is unreactive and replaces oxygen in the packet, so the fats and oils in the chips are not oxidised. This prevents rancidity (change in smell and taste).",
-            "marking": ["Nitrogen prevents oxidation of fats/oils: 1", "Names rancidity: 1"]
+            "marking": [
+              "Nitrogen prevents oxidation of fats/oils: 1",
+              "Names rancidity: 1"
+            ]
           }
         }
       ]
@@ -96,17 +126,41 @@
         {
           "q": "A solution of a substance 'X' is used for whitewashing walls.",
           "subparts": [
-            {"q": "Name 'X' and write its chemical formula.", "marks": 1, "answer": "Calcium oxide (quicklime), CaO"},
-            {"q": "Write the balanced equation for the reaction of X with water.", "marks": 1, "answer": "CaO(s) + H_{2}O(l) → Ca(OH)_{2}(aq) + heat"},
-            {"q": "Why does the wall get a shiny finish two to three days after whitewashing?", "marks": 1, "answer": "Ca(OH)_{2} reacts slowly with CO_{2} in air to form a thin, shiny layer of calcium carbonate: Ca(OH)_{2} + CO_{2} → CaCO_{3} + H_{2}O"}
+            {
+              "q": "Name 'X' and write its chemical formula.",
+              "marks": 1,
+              "answer": "Calcium oxide (quicklime), CaO"
+            },
+            {
+              "q": "Write the balanced equation for the reaction of X with water.",
+              "marks": 1,
+              "answer": "CaO(s) + H_{2}O(l) → Ca(OH)_{2}(aq) + heat"
+            },
+            {
+              "q": "Why does the wall get a shiny finish two to three days after whitewashing?",
+              "marks": 1,
+              "answer": "Ca(OH)_{2} reacts slowly with CO_{2} in air to form a thin, shiny layer of calcium carbonate: Ca(OH)_{2} + CO_{2} → CaCO_{3} + H_{2}O"
+            }
           ]
         },
         {
           "q": "State the type of each of the following reactions:",
           "subparts": [
-            {"q": "Fe(s) + CuSO_{4}(aq) → FeSO_{4}(aq) + Cu(s)", "marks": 1, "answer": "Displacement reaction"},
-            {"q": "2H_{2}O(l) → 2H_{2}(g) + O_{2}(g)  (on passing electric current)", "marks": 1, "answer": "Decomposition reaction (electrolytic decomposition)"},
-            {"q": "Pb(NO_{3})_{2}(aq) + 2KI(aq) → PbI_{2}(s) + 2KNO_{3}(aq)", "marks": 1, "answer": "Double displacement (precipitation) reaction, which gives a yellow precipitate of PbI_{2}"}
+            {
+              "q": "Fe(s) + CuSO_{4}(aq) → FeSO_{4}(aq) + Cu(s)",
+              "marks": 1,
+              "answer": "Displacement reaction"
+            },
+            {
+              "q": "2H_{2}O(l) → 2H_{2}(g) + O_{2}(g)  (on passing electric current)",
+              "marks": 1,
+              "answer": "Decomposition reaction (electrolytic decomposition)"
+            },
+            {
+              "q": "Pb(NO_{3})_{2}(aq) + 2KI(aq) → PbI_{2}(s) + 2KNO_{3}(aq)",
+              "marks": 1,
+              "answer": "Double displacement (precipitation) reaction, which gives a yellow precipitate of PbI_{2}"
+            }
           ]
         }
       ]
@@ -117,15 +171,37 @@
         {
           "q": "Answer the following:",
           "subparts": [
-            {"q": "What is a redox reaction?", "marks": 1, "answer": "A reaction in which one substance is oxidised and another is reduced at the same time."},
-            {"q": "In the reaction ZnO + C → Zn + CO, identify the substance oxidised and the substance reduced. Give reasons.", "marks": 2, "answer": "C is oxidised (it gains oxygen to form CO). ZnO is reduced (it loses oxygen to form Zn).", "marking": ["Each correct identification with reason: 1"]},
-            {"q": "What is corrosion? Give two ways to prevent the rusting of iron.", "marks": 2, "answer": "Corrosion is the slow eating away of a metal when it is attacked by substances around it such as moisture, oxygen and acids (e.g. rusting of iron). Prevention (any two): painting, oiling/greasing, galvanising, chrome plating, making alloys.", "marking": ["Definition: 1", "Any two methods: ½ + ½"]}
+            {
+              "q": "What is a redox reaction?",
+              "marks": 1,
+              "answer": "A reaction in which one substance is oxidised and another is reduced at the same time."
+            },
+            {
+              "q": "In the reaction ZnO + C → Zn + CO, identify the substance oxidised and the substance reduced. Give reasons.",
+              "marks": 2,
+              "answer": "C is oxidised (it gains oxygen to form CO). ZnO is reduced (it loses oxygen to form Zn).",
+              "marking": [
+                "Each correct identification with reason: 1"
+              ]
+            },
+            {
+              "q": "What is corrosion? Give two ways to prevent the rusting of iron.",
+              "marks": 2,
+              "answer": "Corrosion is the slow eating away of a metal when it is attacked by substances around it such as moisture, oxygen and acids (e.g. rusting of iron). Prevention (any two): painting, oiling/greasing, galvanising, chrome plating, making alloys.",
+              "marking": [
+                "Definition: 1",
+                "Any two methods: ½ + ½"
+              ]
+            }
           ],
           "or": {
             "q": "(a) What do you observe when ferrous sulphate crystals are heated in a boiling tube? Write the balanced equation and name the type of reaction. [3]   (b) Why is respiration considered an exothermic reaction? Write the equation. [2]",
             "marks": 5,
             "answer": "(a) The green crystals first lose water and then turn reddish-brown, and a smell of burning sulphur is noticed. 2FeSO_{4}(s) → Fe_{2}O_{3}(s) + SO_{2}(g) + SO_{3}(g), on heating. This is thermal decomposition. (b) In respiration glucose combines with oxygen in our cells and energy is released: C_{6}H_{12}O_{6}(aq) + 6O_{2}(g) → 6CO_{2}(g) + 6H_{2}O(l) + energy.",
-            "marking": ["(a) observation 1, equation 1, type 1", "(b) reason 1, equation 1"]
+            "marking": [
+              "(a) observation 1, equation 1, type 1",
+              "(b) reason 1, equation 1"
+            ]
           }
         }
       ]
@@ -137,9 +213,25 @@
         {
           "q": "In a class activity, students heated lead nitrate powder in a boiling tube. Brown fumes were given off and a yellowish residue was left behind. In another observation, a copper vessel kept in the open for a few months developed a green coating on its surface.",
           "subparts": [
-            {"q": "Name the brown gas given off when lead nitrate is heated.", "marks": 1, "answer": "Nitrogen dioxide (NO_{2}). 2Pb(NO_{3})_{2} → 2PbO + 4NO_{2} + O_{2}"},
-            {"q": "What type of reaction is the heating of lead nitrate?", "marks": 1, "answer": "Thermal decomposition reaction"},
-            {"q": "What is the green coating on the copper vessel, and why does it form?", "marks": 2, "answer": "Basic copper carbonate. Copper reacts slowly with moist carbon dioxide (and oxygen) in the air. This is corrosion of copper.", "marking": ["Names basic copper carbonate: 1", "Reason (reaction with moist CO_{2}/air, corrosion): 1"]}
+            {
+              "q": "Name the brown gas given off when lead nitrate is heated.",
+              "marks": 1,
+              "answer": "Nitrogen dioxide (NO_{2}). 2Pb(NO_{3})_{2} → 2PbO + 4NO_{2} + O_{2}"
+            },
+            {
+              "q": "What type of reaction is the heating of lead nitrate?",
+              "marks": 1,
+              "answer": "Thermal decomposition reaction"
+            },
+            {
+              "q": "What is the green coating on the copper vessel, and why does it form?",
+              "marks": 2,
+              "answer": "Basic copper carbonate. Copper reacts slowly with moist carbon dioxide (and oxygen) in the air. This is corrosion of copper.",
+              "marking": [
+                "Names basic copper carbonate: 1",
+                "Reason (reaction with moist CO_{2}/air, corrosion): 1"
+              ]
+            }
           ]
         }
       ]

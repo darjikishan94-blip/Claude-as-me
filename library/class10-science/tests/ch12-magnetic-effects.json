@@ -1,0 +1,240 @@
+{
+  "type": "test",
+  "file_name": "c10-ch12-test-magnetic-effects",
+  "title": "Ch 12 Test: Magnetic Effects of Electric Current",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following correctly describes the magnetic field near a long, straight, current-carrying wire?",
+          "marks": 1,
+          "options": [
+            "Straight lines perpendicular to the wire",
+            "Straight lines parallel to the wire",
+            "Concentric circles centred on the wire",
+            "Radial lines starting from the wire"
+          ],
+          "answer": "(c) Concentric circles centred on the wire"
+        },
+        {
+          "q": "The magnetic field inside a long, straight, current-carrying solenoid:",
+          "marks": 1,
+          "options": [
+            "is zero",
+            "decreases towards its ends",
+            "increases towards its ends",
+            "is the same at all points"
+          ],
+          "answer": "(d) is the same at all points (uniform)"
+        },
+        {
+          "q": "A positively charged particle (alpha particle) moving towards the west is deflected towards the north by a magnetic field. The direction of the magnetic field is:",
+          "marks": 1,
+          "options": [
+            "towards the south",
+            "upward",
+            "towards the east",
+            "downward"
+          ],
+          "answer": "(b) upward (by Fleming's left-hand rule)"
+        },
+        {
+          "q": "Magnetic field lines:",
+          "marks": 1,
+          "options": [
+            "can intersect each other",
+            "intersect only at the poles",
+            "never intersect each other",
+            "intersect at neutral points"
+          ],
+          "answer": "(c) never intersect each other"
+        },
+        {
+          "q": "Which device protects a household circuit from short-circuiting and overloading?",
+          "marks": 1,
+          "options": [
+            "Ammeter",
+            "Voltmeter",
+            "Rheostat",
+            "Fuse"
+          ],
+          "answer": "(d) Fuse (or MCB)"
+        },
+        {
+          "q": "**Assertion (A):** Two magnetic field lines never cross each other.  **Reason (R):** If they crossed, a compass needle placed at the crossing point would have to point in two directions at once, which is not possible.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "State Fleming's left-hand rule.",
+          "marks": 2,
+          "answer": "Stretch the thumb, forefinger and middle finger of the left hand so that they are mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger in the direction of the current, then the thumb points in the direction of the force (motion) on the conductor.",
+          "marking": [
+            "Three fingers mutually perpendicular: 1",
+            "Correct assignment of field, current, force: 1"
+          ],
+          "or": {
+            "q": "Give two properties of magnetic field lines.",
+            "marks": 2,
+            "answer": "(Any two) Outside a magnet they emerge from the north pole and merge at the south pole, forming closed curves. They never intersect. Where they are closer together, the field is stronger.",
+            "marking": [
+              "Any two: 1 + 1"
+            ]
+          }
+        },
+        {
+          "q": "What is the function of the earth wire? Why should metallic appliances be earthed?",
+          "marks": 2,
+          "answer": "The earth wire is a safety measure that gives a low-resistance path for current. If current leaks to the metal body of an appliance, it flows to the earth, keeping the body at earth potential. This prevents a severe electric shock to the user.",
+          "marking": [
+            "Low-resistance path to earth: 1",
+            "Prevents shock from leakage: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about a solenoid:",
+          "subparts": [
+            {
+              "q": "What is a solenoid?",
+              "marks": 1,
+              "answer": "A coil of many circular turns of insulated copper wire, wrapped closely in the shape of a cylinder."
+            },
+            {
+              "q": "How does the magnetic field of a current-carrying solenoid compare with that of a bar magnet?",
+              "marks": 1,
+              "answer": "The field patterns are similar. One end of the solenoid behaves as a north pole and the other as a south pole."
+            },
+            {
+              "q": "How can a solenoid be used to make an electromagnet?",
+              "marks": 1,
+              "answer": "Place a soft iron core inside the solenoid and pass a current through it. The core becomes strongly magnetised."
+            }
+          ]
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "State the right-hand thumb rule.",
+              "marks": 1,
+              "answer": "If you hold a current-carrying straight conductor in your right hand with the thumb pointing in the direction of the current, your fingers curl around the conductor in the direction of the magnetic field lines."
+            },
+            {
+              "q": "A current flows from east to west in a horizontal power line. What is the direction of the magnetic field at a point directly below it, and at a point directly above it?",
+              "marks": 2,
+              "answer": "Directly below: from north to south. Directly above: from south to north.",
+              "marking": [
+                "Below: 1",
+                "Above: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "On which three factors does the strength of the magnetic field inside a current-carrying solenoid depend?",
+            "marks": 3,
+            "answer": "(1) The number of turns in the coil. (2) The strength of the current. (3) The material of the core (a soft iron core makes it much stronger).",
+            "marking": [
+              "Each factor: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following about domestic electric circuits:",
+          "subparts": [
+            {
+              "q": "Name the three wires used in domestic wiring, with the colour of their insulation. What is the potential difference between the live and neutral wires in India?",
+              "marks": 3,
+              "answer": "Live wire: red insulation. Neutral wire: black insulation. Earth wire: green insulation. The potential difference between live and neutral is 220 V.",
+              "marking": [
+                "Three wires with colours: 2",
+                "220 V: 1"
+              ]
+            },
+            {
+              "q": "What is meant by short-circuiting and overloading?",
+              "marks": 2,
+              "answer": "Short-circuiting: the live and neutral wires come into direct contact (e.g. when insulation is damaged), so the current in the circuit increases abruptly. Overloading: too much current is drawn, e.g. when too many appliances are connected to one socket, or there is an accidental rise in the supply voltage.",
+              "marking": [
+                "Short-circuit: 1",
+                "Overloading: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) A current-carrying straight conductor is placed in a magnetic field, perpendicular to it. How does the force on it change if (i) the current is increased, (ii) the direction of the current is reversed, (iii) the conductor is placed parallel to the field? [3]\n(b) Name two devices that use current-carrying conductors and magnetic fields. [2]",
+            "marks": 5,
+            "answer": "(a) (i) The force increases. (ii) The direction of the force reverses. (iii) The force becomes zero (the force is greatest when the current is perpendicular to the field). (b) Any two: electric motor, loudspeaker, electric generator, measuring instruments.",
+            "marking": [
+              "(a) 1 each",
+              "(b) 1 each"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Rohan's house has two separate circuits: one rated 15 A for high-power appliances like the geyser and AC, and one rated 5 A for fans and bulbs. One day, an electric heater, an iron and the AC were all switched on together from the same circuit, and the MCB tripped.",
+          "subparts": [
+            {
+              "q": "Why are separate circuits with different current ratings used?",
+              "marks": 1,
+              "answer": "High-power appliances draw a large current, so a separate high-rating circuit prevents overloading of the lighting circuit."
+            },
+            {
+              "q": "Why did the MCB trip?",
+              "marks": 1,
+              "answer": "Overloading. The total current drawn was more than the rated value of the circuit."
+            },
+            {
+              "q": "Calculate the current drawn by a 2 kW heater on a 220 V supply. Can it be used safely on the 5 A circuit?",
+              "marks": 2,
+              "answer": "I = P/V = 2000/220 ≈ 9.1 A. This is more than 5 A, so it should not be used on the 5 A circuit. Use the 15 A circuit.",
+              "marking": [
+                "I ≈ 9.1 A: 1",
+                "Not safe on 5 A, with reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
