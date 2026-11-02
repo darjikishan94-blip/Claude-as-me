@@ -107,6 +107,14 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 ## Class 8 Science
 
+### Chapter tests (25 marks)
+
+| Title | Files |
+|---|---|
+| Unit Test: Force and Pressure | [PDF](class8-science/pdf/c8-test-force-pressure.pdf) · [Word](class8-science/pdf/c8-test-force-pressure.docx) · [Answer key](class8-science/pdf/c8-test-force-pressure-answer-key.pdf) |
+| Unit Test: Metals and Non-metals | [PDF](class8-science/pdf/c8-test-metals-non-metals.pdf) · [Word](class8-science/pdf/c8-test-metals-non-metals.docx) · [Answer key](class8-science/pdf/c8-test-metals-non-metals-answer-key.pdf) |
+| Unit Test: Microorganisms – Friend and Foe | [PDF](class8-science/pdf/c8-test-microorganisms.pdf) · [Word](class8-science/pdf/c8-test-microorganisms.docx) · [Answer key](class8-science/pdf/c8-test-microorganisms-answer-key.pdf) |
+
 ### Worksheets
 
 | Title | Files |

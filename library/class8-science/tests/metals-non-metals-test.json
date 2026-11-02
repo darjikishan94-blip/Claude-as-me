@@ -1,0 +1,181 @@
+{
+  "type": "test",
+  "file_name": "c8-test-metals-non-metals",
+  "title": "Unit Test: Metals and Non-metals",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Metals and Non-metals (topic-based)",
+  "time": "45 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks.",
+    "Word equations are enough unless a chemical equation is asked for."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which metal is so soft that it can be cut with a knife?",
+          "marks": 1,
+          "options": [
+            "Iron",
+            "Copper",
+            "Aluminium",
+            "Sodium"
+          ],
+          "answer": "(d) Sodium"
+        },
+        {
+          "q": "A solution of which non-metal is applied on wounds as an antiseptic?",
+          "marks": 1,
+          "options": [
+            "Sulphur",
+            "Carbon",
+            "Iodine",
+            "Phosphorus"
+          ],
+          "answer": "(c) Iodine"
+        },
+        {
+          "q": "Which non-metal do we take in when we breathe?",
+          "marks": 1,
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon",
+            "Hydrogen"
+          ],
+          "answer": "(a) Oxygen"
+        },
+        {
+          "q": "Coating iron with a layer of zinc is called:",
+          "marks": 1,
+          "options": [
+            "painting",
+            "galvanisation",
+            "rusting",
+            "electroplating with copper"
+          ],
+          "answer": "(b) galvanisation"
+        },
+        {
+          "q": "The green coating on copper vessels left in moist air is:",
+          "marks": 1,
+          "options": [
+            "rust",
+            "copper sulphate",
+            "copper chloride",
+            "a mixture of copper hydroxide and copper carbonate"
+          ],
+          "answer": "(d) a mixture of copper hydroxide and copper carbonate"
+        },
+        {
+          "q": "Which gas is produced when metals react with dilute acids?",
+          "marks": 1,
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Nitrogen"
+          ],
+          "answer": "(c) Hydrogen"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why are electric wires made of copper, but covered with plastic?",
+          "marks": 2,
+          "answer": "Copper is a good conductor of electricity (and ductile). Plastic is an insulator, so the covering protects us from electric shocks.",
+          "marking": [
+            "Copper conducts: 1",
+            "Plastic insulates: 1"
+          ]
+        },
+        {
+          "q": "Why should lemon pickle not be stored in aluminium or iron containers?",
+          "marks": 2,
+          "answer": "Lemon pickle contains acids, which react with metals. This spoils the pickle (harmful substances may form) and damages the container.",
+          "marking": [
+            "Acids react with metals: 1",
+            "Spoils food / damages container: 1"
+          ]
+        },
+        {
+          "q": "An iron nail is placed in copper sulphate solution. What do you observe, and what does it show?",
+          "marks": 2,
+          "answer": "The blue colour of the solution fades and turns greenish, and a reddish-brown coating of copper forms on the nail. This shows that iron is more reactive than copper: it displaces copper.",
+          "marking": [
+            "Observation: 1",
+            "Iron more reactive: 1"
+          ]
+        },
+        {
+          "q": "Give two uses each of metals and non-metals.",
+          "marks": 2,
+          "answer": "Metals (any two): machinery, cooking utensils, electric wires, jewellery, automobiles. Non-metals (any two): oxygen for breathing; nitrogen and phosphorus in fertilisers; chlorine to purify water; iodine as an antiseptic.",
+          "marking": [
+            "Two uses each: 1 + 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Write word equations for what happens when: (i) sodium is put in water, (ii) a magnesium ribbon burns in air, (iii) sulphur burns in air.",
+          "marks": 3,
+          "answer": "(i) Sodium + water → sodium hydroxide + hydrogen (plus a lot of heat). (ii) Magnesium + oxygen → magnesium oxide. (iii) Sulphur + oxygen → sulphur dioxide.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "The ash of a burnt magnesium ribbon is dissolved in water, and so is the gas from burning sulphur. Each solution is tested with litmus. What do you observe, and what can you conclude?",
+          "marks": 3,
+          "answer": "The magnesium oxide solution turns red litmus blue, so it is basic. The sulphur dioxide solution turns blue litmus red, so it is acidic. Conclusion: metals form basic oxides and non-metals form acidic oxides.",
+          "marking": [
+            "MgO basic: 1",
+            "SO_{2} acidic: 1",
+            "Conclusion: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is a displacement reaction? Give two examples as word equations.",
+              "marks": 3,
+              "answer": "A reaction in which a more reactive metal pushes out (displaces) a less reactive metal from its compound in solution. Examples: zinc + copper sulphate → zinc sulphate + copper; iron + copper sulphate → iron sulphate + copper.",
+              "marking": [
+                "Definition: 1",
+                "Each example: 1 + 1"
+              ]
+            },
+            {
+              "q": "Will a reaction take place in each case? Give a reason. (i) Iron + zinc sulphate solution (ii) Zinc + iron sulphate solution",
+              "marks": 2,
+              "answer": "(i) No. Iron is less reactive than zinc, so it cannot displace zinc. (ii) Yes. Zinc is more reactive than iron: zinc + iron sulphate → zinc sulphate + iron.",
+              "marking": [
+                "Each with reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,193 @@
+{
+  "type": "test",
+  "file_name": "c8-test-microorganisms",
+  "title": "Unit Test: Microorganisms – Friend and Foe",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Microorganisms (topic-based)",
+  "time": "45 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Malaria is caused by:",
+          "marks": 1,
+          "options": [
+            "a bacterium",
+            "a virus",
+            "a fungus",
+            "a protozoan (Plasmodium)"
+          ],
+          "answer": "(d) a protozoan (Plasmodium)"
+        },
+        {
+          "q": "Yeast is used in making:",
+          "marks": 1,
+          "options": [
+            "curd",
+            "bread",
+            "antibiotics",
+            "vaccines"
+          ],
+          "answer": "(b) bread"
+        },
+        {
+          "q": "Which of these diseases is caused by a virus?",
+          "marks": 1,
+          "options": [
+            "Polio",
+            "Typhoid",
+            "Cholera",
+            "Tuberculosis"
+          ],
+          "answer": "(a) Polio"
+        },
+        {
+          "q": "The nitrogen-fixing bacterium found in the root nodules of leguminous plants is:",
+          "marks": 1,
+          "options": [
+            "Lactobacillus",
+            "Yeast",
+            "Rhizobium",
+            "Plasmodium"
+          ],
+          "answer": "(c) Rhizobium"
+        },
+        {
+          "q": "Penicillin was discovered by:",
+          "marks": 1,
+          "options": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Edward Jenner",
+            "Robert Koch"
+          ],
+          "answer": "(b) Alexander Fleming"
+        },
+        {
+          "q": "Salt helps preserve food because it:",
+          "marks": 1,
+          "options": [
+            "draws out water, so microorganisms cannot grow",
+            "adds colour",
+            "adds vitamins",
+            "makes the food heavier"
+          ],
+          "answer": "(a) draws out water, so microorganisms cannot grow"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What are pathogens? Name one disease spread through contaminated water and one spread through air.",
+          "marks": 2,
+          "answer": "Pathogens are disease-causing microorganisms. Water: cholera or typhoid. Air: tuberculosis or the common cold.",
+          "marking": [
+            "Definition: 1",
+            "Two diseases: ½ + ½"
+          ]
+        },
+        {
+          "q": "How does Lactobacillus change milk into curd?",
+          "marks": 2,
+          "answer": "Lactobacillus multiplies in milk and converts the milk sugar into lactic acid. This sets the milk into curd.",
+          "marking": [
+            "Multiplies in milk: 1",
+            "Produces acid / sets curd: 1"
+          ]
+        },
+        {
+          "q": "What is fermentation? Who discovered it?",
+          "marks": 2,
+          "answer": "Fermentation is the conversion of sugar into alcohol by yeast. It was discovered by Louis Pasteur in 1857.",
+          "marking": [
+            "Definition: 1",
+            "Louis Pasteur: 1"
+          ]
+        },
+        {
+          "q": "How can microorganisms cause food poisoning? Give one way to prevent it.",
+          "marks": 2,
+          "answer": "Some microorganisms grow on food and produce toxic (poisonous) substances, so eating the spoilt food makes us sick. Prevention (any one): refrigerate food, cook it properly, cover it, eat it fresh.",
+          "marking": [
+            "Toxins in spoilt food: 1",
+            "Prevention: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Name the type of microorganism (bacterium or virus) that causes:",
+          "subparts": [
+            {
+              "q": "anthrax in cattle",
+              "marks": 1,
+              "answer": "A bacterium (Bacillus anthracis)."
+            },
+            {
+              "q": "foot and mouth disease in cattle",
+              "marks": 1,
+              "answer": "A virus."
+            },
+            {
+              "q": "citrus canker in plants",
+              "marks": 1,
+              "answer": "A bacterium."
+            }
+          ]
+        },
+        {
+          "q": "How does a vaccine protect us from a disease? Who discovered the vaccine for smallpox?",
+          "marks": 3,
+          "answer": "A vaccine contains dead or weakened microbes. The body makes antibodies to fight them and remembers how to make them, so if the real disease-causing microbe enters later, it is destroyed quickly. Edward Jenner discovered the smallpox vaccine in 1798.",
+          "marking": [
+            "Dead/weakened microbes: 1",
+            "Antibodies + memory: 1",
+            "Edward Jenner: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain how microorganisms are useful in (i) cleaning the environment, (ii) agriculture, (iii) medicine.",
+              "marks": 3,
+              "answer": "(i) Decomposers break down dead plants, animals and organic waste into simple substances, keeping the environment clean. (ii) Bacteria such as Rhizobium, and blue-green algae, fix nitrogen and increase soil fertility. (iii) Antibiotics (e.g. penicillin) and vaccines are made from microorganisms.",
+              "marking": [
+                "Each: 1"
+              ]
+            },
+            {
+              "q": "Why should we not let water collect around our homes?",
+              "marks": 2,
+              "answer": "Mosquitoes breed in stagnant water. Mosquitoes spread diseases such as malaria (and dengue), so removing standing water stops them from breeding.",
+              "marking": [
+                "Mosquitoes breed: 1",
+                "They spread malaria/dengue: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

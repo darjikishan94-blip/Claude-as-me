@@ -1,0 +1,184 @@
+{
+  "type": "test",
+  "file_name": "c8-test-force-pressure",
+  "title": "Unit Test: Force and Pressure",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Force and Pressure (topic-based)",
+  "time": "45 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks.",
+    "Write the unit with every numerical answer."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The SI unit of pressure is the:",
+          "marks": 1,
+          "options": [
+            "newton",
+            "joule",
+            "watt",
+            "pascal"
+          ],
+          "answer": "(d) pascal (Pa)"
+        },
+        {
+          "q": "Which of these is a non-contact force?",
+          "marks": 1,
+          "options": [
+            "Friction",
+            "Muscular force",
+            "Magnetic force",
+            "Tension in a rope"
+          ],
+          "answer": "(c) Magnetic force"
+        },
+        {
+          "q": "The pressure exerted by a liquid increases with:",
+          "marks": 1,
+          "options": [
+            "depth",
+            "width of the container",
+            "colour of the liquid",
+            "shape of the container"
+          ],
+          "answer": "(a) depth"
+        },
+        {
+          "q": "For the same force, pressure is greater when the area is:",
+          "marks": 1,
+          "options": [
+            "larger",
+            "the same",
+            "doubled",
+            "smaller"
+          ],
+          "answer": "(d) smaller"
+        },
+        {
+          "q": "A force of 100 N acts on an area of 2 m^{2}. The pressure is:",
+          "marks": 1,
+          "options": [
+            "0.02 Pa",
+            "50 Pa",
+            "102 Pa",
+            "200 Pa"
+          ],
+          "answer": "(b) 50 Pa"
+        },
+        {
+          "q": "Which instrument measures atmospheric pressure?",
+          "marks": 1,
+          "options": [
+            "Thermometer",
+            "Ammeter",
+            "Barometer",
+            "Speedometer"
+          ],
+          "answer": "(c) Barometer"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Give two examples showing that a force can change the shape of an object.",
+          "marks": 2,
+          "answer": "(Any two) Pressing a balloon, kneading dough, squeezing a sponge, stretching a rubber band.",
+          "marking": [
+            "Each example: 1"
+          ]
+        },
+        {
+          "q": "Why do porters place a round piece of cloth on their heads when carrying heavy loads?",
+          "marks": 2,
+          "answer": "The cloth increases the area of contact between the load and the head, so the pressure on the head is less.",
+          "marking": [
+            "Increases area: 1",
+            "Reduces pressure: 1"
+          ]
+        },
+        {
+          "q": "Why do heavy trucks have broad tyres and many wheels?",
+          "marks": 2,
+          "answer": "The weight is spread over a larger area, so the pressure on the road is less and the truck does not sink into soft ground or damage the road.",
+          "marking": [
+            "Larger area: 1",
+            "Less pressure: 1"
+          ]
+        },
+        {
+          "q": "Which force makes a ball fall to the ground? Is it a contact or a non-contact force?",
+          "marks": 2,
+          "answer": "The gravitational force (gravity). It is a non-contact force.",
+          "marking": [
+            "Gravity: 1",
+            "Non-contact: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A box weighing 600 N rests on the floor on a base of area 1.5 m^{2}. Find the pressure on the floor. If the box is turned so that it rests on a face of area 0.5 m^{2}, what is the new pressure?",
+          "marks": 3,
+          "answer": "Pressure = 600 ÷ 1.5 = 400 Pa. New pressure = 600 ÷ 0.5 = 1200 Pa (three times more, because the area is a third).",
+          "marking": [
+            "400 Pa: 1",
+            "1200 Pa: 1",
+            "Reason (smaller area): 1"
+          ]
+        },
+        {
+          "q": "Describe an activity to show that liquids exert equal pressure at the same depth.",
+          "marks": 3,
+          "answer": "Take a plastic bottle and make four holes around it at the same height near the bottom. Fill it with water. Water streams out of all the holes and falls at equal distances from the bottle. This shows that water presses equally on the walls in all directions at the same depth.",
+          "marking": [
+            "Set-up: 1",
+            "Observation: 1",
+            "Conclusion: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is atmospheric pressure? Why are we not crushed by it?",
+              "marks": 2,
+              "answer": "Atmospheric pressure is the pressure exerted by the air around us. We are not crushed because the pressure inside our bodies is equal to the atmospheric pressure, so they balance each other.",
+              "marking": [
+                "Definition: 1",
+                "Balanced by pressure inside the body: 1"
+              ]
+            },
+            {
+              "q": "Give three examples from daily life where we use the idea of pressure, and explain one of them.",
+              "marks": 3,
+              "answer": "(Any three) A sharp knife cuts easily; pins and nails have pointed tips; school bags have broad straps; camels' broad feet don't sink in sand; tractors have wide tyres. Explanation, e.g.: a pointed nail has a very small area at its tip, so a small force produces a large pressure and drives it into the wood.",
+              "marking": [
+                "Three examples: 2",
+                "Explanation: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
