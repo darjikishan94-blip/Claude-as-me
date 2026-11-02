@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-tissues",
+  "title": "Practice Pack: Tissues",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style questions, and Level 3 is Foundation-level challenge.",
+    "Make a tree diagram of plant tissues and of animal tissues before you start."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "What is a tissue?", "lines": 1,
+         "answer": "A group of cells that are similar in structure and work together to perform a particular function."},
+        {"q": "Name the three types of meristematic tissue, according to where they are found.", "lines": 1,
+         "answer": "Apical (at root and stem tips), lateral (increases girth) and intercalary (at the base of leaves or internodes)."},
+        {"q": "Which plant tissue gives flexibility to leaves and stems?", "lines": 1,
+         "answer": "Collenchyma."},
+        {"q": "Name the fluid matrix of blood and the tissue that connects muscle to bone.", "lines": 1,
+         "answer": "Plasma; tendon."},
+        {"q": "Which type of muscle is found in the heart? Is it voluntary or involuntary?", "lines": 1,
+         "answer": "Cardiac muscle. It is involuntary."}
+      ]
+    },
+    {
+      "title": "Level 2: Board-style questions",
+      "questions": [
+        {"q": "Differentiate between parenchyma, collenchyma and sclerenchyma (any two features each).", "lines": 5,
+         "answer": "Parenchyma: living, thin-walled, loosely packed cells. Stores food; with chlorophyll it is chlorenchyma, and with air spaces in aquatic plants it is aerenchyma. Collenchyma: living, elongated cells, thickened at the corners. Gives flexibility and support (leaf stalks). Sclerenchyma: dead cells with walls thickened by lignin. Makes plant parts hard and stiff (husk of coconut, fibres)."},
+        {"q": "Name the elements of xylem and phloem.", "lines": 3,
+         "answer": "Xylem: tracheids, vessels, xylem parenchyma and xylem fibres. Phloem: sieve tubes, companion cells, phloem fibres and phloem parenchyma."},
+        {"q": "Give three differences between striated, smooth and cardiac muscles.", "lines": 5,
+         "answer": "Striated: voluntary; long, cylindrical, unbranched and multinucleate cells; found in limbs (attached to bones). Smooth: involuntary; spindle-shaped, uninucleate, no striations; found in the alimentary canal, blood vessels and iris. Cardiac: involuntary; cylindrical, branched and uninucleate; found only in the heart, and contracts rhythmically all through life."},
+        {"q": "What is the difference between a ligament and a tendon?", "lines": 2,
+         "answer": "A ligament connects bone to bone; it is very elastic and strong. A tendon connects muscle to bone; it is fibrous, very strong, and has limited flexibility."},
+        {"q": "What are the functions of epithelial tissue? Give two examples of where it is found.", "lines": 3,
+         "answer": "It forms a protective covering over the body and lines organs and cavities, and it controls the exchange of materials. Examples: the skin, the lining of the mouth, the alveoli of the lungs, kidney tubules."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "Why does a tree trunk grow thicker every year, while a grass stem does not? Name the tissue responsible.", "lines": 3,
+         "answer": "A tree has lateral meristem (cambium), which keeps dividing and increases the girth of the stem. Grasses have no lateral meristem; they grow mainly by intercalary meristem, which increases length, not thickness."},
+        {"q": "Neurons can be over a metre long. Why does their shape suit their function?", "lines": 3,
+         "answer": "Neurons carry messages (nerve impulses) over long distances in the body. A long axon carries the impulse far, and branched dendrites receive signals from many other cells, giving fast communication between distant parts of the body."},
+        {"q": "Water hyacinth floats on water. Which tissue helps it, and how?", "lines": 2,
+         "answer": "Aerenchyma: parenchyma with large air cavities. The air inside gives buoyancy, so the plant floats."}
+      ]
+    }
+  ],
+  "closing": "Tables are your best friend in this chapter. Compare, compare, compare!"
+}

@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-matter-mixtures",
+  "title": "Practice Pack: Mixtures, Solutions and Separation",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style questions, and Level 3 is Foundation-level challenge.",
+    "Mass by mass percentage = (mass of solute ÷ mass of solution) × 100, where solution = solute + solvent."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "What is the difference between a homogeneous and a heterogeneous mixture? Give one example of each.", "lines": 2,
+         "answer": "A homogeneous mixture has the same composition throughout (e.g. salt solution, air). A heterogeneous mixture has non-uniform composition with visible boundaries (e.g. sand in water, oil in water)."},
+        {"q": "What is the Tyndall effect? In which kind of mixture is it seen?", "lines": 2,
+         "answer": "The scattering of a beam of light by particles, which makes the path of the light visible. It is seen in colloids (e.g. milk, fog) and in suspensions, but not in true solutions."},
+        {"q": "Which method would you use to separate ammonium chloride from common salt?", "lines": 1,
+         "answer": "Sublimation. Ammonium chloride sublimes on heating, but salt does not."},
+        {"q": "Which method separates the different dyes in black ink?", "lines": 1,
+         "answer": "Chromatography."},
+        {"q": "Is boiling of water a physical or a chemical change? Is burning of paper?", "lines": 1,
+         "answer": "Boiling water is a physical change. Burning paper is a chemical change."}
+      ]
+    },
+    {
+      "title": "Level 2: Board-style questions",
+      "questions": [
+        {"q": "A solution contains 40 g of common salt in 320 g of water. Find its concentration as a mass by mass percentage.", "lines": 3,
+         "answer": "Mass of solution = 40 + 320 = 360 g. Concentration = (40/360) × 100 ≈ 11.1%."},
+        {"q": "How would you prepare 500 g of a 10% (by mass) sugar solution?", "lines": 2,
+         "answer": "Sugar = 10% of 500 g = 50 g. Dissolve 50 g of sugar in 450 g of water."},
+        {"q": "Give three differences between a true solution, a colloid and a suspension.", "lines": 5,
+         "answer": "Particle size: solution under 1 nm; colloid 1–100 nm; suspension over 100 nm. Settling: solution and colloid particles do not settle; suspension particles settle on standing. Filtration and light: solution particles pass through filter paper and do not scatter light; colloid particles pass through filter paper but scatter light (Tyndall effect); suspension particles can be filtered out and also scatter light."},
+        {"q": "Which separation method would you use for each? (a) Cream from milk (b) Oil from water (c) Pure copper sulphate from an impure sample (d) Acetone from water", "lines": 4,
+         "answer": "(a) Centrifugation. (b) A separating funnel. (c) Crystallisation. (d) Distillation (the liquids are miscible and have different boiling points)."},
+        {"q": "Give three differences between a mixture and a compound, using iron + sulphur as the example.", "lines": 4,
+         "answer": "A mixture of iron and sulphur can be separated by physical means (a magnet attracts the iron), while in the compound iron sulphide the iron cannot be separated by a magnet. A mixture keeps the properties of its components, while a compound has new properties. A mixture has a variable composition and no energy change on forming, while a compound has a fixed composition and its formation involves an energy change (heat)."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "How are the gases of air separated in industry? Why does this method work?", "lines": 4,
+         "answer": "Air is compressed and cooled until it becomes liquid air. The liquid air is then warmed slowly in a fractionating column. The gases boil off separately at different heights, because their boiling points are different (nitrogen, argon and oxygen). This is fractional distillation."},
+        {"q": "A student dissolved 5 g of urea in 95 g of water. A friend said the concentration is 5.26%. Who is right? Explain.", "lines": 3,
+         "answer": "The concentration is (5/(5 + 95)) × 100 = 5%. The friend divided by the mass of water (95 g) instead of the mass of the solution (100 g)."},
+        {"q": "Why is crystallisation better than evaporation for getting pure crystals of a substance?", "lines": 3,
+         "answer": "On evaporation to dryness, some solids decompose or get charred (e.g. sugar), and soluble impurities stay mixed with the solid. In crystallisation, pure crystals separate out and the impurities remain in the leftover solution."}
+      ]
+    }
+  ],
+  "closing": "Match each separation method with the property it uses. That's the real trick!"
+}

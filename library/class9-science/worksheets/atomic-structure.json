@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-atomic-structure",
+  "title": "Practice Pack: Structure of the Atom",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style questions, and Level 3 is Foundation-level challenge.",
+    "Shell capacities: K = 2, L = 8, M = 8 (for the first 18 elements). Mass number = protons + neutrons."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "Name the three sub-atomic particles and give the charge on each.", "lines": 2,
+         "answer": "Electron (–1), proton (+1) and neutron (no charge)."},
+        {"q": "What did Rutherford conclude from the observation that most alpha particles passed straight through the gold foil?", "lines": 2,
+         "answer": "Most of the space inside an atom is empty."},
+        {"q": "Define atomic number and mass number.", "lines": 2,
+         "answer": "Atomic number (Z) is the number of protons in an atom. Mass number (A) is the total number of protons and neutrons in the nucleus."},
+        {"q": "What are isotopes? Give one example.", "lines": 2,
+         "answer": "Atoms of the same element with the same atomic number but different mass numbers. Example: carbon-12 and carbon-14, or chlorine-35 and chlorine-37."},
+        {"q": "What are isobars? Give one example.", "lines": 2,
+         "answer": "Atoms of different elements with the same mass number but different atomic numbers. Example: calcium-40 (Z = 20) and argon-40 (Z = 18)."}
+      ]
+    },
+    {
+      "title": "Level 2: Board-style questions",
+      "questions": [
+        {"q": "Write the electronic configuration and valency of: (a) sodium (Z = 11), (b) oxygen (Z = 8), (c) chlorine (Z = 17), (d) sulphur (Z = 16).", "lines": 4,
+         "answer": "(a) Na: 2, 8, 1, valency 1. (b) O: 2, 6, valency 2. (c) Cl: 2, 8, 7, valency 1. (d) S: 2, 8, 6, valency 2."},
+        {"q": "Give three observations of Rutherford's alpha-particle scattering experiment and the conclusion from each.", "lines": 5,
+         "answer": "(1) Most alpha particles passed straight through, so most of the atom is empty space. (2) Some were deflected by small angles, so the positive charge occupies very little space. (3) Very few (about 1 in 12,000) bounced back, so all the positive charge and most of the mass are concentrated in a very small nucleus."},
+        {"q": "Chlorine occurs as two isotopes: Cl-35 (75%) and Cl-37 (25%). Find the average atomic mass of chlorine.", "lines": 3,
+         "answer": "Average atomic mass = 35 × 75/100 + 37 × 25/100 = 26.25 + 9.25 = 35.5 u."},
+        {"q": "Give two uses of isotopes.", "lines": 2,
+         "answer": "(Any two) An isotope of uranium is used as fuel in nuclear reactors. An isotope of cobalt is used to treat cancer. An isotope of iodine is used to treat goitre."},
+        {"q": "Compare the Bohr model with the Rutherford model. What problem in Rutherford's model did Bohr solve?", "lines": 4,
+         "answer": "Rutherford: electrons revolve around the nucleus, but a revolving charged particle should lose energy and fall into the nucleus, which would make the atom unstable. Bohr: electrons revolve only in certain special orbits (shells or energy levels) where they do not radiate energy. This explained why atoms are stable."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "Bromine has two isotopes, Br-79 (49.7%) and Br-81 (50.3%). Calculate its average atomic mass.", "lines": 3,
+         "answer": "79 × 0.497 + 81 × 0.503 = 39.26 + 40.74 ≈ 80.0 u."},
+        {"q": "The average atomic mass of an element X is 16.2 u. It has two isotopes, X-16 and X-18. Find the percentage of each.", "lines": 4,
+         "answer": "Let the fraction of X-16 be x. Then 16x + 18(1 – x) = 16.2, so 18 – 2x = 16.2 and x = 0.9. X-16 is 90% and X-18 is 10%."},
+        {"q": "An atom has 2 electrons in its K shell and 6 in its L shell. Identify the element, its valency, and whether it is likely to gain or lose electrons. Explain.", "lines": 3,
+         "answer": "Total electrons = 8, so it is oxygen (Z = 8). It needs 2 more electrons to complete its octet, so it tends to gain 2 electrons. Its valency is 2."}
+      ]
+    }
+  ],
+  "closing": "Draw the shells for each element you write about. It makes valency obvious!"
+}

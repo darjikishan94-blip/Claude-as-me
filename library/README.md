@@ -86,9 +86,13 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 | Title | Files |
 |---|---|
+| Practice Pack: Structure of the Atom | [PDF](class9-science/pdf/c9-practice-atomic-structure.pdf) · [Word](class9-science/pdf/c9-practice-atomic-structure.docx) · [Answer key](class9-science/pdf/c9-practice-atomic-structure-answer-key.pdf) |
+| Practice Pack: The Cell | [PDF](class9-science/pdf/c9-practice-cell.pdf) · [Word](class9-science/pdf/c9-practice-cell.docx) · [Answer key](class9-science/pdf/c9-practice-cell-answer-key.pdf) |
 | Practice Pack: Force and Laws of Motion | [PDF](class9-science/pdf/c9-practice-force-laws-of-motion.pdf) · [Word](class9-science/pdf/c9-practice-force-laws-of-motion.docx) · [Answer key](class9-science/pdf/c9-practice-force-laws-of-motion-answer-key.pdf) |
+| Practice Pack: Mixtures, Solutions and Separation | [PDF](class9-science/pdf/c9-practice-matter-mixtures.pdf) · [Word](class9-science/pdf/c9-practice-matter-mixtures.docx) · [Answer key](class9-science/pdf/c9-practice-matter-mixtures-answer-key.pdf) |
 | Practice Pack: Motion | [PDF](class9-science/pdf/c9-practice-motion.pdf) · [Word](class9-science/pdf/c9-practice-motion.docx) · [Answer key](class9-science/pdf/c9-practice-motion-answer-key.pdf) |
 | Practice Pack: Sound | [PDF](class9-science/pdf/c9-practice-sound.pdf) · [Word](class9-science/pdf/c9-practice-sound.docx) · [Answer key](class9-science/pdf/c9-practice-sound-answer-key.pdf) |
+| Practice Pack: Tissues | [PDF](class9-science/pdf/c9-practice-tissues.pdf) · [Word](class9-science/pdf/c9-practice-tissues.docx) · [Answer key](class9-science/pdf/c9-practice-tissues-answer-key.pdf) |
 | Practice Pack: Work and Energy | [PDF](class9-science/pdf/c9-practice-work-energy.pdf) · [Word](class9-science/pdf/c9-practice-work-energy.docx) · [Answer key](class9-science/pdf/c9-practice-work-energy-answer-key.pdf) |
 
 ## Guides & message kits

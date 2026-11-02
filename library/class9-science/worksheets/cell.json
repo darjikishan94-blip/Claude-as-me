@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-cell",
+  "title": "Practice Pack: The Cell",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style questions, and Level 3 is Foundation-level challenge.",
+    "For every organelle, learn three things: what it looks like, where it is, and what it does."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "Who discovered cells, and how?", "lines": 2,
+         "answer": "Robert Hooke, in 1665. He saw small box-like compartments in a thin slice of cork through a self-made microscope."},
+        {"q": "Which organelle is called the 'powerhouse of the cell', and why?", "lines": 2,
+         "answer": "Mitochondria. They release energy from food in the form of ATP (adenosine triphosphate), which the cell uses for its activities."},
+        {"q": "Why are lysosomes called 'suicide bags'?", "lines": 2,
+         "answer": "They contain powerful digestive enzymes. When a cell is damaged, the lysosomes may burst and the enzymes digest the cell itself."},
+        {"q": "Name the organelle where proteins are made.", "lines": 1,
+         "answer": "Ribosomes."},
+        {"q": "Which two organelles are found in plant cells but not in animal cells?", "lines": 1,
+         "answer": "The cell wall and plastids (e.g. chloroplasts). Plant cells also have a large central vacuole."}
+      ]
+    },
+    {
+      "title": "Level 2: Board-style questions",
+      "questions": [
+        {"q": "Give three differences between prokaryotic and eukaryotic cells.", "lines": 4,
+         "answer": "Prokaryotic cells have no nuclear membrane (the nuclear region is a nucleoid), while eukaryotic cells have a proper nucleus with a membrane. Prokaryotic cells lack membrane-bound organelles such as mitochondria, while eukaryotic cells have them. Prokaryotic cells are usually very small (1–10 µm), while eukaryotic cells are larger (5–100 µm). Examples: bacteria (prokaryotic); plant and animal cells (eukaryotic)."},
+        {"q": "What is osmosis? What happens to a cell placed in (a) a hypotonic solution and (b) a hypertonic solution?", "lines": 4,
+         "answer": "Osmosis is the movement of water molecules through a selectively permeable membrane, from a region of higher water concentration to a region of lower water concentration. (a) In a hypotonic (more dilute) solution, water enters the cell and it swells. (b) In a hypertonic (more concentrated) solution, water leaves the cell and it shrinks."},
+        {"q": "What is plasmolysis? When does it happen?", "lines": 3,
+         "answer": "When a living plant cell loses water by osmosis, the contents shrink and pull away from the cell wall. This happens when the cell is placed in a hypertonic solution, such as a strong salt or sugar solution."},
+        {"q": "Give the functions of: (a) the plasma membrane, (b) the endoplasmic reticulum, (c) the Golgi apparatus.", "lines": 4,
+         "answer": "(a) It controls the entry and exit of materials (it is selectively permeable). (b) It forms a network for transporting materials. Rough ER (with ribosomes) helps make proteins; smooth ER makes fats (lipids). (c) It stores, modifies and packages materials and dispatches them, and helps form lysosomes."},
+        {"q": "Why are plastids important to plants? Name the two types.", "lines": 3,
+         "answer": "Chromoplasts (coloured; chloroplasts contain chlorophyll for photosynthesis) and leucoplasts (colourless; store starch, oils and proteins). Chloroplasts let plants make their own food."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "What would happen to a cell if its plasma membrane ruptured or broke down?", "lines": 3,
+         "answer": "The cell contents would leak out, and the cell could no longer control what enters or leaves it. The cell would die."},
+        {"q": "What would happen to a cell if it had no Golgi apparatus?", "lines": 3,
+         "answer": "Materials made in the cell could not be stored, modified, packaged or sent to where they are needed, and lysosomes could not be formed. The cell's working would be badly affected."},
+        {"q": "Raisins kept in water swell up, and fresh grapes kept in strong sugar solution shrink. Explain both using osmosis.", "lines": 4,
+         "answer": "Raisins: the water outside is more dilute than the cell contents (hypotonic), so water enters the cells by osmosis and the raisins swell. Grapes in strong sugar solution: the solution is more concentrated (hypertonic), so water leaves the grape cells and they shrink."}
+      ]
+    }
+  ],
+  "closing": "Draw a plant cell and an animal cell side by side and label at least eight parts!"
+}

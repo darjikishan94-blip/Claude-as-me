@@ -22,7 +22,7 @@ You don't need to name the skill. Just ask normally.
 - **Set B re-tests** for every chapter, so each chapter has two different 25-mark tests
 - **Final-revision sheets:** all-chapter equation sheet (75 checked equations), physics formula sheet, diagram checklist
 - **Four full 80-mark mock papers**: Mock 1 and Mock 2 in both CBSE and GSEB patterns, with marking schemes
-- **Class 9 Foundation practice packs** (Motion, Force & Laws of Motion, Work & Energy, Sound): 3 levels each, worked answer keys, usable with the old or new Class 9 book
+- **Class 9 Foundation practice packs** (Motion, Force & Laws of Motion, Work & Energy, Sound, Atomic Structure, The Cell, Tissues, Mixtures & Separation): 3 levels each, worked answer keys, usable with the old or new Class 9 book
 - **Two drill sheets:** CBSE assertion–reason + case-based, and GSEB 40 rapid-fire objective questions
 - **90-day board revision plan** (9 Nov 2026 – 7 Feb 2027) with an error-log page, plus 11 parent WhatsApp messages to go with it
 - **Admissions kit 2027-28:** broadcasts, posters, Instagram captions, enquiry replies, demo-class plan, referral and testimonial messages
