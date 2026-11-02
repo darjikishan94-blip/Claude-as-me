@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch03-test-gseb-metals-non-metals",
+  "title": "Ch 3 Test (GSEB pattern): Metals and Non-metals",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which metal is a liquid at room temperature?",
+          "marks": 1,
+          "options": [
+            "Mercury",
+            "Sodium",
+            "Gallium",
+            "Bromine"
+          ],
+          "answer": "(a) Mercury. Bromine is a liquid too, but it is a non-metal."
+        },
+        {
+          "q": "Which non-metal is a liquid at room temperature?",
+          "marks": 1,
+          "options": [
+            "Iodine",
+            "Mercury",
+            "Sulphur",
+            "Bromine"
+          ],
+          "answer": "(d) Bromine (mercury is a liquid metal)"
+        },
+        {
+          "q": "Which of the following can be beaten into thin sheets?",
+          "marks": 1,
+          "options": [
+            "Phosphorus",
+            "Zinc",
+            "Sulphur",
+            "Oxygen"
+          ],
+          "answer": "(b) Zinc. Metals are malleable."
+        },
+        {
+          "q": "The property of metals that allows them to be drawn into thin wires is:",
+          "marks": 1,
+          "options": [
+            "malleability",
+            "sonority",
+            "ductility",
+            "lustre"
+          ],
+          "answer": "(c) ductility"
+        },
+        {
+          "q": "Which metal is stored under kerosene?",
+          "marks": 1,
+          "options": [
+            "Iron",
+            "Copper",
+            "Sodium",
+            "Aluminium"
+          ],
+          "answer": "(c) Sodium. It reacts so vigorously with air and moisture that it can catch fire."
+        },
+        {
+          "q": "Which of these metals reacts only with steam, not with cold or hot water?",
+          "marks": 1,
+          "options": [
+            "Sodium",
+            "Iron",
+            "Potassium",
+            "Calcium"
+          ],
+          "answer": "(b) Iron"
+        },
+        {
+          "q": "A metal oxide that reacts with both acids and bases to form salt and water is called:",
+          "marks": 1,
+          "options": [
+            "a basic oxide",
+            "an acidic oxide",
+            "a neutral oxide",
+            "an amphoteric oxide"
+          ],
+          "answer": "(d) an amphoteric oxide, e.g. Al_{2}O_{3}, ZnO"
+        },
+        {
+          "q": "In electrolytic refining, the anode mud consists of:",
+          "marks": 1,
+          "options": [
+            "insoluble impurities",
+            "soluble impurities",
+            "the pure metal",
+            "the electrolyte"
+          ],
+          "answer": "(a) insoluble impurities"
+        },
+        {
+          "q": "Ionic compounds conduct electricity:",
+          "marks": 1,
+          "options": [
+            "in the solid state",
+            "never",
+            "in the molten state or in aqueous solution",
+            "only in the gaseous state"
+          ],
+          "answer": "(c). The ions are free to move only in the molten state or in solution."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Zinc gives hydrogen gas with dilute hydrochloric acid, but copper does not. Why? Write the balanced equation for the reaction of zinc.",
+          "marks": 2,
+          "answer": "Copper is less reactive than hydrogen (it is below hydrogen in the reactivity series), so it cannot displace hydrogen from the acid. Zinc is more reactive than hydrogen: Zn + 2HCl → ZnCl_{2} + H_{2}",
+          "marking": [
+            "Reason (reactivity series): 1",
+            "Balanced equation: 1"
+          ]
+        },
+        {
+          "q": "Why is sodium kept immersed in kerosene oil?",
+          "marks": 2,
+          "answer": "Sodium reacts so vigorously with oxygen and moisture in the air that it catches fire if kept in the open. Kerosene keeps air and moisture away from it, preventing accidental fires.",
+          "marking": [
+            "Very reactive with air/moisture, catches fire: 1",
+            "Kerosene keeps air and water away: 1"
+          ]
+        },
+        {
+          "q": "What are amphoteric oxides? Give two examples.",
+          "marks": 2,
+          "answer": "Metal oxides that react with both acids and bases to give salt and water. Examples: aluminium oxide (Al_{2}O_{3}) and zinc oxide (ZnO). For example, Al_{2}O_{3} + 6HCl → 2AlCl_{3} + 3H_{2}O and Al_{2}O_{3} + 2NaOH → 2NaAlO_{2} + H_{2}O.",
+          "marking": [
+            "Definition: 1",
+            "Two examples: ½ + ½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about the metals aluminium, copper, iron and zinc:",
+          "subparts": [
+            {
+              "q": "Arrange them in decreasing order of reactivity.",
+              "marks": 1,
+              "answer": "Al > Zn > Fe > Cu"
+            },
+            {
+              "q": "Will a reaction take place when copper is added to iron(II) sulphate solution? Give a reason.",
+              "marks": 1,
+              "answer": "No. Copper is less reactive than iron, so it cannot displace iron."
+            },
+            {
+              "q": "Write the balanced equation for the reaction of zinc with copper sulphate solution.",
+              "marks": 1,
+              "answer": "Zn + CuSO_{4} → ZnSO_{4} + Cu"
+            }
+          ]
+        },
+        {
+          "q": "Element X has atomic number 12, and element Y has atomic number 17.",
+          "subparts": [
+            {
+              "q": "Write the electronic configuration of X and Y.",
+              "marks": 1,
+              "answer": "X: 2, 8, 2 (magnesium). Y: 2, 8, 7 (chlorine)."
+            },
+            {
+              "q": "Write the formula of the compound formed between X and Y.",
+              "marks": 1,
+              "answer": "XY_{2} (MgCl_{2}). X loses 2 electrons and each of two Y atoms gains 1 electron."
+            },
+            {
+              "q": "Name the type of bond, and give two properties of this compound.",
+              "marks": 1,
+              "answer": "Ionic bond. Properties (any two): high melting point; soluble in water; conducts electricity when molten or in solution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Pure gold, known as 24 carat gold, is very soft and is not suitable for making jewellery. It is alloyed with silver or copper to make it hard. In India, jewellery is usually made of 22 carat gold. An alloy is a homogeneous mixture of two or more metals, or of a metal and a non-metal. Brass is an alloy of copper and zinc, bronze of copper and tin, and solder of lead and tin. The melting point and electrical conductivity of an alloy are lower than those of the pure metals.",
+          "subparts": [
+            {
+              "q": "What does 22 carat gold mean?",
+              "marks": 1,
+              "answer": "22 parts of pure gold alloyed with 2 parts of copper or silver."
+            },
+            {
+              "q": "Name the metals in bronze.",
+              "marks": 1,
+              "answer": "Copper and tin."
+            },
+            {
+              "q": "Why is solder used for welding electrical wires together? Give one more reason for making alloys.",
+              "marks": 2,
+              "answer": "Solder has a low melting point. Other reasons (any one): to increase hardness or strength, to reduce corrosion, to change electrical conductivity.",
+              "marking": [
+                "Low melting point: 1",
+                "Another reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

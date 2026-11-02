@@ -1,0 +1,230 @@
+{
+  "type": "test",
+  "file_name": "c10-ch10-test-gseb-human-eye",
+  "title": "Ch 10 Test (GSEB pattern): The Human Eye and the Colourful World",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The human eye can focus on objects at different distances by adjusting the focal length of the eye lens. This is due to:",
+          "marks": 1,
+          "options": [
+            "presbyopia",
+            "near-sightedness",
+            "far-sightedness",
+            "accommodation"
+          ],
+          "answer": "(d) accommodation"
+        },
+        {
+          "q": "Which part of the eye controls the size of the pupil?",
+          "marks": 1,
+          "options": [
+            "Iris",
+            "Cornea",
+            "Retina",
+            "Eye lens"
+          ],
+          "answer": "(a) Iris"
+        },
+        {
+          "q": "The human eye forms the image of an object at its:",
+          "marks": 1,
+          "options": [
+            "cornea",
+            "retina",
+            "iris",
+            "pupil"
+          ],
+          "answer": "(b) retina"
+        },
+        {
+          "q": "The splitting of white light into its component colours is called:",
+          "marks": 1,
+          "options": [
+            "reflection",
+            "scattering",
+            "dispersion",
+            "refraction"
+          ],
+          "answer": "(c) dispersion"
+        },
+        {
+          "q": "The least distance of distinct vision for a young adult with normal vision is about:",
+          "marks": 1,
+          "options": [
+            "25 m",
+            "2.5 cm",
+            "25 cm",
+            "2.5 m"
+          ],
+          "answer": "(c) 25 cm"
+        },
+        {
+          "q": "The clear sky looks blue because of:",
+          "marks": 1,
+          "options": [
+            "scattering of light",
+            "reflection of light",
+            "dispersion of light",
+            "atmospheric refraction"
+          ],
+          "answer": "(a) scattering of light"
+        },
+        {
+          "q": "The change in focal length of the eye lens is caused by the action of the:",
+          "marks": 1,
+          "options": [
+            "pupil",
+            "retina",
+            "iris",
+            "ciliary muscles"
+          ],
+          "answer": "(d) ciliary muscles"
+        },
+        {
+          "q": "A person cannot see objects beyond 2 m clearly. The defect is:",
+          "marks": 1,
+          "options": [
+            "presbyopia",
+            "myopia",
+            "hypermetropia",
+            "cataract"
+          ],
+          "answer": "(b) myopia"
+        },
+        {
+          "q": "Myopia (near-sightedness) is corrected using a:",
+          "marks": 1,
+          "options": [
+            "convex lens",
+            "concave lens",
+            "bifocal lens",
+            "cylindrical lens"
+          ],
+          "answer": "(b) concave lens of suitable power"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why do stars twinkle?",
+          "marks": 2,
+          "answer": "Starlight is refracted by the atmosphere, whose refractive index keeps changing (atmospheric refraction). Stars are very far away and act like point sources, so the apparent position of the star and the amount of light entering the eye keep changing. The star looks brighter at one moment and fainter the next.",
+          "marking": [
+            "Atmospheric refraction with changing conditions: 1",
+            "Flickering position/brightness: 1"
+          ]
+        },
+        {
+          "q": "What are the near point and the far point of a normal human eye?",
+          "marks": 2,
+          "answer": "Near point: the closest point at which the eye can see an object clearly without strain, about 25 cm for a young adult. Far point: the farthest point it can see clearly, infinity for a normal eye.",
+          "marking": [
+            "Near point 25 cm: 1",
+            "Far point infinity: 1"
+          ]
+        },
+        {
+          "q": "What is dispersion of white light? What causes it?",
+          "marks": 2,
+          "answer": "The splitting of white light into its seven component colours (VIBGYOR) by a prism. Different colours bend through different angles when they pass through the prism, so they separate.",
+          "marking": [
+            "Definition: 1",
+            "Different colours bend by different amounts: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A student can see distant objects clearly but cannot read a book held at a normal distance.",
+          "subparts": [
+            {
+              "q": "Name this defect of vision.",
+              "marks": 1,
+              "answer": "Hypermetropia (far-sightedness)."
+            },
+            {
+              "q": "Give two possible causes.",
+              "marks": 1,
+              "answer": "The focal length of the eye lens is too long, or the eyeball has become too small."
+            },
+            {
+              "q": "Name the lens used to correct it, and say how it helps.",
+              "marks": 1,
+              "answer": "A convex lens of suitable power. It provides extra focusing power so that the image is formed on the retina."
+            }
+          ]
+        },
+        {
+          "q": "A person needs a lens of power −5.5 D to correct distant vision and a lens of power +1.5 D to correct near vision.",
+          "subparts": [
+            {
+              "q": "Find the focal length of the lens for distant vision.",
+              "marks": 1,
+              "answer": "f = 1/P = 1/(−5.5) m ≈ −0.18 m = −18.2 cm (concave lens)"
+            },
+            {
+              "q": "Find the focal length of the lens for near vision.",
+              "marks": 1,
+              "answer": "f = 1/P = 1/1.5 m ≈ +0.67 m = +66.7 cm (convex lens)"
+            },
+            {
+              "q": "What kind of spectacle lens would suit this person?",
+              "marks": 1,
+              "answer": "A bifocal lens: the upper part concave (for distant vision) and the lower part convex (for near vision)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A rainbow is a natural spectrum that appears in the sky after a rain shower. It is caused by the dispersion of sunlight by tiny water droplets in the atmosphere. A rainbow always forms in the direction opposite to the Sun. The droplets act like small prisms: they refract and disperse the sunlight, reflect it internally, and refract it again as it comes out of the droplet.",
+          "subparts": [
+            {
+              "q": "In which direction must you face to see a rainbow?",
+              "marks": 1,
+              "answer": "Away from the Sun (with the Sun behind you)."
+            },
+            {
+              "q": "What acts as a prism in the formation of a rainbow?",
+              "marks": 1,
+              "answer": "Tiny water droplets in the atmosphere."
+            },
+            {
+              "q": "Name, in order, the three phenomena of light that occur inside a raindrop.",
+              "marks": 2,
+              "answer": "Refraction with dispersion, then internal reflection, then refraction again.",
+              "marking": [
+                "All three in order: 2 (two correct: 1)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch04-test-gseb-carbon-compounds",
+  "title": "Ch 4 Test (GSEB pattern): Carbon and its Compounds",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Ethane, with the molecular formula C_{2}H_{6}, has:",
+          "marks": 1,
+          "options": [
+            "6 covalent bonds",
+            "7 covalent bonds",
+            "8 covalent bonds",
+            "9 covalent bonds"
+          ],
+          "answer": "(b) 7 covalent bonds: one C–C bond and six C–H bonds."
+        },
+        {
+          "q": "The next homologue of methane (CH_{4}) is:",
+          "marks": 1,
+          "options": [
+            "C_{2}H_{6}",
+            "C_{2}H_{4}",
+            "C_{3}H_{8}",
+            "CH_{3}OH"
+          ],
+          "answer": "(a) C_{2}H_{6} (ethane)"
+        },
+        {
+          "q": "Butanone is a four-carbon compound with the functional group:",
+          "marks": 1,
+          "options": [
+            "carboxylic acid",
+            "aldehyde",
+            "ketone",
+            "alcohol"
+          ],
+          "answer": "(c) ketone"
+        },
+        {
+          "q": "The functional group present in propanal is:",
+          "marks": 1,
+          "options": [
+            "alcohol",
+            "ketone",
+            "carboxylic acid",
+            "aldehyde"
+          ],
+          "answer": "(d) aldehyde (–CHO)"
+        },
+        {
+          "q": "The next higher homologue of ethanol (C_{2}H_{5}OH) is:",
+          "marks": 1,
+          "options": [
+            "CH_{3}OH",
+            "C_{3}H_{7}OH",
+            "C_{2}H_{5}COOH",
+            "C_{3}H_{8}"
+          ],
+          "answer": "(b) C_{3}H_{7}OH (propanol). Consecutive members differ by –CH_{2}–."
+        },
+        {
+          "q": "The two carbon atoms in ethene are joined by:",
+          "marks": 1,
+          "options": [
+            "a single bond",
+            "a triple bond",
+            "a double bond",
+            "an ionic bond"
+          ],
+          "answer": "(c) a double bond"
+        },
+        {
+          "q": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that:",
+          "marks": 1,
+          "options": [
+            "the fuel is not burning completely",
+            "the food is not cooked completely",
+            "the fuel is wet",
+            "the fuel is burning completely"
+          ],
+          "answer": "(a) the fuel is not burning completely (the soot is unburnt carbon)."
+        },
+        {
+          "q": "Soaps are:",
+          "marks": 1,
+          "options": [
+            "esters of ethanol",
+            "ammonium salts of short-chain acids",
+            "alcohols",
+            "sodium or potassium salts of long-chain carboxylic acids"
+          ],
+          "answer": "(d) sodium or potassium salts of long-chain carboxylic acids"
+        },
+        {
+          "q": "Which of the following is an unsaturated hydrocarbon?",
+          "marks": 1,
+          "options": [
+            "C_{3}H_{8}",
+            "C_{2}H_{4}",
+            "CH_{4}",
+            "C_{2}H_{6}"
+          ],
+          "answer": "(b) C_{2}H_{4} (ethene). It has a carbon–carbon double bond."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is a homologous series? Write the formulae of the first two members of the alkyne series.",
+          "marks": 2,
+          "answer": "A series of compounds in which the same functional group replaces hydrogen in a carbon chain, and consecutive members differ by a –CH_{2}– unit (14 u). Alkynes: ethyne C_{2}H_{2} and propyne C_{3}H_{4}.",
+          "marking": [
+            "Definition: 1",
+            "Two formulae: ½ + ½"
+          ]
+        },
+        {
+          "q": "Why do covalent compounds generally have low melting and boiling points? Why are they poor conductors of electricity?",
+          "marks": 2,
+          "answer": "The forces between their molecules (intermolecular forces) are weak, so little energy is needed to separate them. They are poor conductors because the bonds are formed by sharing electrons, so no ions are formed.",
+          "marking": [
+            "Weak intermolecular forces: 1",
+            "No ions: 1"
+          ]
+        },
+        {
+          "q": "What is saponification? Write the balanced equation for the reaction of ethyl ethanoate with sodium hydroxide.",
+          "marks": 2,
+          "answer": "The reaction of an ester with an alkali (sodium hydroxide) that gives back the alcohol and the sodium salt of the carboxylic acid. It is used to make soap. CH_{3}COOC_{2}H_{5} + NaOH → C_{2}H_{5}OH + CH_{3}COONa",
+          "marking": [
+            "Definition: 1",
+            "Balanced equation: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about ethanol:",
+          "subparts": [
+            {
+              "q": "Write the balanced equation for the reaction of ethanol with sodium.",
+              "marks": 1,
+              "answer": "2C_{2}H_{5}OH + 2Na → 2C_{2}H_{5}ONa + H_{2}. Hydrogen gas is given off and sodium ethoxide is formed."
+            },
+            {
+              "q": "What is formed when ethanol is heated with excess concentrated sulphuric acid at 443 K? Write the equation.",
+              "marks": 1,
+              "answer": "Ethene is formed (dehydration): C_{2}H_{5}OH → C_{2}H_{4} + H_{2}O"
+            },
+            {
+              "q": "Name the product formed when ethanol is oxidised with alkaline potassium permanganate.",
+              "marks": 1,
+              "answer": "Ethanoic acid (CH_{3}COOH)"
+            }
+          ]
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Write the general formula of alkenes.",
+              "marks": 1,
+              "answer": "C_{n}H_{2n}"
+            },
+            {
+              "q": "Write the name and formula of the third member of the alkane series.",
+              "marks": 1,
+              "answer": "Propane, C_{3}H_{8}"
+            },
+            {
+              "q": "By how much do the molecular masses of two successive members of a homologous series differ?",
+              "marks": 1,
+              "answer": "14 u (one –CH_{2}– unit)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Carbon compounds burn in oxygen to give carbon dioxide and water, along with heat and light. Saturated hydrocarbons generally burn with a clean blue flame, while unsaturated hydrocarbons give a yellow flame with lots of black smoke. In a gas stove, the air holes let in enough oxygen for complete combustion. If the air holes get blocked, the flame becomes yellow and sooty.",
+          "subparts": [
+            {
+              "q": "Write the balanced equation for the complete combustion of methane.",
+              "marks": 1,
+              "answer": "CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O + heat and light"
+            },
+            {
+              "q": "Which type of hydrocarbon burns with a sooty yellow flame?",
+              "marks": 1,
+              "answer": "Unsaturated hydrocarbons."
+            },
+            {
+              "q": "Why does the flame become sooty when the air holes are blocked, and why is this a problem?",
+              "marks": 2,
+              "answer": "There is not enough oxygen, so combustion is incomplete and unburnt carbon (soot) is formed. This wastes fuel, blackens vessels, and incomplete combustion can also produce poisonous carbon monoxide.",
+              "marking": [
+                "Incomplete combustion due to less oxygen: 1",
+                "One problem: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch06-test-gseb-control-coordination",
+  "title": "Ch 6 Test (GSEB pattern): Control and Coordination",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following is a plant hormone?",
+          "marks": 1,
+          "options": [
+            "Insulin",
+            "Cytokinin",
+            "Thyroxin",
+            "Oestrogen"
+          ],
+          "answer": "(b) Cytokinin"
+        },
+        {
+          "q": "Which part of the brain controls voluntary actions?",
+          "marks": 1,
+          "options": [
+            "Cerebrum (forebrain)",
+            "Medulla",
+            "Spinal cord",
+            "Pons"
+          ],
+          "answer": "(a) Cerebrum (forebrain)"
+        },
+        {
+          "q": "The gap between two neurons is called a:",
+          "marks": 1,
+          "options": [
+            "dendrite",
+            "axon",
+            "synapse",
+            "impulse"
+          ],
+          "answer": "(c) synapse"
+        },
+        {
+          "q": "Which of these is an example of chemotropism?",
+          "marks": 1,
+          "options": [
+            "A pollen tube growing towards the ovule",
+            "A shoot bending towards light",
+            "Roots growing downwards",
+            "Leaves of touch-me-not folding"
+          ],
+          "answer": "(a) A pollen tube growing towards the ovule"
+        },
+        {
+          "q": "The brain is responsible for:",
+          "marks": 1,
+          "options": [
+            "thinking",
+            "regulating the heartbeat",
+            "balancing the body",
+            "all of the above"
+          ],
+          "answer": "(d) all of the above"
+        },
+        {
+          "q": "Growth hormone is secreted by the:",
+          "marks": 1,
+          "options": [
+            "thyroid gland",
+            "adrenal gland",
+            "pituitary gland",
+            "pancreas"
+          ],
+          "answer": "(c) pituitary gland"
+        },
+        {
+          "q": "Which hormone regulates the blood sugar level?",
+          "marks": 1,
+          "options": [
+            "Adrenaline",
+            "Insulin",
+            "Thyroxin",
+            "Growth hormone"
+          ],
+          "answer": "(b) Insulin (secreted by the pancreas)"
+        },
+        {
+          "q": "Reflex arcs are formed in the:",
+          "marks": 1,
+          "options": [
+            "brain",
+            "heart",
+            "muscles",
+            "spinal cord"
+          ],
+          "answer": "(d) spinal cord"
+        },
+        {
+          "q": "The bending of a plant shoot towards light is called:",
+          "marks": 1,
+          "options": [
+            "geotropism",
+            "phototropism",
+            "hydrotropism",
+            "chemotropism"
+          ],
+          "answer": "(b) phototropism"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is a reflex action? Give two examples.",
+          "marks": 2,
+          "answer": "A sudden, automatic response to a stimulus that happens without conscious thinking. Examples (any two): pulling the hand away from a hot object, blinking when a bright light falls on the eyes, sneezing, knee-jerk.",
+          "marking": [
+            "Definition: 1",
+            "Two examples: ½ + ½"
+          ]
+        },
+        {
+          "q": "What is the function of receptors in our body? What could happen if they do not work properly?",
+          "marks": 2,
+          "answer": "Receptors detect information from the environment, such as light, sound, smell, taste, touch and heat, and pass it on to the nervous system. If they don't work properly, the information is not detected, so the body cannot respond correctly. For example, we might not pull our hand away from a hot object and could get hurt.",
+          "marking": [
+            "Function: 1",
+            "Consequence with example: 1"
+          ]
+        },
+        {
+          "q": "Why is adrenaline called the 'emergency hormone'? Give two of its effects on the body.",
+          "marks": 2,
+          "answer": "It is secreted by the adrenal glands directly into the blood when we are scared or in danger, and it prepares the body to respond. Effects (any two): the heart beats faster, sending more oxygen to the muscles; blood supply to the digestive system and skin is reduced; the breathing rate increases.",
+          "marking": [
+            "Secreted in emergency situations: 1",
+            "Two effects: ½ + ½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about a neuron:",
+          "subparts": [
+            {
+              "q": "In which part of a neuron is information first acquired?",
+              "marks": 1,
+              "answer": "At the dendritic tip (dendrites)."
+            },
+            {
+              "q": "Through which part does the information travel as an electrical impulse?",
+              "marks": 1,
+              "answer": "From the dendrite to the cell body, and then along the axon to its end."
+            },
+            {
+              "q": "How is the impulse passed on to the next neuron?",
+              "marks": 1,
+              "answer": "At the end of the axon, the electrical impulse sets off the release of chemicals. These cross the gap (synapse) and start a similar electrical impulse in the dendrite of the next neuron."
+            }
+          ]
+        },
+        {
+          "q": "Name the gland:",
+          "subparts": [
+            {
+              "q": "found on top of each kidney.",
+              "marks": 1,
+              "answer": "Adrenal gland"
+            },
+            {
+              "q": "in the neck, which needs iodine to make its hormone.",
+              "marks": 1,
+              "answer": "Thyroid gland"
+            },
+            {
+              "q": "that produces digestive enzymes as well as a hormone.",
+              "marks": 1,
+              "answer": "Pancreas (enzymes in pancreatic juice; the hormone insulin)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A student placed a potted plant near a window for a week. The shoot bent towards the window, while the roots grew downwards. The student read that a hormone made at the shoot tip diffuses towards the shaded side of the shoot. This makes the cells on that side grow longer, so the shoot bends towards light.",
+          "subparts": [
+            {
+              "q": "Name the response of the shoot towards light.",
+              "marks": 1,
+              "answer": "Phototropism (positive)."
+            },
+            {
+              "q": "Name the hormone involved, and say where it is made.",
+              "marks": 1,
+              "answer": "Auxin, made at the shoot tip."
+            },
+            {
+              "q": "Explain why the shoot bends towards light. Name the response of the roots to gravity.",
+              "marks": 2,
+              "answer": "Auxin diffuses to the shaded side, where the cells grow longer than on the lit side, so the shoot bends towards light. Roots show positive geotropism (they grow downwards).",
+              "marking": [
+                "Shaded side cells elongate more: 1",
+                "Positive geotropism: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

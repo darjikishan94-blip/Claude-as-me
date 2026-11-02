@@ -11,6 +11,7 @@ Output a **print-ready paper plus a separate answer key** (DOCX + PDF), built wi
 `library/README.md` lists ready-made, checked material. For Class 10 Science there is a 25-mark test for every chapter, two full mocks (CBSE and GSEB pattern), revision notes and a 90-day plan.
 - If the request matches something there, send that PDF and its answer key straight away. For an editable copy, send the DOCX.
 - If Kishan wants a different version ("Set B", another mark total, a mix of chapters), copy the closest spec from `library/.../*.json` to `private/papers/`, change the questions, and build it. Don't start from zero.
+- **GSEB batch?** Every Class 10 chapter also has a GSEB-pattern test (`chNNg-*.json`, 9×1 objective, 3×2, 2×3, 1×4), rebuilt from the checked Set A + Set B questions by `python3 tools/remix_gseb.py`.
 - Something new and reusable (no student data) can go into `library/<area>/<kind>/`. Run `python3 tools/build_library.py` to build it and refresh the index.
 
 ## 1. Pin down the brief

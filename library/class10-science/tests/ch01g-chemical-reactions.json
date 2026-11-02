@@ -1,0 +1,232 @@
+{
+  "type": "test",
+  "file_name": "c10-ch01-test-gseb-chemical-reactions",
+  "title": "Ch 1 Test (GSEB pattern): Chemical Reactions and Equations",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following is a correctly balanced chemical equation?",
+          "marks": 1,
+          "options": [
+            "Fe + H_{2}O → Fe_{3}O_{4} + H_{2}",
+            "3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}",
+            "3Fe + 2H_{2}O → Fe_{3}O_{4} + 2H_{2}",
+            "Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}"
+          ],
+          "answer": "(b) 3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}. Both sides have 3 Fe, 8 H and 4 O.",
+          "unbalanced": true
+        },
+        {
+          "q": "Which of the following is NOT a chemical change?",
+          "marks": 1,
+          "options": [
+            "Melting of ice",
+            "Rusting of iron",
+            "Digestion of food",
+            "Burning of paper"
+          ],
+          "answer": "(a) Melting of ice (only the state changes; no new substance is formed)"
+        },
+        {
+          "q": "When dilute hydrochloric acid is added to zinc granules, the gas evolved is:",
+          "marks": 1,
+          "options": [
+            "oxygen",
+            "chlorine",
+            "carbon dioxide",
+            "hydrogen"
+          ],
+          "answer": "(d) hydrogen. Zn + 2HCl → ZnCl_{2} + H_{2}"
+        },
+        {
+          "q": "In the reaction 2H_{2}S + SO_{2} → 3S + 2H_{2}O, the substance that is oxidised is:",
+          "marks": 1,
+          "options": [
+            "SO_{2}",
+            "S",
+            "H_{2}S",
+            "H_{2}O"
+          ],
+          "answer": "(c) H_{2}S. It loses hydrogen."
+        },
+        {
+          "q": "2AgCl(s) → 2Ag(s) + Cl_{2}(g) takes place in sunlight. This is an example of:",
+          "marks": 1,
+          "options": [
+            "photolytic decomposition",
+            "combination reaction",
+            "thermal decomposition",
+            "displacement reaction"
+          ],
+          "answer": "(a) photolytic decomposition (decomposition by light)"
+        },
+        {
+          "q": "Which of these is an endothermic process?",
+          "marks": 1,
+          "options": [
+            "Burning of natural gas",
+            "Respiration",
+            "Decomposition of calcium carbonate",
+            "Reaction of quicklime with water"
+          ],
+          "answer": "(c) Decomposition of calcium carbonate (it needs heat)"
+        },
+        {
+          "q": "In the reaction CuO + H_{2} → Cu + H_{2}O, the substance that gets oxidised is:",
+          "marks": 1,
+          "options": [
+            "CuO",
+            "H_{2}",
+            "Cu",
+            "H_{2}O"
+          ],
+          "answer": "(b) H_{2}. It gains oxygen to form H_{2}O."
+        },
+        {
+          "q": "When lead nitrate is heated strongly, the products are:",
+          "marks": 1,
+          "options": [
+            "lead and nitrogen",
+            "lead oxide and nitrogen",
+            "lead nitrite and oxygen",
+            "lead oxide, nitrogen dioxide and oxygen"
+          ],
+          "answer": "(d) lead oxide, nitrogen dioxide and oxygen. 2Pb(NO_{3})_{2} → 2PbO + 4NO_{2} + O_{2}"
+        },
+        {
+          "q": "Which of the following is an exothermic process?",
+          "marks": 1,
+          "options": [
+            "Electrolysis of water",
+            "Respiration",
+            "Decomposition of calcium carbonate",
+            "Photosynthesis"
+          ],
+          "answer": "(b) Respiration. Glucose is oxidised and energy is released."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why should a magnesium ribbon be cleaned with sandpaper before burning it in air? Write the balanced equation for its burning.",
+          "marks": 2,
+          "answer": "The ribbon has a layer of magnesium oxide (formed by reaction with air) on its surface, which stops it from burning easily. Sandpaper removes this layer. 2Mg(s) + O_{2}(g) → 2MgO(s)",
+          "marking": [
+            "Reason (oxide layer removed): 1",
+            "Balanced equation: 1"
+          ]
+        },
+        {
+          "q": "What is an oxidation reaction? Identify the substance oxidised in: 4Na + O_{2} → 2Na_{2}O.",
+          "marks": 2,
+          "answer": "A reaction in which a substance gains oxygen (or loses hydrogen). In 4Na + O_{2} → 2Na_{2}O, sodium is oxidised, because it gains oxygen.",
+          "marking": [
+            "Definition: 1",
+            "Sodium oxidised, with reason: 1"
+          ]
+        },
+        {
+          "q": "What is a precipitation reaction? Give one example with a balanced chemical equation.",
+          "marks": 2,
+          "answer": "A reaction in which an insoluble solid (precipitate) is formed. Na_{2}SO_{4}(aq) + BaCl_{2}(aq) → BaSO_{4}(s) + 2NaCl(aq), which gives a white precipitate of BaSO_{4}.",
+          "marking": [
+            "Definition: 1",
+            "Correct balanced example: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A solution of a substance 'X' is used for whitewashing walls.",
+          "subparts": [
+            {
+              "q": "Name 'X' and write its chemical formula.",
+              "marks": 1,
+              "answer": "Calcium oxide (quicklime), CaO"
+            },
+            {
+              "q": "Write the balanced equation for the reaction of X with water.",
+              "marks": 1,
+              "answer": "CaO(s) + H_{2}O(l) → Ca(OH)_{2}(aq) + heat"
+            },
+            {
+              "q": "Why does the wall get a shiny finish two to three days after whitewashing?",
+              "marks": 1,
+              "answer": "Ca(OH)_{2} reacts slowly with CO_{2} in air to form a thin, shiny layer of calcium carbonate: Ca(OH)_{2} + CO_{2} → CaCO_{3} + H_{2}O"
+            }
+          ]
+        },
+        {
+          "q": "A shiny brown element X becomes black when heated in air.",
+          "subparts": [
+            {
+              "q": "Identify X and the black substance.",
+              "marks": 1,
+              "answer": "X is copper (Cu). The black substance is copper(II) oxide (CuO)."
+            },
+            {
+              "q": "Write the balanced equation.",
+              "marks": 1,
+              "answer": "2Cu + O_{2} → 2CuO"
+            },
+            {
+              "q": "Name the type of reaction.",
+              "marks": 1,
+              "answer": "Combination reaction (also an oxidation of copper)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "In a class activity, students heated lead nitrate powder in a boiling tube. Brown fumes were given off and a yellowish residue was left behind. In another observation, a copper vessel kept in the open for a few months developed a green coating on its surface.",
+          "subparts": [
+            {
+              "q": "Name the brown gas given off when lead nitrate is heated.",
+              "marks": 1,
+              "answer": "Nitrogen dioxide (NO_{2}). 2Pb(NO_{3})_{2} → 2PbO + 4NO_{2} + O_{2}"
+            },
+            {
+              "q": "What type of reaction is the heating of lead nitrate?",
+              "marks": 1,
+              "answer": "Thermal decomposition reaction"
+            },
+            {
+              "q": "What is the green coating on the copper vessel, and why does it form?",
+              "marks": 2,
+              "answer": "Basic copper carbonate. Copper reacts slowly with moist carbon dioxide (and oxygen) in the air. This is corrosion of copper.",
+              "marking": [
+                "Names basic copper carbonate: 1",
+                "Reason (reaction with moist CO_{2}/air, corrosion): 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

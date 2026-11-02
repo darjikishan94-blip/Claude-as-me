@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch02-test-gseb-acids-bases-salts",
+  "title": "Ch 2 Test (GSEB pattern): Acids, Bases and Salts",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "A solution turns red litmus blue. Its pH is most likely to be:",
+          "marks": 1,
+          "options": [
+            "1",
+            "4",
+            "5",
+            "10"
+          ],
+          "answer": "(d) 10. A solution that turns red litmus blue is basic, so its pH is more than 7."
+        },
+        {
+          "q": "Which of the following gives carbon dioxide with dilute hydrochloric acid?",
+          "marks": 1,
+          "options": [
+            "Sodium hydrogencarbonate",
+            "Zinc",
+            "Sodium hydroxide",
+            "Sodium chloride"
+          ],
+          "answer": "(a) Sodium hydrogencarbonate. NaHCO_{3} + HCl → NaCl + H_{2}O + CO_{2}"
+        },
+        {
+          "q": "Which gas is given off when dilute hydrochloric acid is added to sodium carbonate?",
+          "marks": 1,
+          "options": [
+            "Hydrogen",
+            "Carbon dioxide",
+            "Chlorine",
+            "Oxygen"
+          ],
+          "answer": "(b) Carbon dioxide. Na_{2}CO_{3} + 2HCl → 2NaCl + H_{2}O + CO_{2}"
+        },
+        {
+          "q": "Which of these has the highest pH?",
+          "marks": 1,
+          "options": [
+            "Lemon juice",
+            "Pure water",
+            "Milk of magnesia",
+            "Vinegar"
+          ],
+          "answer": "(c) Milk of magnesia (it is basic)"
+        },
+        {
+          "q": "The chemical formula of bleaching powder is:",
+          "marks": 1,
+          "options": [
+            "CaCO_{3}",
+            "Ca(OH)_{2}",
+            "CaOCl_{2}",
+            "CaSO_{4}"
+          ],
+          "answer": "(c) CaOCl_{2}"
+        },
+        {
+          "q": "Which indicator turns pink in a basic solution?",
+          "marks": 1,
+          "options": [
+            "Methyl orange",
+            "Blue litmus",
+            "Turmeric",
+            "Phenolphthalein"
+          ],
+          "answer": "(d) Phenolphthalein"
+        },
+        {
+          "q": "Which of the following is used as an antacid?",
+          "marks": 1,
+          "options": [
+            "Sodium chloride",
+            "Milk of magnesia",
+            "Vinegar",
+            "Lemon juice"
+          ],
+          "answer": "(b) Milk of magnesia, Mg(OH)_{2}, a mild base that neutralises excess stomach acid."
+        },
+        {
+          "q": "The chemical formula of Plaster of Paris is:",
+          "marks": 1,
+          "options": [
+            "CaSO_{4}·½H_{2}O",
+            "CaSO_{4}·2H_{2}O",
+            "CaSO_{4}",
+            "CaCO_{3}"
+          ],
+          "answer": "(a) CaSO_{4}·½H_{2}O"
+        },
+        {
+          "q": "Plaster of Paris is obtained by heating:",
+          "marks": 1,
+          "options": [
+            "limestone",
+            "baking soda",
+            "gypsum",
+            "washing soda"
+          ],
+          "answer": "(c) gypsum (CaSO_{4}·2H_{2}O), heated at 373 K, which gives CaSO_{4}·½H_{2}O."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why does dry HCl gas not change the colour of dry blue litmus paper?",
+          "marks": 2,
+          "answer": "Acids show acidic behaviour only in the presence of water, because H^{+} ions (H_{3}O^{+}) are produced only in solution. Dry HCl gas does not dissociate into H^{+} ions, so it does not affect dry litmus.",
+          "marking": [
+            "Acids need water to produce H^{+} ions: 1",
+            "Dry HCl does not form H^{+} ions: 1"
+          ]
+        },
+        {
+          "q": "What is a universal indicator? Why is it more useful than litmus?",
+          "marks": 2,
+          "answer": "A universal indicator is a mixture of several indicators that shows different colours at different pH values (different concentrations of H^{+} ions). Litmus only tells whether a solution is acidic or basic. A universal indicator also tells how strong the acid or base is (its pH).",
+          "marking": [
+            "Definition: 1",
+            "Shows strength / pH: 1"
+          ]
+        },
+        {
+          "q": "Write the chemical name and formula of baking soda. Write the equation for the reaction that takes place when it is heated.",
+          "marks": 2,
+          "answer": "Sodium hydrogencarbonate, NaHCO_{3}. On heating: 2NaHCO_{3} → Na_{2}CO_{3} + H_{2}O + CO_{2}",
+          "marking": [
+            "Name and formula: 1",
+            "Balanced equation: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A student tests three solutions P, Q and R with universal indicator and finds their pH to be 2, 7 and 12 respectively.",
+          "subparts": [
+            {
+              "q": "Which solution is neutral?",
+              "marks": 1,
+              "answer": "Q (pH 7)"
+            },
+            {
+              "q": "Which solution has the highest concentration of H^{+} ions?",
+              "marks": 1,
+              "answer": "P. The lower the pH, the higher the H^{+} ion concentration."
+            },
+            {
+              "q": "Which solution will turn phenolphthalein pink?",
+              "marks": 1,
+              "answer": "R (pH 12), because it is basic."
+            }
+          ]
+        },
+        {
+          "q": "A solution has a pH of 3.",
+          "subparts": [
+            {
+              "q": "Is the solution acidic, basic or neutral?",
+              "marks": 1,
+              "answer": "Acidic"
+            },
+            {
+              "q": "What happens to its pH when it is diluted with water?",
+              "marks": 1,
+              "answer": "The pH increases towards 7, because the H^{+} ion concentration decreases."
+            },
+            {
+              "q": "What happens to the pH if a base is added slowly until the solution is neutralised?",
+              "marks": 1,
+              "answer": "The pH rises until it reaches 7 (neutral)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Tooth enamel, made of calcium hydroxyapatite (a form of calcium phosphate), is the hardest substance in the body. It does not dissolve in water, but it is corroded when the pH in the mouth falls below 5.5. Bacteria in the mouth produce acids by breaking down sugar and food particles that remain after eating. Toothpastes, which are generally basic, are used to clean the teeth.",
+          "subparts": [
+            {
+              "q": "Below what pH does tooth decay start?",
+              "marks": 1,
+              "answer": "5.5"
+            },
+            {
+              "q": "Why are toothpastes generally basic?",
+              "marks": 1,
+              "answer": "To neutralise the excess acid in the mouth and prevent tooth decay."
+            },
+            {
+              "q": "What produces the acid in the mouth? Suggest two ways to prevent tooth decay.",
+              "marks": 2,
+              "answer": "Bacteria break down sugar and food particles left in the mouth and produce acids. Prevention (any two): brush after eating, rinse the mouth after meals, avoid sticky sweets, cut down on sugary snacks.",
+              "marking": [
+                "Source of acid: 1",
+                "Two ways: ½ + ½"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

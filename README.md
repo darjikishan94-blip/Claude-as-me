@@ -20,6 +20,7 @@ You don't need to name the skill. Just ask normally.
 **[library/README.md](library/README.md)** has everything ready to print, all automatically checked (marks add up, equations balanced, answer keys valid):
 - **Class 10 Science:** a 25-mark test + answer key for all 13 chapters, and a one-page revision sheet for each
 - **Set B re-tests** for every chapter, so each chapter has two different 25-mark tests
+- **GSEB-pattern chapter tests** for all 13 chapters (9 objective + 3×2 + 2×3 + 1×4), built from the checked questions
 - **Most-expected question banks** for Chemistry, Physics and Biology (1/2/3/5-mark, with answers)
 - **Final-revision sheets:** all-chapter equation sheet (75 checked equations), physics formula sheet, diagram checklist
 - **Four full 80-mark mock papers**: Mock 1 and Mock 2 in both CBSE and GSEB patterns, with marking schemes

@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch08-test-gseb-heredity",
+  "title": "Ch 8 Test (GSEB pattern): Heredity",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Heredity",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Tall pea plants with violet flowers were crossed with short pea plants with white flowers. All the progeny had violet flowers, but almost half of them were short. The genetic make-up of the tall parent is:",
+          "marks": 1,
+          "options": [
+            "TTWW",
+            "TtWW",
+            "TTww",
+            "TtWw"
+          ],
+          "answer": "(b) TtWW. Half the progeny are short, so the parent is Tt. All are violet, so the parent is WW."
+        },
+        {
+          "q": "Plants with round seeds (RR) are crossed with plants with wrinkled seeds (rr). The F_{1} seeds are:",
+          "marks": 1,
+          "options": [
+            "all round",
+            "all wrinkled",
+            "half round and half wrinkled",
+            "3 round : 1 wrinkled"
+          ],
+          "answer": "(a) all round (Rr)"
+        },
+        {
+          "q": "In human beings, the sex of the child is decided by:",
+          "marks": 1,
+          "options": [
+            "the mother",
+            "the father",
+            "both parents equally",
+            "the environment"
+          ],
+          "answer": "(b) the father. The sperm carries either an X or a Y chromosome."
+        },
+        {
+          "q": "How many pairs of chromosomes are there in human body cells?",
+          "marks": 1,
+          "options": [
+            "21",
+            "22",
+            "23",
+            "46"
+          ],
+          "answer": "(c) 23 pairs (46 chromosomes)"
+        },
+        {
+          "q": "In Mendel's monohybrid cross, the phenotypic ratio in the F_{2} generation is:",
+          "marks": 1,
+          "options": [
+            "1 : 2 : 1",
+            "9 : 3 : 3 : 1",
+            "1 : 1",
+            "3 : 1"
+          ],
+          "answer": "(d) 3 : 1"
+        },
+        {
+          "q": "A child has the sex chromosomes XX. The child is:",
+          "marks": 1,
+          "options": [
+            "a boy",
+            "impossible to predict",
+            "either a boy or a girl",
+            "a girl"
+          ],
+          "answer": "(d) a girl"
+        },
+        {
+          "q": "Genes are located on the:",
+          "marks": 1,
+          "options": [
+            "ribosomes",
+            "cell membrane",
+            "chromosomes",
+            "cytoplasm"
+          ],
+          "answer": "(c) chromosomes (as segments of DNA)"
+        },
+        {
+          "q": "In the F_{2} generation of Mendel's dihybrid cross, what fraction of plants show both recessive traits (wrinkled and green)?",
+          "marks": 1,
+          "options": [
+            "1/16",
+            "3/16",
+            "1/4",
+            "9/16"
+          ],
+          "answer": "(a) 1/16"
+        },
+        {
+          "q": "When a pure tall (TT) pea plant is crossed with a pure short (tt) plant, the F_{1} plants are:",
+          "marks": 1,
+          "options": [
+            "all tall",
+            "all short",
+            "half tall and half short",
+            "3 tall : 1 short"
+          ],
+          "answer": "(a) all tall (Tt)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What are dominant and recessive traits? Give one example of each from Mendel's experiments.",
+          "marks": 2,
+          "answer": "A dominant trait is expressed even when only one copy of its gene is present (e.g. tallness, T). A recessive trait is expressed only when both copies are of the recessive type (e.g. shortness, tt).",
+          "marking": [
+            "Dominant with example: 1",
+            "Recessive with example: 1"
+          ]
+        },
+        {
+          "q": "Why were all the F_{1} plants tall, with no medium-height plants, when Mendel crossed pure tall and pure short pea plants?",
+          "marks": 2,
+          "answer": "Tallness (T) is dominant over shortness (t). The F_{1} plants are Tt, and a single copy of T is enough to make the plant tall. Traits do not blend, so no medium-height plants appear.",
+          "marking": [
+            "Tall is dominant, F_{1} is Tt: 1",
+            "No blending of traits: 1"
+          ]
+        },
+        {
+          "q": "How is the sex of a child determined in human beings?",
+          "marks": 2,
+          "answer": "The mother has two X chromosomes, so every egg carries an X. The father has one X and one Y, so half the sperm carry X and half carry Y. If an X-carrying sperm fertilises the egg, the child is a girl (XX). If a Y-carrying sperm fertilises it, the child is a boy (XY).",
+          "marking": [
+            "Mother XX gives X; father XY gives X or Y: 1",
+            "XX → girl, XY → boy: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Mendel crossed pea plants with round, yellow seeds (RRYY) with plants having wrinkled, green seeds (rryy).",
+          "subparts": [
+            {
+              "q": "What were the F_{1} seeds like?",
+              "marks": 1,
+              "answer": "All round and yellow (RrYy)."
+            },
+            {
+              "q": "Write the F_{2} phenotypic ratio.",
+              "marks": 1,
+              "answer": "9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green"
+            },
+            {
+              "q": "What does this cross show about the inheritance of the two traits?",
+              "marks": 1,
+              "answer": "The two traits (seed shape and seed colour) are inherited independently of each other."
+            }
+          ]
+        },
+        {
+          "q": "A pea plant with violet flowers (Vv) is crossed with a plant with white flowers (vv).",
+          "subparts": [
+            {
+              "q": "Write the gametes produced by each parent.",
+              "marks": 1,
+              "answer": "Vv parent: V and v. vv parent: v only."
+            },
+            {
+              "q": "Write the genotypes of the offspring and their ratio.",
+              "marks": 1,
+              "answer": "Vv and vv in the ratio 1 : 1."
+            },
+            {
+              "q": "Write the phenotypic ratio.",
+              "marks": 1,
+              "answer": "1 violet : 1 white"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A student crossed pea plants with violet flowers (VV) with plants having white flowers (vv). All F_{1} plants had violet flowers. When the F_{1} plants were self-pollinated, out of 400 F_{2} plants, about 300 had violet flowers and 100 had white flowers.",
+          "subparts": [
+            {
+              "q": "Which flower colour is dominant?",
+              "marks": 1,
+              "answer": "Violet"
+            },
+            {
+              "q": "Write the genotype of the F_{1} plants.",
+              "marks": 1,
+              "answer": "Vv"
+            },
+            {
+              "q": "Out of the 300 violet-flowered F_{2} plants, how many are expected to be pure-breeding (VV)? Explain.",
+              "marks": 2,
+              "answer": "The F_{2} genotypes are VV : Vv : vv = 1 : 2 : 1, so out of 400 plants we expect 100 VV, 200 Vv and 100 vv. So about 100 of the 300 violet plants are VV.",
+              "marking": [
+                "1 : 2 : 1 ratio: 1",
+                "Answer 100: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

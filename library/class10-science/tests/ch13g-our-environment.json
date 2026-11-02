@@ -1,0 +1,230 @@
+{
+  "type": "test",
+  "file_name": "c10-ch13-test-gseb-our-environment",
+  "title": "Ch 13 Test (GSEB pattern): Our Environment",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which group contains only biodegradable items?",
+          "marks": 1,
+          "options": [
+            "Grass, wood and plastic",
+            "Fruit peels, cake and lime juice",
+            "Glass, paper and leaves",
+            "Polythene, cotton and wool"
+          ],
+          "answer": "(b) Fruit peels, cake and lime juice"
+        },
+        {
+          "q": "Which of the following is an artificial ecosystem?",
+          "marks": 1,
+          "options": [
+            "Crop field",
+            "Forest",
+            "Pond",
+            "Lake"
+          ],
+          "answer": "(a) Crop field"
+        },
+        {
+          "q": "Which of the following forms a food chain?",
+          "marks": 1,
+          "options": [
+            "Grass, wheat and mango",
+            "Goat, cow and elephant",
+            "Grass, goat and human",
+            "Grass, fish and goat"
+          ],
+          "answer": "(c) Grass → goat → human"
+        },
+        {
+          "q": "Organisms that break down the dead remains of plants and animals are called:",
+          "marks": 1,
+          "options": [
+            "producers",
+            "herbivores",
+            "carnivores",
+            "decomposers"
+          ],
+          "answer": "(d) decomposers"
+        },
+        {
+          "q": "Which of the following are environment-friendly practices?",
+          "marks": 1,
+          "options": [
+            "Carrying cloth bags for shopping",
+            "Switching off unnecessary lights and fans",
+            "Walking to school instead of being dropped by scooter",
+            "All of the above"
+          ],
+          "answer": "(d) All of the above"
+        },
+        {
+          "q": "In the food chain grass → deer → tiger, the tiger is a:",
+          "marks": 1,
+          "options": [
+            "secondary consumer",
+            "producer",
+            "primary consumer",
+            "decomposer"
+          ],
+          "answer": "(a) secondary consumer"
+        },
+        {
+          "q": "In a food chain, the energy passed on to the next trophic level is about:",
+          "marks": 1,
+          "options": [
+            "50% of the previous level",
+            "10% of the previous level",
+            "90% of the previous level",
+            "the same as the previous level"
+          ],
+          "answer": "(b) 10% of the previous level (10 per cent law)"
+        },
+        {
+          "q": "Which of these is a good way to manage household waste?",
+          "marks": 1,
+          "options": [
+            "Burning plastic",
+            "Dumping waste in rivers",
+            "Composting kitchen waste",
+            "Mixing all waste together"
+          ],
+          "answer": "(c) Composting kitchen waste"
+        },
+        {
+          "q": "Depletion of the ozone layer is mainly caused by:",
+          "marks": 1,
+          "options": [
+            "carbon dioxide",
+            "oxygen",
+            "nitrogen",
+            "chlorofluorocarbons (CFCs)"
+          ],
+          "answer": "(d) chlorofluorocarbons (CFCs)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What are decomposers? What would happen if there were no decomposers?",
+          "marks": 2,
+          "answer": "Decomposers are micro-organisms, such as bacteria and fungi, that break down the dead remains and waste products of organisms into simpler substances. Without them, dead bodies and wastes would pile up, and nutrients would not be returned to the soil for plants to use.",
+          "marking": [
+            "Definition with examples: 1",
+            "Consequence: 1"
+          ]
+        },
+        {
+          "q": "What will happen if all the organisms in one trophic level are killed?",
+          "marks": 2,
+          "answer": "The food chain will break. Organisms of the next trophic level will lose their food and may starve or die out, while the population of the level below may increase greatly. This upsets the balance of the ecosystem.",
+          "marking": [
+            "Next level loses food: 1",
+            "Previous level increases / imbalance: 1"
+          ]
+        },
+        {
+          "q": "What is biological magnification? Why is it highest in organisms at the top of a food chain?",
+          "marks": 2,
+          "answer": "The progressive build-up of non-biodegradable chemicals, such as pesticides, at each trophic level of a food chain. Organisms at the top eat many organisms from the levels below, and these chemicals are not broken down, so the concentration keeps increasing up the chain.",
+          "marking": [
+            "Definition: 1",
+            "Reason: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Study the food chain: Grass → Grasshopper → Frog → Snake → Eagle",
+          "subparts": [
+            {
+              "q": "Identify the producer and the tertiary consumer.",
+              "marks": 1,
+              "answer": "Producer: grass. Tertiary consumer: snake."
+            },
+            {
+              "q": "If 10,000 J of energy is available at the producer level, how much energy will reach the snake?",
+              "marks": 1,
+              "answer": "10 J (10,000 → 1,000 → 100 → 10 J, by the 10 per cent law)"
+            },
+            {
+              "q": "Which organism will have the highest concentration of a pesticide that enters this food chain? Why?",
+              "marks": 1,
+              "answer": "The eagle. It is at the top of the food chain, and pesticides build up at each level (biological magnification)."
+            }
+          ]
+        },
+        {
+          "q": "Study the pond food chain: phytoplankton → zooplankton → small fish → big fish",
+          "subparts": [
+            {
+              "q": "At which trophic level is the small fish?",
+              "marks": 1,
+              "answer": "Third trophic level (secondary consumer)."
+            },
+            {
+              "q": "If the phytoplankton capture 50,000 J of energy, how much energy is available to the big fish?",
+              "marks": 1,
+              "answer": "50 J (50,000 → 5,000 → 500 → 50 J, by the 10 per cent law)."
+            },
+            {
+              "q": "Why are there far fewer big fish than small fish in the pond?",
+              "marks": 1,
+              "answer": "Much less energy is available at the higher trophic level, so it can support fewer organisms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Some years ago, it was proposed that tea on trains should be served in disposable kulhads (clay cups) instead of plastic cups. It was soon realised that making kulhads on such a large scale would cause the loss of fertile top soil. Now, disposable paper cups are commonly used.",
+          "subparts": [
+            {
+              "q": "Why was it proposed to replace plastic cups?",
+              "marks": 1,
+              "answer": "Plastic is non-biodegradable and pollutes the environment."
+            },
+            {
+              "q": "What was the problem with using kulhads on a large scale?",
+              "marks": 1,
+              "answer": "Loss of fertile top soil."
+            },
+            {
+              "q": "Give one advantage of paper cups over plastic cups and one over kulhads.",
+              "marks": 2,
+              "answer": "Over plastic: paper is biodegradable (and can be recycled). Over kulhads: making paper cups does not use up fertile top soil.",
+              "marking": [
+                "Each advantage: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,229 @@
+{
+  "type": "test",
+  "file_name": "c10-ch09-test-gseb-light",
+  "title": "Ch 9 Test (GSEB pattern): Light – Reflection and Refraction",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following can make a parallel beam of light when light from a point source is incident on it?",
+          "marks": 1,
+          "options": [
+            "Concave mirror and convex lens",
+            "Convex mirror and concave lens",
+            "Two plane mirrors at 90° to each other",
+            "Concave mirror and concave lens"
+          ],
+          "answer": "(a) Concave mirror and convex lens (with the source placed at the focus)."
+        },
+        {
+          "q": "The radius of curvature of a convex mirror is 32 cm. Its focal length is:",
+          "marks": 1,
+          "options": [
+            "−64 cm",
+            "−16 cm",
+            "+16 cm",
+            "+32 cm"
+          ],
+          "answer": "(c) +16 cm. f = R/2, positive for a convex mirror."
+        },
+        {
+          "q": "The image formed by a concave mirror is virtual, erect and larger than the object. Where is the object placed?",
+          "marks": 1,
+          "options": [
+            "Between F and C",
+            "At C",
+            "Beyond C",
+            "Between the pole P and F"
+          ],
+          "answer": "(d) Between the pole P and F"
+        },
+        {
+          "q": "Which of the following is used as a magnifying glass?",
+          "marks": 1,
+          "options": [
+            "Concave lens",
+            "Plane glass sheet",
+            "Prism",
+            "Convex lens"
+          ],
+          "answer": "(d) Convex lens (object placed between F_{1} and O)"
+        },
+        {
+          "q": "The focal length of a lens is +50 cm. Its power is:",
+          "marks": 1,
+          "options": [
+            "−2 D",
+            "+0.5 D",
+            "+2 D",
+            "+50 D"
+          ],
+          "answer": "(c) +2 D. P = 1/f (in metres) = 1/0.5 m = +2 D"
+        },
+        {
+          "q": "Light travels fastest in:",
+          "marks": 1,
+          "options": [
+            "vacuum",
+            "glass",
+            "water",
+            "diamond"
+          ],
+          "answer": "(a) vacuum"
+        },
+        {
+          "q": "The refractive index of glass is 1.5. The speed of light in glass is (speed of light in vacuum = 3 × 10^{8} m/s):",
+          "marks": 1,
+          "options": [
+            "1.5 × 10^{8} m/s",
+            "2 × 10^{8} m/s",
+            "3 × 10^{8} m/s",
+            "4.5 × 10^{8} m/s"
+          ],
+          "answer": "(b) 2 × 10^{8} m/s. v = c/n = 3 × 10^{8}/1.5"
+        },
+        {
+          "q": "The magnification produced by a plane mirror is:",
+          "marks": 1,
+          "options": [
+            "−1",
+            "+1",
+            "zero",
+            "infinity"
+          ],
+          "answer": "(b) +1 (image is the same size and erect)"
+        },
+        {
+          "q": "The mirror used as a rear-view mirror in vehicles is:",
+          "marks": 1,
+          "options": [
+            "convex",
+            "plane",
+            "concave",
+            "any of these"
+          ],
+          "answer": "(a) convex. It gives an erect image and a wider field of view."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Define the principal focus of a concave mirror. The radius of curvature of a spherical mirror is 20 cm. What is its focal length?",
+          "marks": 2,
+          "answer": "Rays parallel to the principal axis, after reflection from a concave mirror, all meet at a point on the principal axis called the principal focus. f = R/2 = 20/2 = 10 cm.",
+          "marking": [
+            "Definition: 1",
+            "f = 10 cm: 1"
+          ]
+        },
+        {
+          "q": "Define the power of a lens and give its SI unit. Find the power of a convex lens of focal length 40 cm.",
+          "marks": 2,
+          "answer": "The power of a lens is the reciprocal of its focal length in metres (P = 1/f). It shows how strongly the lens converges or diverges light. SI unit: dioptre (D). P = 1/0.40 m = +2.5 D.",
+          "marking": [
+            "Definition + unit: 1",
+            "P = +2.5 D: 1"
+          ]
+        },
+        {
+          "q": "A ray of light travelling in air enters water at an angle. Does it bend towards or away from the normal? Why?",
+          "marks": 2,
+          "answer": "It bends towards the normal. Light travels more slowly in water, which is optically denser than air.",
+          "marking": [
+            "Towards the normal: 1",
+            "Reason (slower in denser medium): 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "An object 4 cm high is placed 15 cm in front of a concave mirror of focal length 10 cm.",
+          "subparts": [
+            {
+              "q": "Find the position of the image.",
+              "marks": 2,
+              "answer": "u = −15 cm, f = −10 cm. 1/v = 1/f − 1/u = −1/10 + 1/15 = −1/30, so v = −30 cm. The image is 30 cm in front of the mirror.",
+              "marking": [
+                "Formula and correct signs: 1",
+                "v = −30 cm: 1"
+              ]
+            },
+            {
+              "q": "Find the size and nature of the image.",
+              "marks": 1,
+              "answer": "m = −v/u = −(−30)/(−15) = −2, so h′ = −2 × 4 = −8 cm. The image is real, inverted and magnified (8 cm tall)."
+            }
+          ]
+        },
+        {
+          "q": "An object 5 cm high is placed 20 cm in front of a concave mirror of focal length 10 cm.",
+          "subparts": [
+            {
+              "q": "Find the position of the image.",
+              "marks": 2,
+              "answer": "u = −20 cm, f = −10 cm. 1/v = 1/f − 1/u = −1/10 + 1/20 = −1/20, so v = −20 cm. The image is 20 cm in front of the mirror (at C).",
+              "marking": [
+                "Formula and signs: 1",
+                "v = −20 cm: 1"
+              ]
+            },
+            {
+              "q": "Find the size and nature of the image.",
+              "marks": 1,
+              "answer": "m = −v/u = −(−20)/(−20) = −1, so h′ = −5 cm. The image is real, inverted and the same size as the object."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "The refractive index of a medium tells us how much light slows down in it compared with a vacuum. Some values are: water 1.33, kerosene 1.44, crown glass 1.52 and diamond 2.42.",
+          "subparts": [
+            {
+              "q": "In which of these four media does light travel fastest?",
+              "marks": 1,
+              "answer": "Water, which has the lowest refractive index."
+            },
+            {
+              "q": "Which of these is optically the densest?",
+              "marks": 1,
+              "answer": "Diamond"
+            },
+            {
+              "q": "Calculate the speed of light in diamond. (Speed of light in vacuum = 3 × 10^{8} m/s.)",
+              "marks": 2,
+              "answer": "v = c/n = (3 × 10^{8})/2.42 ≈ 1.24 × 10^{8} m/s",
+              "marking": [
+                "Formula v = c/n: 1",
+                "Answer with unit: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

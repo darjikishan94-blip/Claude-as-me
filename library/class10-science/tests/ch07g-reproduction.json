@@ -1,0 +1,229 @@
+{
+  "type": "test",
+  "file_name": "c10-ch07-test-gseb-reproduction",
+  "title": "Ch 7 Test (GSEB pattern): How do Organisms Reproduce?",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Asexual reproduction takes place through budding in:",
+          "marks": 1,
+          "options": [
+            "Amoeba",
+            "Plasmodium",
+            "yeast",
+            "Leishmania"
+          ],
+          "answer": "(c) yeast"
+        },
+        {
+          "q": "Multiple fission is seen in:",
+          "marks": 1,
+          "options": [
+            "Amoeba",
+            "yeast",
+            "Hydra",
+            "Plasmodium"
+          ],
+          "answer": "(d) Plasmodium"
+        },
+        {
+          "q": "Which of the following is NOT a part of the female reproductive system in human beings?",
+          "marks": 1,
+          "options": [
+            "Ovary",
+            "Vas deferens",
+            "Uterus",
+            "Fallopian tube"
+          ],
+          "answer": "(b) Vas deferens (part of the male system)"
+        },
+        {
+          "q": "Which organism reproduces by fragmentation?",
+          "marks": 1,
+          "options": [
+            "Spirogyra",
+            "Planaria",
+            "Yeast",
+            "Plasmodium"
+          ],
+          "answer": "(a) Spirogyra"
+        },
+        {
+          "q": "The anther contains:",
+          "marks": 1,
+          "options": [
+            "pollen grains",
+            "sepals",
+            "ovules",
+            "pistil"
+          ],
+          "answer": "(a) pollen grains"
+        },
+        {
+          "q": "Which part of a flower develops into the fruit?",
+          "marks": 1,
+          "options": [
+            "Ovule",
+            "Petal",
+            "Stigma",
+            "Ovary"
+          ],
+          "answer": "(d) Ovary"
+        },
+        {
+          "q": "Planaria can grow a complete new organism from a cut body piece. This is called:",
+          "marks": 1,
+          "options": [
+            "budding",
+            "spore formation",
+            "regeneration",
+            "binary fission"
+          ],
+          "answer": "(c) regeneration"
+        },
+        {
+          "q": "The transfer of pollen grains from the anther to the stigma is called:",
+          "marks": 1,
+          "options": [
+            "fertilisation",
+            "pollination",
+            "germination",
+            "budding"
+          ],
+          "answer": "(b) pollination"
+        },
+        {
+          "q": "Rhizopus (bread mould) reproduces by:",
+          "marks": 1,
+          "options": [
+            "fragmentation",
+            "spore formation",
+            "budding",
+            "binary fission"
+          ],
+          "answer": "(b) spore formation"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is the importance of DNA copying in reproduction?",
+          "marks": 2,
+          "answer": "DNA carries the information for the body design. Copying DNA passes this information from parent to offspring, so the offspring are similar to the parent. Small errors in copying lead to variations, which help in survival over time.",
+          "marking": [
+            "Passes on body design information: 1",
+            "Leads to variation: 1"
+          ]
+        },
+        {
+          "q": "Give two advantages of sexual reproduction over asexual reproduction.",
+          "marks": 2,
+          "answer": "(1) It combines DNA from two parents, so it creates more variation. (2) Variation increases the chance that some individuals survive if the environment changes, which helps the species survive.",
+          "marking": [
+            "Each advantage: 1"
+          ]
+        },
+        {
+          "q": "Differentiate between self-pollination and cross-pollination.",
+          "marks": 2,
+          "answer": "In self-pollination, pollen is transferred to the stigma of the same flower (or another flower on the same plant). In cross-pollination, pollen is transferred to the stigma of a flower on another plant of the same species, by agents like wind, water or animals.",
+          "marking": [
+            "Each correct definition: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about events after fertilisation in a flower:",
+          "subparts": [
+            {
+              "q": "What happens to the zygote?",
+              "marks": 1,
+              "answer": "It divides several times to form an embryo inside the ovule."
+            },
+            {
+              "q": "What do the ovule and the ovary develop into?",
+              "marks": 1,
+              "answer": "The ovule develops into a seed, and the ovary develops into a fruit."
+            },
+            {
+              "q": "What happens to the petals, sepals and stamens?",
+              "marks": 1,
+              "answer": "They may shrivel and fall off."
+            }
+          ]
+        },
+        {
+          "q": "Answer the following about puberty:",
+          "subparts": [
+            {
+              "q": "Name the hormones responsible for the changes at puberty in boys and in girls.",
+              "marks": 1,
+              "answer": "Boys: testosterone. Girls: oestrogen."
+            },
+            {
+              "q": "Give two changes seen in both boys and girls at puberty.",
+              "marks": 1,
+              "answer": "(Any two) Thick hair grows in the armpits and genital area; the skin becomes oily and pimples may appear; height and weight increase quickly."
+            },
+            {
+              "q": "Name the organs that produce these hormones.",
+              "marks": 1,
+              "answer": "Testes (in boys) and ovaries (in girls)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A gardener wanted many rose plants with exactly the same flower colour as one prized plant. He cut small pieces of its stem with buds and planted them in moist soil. In another bed, he grew potato plants from pieces of potato that had 'eyes'. He also noticed that a Bryophyllum leaf lying on wet soil produced tiny new plants from the notches along its edge.",
+          "subparts": [
+            {
+              "q": "Name the method used to grow the rose plants.",
+              "marks": 1,
+              "answer": "Cutting (vegetative propagation)."
+            },
+            {
+              "q": "What are the 'eyes' of a potato?",
+              "marks": 1,
+              "answer": "Buds on the potato tuber (a modified underground stem)."
+            },
+            {
+              "q": "Why do the new rose plants have the same flower colour as the parent? Give one limitation of this method.",
+              "marks": 2,
+              "answer": "They are produced asexually, so they are genetically almost identical to the parent. Limitation: there is little variation, so all the plants may be equally affected by a disease or a change in the environment.",
+              "marking": [
+                "Asexual, genetically similar: 1",
+                "Limitation: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch12-test-gseb-magnetic-effects",
+  "title": "Ch 12 Test (GSEB pattern): Magnetic Effects of Electric Current",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: objective questions, 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 4 marks.",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following correctly describes the magnetic field near a long, straight, current-carrying wire?",
+          "marks": 1,
+          "options": [
+            "Straight lines perpendicular to the wire",
+            "Straight lines parallel to the wire",
+            "Concentric circles centred on the wire",
+            "Radial lines starting from the wire"
+          ],
+          "answer": "(c) Concentric circles centred on the wire"
+        },
+        {
+          "q": "Outside a bar magnet, magnetic field lines go:",
+          "marks": 1,
+          "options": [
+            "from the north pole to the south pole",
+            "from the south pole to the north pole",
+            "in straight lines away from both poles",
+            "only near the middle of the magnet"
+          ],
+          "answer": "(a) from the north pole to the south pole"
+        },
+        {
+          "q": "The magnetic field inside a long, straight, current-carrying solenoid:",
+          "marks": 1,
+          "options": [
+            "is zero",
+            "decreases towards its ends",
+            "increases towards its ends",
+            "is the same at all points"
+          ],
+          "answer": "(d) is the same at all points (uniform)"
+        },
+        {
+          "q": "A current-carrying conductor placed parallel to a magnetic field experiences:",
+          "marks": 1,
+          "options": [
+            "the maximum force",
+            "no force",
+            "a force along the field",
+            "a force opposite to the field"
+          ],
+          "answer": "(b) no force"
+        },
+        {
+          "q": "A positively charged particle (alpha particle) moving towards the west is deflected towards the north by a magnetic field. The direction of the magnetic field is:",
+          "marks": 1,
+          "options": [
+            "towards the south",
+            "towards the east",
+            "upward",
+            "downward"
+          ],
+          "answer": "(c) upward (by Fleming's left-hand rule)"
+        },
+        {
+          "q": "Which instrument detects the presence of a current in a circuit?",
+          "marks": 1,
+          "options": [
+            "Galvanometer",
+            "Voltmeter",
+            "Rheostat",
+            "Solenoid"
+          ],
+          "answer": "(a) Galvanometer"
+        },
+        {
+          "q": "Magnetic field lines:",
+          "marks": 1,
+          "options": [
+            "can intersect each other",
+            "never intersect each other",
+            "intersect only at the poles",
+            "intersect at neutral points"
+          ],
+          "answer": "(b) never intersect each other"
+        },
+        {
+          "q": "Which of the following increases the strength of an electromagnet?",
+          "marks": 1,
+          "options": [
+            "Reducing the current",
+            "Reducing the number of turns",
+            "Using a wooden core",
+            "Using a soft iron core"
+          ],
+          "answer": "(d) Using a soft iron core"
+        },
+        {
+          "q": "Which device protects a household circuit from short-circuiting and overloading?",
+          "marks": 1,
+          "options": [
+            "Fuse",
+            "Ammeter",
+            "Voltmeter",
+            "Rheostat"
+          ],
+          "answer": "(a) Fuse (or MCB)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "State Fleming's left-hand rule.",
+          "marks": 2,
+          "answer": "Stretch the thumb, forefinger and middle finger of the left hand so that they are mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger in the direction of the current, then the thumb points in the direction of the force (motion) on the conductor.",
+          "marking": [
+            "Three fingers mutually perpendicular: 1",
+            "Correct assignment of field, current, force: 1"
+          ]
+        },
+        {
+          "q": "Describe the magnetic field lines of a current-carrying circular loop. Why is the field strong at the centre?",
+          "marks": 2,
+          "answer": "Near the wire, the field lines are concentric circles, which grow larger farther from the wire. At the centre of the loop they appear as nearly straight lines. Every part of the loop produces a field in the same direction at the centre, so the fields add up and make it strong there.",
+          "marking": [
+            "Pattern: 1",
+            "Fields add at centre: 1"
+          ]
+        },
+        {
+          "q": "What is the function of the earth wire? Why should metallic appliances be earthed?",
+          "marks": 2,
+          "answer": "The earth wire is a safety measure that gives a low-resistance path for current. If current leaks to the metal body of an appliance, it flows to the earth, keeping the body at earth potential. This prevents a severe electric shock to the user.",
+          "marking": [
+            "Low-resistance path to earth: 1",
+            "Prevents shock from leakage: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about a solenoid:",
+          "subparts": [
+            {
+              "q": "What is a solenoid?",
+              "marks": 1,
+              "answer": "A coil of many circular turns of insulated copper wire, wrapped closely in the shape of a cylinder."
+            },
+            {
+              "q": "How does the magnetic field of a current-carrying solenoid compare with that of a bar magnet?",
+              "marks": 1,
+              "answer": "The field patterns are similar. One end of the solenoid behaves as a north pole and the other as a south pole."
+            },
+            {
+              "q": "How can a solenoid be used to make an electromagnet?",
+              "marks": 1,
+              "answer": "Place a soft iron core inside the solenoid and pass a current through it. The core becomes strongly magnetised."
+            }
+          ]
+        },
+        {
+          "q": "A circular loop of wire lies flat on a table, and current flows through it clockwise (as seen from above).",
+          "subparts": [
+            {
+              "q": "State the right-hand thumb rule.",
+              "marks": 1,
+              "answer": "If you hold a current-carrying conductor in your right hand with the thumb along the current, your curled fingers show the direction of the magnetic field lines."
+            },
+            {
+              "q": "What is the direction of the magnetic field inside the loop?",
+              "marks": 1,
+              "answer": "Perpendicular to the table, pointing into it (downwards)."
+            },
+            {
+              "q": "What is the direction of the magnetic field outside the loop?",
+              "marks": 1,
+              "answer": "Perpendicular to the table, pointing out of it (upwards)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Rohan's house has two separate circuits: one rated 15 A for high-power appliances like the geyser and AC, and one rated 5 A for fans and bulbs. One day, an electric heater, an iron and the AC were all switched on together from the same circuit, and the MCB tripped.",
+          "subparts": [
+            {
+              "q": "Why are separate circuits with different current ratings used?",
+              "marks": 1,
+              "answer": "High-power appliances draw a large current, so a separate high-rating circuit prevents overloading of the lighting circuit."
+            },
+            {
+              "q": "Why did the MCB trip?",
+              "marks": 1,
+              "answer": "Overloading. The total current drawn was more than the rated value of the circuit."
+            },
+            {
+              "q": "Calculate the current drawn by a 2 kW heater on a 220 V supply. Can it be used safely on the 5 A circuit?",
+              "marks": 2,
+              "answer": "I = P/V = 2000/220 ≈ 9.1 A. This is more than 5 A, so it should not be used on the 5 A circuit. Use the 15 A circuit.",
+              "marking": [
+                "I ≈ 9.1 A: 1",
+                "Not safe on 5 A, with reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
