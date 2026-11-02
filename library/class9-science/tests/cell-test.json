@@ -1,0 +1,222 @@
+{
+  "type": "test",
+  "file_name": "c9-test-cell",
+  "title": "Unit Test: The Fundamental Unit of Life (Cell)",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "The Cell (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Draw neat, labelled diagrams wherever required."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The nucleus of the cell was discovered by:",
+          "marks": 1,
+          "options": [
+            "Robert Hooke",
+            "Leeuwenhoek",
+            "Purkinje",
+            "Robert Brown"
+          ],
+          "answer": "(d) Robert Brown (1831)"
+        },
+        {
+          "q": "Which organelle is called the 'kitchen of the cell' in plants?",
+          "marks": 1,
+          "options": [
+            "Mitochondria",
+            "Ribosome",
+            "Chloroplast",
+            "Lysosome"
+          ],
+          "answer": "(c) Chloroplast (photosynthesis takes place here)"
+        },
+        {
+          "q": "Which of these is absent in animal cells?",
+          "marks": 1,
+          "options": [
+            "Cell membrane",
+            "Cell wall",
+            "Nucleus",
+            "Mitochondria"
+          ],
+          "answer": "(b) Cell wall"
+        },
+        {
+          "q": "The movement of water molecules through a selectively permeable membrane is called:",
+          "marks": 1,
+          "options": [
+            "osmosis",
+            "diffusion",
+            "endocytosis",
+            "plasmolysis"
+          ],
+          "answer": "(a) osmosis"
+        },
+        {
+          "q": "Which organelle is involved in forming lysosomes?",
+          "marks": 1,
+          "options": [
+            "Ribosome",
+            "Golgi apparatus",
+            "Nucleus",
+            "Plastid"
+          ],
+          "answer": "(b) Golgi apparatus"
+        },
+        {
+          "q": "**Assertion (A):** Mitochondria are able to make some of their own proteins.\n**Reason (R):** Mitochondria have their own DNA and ribosomes.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why is the plasma membrane called a selectively permeable membrane?",
+          "marks": 2,
+          "answer": "It allows some materials to enter and leave the cell but stops others. In this way it controls what moves in and out of the cell.",
+          "marking": [
+            "Allows some, stops others: 1",
+            "Controls movement in/out: 1"
+          ],
+          "or": {
+            "q": "What is endocytosis? Give one example.",
+            "marks": 2,
+            "answer": "Endocytosis is the taking in of food and other material from the outside by the flexible cell membrane. Example: Amoeba engulfs its food this way.",
+            "marking": [
+              "Definition: 1",
+              "Example: 1"
+            ]
+          }
+        },
+        {
+          "q": "Name two organelles that have their own genetic material (DNA).",
+          "marks": 2,
+          "answer": "Mitochondria and plastids.",
+          "marking": [
+            "Each: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Name the cell part that:",
+          "subparts": [
+            {
+              "q": "helps detoxify poisons and drugs in liver cells.",
+              "marks": 1,
+              "answer": "Smooth endoplasmic reticulum (SER)."
+            },
+            {
+              "q": "makes the proteins and lipids needed to build the cell membrane (membrane biogenesis).",
+              "marks": 1,
+              "answer": "Endoplasmic reticulum (RER makes proteins; SER makes lipids)."
+            },
+            {
+              "q": "stores starch, oils and proteins in plant cells.",
+              "marks": 1,
+              "answer": "Leucoplasts (colourless plastids)."
+            }
+          ]
+        },
+        {
+          "q": "Give three differences between plant cells and animal cells.",
+          "marks": 3,
+          "answer": "Plant cells have a cell wall outside the cell membrane; animal cells do not. Plant cells have plastids (e.g. chloroplasts); animal cells do not. Plant cells usually have one large central vacuole, while animal cells have small vacuoles or none. (Centrosomes are found in animal cells.)",
+          "marking": [
+            "Any three: 1 each"
+          ],
+          "or": {
+            "q": "What happens to a cell placed in (a) a hypotonic solution, (b) a hypertonic solution, (c) an isotonic solution?",
+            "marks": 3,
+            "answer": "(a) Water enters the cell by osmosis and it swells. (b) Water leaves the cell and it shrinks. (c) There is no net movement of water, so the cell stays the same size.",
+            "marking": [
+              "Each: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe the structure and functions of the nucleus.",
+              "marks": 3,
+              "answer": "The nucleus has a double-layered nuclear membrane with pores, and it contains chromosomes. Chromosomes are made of DNA and protein and become visible as rod-shaped structures when the cell divides. DNA carries the information for inheritance (genes). The nucleus controls the cell's activities and plays a central role in cell division.",
+              "marking": [
+                "Structure (membrane, chromosomes): 1",
+                "DNA carries genetic information: 1",
+                "Controls activities / cell division: 1"
+              ]
+            },
+            {
+              "q": "Name the two main types of cell division and give the purpose of each.",
+              "marks": 2,
+              "answer": "Mitosis: one cell divides into two identical daughter cells with the same number of chromosomes. It is used for growth and repair. Meiosis: occurs in the reproductive organs and gives four cells with half the number of chromosomes. It is used to form gametes.",
+              "marking": [
+                "Mitosis: 1",
+                "Meiosis: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A student removed the shell of an egg by dissolving it in dilute hydrochloric acid, leaving the egg covered only by its thin membrane. The egg was put in pure water, and after 5 minutes it had swollen. A similar egg was put in a concentrated salt solution, and it shrank.",
+          "subparts": [
+            {
+              "q": "Why did the egg swell in pure water?",
+              "marks": 1,
+              "answer": "Water moved into the egg through the membrane by osmosis, because the water outside was more dilute (hypotonic)."
+            },
+            {
+              "q": "Why did the egg shrink in the salt solution?",
+              "marks": 1,
+              "answer": "Water moved out of the egg into the more concentrated (hypertonic) salt solution."
+            },
+            {
+              "q": "Name the process involved and the property of the membrane that makes it possible. Give one everyday example of the same process.",
+              "marks": 2,
+              "answer": "Osmosis, through a selectively (semi-) permeable membrane. Examples (any one): raisins swelling in water; wilted vegetables becoming fresh in water; pickles shrinking in salt.",
+              "marking": [
+                "Osmosis + selectively permeable: 1",
+                "Everyday example: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

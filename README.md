@@ -25,6 +25,7 @@ You don't need to name the skill. Just ask normally.
 - **Final-revision sheets:** all-chapter equation sheet (75 checked equations), physics formula sheet, diagram checklist
 - **Four full 80-mark mock papers**: Mock 1 and Mock 2 in both CBSE and GSEB patterns, with marking schemes
 - **Class 9 Foundation practice packs** (Motion, Force & Laws of Motion, Work & Energy, Sound, Atomic Structure, The Cell, Tissues, Mixtures & Separation, States of Matter, Gravitation): 3 levels each, worked answer keys, usable with the old or new Class 9 book
+- **Class 9 unit tests** (25 marks, with keys): Motion, Force & Laws of Motion, Work & Energy, Structure of the Atom, The Cell
 - **Class 8 practice packs** (Force & Pressure, Microorganisms, Metals & Non-metals, Combustion & Flame, Sound), with answer keys
 - **Two drill sheets:** CBSE assertion–reason + case-based, and GSEB 40 rapid-fire objective questions
 - **Parent Handbook** (policies with blanks to fill + acknowledgement page), **year-round parent message calendar**, and a **tough-conversations playbook** (16 difficult situations, with replies)

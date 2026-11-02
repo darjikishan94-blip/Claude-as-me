@@ -1,0 +1,225 @@
+{
+  "type": "test",
+  "file_name": "c9-test-work-energy",
+  "title": "Unit Test: Work and Energy",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Work and Energy (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Take g = 10 m/s^{2} unless stated otherwise."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The SI unit of work is the:",
+          "marks": 1,
+          "options": [
+            "newton",
+            "watt",
+            "joule",
+            "pascal"
+          ],
+          "answer": "(c) joule"
+        },
+        {
+          "q": "1 kWh is equal to:",
+          "marks": 1,
+          "options": [
+            "3.6 × 10^{6} J",
+            "3.6 × 10^{3} J",
+            "1000 J",
+            "3600 J"
+          ],
+          "answer": "(a) 3.6 × 10^{6} J"
+        },
+        {
+          "q": "When an object is raised to a height, which form of its energy increases?",
+          "marks": 1,
+          "options": [
+            "Kinetic energy",
+            "Heat energy",
+            "Sound energy",
+            "Potential energy"
+          ],
+          "answer": "(d) Potential energy"
+        },
+        {
+          "q": "If the velocity of a body is doubled, its kinetic energy becomes:",
+          "marks": 1,
+          "options": [
+            "2 times",
+            "4 times",
+            "half",
+            "unchanged"
+          ],
+          "answer": "(b) 4 times (KE ∝ v^{2})"
+        },
+        {
+          "q": "The work done by a force acting at right angles to the displacement is:",
+          "marks": 1,
+          "options": [
+            "maximum",
+            "zero",
+            "negative",
+            "infinite"
+          ],
+          "answer": "(b) zero"
+        },
+        {
+          "q": "**Assertion (A):** A man standing still with a heavy suitcase in his hand does no work on it (in the scientific sense).\n**Reason (R):** Work is done only when a force produces a displacement in its direction.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Define 1 joule. How much work is done in lifting a 2 kg bag to a height of 1.5 m?",
+          "marks": 2,
+          "answer": "1 joule is the work done when a force of 1 N moves an object by 1 m in the direction of the force. W = mgh = 2 × 10 × 1.5 = 30 J.",
+          "marking": [
+            "Definition: 1",
+            "30 J: 1"
+          ],
+          "or": {
+            "q": "What is the difference between energy and power?",
+            "marks": 2,
+            "answer": "Energy is the capacity to do work, measured in joules. Power is the rate of doing work (or using energy), measured in watts (J/s).",
+            "marking": [
+              "Energy: 1",
+              "Power: 1"
+            ]
+          }
+        },
+        {
+          "q": "A 60 W bulb is used for 5 hours every day. How much energy does it use in 30 days, in kWh?",
+          "marks": 2,
+          "answer": "E = 60 W × 5 h × 30 = 9000 Wh = 9 kWh (9 units).",
+          "marking": [
+            "Method: 1",
+            "9 kWh: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A 2 kg ball is dropped from a height of 5 m. (Ignore air resistance.)",
+          "subparts": [
+            {
+              "q": "Find its potential energy at the top.",
+              "marks": 1,
+              "answer": "PE = mgh = 2 × 10 × 5 = 100 J"
+            },
+            {
+              "q": "Find its kinetic energy just before it hits the ground.",
+              "marks": 1,
+              "answer": "100 J (all the PE changes into KE)."
+            },
+            {
+              "q": "Find its speed just before it hits the ground.",
+              "marks": 1,
+              "answer": "½ × 2 × v^{2} = 100, so v^{2} = 100 and v = 10 m/s"
+            }
+          ]
+        },
+        {
+          "q": "Describe the energy changes in (i) a hydroelectric power plant, (ii) a battery-powered torch, (iii) a swinging pendulum.",
+          "marks": 3,
+          "answer": "(i) Potential energy of stored water → kinetic energy of falling water → electrical energy. (ii) Chemical energy in the battery → electrical energy → light (and some heat). (iii) Potential energy at the ends of the swing ↔ kinetic energy at the lowest point, continuously.",
+          "marking": [
+            "Each: 1"
+          ],
+          "or": {
+            "q": "Show that the kinetic energy of an object of mass m moving with velocity v is ½mv^{2}.",
+            "marks": 3,
+            "answer": "A force F accelerates the object from rest to v over a displacement s. Work done W = F × s = ma × s. From v^{2} – u^{2} = 2as with u = 0, s = v^{2}/2a. So W = ma × v^{2}/2a = ½mv^{2}. This work is stored as kinetic energy: KE = ½mv^{2}.",
+            "marking": [
+              "W = mas: 1",
+              "s = v^{2}/2a: 1",
+              "KE = ½mv^{2}: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is power? Give its SI unit and define 1 watt.",
+              "marks": 2,
+              "answer": "Power is the rate of doing work: P = W/t. SI unit: watt (W). 1 watt is the power of an agent that does 1 joule of work in 1 second.",
+              "marking": [
+                "Definition + unit: 1",
+                "1 watt: 1"
+              ]
+            },
+            {
+              "q": "A girl of mass 50 kg climbs 20 steps, each 20 cm high, in 10 s. Find the work she does and her power.",
+              "marks": 3,
+              "answer": "Height = 20 × 0.2 = 4 m. W = mgh = 50 × 10 × 4 = 2000 J. P = W/t = 2000/10 = 200 W.",
+              "marking": [
+                "Height: 1",
+                "Work: 1",
+                "Power: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A pendulum bob of mass 0.2 kg is pulled aside so that it is 0.2 m above its lowest point, and then released. It swings back and forth, but after some time it stops.",
+          "subparts": [
+            {
+              "q": "Find its potential energy at the highest point (relative to the lowest point).",
+              "marks": 1,
+              "answer": "PE = mgh = 0.2 × 10 × 0.2 = 0.4 J"
+            },
+            {
+              "q": "What is its kinetic energy at the lowest point (ignoring friction)?",
+              "marks": 1,
+              "answer": "0.4 J (all the PE has changed into KE)."
+            },
+            {
+              "q": "Find its speed at the lowest point. Why does it finally stop? Is energy destroyed?",
+              "marks": 2,
+              "answer": "½ × 0.2 × v^{2} = 0.4, so v^{2} = 4 and v = 2 m/s. It stops because air resistance and friction at the support slowly change its energy into heat (and sound). Energy is not destroyed, only changed into other forms.",
+              "marking": [
+                "v = 2 m/s: 1",
+                "Energy converted, not destroyed: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

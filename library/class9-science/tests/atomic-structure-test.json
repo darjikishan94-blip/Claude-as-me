@@ -1,0 +1,224 @@
+{
+  "type": "test",
+  "file_name": "c9-test-atomic-structure",
+  "title": "Unit Test: Structure of the Atom",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Structure of the Atom (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The electron was discovered by:",
+          "marks": 1,
+          "options": [
+            "Rutherford",
+            "Chadwick",
+            "J. J. Thomson",
+            "Bohr"
+          ],
+          "answer": "(c) J. J. Thomson"
+        },
+        {
+          "q": "The neutron was discovered by:",
+          "marks": 1,
+          "options": [
+            "Rutherford",
+            "Thomson",
+            "Chadwick",
+            "Goldstein"
+          ],
+          "answer": "(c) Chadwick"
+        },
+        {
+          "q": "The maximum number of electrons that can be held in the L shell is:",
+          "marks": 1,
+          "options": [
+            "2",
+            "8",
+            "18",
+            "32"
+          ],
+          "answer": "(b) 8 (2n^{2} with n = 2)"
+        },
+        {
+          "q": "An element has the electronic configuration 2, 8, 3. Its atomic number is:",
+          "marks": 1,
+          "options": [
+            "3",
+            "8",
+            "11",
+            "13"
+          ],
+          "answer": "(d) 13"
+        },
+        {
+          "q": "Isotopes of an element have the same:",
+          "marks": 1,
+          "options": [
+            "number of protons",
+            "number of neutrons",
+            "mass number",
+            "physical properties"
+          ],
+          "answer": "(a) number of protons"
+        },
+        {
+          "q": "**Assertion (A):** Isotopes of an element have similar chemical properties.\n**Reason (R):** Chemical properties depend on the valence electrons, which are the same for all isotopes of an element.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Write the number of protons and neutrons in the nuclei of carbon-12 and carbon-14 (Z = 6).",
+          "marks": 2,
+          "answer": "Carbon-12: 6 protons, 6 neutrons. Carbon-14: 6 protons, 8 neutrons.",
+          "marking": [
+            "Each: 1"
+          ],
+          "or": {
+            "q": "What are valence electrons? Find the valency of magnesium (Z = 12).",
+            "marks": 2,
+            "answer": "Valence electrons are the electrons in the outermost shell of an atom. Mg: 2, 8, 2. It loses its 2 valence electrons, so its valency is 2.",
+            "marking": [
+              "Definition: 1",
+              "Valency 2 with configuration: 1"
+            ]
+          }
+        },
+        {
+          "q": "What was the main drawback of Rutherford's model of the atom?",
+          "marks": 2,
+          "answer": "A charged particle revolving in a circle should radiate energy. The revolving electron would lose energy and finally fall into the nucleus, so the atom would be unstable. But atoms are stable, which the model could not explain.",
+          "marking": [
+            "Electron should radiate energy and fall: 1",
+            "Atoms are actually stable: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "An atom has 17 protons and 18 neutrons.",
+          "subparts": [
+            {
+              "q": "What is its atomic number?",
+              "marks": 1,
+              "answer": "17"
+            },
+            {
+              "q": "What is its mass number?",
+              "marks": 1,
+              "answer": "17 + 18 = 35"
+            },
+            {
+              "q": "Write its electronic configuration and valency.",
+              "marks": 1,
+              "answer": "2, 8, 7. Valency 1 (it gains 1 electron). This is chlorine."
+            }
+          ]
+        },
+        {
+          "q": "Describe Thomson's model of the atom and give one limitation.",
+          "marks": 3,
+          "answer": "The atom is a sphere of positive charge, with electrons embedded in it like seeds in a watermelon. The negative and positive charges are equal, so the atom as a whole is neutral. Limitation: it could not explain Rutherford's alpha-particle scattering results (the existence of a small, dense nucleus).",
+          "marking": [
+            "Positive sphere with embedded electrons: 1",
+            "Atom neutral: 1",
+            "Limitation: 1"
+          ],
+          "or": {
+            "q": "Define isotopes and isobars with one example each, and give two uses of isotopes.",
+            "marks": 3,
+            "answer": "Isotopes: same atomic number, different mass numbers (C-12 and C-14). Isobars: same mass number, different atomic numbers (Ca-40 and Ar-40). Uses (any two): uranium isotope as nuclear fuel; cobalt isotope to treat cancer; iodine isotope to treat goitre.",
+            "marking": [
+              "Isotopes: 1",
+              "Isobars: 1",
+              "Two uses: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe Bohr's model of the atom.",
+              "marks": 3,
+              "answer": "Electrons revolve around the nucleus only in certain special orbits, called discrete orbits or energy levels (shells K, L, M, N… or n = 1, 2, 3, 4…). While revolving in these orbits, electrons do not radiate energy, so the atom is stable. Each shell can hold a fixed maximum number of electrons (2n^{2}).",
+              "marking": [
+                "Discrete orbits / shells: 1",
+                "No energy radiated, atom stable: 1",
+                "Shell names / capacity: 1"
+              ]
+            },
+            {
+              "q": "Write the electronic configurations of the ions Na^{+} (Z = 11) and Cl^{–} (Z = 17).",
+              "marks": 2,
+              "answer": "Na^{+}: 10 electrons, 2, 8. Cl^{–}: 18 electrons, 2, 8, 8. Both have complete outer shells.",
+              "marking": [
+                "Each: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Natural copper (atomic number 29) is a mixture of two isotopes: copper-63, making up 69% of natural copper, and copper-65, making up 31%. Chemists use the average atomic mass of copper in calculations.",
+          "subparts": [
+            {
+              "q": "What are isotopes?",
+              "marks": 1,
+              "answer": "Atoms of the same element with the same atomic number but different mass numbers."
+            },
+            {
+              "q": "How many protons does each copper isotope have?",
+              "marks": 1,
+              "answer": "29. The atomic number is the same for both."
+            },
+            {
+              "q": "Calculate the average atomic mass of copper.",
+              "marks": 2,
+              "answer": "63 × 69/100 + 65 × 31/100 = 43.47 + 20.15 = 63.62 u",
+              "marking": [
+                "Method: 1",
+                "63.62 u: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

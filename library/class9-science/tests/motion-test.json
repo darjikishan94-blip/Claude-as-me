@@ -1,0 +1,225 @@
+{
+  "type": "test",
+  "file_name": "c9-test-motion",
+  "title": "Unit Test: Motion",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Motion (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Show the formula, substitution and unit in every numerical."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The SI unit of acceleration is:",
+          "marks": 1,
+          "options": [
+            "m/s",
+            "m s",
+            "s/m",
+            "m/s^{2}"
+          ],
+          "answer": "(d) m/s^{2}"
+        },
+        {
+          "q": "The slope of a velocity–time graph gives:",
+          "marks": 1,
+          "options": [
+            "speed",
+            "distance",
+            "acceleration",
+            "displacement"
+          ],
+          "answer": "(c) acceleration"
+        },
+        {
+          "q": "A body moving along a circular path at constant speed has:",
+          "marks": 1,
+          "options": [
+            "constant velocity",
+            "zero acceleration",
+            "changing velocity",
+            "zero velocity"
+          ],
+          "answer": "(c) changing velocity (its direction keeps changing)"
+        },
+        {
+          "q": "A car goes from rest to 20 m/s in 4 s. Its acceleration is:",
+          "marks": 1,
+          "options": [
+            "0.2 m/s^{2}",
+            "5 m/s^{2}",
+            "16 m/s^{2}",
+            "80 m/s^{2}"
+          ],
+          "answer": "(b) 5 m/s^{2}"
+        },
+        {
+          "q": "Which of these can be zero even when a body has moved?",
+          "marks": 1,
+          "options": [
+            "Distance",
+            "Speed",
+            "Time taken",
+            "Displacement"
+          ],
+          "answer": "(d) Displacement"
+        },
+        {
+          "q": "**Assertion (A):** A body moving with uniform velocity has zero acceleration.\n**Reason (R):** Acceleration is the rate of change of velocity.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Give two differences between distance and displacement.",
+          "marks": 2,
+          "answer": "Distance is the total length of the path travelled, while displacement is the shortest distance between the initial and final positions. Distance has only magnitude (scalar), while displacement has magnitude and direction (vector). Distance is never negative or zero for a moving body, while displacement can be zero.",
+          "marking": [
+            "Any two differences: 1 + 1"
+          ],
+          "or": {
+            "q": "Give two differences between speed and velocity.",
+            "marks": 2,
+            "answer": "Speed is distance per unit time, while velocity is displacement per unit time. Speed has only magnitude, while velocity also has direction. Velocity can be zero for a moving body (e.g. after a round trip); its average speed cannot.",
+            "marking": [
+              "Any two differences: 1 + 1"
+            ]
+          }
+        },
+        {
+          "q": "A cyclist completes one round of a circular track of radius 21 m in 44 s. Find the cyclist's speed. (Take π = 22/7.)",
+          "marks": 2,
+          "answer": "Distance = 2πr = 2 × (22/7) × 21 = 132 m. Speed = 132/44 = 3 m/s.",
+          "marking": [
+            "Circumference: 1",
+            "Speed: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A train speeds up uniformly from 10 m/s to 30 m/s in 10 s.",
+          "subparts": [
+            {
+              "q": "Find its acceleration.",
+              "marks": 1,
+              "answer": "a = (30 – 10)/10 = 2 m/s^{2}"
+            },
+            {
+              "q": "Find the distance covered in these 10 s.",
+              "marks": 1,
+              "answer": "s = ut + ½at^{2} = 10 × 10 + ½ × 2 × 100 = 200 m"
+            },
+            {
+              "q": "What will its velocity be after another 5 s at the same acceleration?",
+              "marks": 1,
+              "answer": "v = 30 + 2 × 5 = 40 m/s"
+            }
+          ]
+        },
+        {
+          "q": "Derive the equation v = u + at using a velocity–time graph.",
+          "marks": 3,
+          "answer": "Draw a v–t graph: velocity u at time 0 (point A) rising uniformly to v at time t (point B). The acceleration equals the slope: a = (change in velocity)/time = (v – u)/t. Rearranging gives v = u + at.",
+          "marking": [
+            "Graph described/drawn: 1",
+            "Slope = acceleration: 1",
+            "Rearrangement: 1"
+          ],
+          "or": {
+            "q": "A car moving at 72 km/h is braked uniformly and stops in 4 s. Find the retardation and the stopping distance.",
+            "marks": 3,
+            "answer": "u = 72 km/h = 20 m/s, v = 0, t = 4 s. a = (0 – 20)/4 = –5 m/s^{2} (retardation 5 m/s^{2}). s = (v^{2} – u^{2})/2a = (0 – 400)/(–10) = 40 m.",
+            "marking": [
+              "Unit conversion: 1",
+              "Retardation: 1",
+              "Distance: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Derive the equation s = ut + ½at^{2} using a velocity–time graph.",
+              "marks": 3,
+              "answer": "The distance travelled equals the area under the v–t graph. The area is a rectangle (height u, width t), giving ut, plus a triangle (base t, height v – u = at), giving ½ × t × at = ½at^{2}. So s = ut + ½at^{2}.",
+              "marking": [
+                "Distance = area under graph: 1",
+                "Rectangle + triangle areas: 1",
+                "Final equation: 1"
+              ]
+            },
+            {
+              "q": "A ball rolls down a slope from rest with uniform acceleration and covers 9 m in 3 s. Find its acceleration.",
+              "marks": 2,
+              "answer": "u = 0, so s = ½at^{2}: 9 = ½ × a × 9, which gives a = 2 m/s^{2}.",
+              "marking": [
+                "Formula: 1",
+                "a = 2 m/s^{2}: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A student recorded the distance travelled by a scooter on a straight road: at t = 0, 2, 4 and 6 s, the distance from the start was 0, 10, 20 and 30 m.",
+          "subparts": [
+            {
+              "q": "What type of motion does the scooter have?",
+              "marks": 1,
+              "answer": "Uniform motion: equal distances in equal intervals of time."
+            },
+            {
+              "q": "Find the speed of the scooter.",
+              "marks": 1,
+              "answer": "Speed = 10 m ÷ 2 s = 5 m/s."
+            },
+            {
+              "q": "What will the distance be after 10 s at the same speed? What does the distance–time graph look like?",
+              "marks": 2,
+              "answer": "Distance = 5 × 10 = 50 m. The graph is a straight line through the origin.",
+              "marking": [
+                "50 m: 1",
+                "Straight line through origin: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

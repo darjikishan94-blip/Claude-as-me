@@ -119,6 +119,16 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 ## Class 9 Science
 
+### Chapter tests (25 marks)
+
+| Title | Files |
+|---|---|
+| Unit Test: Structure of the Atom | [PDF](class9-science/pdf/c9-test-atomic-structure.pdf) · [Word](class9-science/pdf/c9-test-atomic-structure.docx) · [Answer key](class9-science/pdf/c9-test-atomic-structure-answer-key.pdf) |
+| Unit Test: The Fundamental Unit of Life (Cell) | [PDF](class9-science/pdf/c9-test-cell.pdf) · [Word](class9-science/pdf/c9-test-cell.docx) · [Answer key](class9-science/pdf/c9-test-cell-answer-key.pdf) |
+| Unit Test: Force and Laws of Motion | [PDF](class9-science/pdf/c9-test-force-laws-of-motion.pdf) · [Word](class9-science/pdf/c9-test-force-laws-of-motion.docx) · [Answer key](class9-science/pdf/c9-test-force-laws-of-motion-answer-key.pdf) |
+| Unit Test: Motion | [PDF](class9-science/pdf/c9-test-motion.pdf) · [Word](class9-science/pdf/c9-test-motion.docx) · [Answer key](class9-science/pdf/c9-test-motion-answer-key.pdf) |
+| Unit Test: Work and Energy | [PDF](class9-science/pdf/c9-test-work-energy.pdf) · [Word](class9-science/pdf/c9-test-work-energy.docx) · [Answer key](class9-science/pdf/c9-test-work-energy-answer-key.pdf) |
+
 ### Worksheets
 
 | Title | Files |

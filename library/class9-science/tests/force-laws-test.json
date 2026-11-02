@@ -1,0 +1,226 @@
+{
+  "type": "test",
+  "file_name": "c9-test-force-laws-of-motion",
+  "title": "Unit Test: Force and Laws of Motion",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Force and Laws of Motion (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Convert all units to SI before substituting."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The SI unit of force is the:",
+          "marks": 1,
+          "options": [
+            "joule",
+            "watt",
+            "newton",
+            "pascal"
+          ],
+          "answer": "(c) newton (1 N = 1 kg m/s^{2})"
+        },
+        {
+          "q": "The mass of an object is a measure of its:",
+          "marks": 1,
+          "options": [
+            "weight",
+            "speed",
+            "volume",
+            "inertia"
+          ],
+          "answer": "(d) inertia"
+        },
+        {
+          "q": "The working of a rocket is based on:",
+          "marks": 1,
+          "options": [
+            "Newton's third law",
+            "Newton's first law",
+            "Newton's second law",
+            "the law of gravitation"
+          ],
+          "answer": "(a) Newton's third law"
+        },
+        {
+          "q": "A force of 10 N acts on a mass of 2 kg. The acceleration produced is:",
+          "marks": 1,
+          "options": [
+            "0.2 m/s^{2}",
+            "5 m/s^{2}",
+            "12 m/s^{2}",
+            "20 m/s^{2}"
+          ],
+          "answer": "(b) 5 m/s^{2}"
+        },
+        {
+          "q": "When a stationary bus starts suddenly, the standing passengers tend to fall:",
+          "marks": 1,
+          "options": [
+            "forward",
+            "sideways",
+            "backward",
+            "they don't move at all"
+          ],
+          "answer": "(c) backward (inertia of rest)"
+        },
+        {
+          "q": "**Assertion (A):** Action and reaction forces do not cancel each other.\n**Reason (R):** Action and reaction act on two different bodies.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why is it easier to push an empty box than a box full of books?",
+          "marks": 2,
+          "answer": "The empty box has less mass, and so less inertia. Less force is needed to change its state of rest.",
+          "marking": [
+            "Less mass: 1",
+            "Less inertia, so less force: 1"
+          ],
+          "or": {
+            "q": "Why does dust come out of a carpet when it is beaten with a stick?",
+            "marks": 2,
+            "answer": "The carpet suddenly moves when beaten, but the dust particles tend to stay at rest because of inertia. So they separate from the carpet and fall out.",
+            "marking": [
+              "Carpet moves: 1",
+              "Dust stays at rest (inertia): 1"
+            ]
+          }
+        },
+        {
+          "q": "Find the momentum of (a) a 5 kg ball moving at 2 m/s, and (b) a 50 g bullet moving at 200 m/s. Which has more momentum?",
+          "marks": 2,
+          "answer": "(a) p = 5 × 2 = 10 kg m/s. (b) p = 0.05 × 200 = 10 kg m/s. They have equal momentum.",
+          "marking": [
+            "Each momentum: ½ + ½",
+            "Equal, with 50 g → 0.05 kg: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A car of mass 1000 kg moving at 36 km/h is brought to rest in 5 s.",
+          "subparts": [
+            {
+              "q": "Find its initial momentum.",
+              "marks": 1,
+              "answer": "u = 36 km/h = 10 m/s. p = 1000 × 10 = 10,000 kg m/s"
+            },
+            {
+              "q": "Find the force needed to stop it.",
+              "marks": 1,
+              "answer": "F = change in momentum/time = 10,000/5 = 2000 N (opposite to the motion)"
+            },
+            {
+              "q": "Why should passengers wear seat belts?",
+              "marks": 1,
+              "answer": "When the car stops suddenly, passengers keep moving forward because of inertia. Seat belts hold them back and prevent injury."
+            }
+          ]
+        },
+        {
+          "q": "State Newton's second law of motion and use it to show that F = ma.",
+          "marks": 3,
+          "answer": "The rate of change of momentum of an object is proportional to the applied force, and takes place in the direction of the force. If a mass m changes velocity from u to v in time t, F ∝ (mv – mu)/t = m(v – u)/t = ma. So F = kma, and the unit of force is chosen so that k = 1, giving F = ma.",
+          "marking": [
+            "Statement: 1",
+            "Rate of change of momentum: 1",
+            "F = ma: 1"
+          ],
+          "or": {
+            "q": "Explain why a gun recoils when a bullet is fired, using the conservation of momentum.",
+            "marks": 3,
+            "answer": "Before firing, the gun and bullet are at rest, so the total momentum is zero. After firing, the bullet moves forward with momentum m_{b}v_{b}. To keep the total at zero, the gun must gain an equal momentum in the opposite direction: m_{g}v_{g} = –m_{b}v_{b}. So the gun recoils backwards, and because it is much heavier, it moves much more slowly.",
+            "marking": [
+              "Initial momentum zero: 1",
+              "Equal and opposite momenta: 1",
+              "Heavier gun, smaller recoil speed: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "State the law of conservation of momentum, and prove it using Newton's third law for a collision of two balls.",
+              "marks": 3,
+              "answer": "The total momentum of two objects is unchanged by their collision if no external force acts. Proof: balls A and B collide for a time t. By the third law, F_{AB} = –F_{BA}, so m_{A}(v_{A} – u_{A})/t = –m_{B}(v_{B} – u_{B})/t. Rearranging: m_{A}u_{A} + m_{B}u_{B} = m_{A}v_{A} + m_{B}v_{B}, so the total momentum before equals the total momentum after.",
+              "marking": [
+                "Statement: 1",
+                "Third-law forces in terms of momentum change: 1",
+                "Final equality: 1"
+              ]
+            },
+            {
+              "q": "A 10 g bullet moving at 300 m/s hits a 2 kg wooden block at rest and gets embedded in it. Find their common velocity.",
+              "marks": 2,
+              "answer": "Momentum before = 0.01 × 300 + 0 = 3 kg m/s. After: (0.01 + 2) × v = 3, so v = 3/2.01 ≈ 1.49 m/s.",
+              "marking": [
+                "Conservation equation: 1",
+                "v ≈ 1.49 m/s: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "In a crash, a car stops almost instantly, but the passengers keep moving forward. Seat belts and airbags protect them. An airbag inflates in front of the passenger and makes the passenger take longer to come to rest.",
+          "subparts": [
+            {
+              "q": "Which law of motion explains why passengers move forward in a crash?",
+              "marks": 1,
+              "answer": "Newton's first law (inertia of motion)."
+            },
+            {
+              "q": "How does an airbag reduce injury?",
+              "marks": 1,
+              "answer": "It increases the time taken to stop the passenger, so the force on the body is smaller (F = change in momentum/time)."
+            },
+            {
+              "q": "A 60 kg passenger moving at 20 m/s is stopped (a) by an airbag in 0.5 s, (b) by hitting the dashboard in 0.05 s. Find the force in each case.",
+              "marks": 2,
+              "answer": "Change in momentum = 60 × 20 = 1200 kg m/s. (a) F = 1200/0.5 = 2400 N. (b) F = 1200/0.05 = 24,000 N, ten times larger.",
+              "marking": [
+                "Each force: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
