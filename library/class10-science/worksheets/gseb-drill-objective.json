@@ -1,0 +1,326 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-drill-gseb-objective-40",
+  "title": "Drill: 40 Objective Questions (GSEB Section A practice)",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Mixed chapters · Week 9 of the 90-day plan",
+  "instructions": [
+    "Time yourself: aim to finish all 40 questions in 20 minutes.",
+    "Write only the answer (option letter, word, or True/False) in the margin next to each question."
+  ],
+  "sections": [
+    {
+      "title": "Choose the correct option",
+      "questions": [
+        {
+          "q": "Which of the following is a decomposition reaction?",
+          "lines": 0,
+          "options": [
+            "2H_{2} + O_{2} → 2H_{2}O",
+            "Zn + H_{2}SO_{4} → ZnSO_{4} + H_{2}",
+            "2H_{2}O → 2H_{2} + O_{2}",
+            "NaOH + HCl → NaCl + H_{2}O"
+          ],
+          "answer": "(c) 2H_{2}O → 2H_{2} + O_{2}"
+        },
+        {
+          "q": "Which of these turns red litmus blue?",
+          "lines": 0,
+          "options": [
+            "Lemon juice",
+            "Soap solution",
+            "Vinegar",
+            "Tomato juice"
+          ],
+          "answer": "(b) Soap solution (basic)"
+        },
+        {
+          "q": "The chemical formula of washing soda is:",
+          "lines": 0,
+          "options": [
+            "NaHCO_{3}",
+            "NaCl",
+            "CaOCl_{2}",
+            "Na_{2}CO_{3}·10H_{2}O"
+          ],
+          "answer": "(d) Na_{2}CO_{3}·10H_{2}O"
+        },
+        {
+          "q": "Which metal is the best conductor of electricity?",
+          "lines": 0,
+          "options": [
+            "Copper",
+            "Aluminium",
+            "Silver",
+            "Iron"
+          ],
+          "answer": "(c) Silver"
+        },
+        {
+          "q": "Which of these is a saturated hydrocarbon?",
+          "lines": 0,
+          "options": [
+            "C_{2}H_{4}",
+            "C_{3}H_{8}",
+            "C_{2}H_{2}",
+            "C_{3}H_{6}"
+          ],
+          "answer": "(b) C_{3}H_{8} (propane)"
+        },
+        {
+          "q": "Bile is produced by the:",
+          "lines": 0,
+          "options": [
+            "liver",
+            "pancreas",
+            "stomach",
+            "small intestine"
+          ],
+          "answer": "(a) liver"
+        },
+        {
+          "q": "The opening and closing of stomata is controlled by the:",
+          "lines": 0,
+          "options": [
+            "epidermal cells",
+            "xylem",
+            "phloem",
+            "guard cells"
+          ],
+          "answer": "(d) guard cells"
+        },
+        {
+          "q": "Which hormone is secreted by the testes?",
+          "lines": 0,
+          "options": [
+            "Oestrogen",
+            "Insulin",
+            "Testosterone",
+            "Thyroxin"
+          ],
+          "answer": "(c) Testosterone"
+        },
+        {
+          "q": "Pollen grains are produced in the:",
+          "lines": 0,
+          "options": [
+            "stigma",
+            "ovary",
+            "style",
+            "anther"
+          ],
+          "answer": "(d) anther"
+        },
+        {
+          "q": "A trait that is expressed only when both copies of the gene are the same is called:",
+          "lines": 0,
+          "options": [
+            "recessive",
+            "dominant",
+            "acquired",
+            "variation"
+          ],
+          "answer": "(a) recessive"
+        },
+        {
+          "q": "The SI unit of refractive index is:",
+          "lines": 0,
+          "options": [
+            "m/s",
+            "it has no unit",
+            "dioptre",
+            "metre"
+          ],
+          "answer": "(b) it has no unit (it is a ratio of two speeds)"
+        },
+        {
+          "q": "The image formed on the retina of the eye is:",
+          "lines": 0,
+          "options": [
+            "virtual and erect",
+            "virtual and inverted",
+            "real and erect",
+            "real and inverted"
+          ],
+          "answer": "(d) real and inverted"
+        },
+        {
+          "q": "1 volt is equal to:",
+          "lines": 0,
+          "options": [
+            "1 J/C",
+            "1 C/J",
+            "1 J × C",
+            "1 A/s"
+          ],
+          "answer": "(a) 1 J/C (V = W/Q)"
+        },
+        {
+          "q": "The direction of the force on a current-carrying conductor in a magnetic field is given by:",
+          "lines": 0,
+          "options": [
+            "Fleming's left-hand rule",
+            "the right-hand thumb rule",
+            "Ohm's law",
+            "Snell's law"
+          ],
+          "answer": "(a) Fleming's left-hand rule"
+        },
+        {
+          "q": "The ozone layer absorbs harmful:",
+          "lines": 0,
+          "options": [
+            "infrared radiation",
+            "ultraviolet radiation",
+            "visible light",
+            "radio waves"
+          ],
+          "answer": "(b) ultraviolet radiation"
+        }
+      ]
+    },
+    {
+      "title": "Fill in the blanks",
+      "questions": [
+        {
+          "q": "When a substance gains oxygen during a reaction, it is said to be ______.",
+          "lines": 0,
+          "answer": "oxidised"
+        },
+        {
+          "q": "Packets of chips are flushed with ______ gas to prevent rancidity.",
+          "lines": 0,
+          "answer": "nitrogen"
+        },
+        {
+          "q": "A solution that turns phenolphthalein pink has a pH ______ than 7.",
+          "lines": 0,
+          "answer": "greater (more)"
+        },
+        {
+          "q": "An alloy of copper and zinc is called ______.",
+          "lines": 0,
+          "answer": "brass"
+        },
+        {
+          "q": "The general formula of alkanes is ______.",
+          "lines": 0,
+          "answer": "C_{n}H_{2n+2}"
+        },
+        {
+          "q": "Blood vessels that carry blood towards the heart are called ______.",
+          "lines": 0,
+          "answer": "veins"
+        },
+        {
+          "q": "The gap between two neurons is called a ______.",
+          "lines": 0,
+          "answer": "synapse"
+        },
+        {
+          "q": "In Mendel's monohybrid cross, the F_{2} phenotypic ratio is ______.",
+          "lines": 0,
+          "answer": "3 : 1"
+        },
+        {
+          "q": "The power of a convex lens of focal length 50 cm is ______.",
+          "lines": 0,
+          "answer": "+2 D"
+        },
+        {
+          "q": "Only about ______% of the energy at one trophic level is passed to the next.",
+          "lines": 0,
+          "answer": "10"
+        }
+      ]
+    },
+    {
+      "title": "True or false",
+      "questions": [
+        {
+          "q": "All decomposition reactions need heat energy.",
+          "lines": 0,
+          "answer": "False. Some need light or electricity."
+        },
+        {
+          "q": "Aluminium oxide is an amphoteric oxide.",
+          "lines": 0,
+          "answer": "True"
+        },
+        {
+          "q": "Graphite is a good conductor of electricity.",
+          "lines": 0,
+          "answer": "True"
+        },
+        {
+          "q": "Haemoglobin mainly carries carbon dioxide in the blood.",
+          "lines": 0,
+          "answer": "False. Haemoglobin mainly carries oxygen."
+        },
+        {
+          "q": "The cerebellum maintains posture and balance.",
+          "lines": 0,
+          "answer": "True"
+        },
+        {
+          "q": "The resistance of a wire increases when its area of cross-section increases.",
+          "lines": 0,
+          "answer": "False. Resistance decreases as the area increases."
+        },
+        {
+          "q": "A ray passing through the centre of curvature of a concave mirror retraces its path after reflection.",
+          "lines": 0,
+          "answer": "True"
+        },
+        {
+          "q": "CFCs help to build up the ozone layer.",
+          "lines": 0,
+          "answer": "False. CFCs deplete the ozone layer."
+        }
+      ]
+    },
+    {
+      "title": "Answer in one word or phrase",
+      "questions": [
+        {
+          "q": "Name the type of reaction in which a more reactive metal pushes a less reactive metal out of its salt solution.",
+          "lines": 0,
+          "answer": "Displacement reaction"
+        },
+        {
+          "q": "Name the salt used to make plaster casts for fractured bones.",
+          "lines": 0,
+          "answer": "Plaster of Paris"
+        },
+        {
+          "q": "Name the green coating that forms on copper vessels left in moist air.",
+          "lines": 0,
+          "answer": "Basic copper carbonate"
+        },
+        {
+          "q": "Name the hormone that controls the blood sugar level.",
+          "lines": 0,
+          "answer": "Insulin"
+        },
+        {
+          "q": "Name the defect of vision that develops with old age.",
+          "lines": 0,
+          "answer": "Presbyopia"
+        },
+        {
+          "q": "Name the rule that gives the direction of the magnetic field around a straight current-carrying wire.",
+          "lines": 0,
+          "answer": "Right-hand thumb rule"
+        },
+        {
+          "q": "Name the organisms that break down the dead remains of plants and animals.",
+          "lines": 0,
+          "answer": "Decomposers (bacteria and fungi)"
+        }
+      ]
+    }
+  ],
+  "closing": "Score yourself out of 40, then put every wrong answer in your error log!"
+}

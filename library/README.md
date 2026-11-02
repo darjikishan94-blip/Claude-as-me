@@ -42,6 +42,13 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Quick Revision: Magnetic Effects of Electric Current | [PDF](class10-science/pdf/c10-ch12-notes-magnetic-effects.pdf) · [Word](class10-science/pdf/c10-ch12-notes-magnetic-effects.docx) |
 | Quick Revision: Our Environment | [PDF](class10-science/pdf/c10-ch13-notes-our-environment.pdf) · [Word](class10-science/pdf/c10-ch13-notes-our-environment.docx) |
 
+### Worksheets
+
+| Title | Files |
+|---|---|
+| Drill: Assertion–Reason & Case-Based Questions (CBSE) | [PDF](class10-science/pdf/c10-drill-cbse-assertion-reason-case-based.pdf) · [Word](class10-science/pdf/c10-drill-cbse-assertion-reason-case-based.docx) · [Answer key](class10-science/pdf/c10-drill-cbse-assertion-reason-case-based-answer-key.pdf) |
+| Drill: 40 Objective Questions (GSEB Section A practice) | [PDF](class10-science/pdf/c10-drill-gseb-objective-40.pdf) · [Word](class10-science/pdf/c10-drill-gseb-objective-40.docx) · [Answer key](class10-science/pdf/c10-drill-gseb-objective-40-answer-key.pdf) |
+
 ### Full mock papers
 
 | Title | Files |

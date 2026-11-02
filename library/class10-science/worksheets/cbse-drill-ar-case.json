@@ -1,0 +1,177 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-drill-cbse-assertion-reason-case-based",
+  "title": "Drill: Assertion–Reason & Case-Based Questions (CBSE)",
+  "class": "10",
+  "board": "CBSE",
+  "subject": "Science",
+  "chapter": "Mixed chapters · Week 9 of the 90-day plan",
+  "instructions": [
+    "Part A: for each Assertion–Reason pair choose (a) both A and R are true and R explains A; (b) both true but R does not explain A; (c) A true, R false; (d) A false, R true.",
+    "Tip: first decide whether A is true, then whether R is true. Only then ask: does R explain A?",
+    "Part B: read each passage carefully. Answer in full sentences, with units and balanced equations where needed."
+  ],
+  "sections": [
+    {
+      "title": "Part A: Assertion–Reason",
+      "questions": [
+        {
+          "q": "**A:** The colour of copper sulphate solution changes when a zinc rod is dipped in it.\n**R:** Zinc is more reactive than copper.",
+          "lines": 0,
+          "answer": "(a)"
+        },
+        {
+          "q": "**A:** Calcium carbonate decomposes on heating.\n**R:** Decomposition reactions are generally exothermic.",
+          "lines": 0,
+          "answer": "(c). Most decomposition reactions are endothermic: they need heat, light or electricity."
+        },
+        {
+          "q": "**A:** Pure water is neutral.\n**R:** Pure water has equal concentrations of H^{+} and OH^{–} ions.",
+          "lines": 0,
+          "answer": "(a)"
+        },
+        {
+          "q": "**A:** Sodium is stored under kerosene.\n**R:** Sodium is a non-metal.",
+          "lines": 0,
+          "answer": "(c). Sodium is a highly reactive metal. It is stored under kerosene because it reacts vigorously with air and moisture."
+        },
+        {
+          "q": "**A:** Ionic compounds have high melting points.\n**R:** Ionic compounds are soluble in water.",
+          "lines": 0,
+          "answer": "(b). Both are true. High melting points are due to the strong forces between ions."
+        },
+        {
+          "q": "**A:** Diamond is a good conductor of electricity.\n**R:** In diamond, each carbon atom is bonded to four other carbon atoms.",
+          "lines": 0,
+          "answer": "(d). Diamond is a poor conductor; graphite conducts."
+        },
+        {
+          "q": "**A:** The walls of capillaries are only one cell thick.\n**R:** Materials are exchanged between the blood and the surrounding cells through the capillaries.",
+          "lines": 0,
+          "answer": "(a)"
+        },
+        {
+          "q": "**A:** A deficiency of insulin causes diabetes.\n**R:** Insulin is secreted by the thyroid gland.",
+          "lines": 0,
+          "answer": "(c). Insulin is secreted by the pancreas."
+        },
+        {
+          "q": "**A:** In human beings, the sex of the child is decided by the father.\n**R:** Half the sperm carry an X chromosome and half carry a Y chromosome.",
+          "lines": 0,
+          "answer": "(a)"
+        },
+        {
+          "q": "**A:** A concave lens always forms a virtual image of a real object.\n**R:** The power of a concave lens is negative.",
+          "lines": 0,
+          "answer": "(b). Both are true, but the image is virtual because a concave lens diverges the rays."
+        },
+        {
+          "q": "**A:** The resistance of a wire decreases when its length is increased.\n**R:** The resistance of a wire is directly proportional to its length.",
+          "lines": 0,
+          "answer": "(d). Resistance increases with length."
+        },
+        {
+          "q": "**A:** Plants are called producers.\n**R:** Plants release oxygen during photosynthesis.",
+          "lines": 0,
+          "answer": "(b). Both are true, but plants are producers because they make food from inorganic substances using sunlight."
+        },
+        {
+          "q": "**A:** Copper reacts with dilute hydrochloric acid to give hydrogen gas.\n**R:** Copper is less reactive than hydrogen.",
+          "lines": 0,
+          "answer": "(d). Copper does not displace hydrogen from dilute acids."
+        },
+        {
+          "q": "**A:** Bile juice does not contain any enzyme.\n**R:** Bile is produced by the liver.",
+          "lines": 0,
+          "answer": "(b). Both are true, but R does not explain why bile has no enzymes. Bile's role is to make the medium alkaline and emulsify fats."
+        }
+      ]
+    },
+    {
+      "title": "Part B: Case-based questions",
+      "questions": [
+        {
+          "q": "Ethanol is used in medicines, as a solvent and as a fuel. Even small amounts of methanol are poisonous: in the liver it is oxidised to methanal, which can damage the optic nerve and cause blindness. To stop industrial ethanol from being misused for drinking, poisonous substances like methanol are added to it, along with a blue dye. This is called denatured alcohol.",
+          "subparts": [
+            {
+              "q": "What is denatured alcohol?",
+              "marks": 1,
+              "answer": "Ethanol made unfit for drinking by adding poisonous substances such as methanol, and coloured with a dye."
+            },
+            {
+              "q": "Why is methanol dangerous to drink?",
+              "marks": 1,
+              "answer": "In the liver it is oxidised to methanal, which can damage the optic nerve and cause blindness, or even death."
+            },
+            {
+              "q": "Write the equation for the reaction of ethanol with sodium. How would you test the gas given off?",
+              "marks": 2,
+              "answer": "2C_{2}H_{5}OH + 2Na → 2C_{2}H_{5}ONa + H_{2}. Bring a burning matchstick near the gas. It burns with a pop sound, which shows it is hydrogen."
+            }
+          ]
+        },
+        {
+          "q": "In tissue culture, new plants are grown by taking a few cells or a small piece of tissue from the growing tip of a plant. The tissue is placed in an artificial medium, where it divides rapidly to form a small mass of cells called a callus. The callus is then moved to another medium containing hormones for growth and differentiation. The plantlets are finally placed in soil. This method is widely used for ornamental plants.",
+          "subparts": [
+            {
+              "q": "What is a callus?",
+              "marks": 1,
+              "answer": "A small, unorganised mass of rapidly dividing cells formed from the tissue in the culture medium."
+            },
+            {
+              "q": "Is tissue culture a sexual or an asexual method of reproduction?",
+              "marks": 1,
+              "answer": "Asexual (a form of vegetative propagation)."
+            },
+            {
+              "q": "Give two advantages of tissue culture.",
+              "marks": 2,
+              "answer": "(Any two) Many plants can be produced from very little parent tissue. All the plants are genetically like the parent, so good characters are kept. It is fast, and does not depend on seeds or seasons. It can produce disease-free plants."
+            }
+          ]
+        },
+        {
+          "q": "The resistivity (in Ω m, at 20 °C) of some materials is: silver 1.60 × 10^{-8}, copper 1.62 × 10^{-8}, aluminium 2.63 × 10^{-8}, tungsten 5.20 × 10^{-8} and nichrome 100 × 10^{-6}. Glass has a resistivity of 10^{10} to 10^{14} Ω m.",
+          "subparts": [
+            {
+              "q": "Which of these metals is the best conductor of electricity?",
+              "marks": 1,
+              "answer": "Silver, which has the lowest resistivity."
+            },
+            {
+              "q": "Which material in the list is an insulator?",
+              "marks": 1,
+              "answer": "Glass"
+            },
+            {
+              "q": "Why is nichrome used in heating elements, and copper in connecting wires?",
+              "marks": 2,
+              "answer": "Nichrome has a very high resistivity, so it produces a lot of heat, and it does not oxidise (burn) easily at high temperatures. Copper has a very low resistivity, so very little energy is wasted as heat in the wires."
+            }
+          ]
+        },
+        {
+          "q": "A student traces the path of a ray of light through a rectangular glass slab. The ray bends towards the normal when it enters the glass, and away from the normal when it comes out. The emergent ray is parallel to the incident ray but shifted sideways. This sideways shift is called lateral displacement.",
+          "subparts": [
+            {
+              "q": "Why does the ray bend towards the normal when it enters the glass?",
+              "marks": 1,
+              "answer": "Light slows down in glass, which is optically denser than air."
+            },
+            {
+              "q": "Why is the emergent ray parallel to the incident ray?",
+              "marks": 1,
+              "answer": "The two refracting faces are parallel, so the bending at the second face exactly undoes the bending at the first face."
+            },
+            {
+              "q": "How would the lateral displacement change if a thicker slab were used? What does the refractive index of glass (1.5) tell us?",
+              "marks": 2,
+              "answer": "The lateral displacement would increase. A refractive index of 1.5 means light travels 1.5 times faster in vacuum than in glass (v = c/1.5 = 2 × 10^{8} m/s)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "Check your answers with the key and add every mistake to your error log!"
+}

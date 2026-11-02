@@ -97,22 +97,25 @@ def para(doc_or_cell, text="", size=11, bold=False, italic=False, align=None,
     return p
 
 
-def bottom_border(p, style="single", sz=6, color="999999"):
+def bottom_border(p, style="single", sz=6, color="999999", between=False):
+    """Bottom rule under a paragraph. between=True also draws the rule between consecutive
+    paragraphs with the same border (Word/LibreOffice otherwise merge them into one group)."""
     pPr = p._p.get_or_add_pPr()
     bdr = OxmlElement("w:pBdr")
-    b = OxmlElement("w:bottom")
-    b.set(qn("w:val"), style)
-    b.set(qn("w:sz"), str(sz))
-    b.set(qn("w:space"), "1")
-    b.set(qn("w:color"), color)
-    bdr.append(b)
+    for edge in (["bottom", "between"] if between else ["bottom"]):
+        b = OxmlElement(f"w:{edge}")
+        b.set(qn("w:val"), style)
+        b.set(qn("w:sz"), str(sz))
+        b.set(qn("w:space"), "1")
+        b.set(qn("w:color"), color)
+        bdr.append(b)
     pPr.append(bdr)
 
 
 def answer_lines(doc, n, indent=0.9):
     for _ in range(int(n)):
         p = para(doc, " ", size=11, after=0, before=6, indent=indent)
-        bottom_border(p, style="dotted", sz=6, color="888888")
+        bottom_border(p, style="dotted", sz=6, color="888888", between=True)
 
 
 def boxed(doc, text=None, height_cm=None, shade=None, size=10.5):
