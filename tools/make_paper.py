@@ -504,7 +504,8 @@ def render_notes(spec, path):
     bottom_border(rule, sz=12, color="000000")
     for block in spec.get("blocks", []):
         if "h" in block:
-            para(doc, block["h"], size=12.5, bold=True, before=8, after=2)
+            hp = para(doc, block["h"], size=12.5, bold=True, before=8, after=2)
+            hp.paragraph_format.keep_with_next = True
         elif "p" in block:
             para(doc, block["p"], size=11, after=3)
         elif "bullets" in block:

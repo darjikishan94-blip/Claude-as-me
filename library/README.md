@@ -4,6 +4,14 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 > **Before using a test with students:** this repo is public, so answer keys here can be found online. Make the repo private (GitHub → Settings → Change visibility) or treat these as practice material.
 
+## Admin
+
+### Quick revision notes
+
+| Title | Files |
+|---|---|
+| Parent Handbook [2027-28] | [PDF](admin/pdf/level-up-academy-parent-handbook.pdf) · [Word](admin/pdf/level-up-academy-parent-handbook.docx) |
+
 ## Class 10 Science
 
 ### Chapter tests (25 marks)

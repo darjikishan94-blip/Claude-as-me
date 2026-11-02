@@ -1,0 +1,80 @@
+{
+  "type": "notes",
+  "file_name": "level-up-academy-parent-handbook",
+  "title": "Parent Handbook [2027-28]",
+  "subject": "",
+  "blocks": [
+    {"p": "**Welcome to Level Up Academy!** 🙂 Thank you for trusting us with your child's learning. This short handbook explains how we work, so you always know what to expect. Please keep it handy, and message me anytime if something isn't clear. **Kishan**"},
+    {"h": "Who we are"},
+    {"bullets": [
+      "Coaching for **Classes [8, 9, 10]**, for both **CBSE and GSEB** students.",
+      "Subjects: **[Science / …]**",
+      "Address: **[address / landmark]** · Phone / WhatsApp: **[number]**"
+    ]},
+    {"h": "Batch timings"},
+    {"table": [
+      ["Class / batch", "Days", "Time"],
+      ["[Class 8 Science]", "[Mon, Wed, Fri]", "[time]"],
+      ["[Class 9 Foundation]", "[days]", "[time]"],
+      ["[Class 10 CBSE]", "[days]", "[time]"],
+      ["[Class 10 GSEB]", "[days]", "[time]"]
+    ]},
+    {"h": "How we teach"},
+    {"bullets": [
+      "**Concept → practice → test → feedback.** Every chapter ends with a test, and every mistake is discussed.",
+      "A **one-page revision sheet** for every chapter.",
+      "**Board-pattern papers.** CBSE and GSEB students practise in their own board's exam format.",
+      "Class 10 follows a **90-day board revision plan** with full mock exams before the boards."
+    ]},
+    {"h": "Tests and progress updates"},
+    {"bullets": [
+      "Regular test day: **[day, time]**.",
+      "After every test, you receive your child's **marks individually** on WhatsApp, with a short note on what's going well and what to work on.",
+      "We never share one child's marks with another family, and we never post individual marks in groups.",
+      "Parent-teacher meetings: **[number] times a year** ([months])."
+    ]},
+    {"h": "Attendance"},
+    {"bullets": [
+      "Please inform us **before** your child misses a class.",
+      "Notes for missed topics are shared so your child can catch up. [Make-up class policy: …]",
+      "If a child is absent for [3] classes in a row without information, we'll call you, just to check that all is well."
+    ]},
+    {"h": "Fees"},
+    {"bullets": [
+      "Fees are collected **quarterly**: April–June, July–September, October–December and January–March.",
+      "Due by **[date]** of the first month of each quarter. Payment by **[UPI / cash / bank transfer]**, and you'll get a confirmation message for every payment.",
+      "[Sibling discount / instalment option: …]",
+      "[Refund / withdrawal policy: …]",
+      "If you ever need more time, just tell me. We'll work something out."
+    ]},
+    {"h": "Communication"},
+    {"bullets": [
+      "**Class WhatsApp group:** notices only (holidays, test dates, timing changes). Please avoid personal discussions in the group.",
+      "**One-to-one messages** for anything about your child.",
+      "I reply between **[9 AM and 8 PM]**. For anything urgent, please call.",
+      "Your feedback is always welcome, good or bad. Talking early helps us fix things early."
+    ]},
+    {"h": "What we expect from students"},
+    {"bullets": [
+      "Arrive on time with their notebook, textbook and a pencil for diagrams.",
+      "Complete homework before the next class.",
+      "[Phone policy: phones switched off / kept with the teacher during class.]",
+      "Be respectful to teachers and classmates."
+    ]},
+    {"box": [
+      "**How you can help at home:** a fixed daily study time · 7–8 hours of sleep · limited phone and screen time during study hours · a quick look at homework and test papers · encouragement, never comparison with other children."
+    ]},
+    {"h": "Holidays"},
+    {"p": "We follow [the school holiday calendar / our own calendar] for major festivals and exams. Every holiday is announced in the class group in advance."},
+    {"pagebreak": true},
+    {"h": "Parent acknowledgement (please return this page)"},
+    {"p": "I have read the Level Up Academy Parent Handbook and agree to the policies above."},
+    {"table": [
+      ["Student's name", " "],
+      ["Class / batch", " "],
+      ["Parent's name", " "],
+      ["Phone number", " "],
+      ["Signature and date", " "]
+    ], "row_height_cm": 1.1, "col_widths": [5, 12.6]}
+  ]
+}
