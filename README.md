@@ -16,6 +16,16 @@ My AI twin. Claude reads this repo and works **as me (Kishan)**. It writes in my
 
 You don't need to name the skill. Just ask normally.
 
+## 📚 Ready-made content library
+**[library/README.md](library/README.md)** has everything ready to print, all automatically checked (marks add up, equations balanced, answer keys valid):
+- **Class 10 Science:** a 25-mark test + answer key for all 13 chapters, and a one-page revision sheet for each
+- **Two full 80-mark mock papers** (CBSE pattern and GSEB pattern) with marking schemes
+- **90-day board revision plan** (9 Nov 2026 – 7 Feb 2027) with an error-log page, plus 11 parent WhatsApp messages to go with it
+- **Admissions kit 2027-28:** broadcasts, posters, Instagram captions, enquiry replies, demo-class plan, referral and testimonial messages
+- **3 YouTube video scripts** (balancing equations, 3-mark answers, 90-day plan), with titles, descriptions, tags and Shorts cuts
+
+Just ask: *"send me the Ch 11 test"*, *"Set B of the Ch 4 test"*, *"the 90-day plan PDF"*.
+
 ## How to use it from my phone
 1. Open the **Claude** app → **Code** → start a session on **Claude-as-me**.
 2. Ask for what you need (examples above). Attach photos, Excel files or screenshots if useful.
@@ -37,8 +47,12 @@ me/
   youtube.md           channel niche pick + first 10 video ideas
   open-questions.md    what Claude still needs to learn about me
 .claude/skills/        the six skills above
+library/               ready-made tests, notes, mocks, plans, kits, scripts (see library/README.md)
 tools/
   make_paper.py        JSON → printable DOCX + PDF (tests, worksheets, notes)
+  check_spec.py        accuracy checks: balanced equations, valid MCQ keys
+  balance_mcq.py       spreads correct MCQ answers across (a)–(d)
+  build_library.py     builds every library PDF + the library index
   marks_report.py      marks list → summary, ranks, tiers, Excel sheet
   build_app_skill.py   packs everything into dist/kishan-as-me.zip
 samples/               example specs + rendered PDFs

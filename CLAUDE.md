@@ -22,6 +22,10 @@ If a skill fits the task, use it. The skills are `reply-as-me`, `parent-messages
 - **Make it phone-ready.** Kishan usually works from a phone. Put every message to copy in its own code block so it copies cleanly into WhatsApp. Keep the explanation around it to a line or two.
 - **Make printables real files.** Tests, worksheets and notes become DOCX + PDF through `tools/make_paper.py`. Send the PDF with SendUserFile, and the DOCX too if Kishan may want to edit it.
 
+## Content library
+`library/README.md` indexes ready-to-print, checked material: Class 10 Science chapter tests (all 13 chapters, with keys), revision notes, CBSE and GSEB full mocks, a 90-day board plan, a parent message series, the admissions kit for 2027-28, and YouTube scripts. **Use what's there before making something new.**
+Rebuild after any spec change with `python3 tools/build_library.py`. Every build runs the accuracy checks (`tools/check_spec.py`): marks add up, equations are balanced, MCQ keys are valid.
+
 ## Keep learning Kishan
 Kishan may correct you ("too formal", "I never say that", "the test is on Saturdays", "I charge ₹X"). When that happens:
 1. Fix the current draft.

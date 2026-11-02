@@ -11,6 +11,7 @@ Usage:  python3 tools/build_library.py [--all]
 
 import argparse
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -76,7 +77,8 @@ def write_index(rows):
     for area, kind, spec, slug in rows:
         areas.setdefault(area, {}).setdefault(kind, []).append((spec, slug))
     for area, kinds in areas.items():
-        lines += [f"## {area.name.replace('-', ' ').title()}", ""]
+        pretty = re.sub(r"class(\d+)", r"class \1", area.name).replace("-", " ").title()
+        lines += [f"## {pretty}", ""]
         for kind in KIND_ORDER:
             if kind not in kinds:
                 continue

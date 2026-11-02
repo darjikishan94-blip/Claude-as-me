@@ -7,6 +7,12 @@ description: Make printable test papers (unit tests, chapter tests, weekly tests
 
 Output a **print-ready paper plus a separate answer key** (DOCX + PDF), built with `tools/make_paper.py`. Accuracy matters more than speed: one wrong answer in a key costs Kishan's credibility in front of students.
 
+## 0. Check the library first
+`library/README.md` lists ready-made, checked material. For Class 10 Science there is a 25-mark test for every chapter, two full mocks (CBSE and GSEB pattern), revision notes and a 90-day plan.
+- If the request matches something there, send that PDF and its answer key straight away. For an editable copy, send the DOCX.
+- If Kishan wants a different version ("Set B", another mark total, a mix of chapters), copy the closest spec from `library/.../*.json` to `private/papers/`, change the questions, and build it. Don't start from zero.
+- Something new and reusable (no student data) can go into `library/<area>/<kind>/`. Run `python3 tools/build_library.py` to build it and refresh the index.
+
 ## 1. Pin down the brief
 Fill these from the request. Ask only for what's missing and can't be inferred.
 
@@ -52,10 +58,11 @@ Give internal choice (`"or"`) in about one question per section from B onwards. 
 
 ## 4. Build the files
 1. Write the spec to `private/papers/<class>-<subject>-<topic>.json`. `private/` is git-ignored.
-2. Run `python3 tools/make_paper.py private/papers/<file>.json --out private/output`.
-   The script **refuses to build if the marks don't add up** (section totals, subparts and OR choices). Fix the spec and re-run.
-3. **Self-check pass.** Re-read the key as a strict examiner: re-solve every numerical, re-balance every equation, confirm each MCQ has exactly one defensible answer, and check that the time allotted is realistic. Fix and rebuild if anything is off.
-4. Send with SendUserFile: the **paper PDF** and the **answer key PDF**, plus the paper DOCX only if Kishan may edit it.
+2. Run `python3 tools/balance_mcq.py private/papers/<file>.json`. This spreads correct MCQ answers evenly across (a)–(d) and keeps numeric options in ascending order. It leaves Assertion–Reason and "all of the above" questions alone.
+3. Run `python3 tools/make_paper.py private/papers/<file>.json --out private/output`.
+   The script **refuses to build** if the marks don't add up (section totals, subparts, OR choices, `attempt` sections), if any chemical equation is unbalanced (it counts atoms), or if an MCQ key doesn't point at a real option. Fix the spec and re-run. Mark deliberately unbalanced text (a "balance this" question, wrong MCQ options) with `"unbalanced": true`.
+4. **Self-check pass.** Re-read the key as a strict examiner: re-solve every numerical, re-balance every equation, confirm each MCQ has exactly one defensible answer, and check that the time allotted is realistic. Fix and rebuild if anything is off.
+5. Send with SendUserFile: the **paper PDF** and the **answer key PDF**, plus the paper DOCX only if Kishan may edit it.
 
 ## 5. Reply (short)
 - One line: `Class 10 CBSE · Chemical Reactions · 25 marks / 50 min · 6 MCQ, 2×2, 2×3, 1×5, 1 case study`.
@@ -87,4 +94,8 @@ See `samples/class10-science-ch1-unit-test.json` for a complete example.
   "closing": "All the best!"
 }
 ```
-Inline markup: `**bold**`, `H_{2}O` (subscript) and `Fe^{3+}` (superscript). Optional per question: `"box_cm": 6` (drawing box) and `"lines": 4` (answer lines, worksheets only). Optional top-level: `"file_name"` and `"academy"`.
+Inline markup: `**bold**`, `H_{2}O` (subscript), `Fe^{3+}` (superscript), and `\n` for a line break (e.g. between (a) and (b) of an OR question).
+Optional per question: `"box_cm": 6` (drawing box), `"lines": 4` (answer lines, worksheets only), `"image": "fig.png"` with `"image_width_cm": 7` (path relative to the spec), `"unbalanced": true`, `"fixed_order": true` (balancer won't move options).
+Optional per section: `"attempt": 9` for GSEB-style "answer any 9" (every question in that section must carry the same marks), and `"unbalanced": true`.
+Optional top-level: `"file_name"` and `"academy"`.
+Assertion–Reason in a big paper: put the four standard choices once in the section `note` and give each A–R question only an `answer` such as "(a)". See `library/class10-science/mocks/cbse-mock-1.json`.

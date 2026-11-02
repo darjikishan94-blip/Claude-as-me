@@ -8,6 +8,7 @@ Re-run after changing anything in me/ or .claude/skills/, then re-upload the zip
 Claude → Settings → Capabilities → Skills.
 """
 
+import json
 import re
 import shutil
 import zipfile
@@ -23,6 +24,10 @@ ME = ["voice.md", "academy.md", "profile.md", "youtube.md"]
 
 # repo paths -> paths inside the uploaded skill / the claude.ai sandbox
 REWRITES = [
+    (r"- Something new and reusable.*?refresh the index\.", "- Something new and reusable: give Kishan the spec so it can be added to the library in the Claude-as-me repo."),
+    (r"Rebuild after any spec change with `python3 tools/build_library\.py`\. ", ""),
+    (r"`library/README\.md`", "`library/INDEX.md`"),
+    (r"`library/\.\.\./\*\.json`", "`library/` (see INDEX.md)"),
     (r"python3 tools/", "python3 scripts/"),
     (r"`tools/make_paper\.py`", "`scripts/make_paper.py`"),
     (r"`tools/marks_report\.py`", "`scripts/marks_report.py`"),
@@ -78,6 +83,10 @@ You are acting **as Kishan**. Think, write and decide the way Kishan would. Ever
 | YouTube channel ideas | `reference/youtube.md` |
 | Fee reminders / confirmations | the **parent-fee-messages** skill |
 
+## Ready-made library
+`library/INDEX.md` lists checked Class 10 Science material, stored as specs: 13 chapter tests with keys, 13 revision sheets, CBSE and GSEB mocks, and the 90-day plan. It also lists message kits (admissions, board-season parent messages) and YouTube scripts as Markdown.
+To give Kishan a PDF, build it from the spec: `python3 <this-skill-dir>/scripts/make_paper.py <this-skill-dir>/library/<path>.json --out /mnt/user-data/outputs`. **Check the library before writing anything new.**
+
 ## Files & scripts (claude.ai sandbox)
 - The scripts are in this skill's `scripts/` folder. Run them with the full path to this skill folder, e.g. `python3 <this-skill-dir>/scripts/make_paper.py /tmp/papers/x.json --out /mnt/user-data/outputs`.
 - If `import docx` fails, run `pip install python-docx openpyxl` first. If LibreOffice is missing you'll get DOCX only, which is fine.
@@ -110,8 +119,22 @@ def main():
     for s in SKILLS:
         body = strip_frontmatter((ROOT / ".claude/skills" / s / "SKILL.md").read_text(encoding="utf-8"))
         (OUT / "reference" / f"{s}.md").write_text(rewrite(body), encoding="utf-8")
-    for f in ("make_paper.py", "marks_report.py"):
+    for f in ("make_paper.py", "marks_report.py", "check_spec.py", "balance_mcq.py"):
         shutil.copy(ROOT / "tools" / f, OUT / "scripts" / f)
+    index = ["# Library index (specs: build any of them with scripts/make_paper.py)", ""]
+    for src in sorted((ROOT / "library").rglob("*")):
+        if src.suffix not in (".json", ".md") or src.name == "README.md" or "pdf" in src.parts:
+            continue
+        rel = src.relative_to(ROOT)
+        dest = OUT / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(src, dest)
+        if src.suffix == ".json":
+            title = json.loads(src.read_text(encoding="utf-8")).get("title", src.stem)
+        else:
+            title = src.read_text(encoding="utf-8").splitlines()[0].lstrip("# ")
+        index.append(f"- `{rel.as_posix()}`: {title}")
+    (OUT / "library" / "INDEX.md").write_text("\n".join(index) + "\n", encoding="utf-8")
     for f in sorted((ROOT / "samples").glob("*.json")):
         shutil.copy(f, OUT / "samples" / f.name)
 

@@ -5,6 +5,8 @@ description: Make printable study material for Level Up Academy students as DOCX
 
 # Worksheets & notes
 
+**Check `library/README.md` first.** Class 10 Science already has a one-page revision sheet for all 13 chapters, plus a 90-day plan with an error-log page. Send those directly, or adapt their specs.
+
 Same engine and the same accuracy bar as `test-paper`. Read its sections **1 (brief)** and **3 (write the questions)**. The differences are below.
 
 ## Pick the format
@@ -42,6 +44,7 @@ Notes spec:
   ]
 }
 ```
+Other blocks: `{"image": "fig.png", "width_cm": 8, "caption": "..."}`, `{"pagebreak": true}`. Tables size their columns to the text automatically. Override with `"col_widths": [2, 4, 11.6]` (cm), and add `"row_height_cm": 1` for write-in tables such as an error log. Mark a block `"unbalanced": true` if it deliberately shows a wrong equation.
 
 ## Build & deliver
 1. Write the spec to `private/papers/<name>.json`.

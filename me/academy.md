@@ -43,7 +43,7 @@ NCERT is rolling out new textbooks class by class, so always work from the chapt
 | 8 | CBSE | [paste] |
 | 9 | CBSE | [paste] |
 | 9 | GSEB | [paste] |
-| 10 | CBSE | [paste] |
+| 10 | CBSE | NCERT *Science* (rationalised, 13 chapters): 1 Chemical Reactions and Equations · 2 Acids, Bases and Salts · 3 Metals and Non-metals · 4 Carbon and its Compounds · 5 Life Processes · 6 Control and Coordination · 7 How do Organisms Reproduce? · 8 Heredity · 9 Light – Reflection and Refraction · 10 The Human Eye and the Colourful World · 11 Electricity · 12 Magnetic Effects of Electric Current · 13 Our Environment. [confirm this matches the book your students use] |
 | 10 | GSEB | [paste] |
 
 ## Policies (fill once, reuse in every message)
