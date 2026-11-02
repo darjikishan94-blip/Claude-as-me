@@ -1,0 +1,78 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-bank-physics-most-expected",
+  "title": "Most-Expected Questions: Physics (Ch 9–12)",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Light · Human Eye · Electricity · Magnetic Effects of Electric Current",
+  "instructions": [
+    "These are the question types that come up again and again in board papers. Answer them in your notebook, then check with the answer key.",
+    "Numericals: given → formula → substitution (with signs) → answer with unit."
+  ],
+  "sections": [
+    {
+      "title": "1-mark questions",
+      "questions": [
+        {"q": "What is the SI unit of the power of a lens?", "lines": 0, "answer": "Dioptre (D)."},
+        {"q": "What is the focal length of a plane mirror?", "lines": 0, "answer": "Infinity."},
+        {"q": "Which spherical mirror always forms a virtual, erect and diminished image?", "lines": 0, "answer": "A convex mirror."},
+        {"q": "What is the far point of a normal human eye?", "lines": 0, "answer": "Infinity."},
+        {"q": "Which phenomenon makes the clear sky look blue?", "lines": 0, "answer": "Scattering of light."},
+        {"q": "Write the SI unit of resistivity.", "lines": 0, "answer": "Ohm metre (Ω m)."},
+        {"q": "Which has more resistance: a 100 W or a 60 W bulb (both rated 220 V)?", "lines": 0, "answer": "The 60 W bulb. R = V^{2}/P, so 806.7 Ω versus 484 Ω."},
+        {"q": "What is the colour of the insulation on the earth wire?", "lines": 0, "answer": "Green."}
+      ]
+    },
+    {
+      "title": "2-mark questions",
+      "questions": [
+        {"q": "The magnification produced by a plane mirror is +1. What does this mean?", "lines": 0,
+         "answer": "The image is the same size as the object (|m| = 1), and the + sign shows it is virtual and erect."},
+        {"q": "Find the focal length of a lens of power –2.0 D. What type of lens is it?", "lines": 0,
+         "answer": "f = 1/P = 1/(–2.0) = –0.5 m = –50 cm. It is a concave (diverging) lens."},
+        {"q": "You want an erect image of an object using a concave mirror of focal length 15 cm. Where should the object be? Will the image be larger or smaller?", "lines": 0,
+         "answer": "Between the pole and the focus, that is, less than 15 cm from the mirror. The image will be larger than the object (and virtual)."},
+        {"q": "Why are copper and aluminium wires usually used for transmitting electricity?", "lines": 0,
+         "answer": "They have very low resistivity, so little energy is wasted as heat. They are also good conductors and fairly cheap (aluminium is light as well)."},
+        {"q": "How does the resistance of a wire change when (a) its length is doubled and (b) its area of cross-section is doubled?", "lines": 0,
+         "answer": "(a) It doubles (R ∝ L). (b) It halves (R ∝ 1/A)."},
+        {"q": "Why does a ray of light bend when it passes from air into glass?", "lines": 0,
+         "answer": "The speed of light is lower in glass (an optically denser medium) than in air. This change in speed at the boundary makes the ray bend towards the normal."},
+        {"q": "Why is the tungsten filament of a bulb able to glow without melting? Why are bulbs filled with nitrogen or argon?", "lines": 0,
+         "answer": "Tungsten has a very high melting point (3380 °C). The chemically inactive gases stop the hot filament from oxidising, so it lasts longer."},
+        {"q": "Why is the magnetic field inside a long solenoid said to be uniform?", "lines": 0,
+         "answer": "Inside the solenoid the field lines are parallel straight lines, which shows the field has the same strength and direction at all points."}
+      ]
+    },
+    {
+      "title": "3-mark questions",
+      "questions": [
+        {"q": "An object 4 cm high is placed 25 cm in front of a concave mirror of focal length 15 cm. Find the position, size and nature of the image.", "lines": 0,
+         "answer": "u = –25 cm, f = –15 cm. 1/v = 1/f – 1/u = –1/15 + 1/25 = –2/75, so v = –37.5 cm (in front of the mirror). m = –v/u = –(–37.5)/(–25) = –1.5, so h′ = –6 cm. The image is real, inverted and magnified (6 cm tall)."},
+        {"q": "An object is placed 12 cm in front of a convex mirror of radius of curvature 30 cm. Find the position and nature of the image.", "lines": 0,
+         "answer": "f = R/2 = +15 cm, u = –12 cm. 1/v = 1/f – 1/u = 1/15 + 1/12 = 9/60, so v ≈ +6.7 cm (behind the mirror). m = –v/u ≈ +0.56. The image is virtual, erect and diminished."},
+        {"q": "A 6 Ω and a 3 Ω resistor are joined in parallel, and this combination is connected in series with a 2 Ω and a 3 Ω resistor across a 12 V battery. Find the total resistance and the current.", "lines": 0,
+         "answer": "Parallel part: 1/R = 1/6 + 1/3 = 1/2, so R = 2 Ω. Total = 2 + 2 + 3 = 7 Ω. I = 12/7 ≈ 1.7 A."},
+        {"q": "An electric motor takes 5 A from a 220 V line. Find its power and the energy it uses in 2 hours.", "lines": 0,
+         "answer": "P = VI = 220 × 5 = 1100 W. E = 1.1 kW × 2 h = 2.2 kWh (= 7.92 × 10^{6} J)."},
+        {"q": "The hot plate of an electric oven on a 220 V line has two coils A and B of 24 Ω each, which can be used separately, in series or in parallel. Find the current in each case.", "lines": 0,
+         "answer": "Separately: I = 220/24 ≈ 9.2 A. In series: R = 48 Ω, I = 220/48 ≈ 4.6 A. In parallel: R = 12 Ω, I = 220/12 ≈ 18.3 A."},
+        {"q": "A copper wire 1 km long has a cross-sectional area of 0.5 mm^{2}. Find its resistance. (ρ of copper = 1.62 × 10^{-8} Ω m)", "lines": 0,
+         "answer": "A = 0.5 mm^{2} = 5 × 10^{-7} m^{2}. R = ρL/A = (1.62 × 10^{-8} × 1000)/(5 × 10^{-7}) ≈ 32.4 Ω."}
+      ]
+    },
+    {
+      "title": "5-mark questions",
+      "questions": [
+        {"q": "(a) How would you connect three resistors of 6 Ω each to get a total resistance of (i) 9 Ω and (ii) 4 Ω? [3]\n(b) Several 10 W bulbs are designed for a 220 V line. How many can be connected in parallel if the maximum allowed current is 5 A? [2]", "lines": 0,
+         "answer": "(a) (i) Two in parallel (3 Ω), then the third in series: 3 + 6 = 9 Ω. (ii) Two in series (12 Ω), then that pair in parallel with the third: 1/R = 1/12 + 1/6 = 1/4, so R = 4 Ω. (b) Maximum power = VI = 220 × 5 = 1100 W. Number of bulbs = 1100/10 = 110."},
+        {"q": "(a) Draw ray diagrams for a convex lens with the object (i) at 2F_{1} and (ii) between F_{1} and O. State the nature and position of the image in each case. [3]\n(b) Why does a convex lens act as a magnifying glass? [2]", "lines": 0,
+         "answer": "(a) (i) The image is at 2F_{2}: real, inverted, same size. (ii) The image is on the same side as the object: virtual, erect, enlarged. Use two rays in each: one parallel to the axis that passes through F_{2}, and one through O undeviated. (b) When the object is placed between F_{1} and the optical centre, a convex lens forms a virtual, erect and enlarged image, so small things look bigger."},
+        {"q": "(a) What is myopia? Explain its causes and correction. [3]\n(b) Why does the Sun appear reddish at sunrise and sunset? [2]", "lines": 0,
+         "answer": "(a) A person with myopia can see near objects clearly but not distant ones, because the image forms in front of the retina. Causes: excessive curvature of the eye lens, or elongation of the eyeball. Correction: a concave lens of suitable power. (b) Near the horizon, sunlight travels a longer path through the atmosphere. Most of the blue light is scattered away, so mainly red light, which is scattered least, reaches our eyes."}
+      ]
+    }
+  ],
+  "closing": "Every numerical: units first, signs second, arithmetic last!"
+}

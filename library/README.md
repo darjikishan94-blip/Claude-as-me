@@ -62,6 +62,9 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 | Title | Files |
 |---|---|
+| Most-Expected Questions: Biology (Ch 5–8, 13) | [PDF](class10-science/pdf/c10-bank-biology-most-expected.pdf) · [Word](class10-science/pdf/c10-bank-biology-most-expected.docx) · [Answer key](class10-science/pdf/c10-bank-biology-most-expected-answer-key.pdf) |
+| Most-Expected Questions: Chemistry (Ch 1–4) | [PDF](class10-science/pdf/c10-bank-chemistry-most-expected.pdf) · [Word](class10-science/pdf/c10-bank-chemistry-most-expected.docx) · [Answer key](class10-science/pdf/c10-bank-chemistry-most-expected-answer-key.pdf) |
+| Most-Expected Questions: Physics (Ch 9–12) | [PDF](class10-science/pdf/c10-bank-physics-most-expected.pdf) · [Word](class10-science/pdf/c10-bank-physics-most-expected.docx) · [Answer key](class10-science/pdf/c10-bank-physics-most-expected-answer-key.pdf) |
 | Drill: Assertion–Reason & Case-Based Questions (CBSE) | [PDF](class10-science/pdf/c10-drill-cbse-assertion-reason-case-based.pdf) · [Word](class10-science/pdf/c10-drill-cbse-assertion-reason-case-based.docx) · [Answer key](class10-science/pdf/c10-drill-cbse-assertion-reason-case-based-answer-key.pdf) |
 | Drill: 40 Objective Questions (GSEB Section A practice) | [PDF](class10-science/pdf/c10-drill-gseb-objective-40.pdf) · [Word](class10-science/pdf/c10-drill-gseb-objective-40.docx) · [Answer key](class10-science/pdf/c10-drill-gseb-objective-40-answer-key.pdf) |
 

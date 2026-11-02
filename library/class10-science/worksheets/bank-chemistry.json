@@ -1,0 +1,78 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-bank-chemistry-most-expected",
+  "title": "Most-Expected Questions: Chemistry (Ch 1–4)",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Chemical Reactions · Acids, Bases and Salts · Metals and Non-metals · Carbon and its Compounds",
+  "instructions": [
+    "These are the question types that come up again and again in board papers. Answer them in your notebook, then check with the answer key.",
+    "Tick each question when you can answer it without looking. Come back to the unticked ones a week later."
+  ],
+  "sections": [
+    {
+      "title": "1-mark questions",
+      "questions": [
+        {"q": "What do you observe when barium chloride solution is added to sodium sulphate solution?", "lines": 0, "answer": "A white precipitate of barium sulphate forms."},
+        {"q": "Name the type of reaction: CaCO_{3} → CaO + CO_{2} (on heating).", "lines": 0, "answer": "Thermal decomposition."},
+        {"q": "What is the common name of CaOCl_{2}?", "lines": 0, "answer": "Bleaching powder."},
+        {"q": "What happens to a turmeric stain on a cloth when soap is applied?", "lines": 0, "answer": "It turns reddish-brown, because soap is basic. It turns yellow again on washing with plenty of water."},
+        {"q": "Name two metals that do not react with oxygen even at high temperatures.", "lines": 0, "answer": "Gold and silver."},
+        {"q": "Why is graphite used to make electrodes?", "lines": 0, "answer": "It is a good conductor of electricity."},
+        {"q": "Name the functional group in CH_{3}COCH_{3}.", "lines": 0, "answer": "Ketone (>C=O); the compound is propanone."},
+        {"q": "Name two metals that are found in the free state in nature.", "lines": 0, "answer": "Any two of gold, silver, platinum, copper."}
+      ]
+    },
+    {
+      "title": "2-mark questions",
+      "questions": [
+        {"q": "Potassium chloride solution is mixed with silver nitrate solution, and an insoluble white substance forms. Write the balanced equation and name the type of reaction.", "lines": 0,
+         "answer": "KCl + AgNO_{3} → AgCl + KNO_{3}. White precipitate of silver chloride. It is a double displacement (precipitation) reaction."},
+        {"q": "Five solutions A, B, C, D and E have pH 4, 1, 11, 7 and 9. Which is (a) neutral, (b) strongly alkaline, (c) strongly acidic, (d) weakly acidic, (e) weakly alkaline? Arrange them in increasing order of H^{+} ion concentration.", "lines": 0,
+         "answer": "(a) D (b) C (c) B (d) A (e) E. Increasing H^{+} concentration: C (11) < E (9) < D (7) < A (4) < B (1)."},
+        {"q": "Why do HCl and HNO_{3} show acidic character in water, while solutions of alcohol and glucose do not?", "lines": 0,
+         "answer": "HCl and HNO_{3} produce H^{+} ions in water, which give acidic properties. Alcohol and glucose do not split into H^{+} ions in water, even though they contain hydrogen."},
+        {"q": "What are endothermic and exothermic reactions? Give one example of each.", "lines": 0,
+         "answer": "Exothermic reactions release heat, e.g. burning of natural gas: CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O. Endothermic reactions absorb heat, e.g. decomposition of calcium carbonate: CaCO_{3} → CaO + CO_{2}."},
+        {"q": "Why is sodium stored under kerosene, while white phosphorus is stored under water?", "lines": 0,
+         "answer": "Sodium reacts vigorously with air and moisture and catches fire, so it is kept in kerosene. White phosphorus catches fire in air but does not react with water, so it is kept under water."},
+        {"q": "Describe the bonding in (a) carbon dioxide and (b) nitrogen.", "lines": 0,
+         "answer": "(a) CO_{2}: carbon shares two pairs of electrons with each oxygen atom, forming two double bonds (O=C=O). (b) N_{2}: the two nitrogen atoms share three pairs of electrons, forming a triple bond (N≡N)."},
+        {"q": "What is formed when a metal oxide reacts with an acid? Give an example with a balanced equation.", "lines": 0,
+         "answer": "A salt and water. CuO + 2HCl → CuCl_{2} + H_{2}O. The solution turns blue-green."},
+        {"q": "Explain the bonding in CH_{3}Cl (chloromethane).", "lines": 0,
+         "answer": "Carbon has four valence electrons. It shares one electron pair with each of three hydrogen atoms and one with a chlorine atom, forming four single covalent bonds."}
+      ]
+    },
+    {
+      "title": "3-mark questions",
+      "questions": [
+        {"q": "A compound made from gypsum hardens when mixed with the right amount of water. Identify it, write the equation for its preparation, and give one use.", "lines": 0,
+         "answer": "Plaster of Paris (calcium sulphate hemihydrate, CaSO_{4}·½H_{2}O). It is made by heating gypsum at 373 K: CaSO_{4}·2H_{2}O → CaSO_{4}·½H_{2}O + 1½H_{2}O. Uses (any one): plaster for supporting fractured bones, making toys, decoration, smoothing surfaces."},
+        {"q": "Give reasons: (i) Ionic compounds have high melting points. (ii) Calcium floats when it reacts with water. (iii) Copper sulphate solution cannot be stored in an iron vessel.", "lines": 0,
+         "answer": "(i) Strong forces of attraction between the ions need a lot of energy to break. (ii) Bubbles of hydrogen gas stick to the surface of the calcium and make it float. (iii) Iron is more reactive than copper and displaces it: Fe + CuSO_{4} → FeSO_{4} + Cu. The vessel would get corroded."},
+        {"q": "An element reacts with oxygen to form a compound with a high melting point that is also soluble in water. What could the element be? Explain.", "lines": 0,
+         "answer": "It is likely a metal such as calcium. 2Ca + O_{2} → 2CaO. Calcium oxide is an ionic compound, so it has a high melting point. It dissolves in water to form calcium hydroxide: CaO + H_{2}O → Ca(OH)_{2}."},
+        {"q": "What is a homologous series? Explain using the first three members of the alcohol family.", "lines": 0,
+         "answer": "A series of compounds with the same functional group, in which successive members differ by a –CH_{2}– unit. Alcohols: methanol CH_{3}OH, ethanol C_{2}H_{5}OH, propanol C_{3}H_{7}OH. Each has the –OH group, and each differs from the next by CH_{2} (14 u)."},
+        {"q": "Write the balanced equations for what happens when (i) zinc carbonate is heated strongly, (ii) zinc oxide is heated with carbon, (iii) zinc is added to copper sulphate solution.", "lines": 0,
+         "answer": "(i) ZnCO_{3} → ZnO + CO_{2} (calcination) (ii) ZnO + C → Zn + CO (reduction) (iii) Zn + CuSO_{4} → ZnSO_{4} + Cu (displacement)"},
+        {"q": "Why is it said that carbon forms a very large number of compounds? Give three reasons.", "lines": 0,
+         "answer": "(1) Catenation: carbon forms long chains, branches and rings with other carbon atoms. (2) Tetravalency: it can bond with four other atoms. (3) The bonds it forms with most elements are very strong, so its compounds are stable. Carbon can also form multiple (double and triple) bonds."}
+      ]
+    },
+    {
+      "title": "5-mark questions",
+      "questions": [
+        {"q": "(a) Arrange Mg, Na, Zn, Cu and Fe in decreasing order of reactivity. [1]\n(b) An iron nail is put in zinc sulphate solution and another in copper sulphate solution. In which will a reaction take place? Write the equation. [2]\n(c) Why are gold and silver used for jewellery? [2]", "lines": 0,
+         "answer": "(a) Na > Mg > Zn > Fe > Cu. (b) Only in copper sulphate, because iron is more reactive than copper but less reactive than zinc: Fe + CuSO_{4} → FeSO_{4} + Cu. (c) They are lustrous and malleable, and they are very unreactive, so they do not tarnish or corrode easily."},
+        {"q": "(a) Write the equations for the preparation of bleaching powder, baking soda and washing soda. [3]\n(b) Give one use of each. [2]", "lines": 0,
+         "answer": "(a) Bleaching powder: Ca(OH)_{2} + Cl_{2} → CaOCl_{2} + H_{2}O. Baking soda: NaCl + H_{2}O + CO_{2} + NH_{3} → NH_{4}Cl + NaHCO_{3}. Washing soda: Na_{2}CO_{3} + 10H_{2}O → Na_{2}CO_{3}·10H_{2}O. (b) Bleaching powder: disinfecting drinking water / bleaching. Baking soda: baking powder / antacid. Washing soda: removing permanent hardness of water / glass and soap industry."},
+        {"q": "(a) What is saponification? Write the equation for ethyl ethanoate with sodium hydroxide. [2]\n(b) How do soaps clean? [2]\n(c) Why do detergents work in hard water? [1]", "lines": 0,
+         "answer": "(a) The alkaline hydrolysis of an ester to give the alcohol and the sodium salt of the acid, which is how soap is made. CH_{3}COOC_{2}H_{5} + NaOH → C_{2}H_{5}OH + CH_{3}COONa. (b) Soap molecules have a hydrophilic ionic end and a hydrophobic carbon tail. In water they form micelles, with the tails trapping oily dirt inside, and the dirt is rinsed away. (c) The charged ends of detergent molecules do not form insoluble scum with the calcium and magnesium ions in hard water."}
+      ]
+    }
+  ],
+  "closing": "If you can answer all of these without the book, you're board-ready for Chemistry!"
+}

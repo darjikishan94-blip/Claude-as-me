@@ -1,0 +1,78 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-bank-biology-most-expected",
+  "title": "Most-Expected Questions: Biology (Ch 5–8, 13)",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Life Processes · Control and Coordination · Reproduction · Heredity · Our Environment",
+  "instructions": [
+    "These are the question types that come up again and again in board papers. Answer them in your notebook, then check with the answer key.",
+    "Biology answers score with keywords. Underline the technical terms in your answers."
+  ],
+  "sections": [
+    {
+      "title": "1-mark questions",
+      "questions": [
+        {"q": "Name the energy currency of the cell.", "lines": 0, "answer": "ATP (adenosine triphosphate)."},
+        {"q": "Where is bile stored?", "lines": 0, "answer": "In the gall bladder (it is made by the liver)."},
+        {"q": "Name the tissue that carries water in plants.", "lines": 0, "answer": "Xylem."},
+        {"q": "Which part of the brain maintains posture and balance?", "lines": 0, "answer": "Cerebellum."},
+        {"q": "Which part of a flower develops into the seed?", "lines": 0, "answer": "The ovule."},
+        {"q": "Name the scientist who worked out the rules of inheritance using pea plants.", "lines": 0, "answer": "Gregor Johann Mendel."},
+        {"q": "What forms the first trophic level of every food chain?", "lines": 0, "answer": "Producers (green plants / autotrophs)."},
+        {"q": "Which gas in the upper atmosphere absorbs harmful UV rays?", "lines": 0, "answer": "Ozone (O_{3})."}
+      ]
+    },
+    {
+      "title": "2-mark questions",
+      "questions": [
+        {"q": "Give two differences between autotrophic and heterotrophic nutrition.", "lines": 0,
+         "answer": "Autotrophs make their own food from simple inorganic substances (CO_{2} and water) using sunlight; heterotrophs depend on other organisms for food. Autotrophs have chlorophyll (green plants); heterotrophs do not (animals, fungi)."},
+        {"q": "How do guard cells open and close the stomatal pore?", "lines": 0,
+         "answer": "When water flows into the guard cells, they swell and the pore opens. When they lose water, they shrink and the pore closes."},
+        {"q": "Name the components of blood and give one function of each.", "lines": 0,
+         "answer": "Plasma carries food, CO_{2}, salts and nitrogenous wastes. Red blood cells carry oxygen (haemoglobin). White blood cells fight infection. Platelets help blood to clot."},
+        {"q": "Which signals are disrupted if the spinal cord is injured?", "lines": 0,
+         "answer": "Reflex actions are affected, and messages between the body and the brain (from the receptors to the brain, and from the brain to the muscles) cannot pass properly."},
+        {"q": "What are the functions of the testes in human beings?", "lines": 0,
+         "answer": "They produce sperm (male germ cells) and secrete the hormone testosterone, which brings about the changes in boys at puberty."},
+        {"q": "Give two reasons for using contraceptive methods.", "lines": 0,
+         "answer": "(Any two) To avoid unwanted pregnancies; to keep a gap between children for the mother's health; to control population growth; barrier methods also prevent sexually transmitted diseases."},
+        {"q": "What is DNA, and where is it found in a cell?", "lines": 0,
+         "answer": "DNA (deoxyribonucleic acid) is the information source for making proteins, and it carries the instructions for inherited characters. It is found in the chromosomes in the nucleus."},
+        {"q": "What are trophic levels? Name the trophic levels in the food chain grass → goat → human.", "lines": 0,
+         "answer": "The various steps in a food chain at which energy is transferred. Grass: producer (first level). Goat: herbivore / primary consumer (second level). Human: carnivore / secondary consumer (third level)."}
+      ]
+    },
+    {
+      "title": "3-mark questions",
+      "questions": [
+        {"q": "How do auxins help a tendril coil around a support?", "lines": 0,
+         "answer": "When a tendril touches a support, the part in contact grows more slowly than the part away from it. Auxin collects on the side away from the support, so the cells there grow faster. This uneven growth makes the tendril coil around the support."},
+        {"q": "Compare the alveoli in the lungs with the nephrons in the kidneys, in structure and function.", "lines": 0,
+         "answer": "Alveoli are tiny balloon-like sacs with very thin walls and a dense network of capillaries; they give a large surface area for exchanging O_{2} and CO_{2}. Nephrons are tiny tubular units: a glomerulus (capillary cluster) in a Bowman's capsule filters blood, and the tubule reabsorbs useful substances, forming urine. Both have a large surface area and a close contact with blood capillaries."},
+        {"q": "Why is DNA copying an essential part of reproduction?", "lines": 0,
+         "answer": "DNA carries the information for the body design. Copying it means each new cell or offspring gets a full set of instructions, so it looks and works like the parent. Small copying errors also create variations, which help the species survive changes in the environment."},
+        {"q": "What are the functions of the forebrain?", "lines": 0,
+         "answer": "It is the main thinking part of the brain. It has areas that receive sensory impulses (seeing, hearing, smelling, touch), areas that control voluntary movements of muscles, and areas for association, memory and learning. It also contains a centre for hunger."},
+        {"q": "If all the waste we produced were biodegradable, would it have no impact on the environment? Explain.", "lines": 0,
+         "answer": "No. Biodegradable waste takes time to decompose. In large amounts it piles up, smells, and attracts flies and pests that spread disease. It can also pollute water bodies as it rots. So even biodegradable waste must be managed, for example by composting."},
+        {"q": "What is the role of decomposers in an ecosystem?", "lines": 0,
+         "answer": "Decomposers (bacteria and fungi) break down dead plants, animals and wastes into simpler substances. These go back into the soil and are used again by plants, so nutrients are recycled. They also keep the environment clean by stopping dead matter from piling up."}
+      ]
+    },
+    {
+      "title": "5-mark questions",
+      "questions": [
+        {"q": "(a) Describe the experiment that shows carbon dioxide is essential for photosynthesis. [3]\n(b) Write the equation for photosynthesis and name its three main events. [2]", "lines": 0,
+         "answer": "(a) Destarch two potted plants by keeping them in the dark for three days. Cover each with a bell jar on a glass plate, placing a watch-glass of potassium hydroxide (which absorbs CO_{2}) beside one plant. Keep both in sunlight for a few hours, then test a leaf from each with iodine. The leaf from the plant without KOH turns blue-black (starch present); the one with KOH does not. So CO_{2} is essential for photosynthesis. (b) 6CO_{2} + 12H_{2}O → C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O (sunlight, chlorophyll). Events: absorption of light by chlorophyll; conversion of light energy to chemical energy and splitting of water; reduction of CO_{2} to carbohydrates."},
+        {"q": "(a) Describe the human excretory system and the function of each organ. [2]\n(b) Explain how urine is formed in a nephron. [3]", "lines": 0,
+         "answer": "(a) Two kidneys filter blood and form urine; two ureters carry urine to the urinary bladder, which stores it; the urethra passes it out of the body. (b) Blood enters the glomerulus, a cluster of capillaries inside the Bowman's capsule, where it is filtered. In the tubule, useful substances such as glucose, amino acids, salts and much of the water are selectively reabsorbed. The remaining fluid is urine, which goes to the collecting duct, then the ureter."},
+        {"q": "(a) Explain Mendel's monohybrid cross with a checkerboard, giving the F_{1} and F_{2} results. [3]\n(b) How do Mendel's results show that traits can be dominant or recessive? [2]", "lines": 0,
+         "answer": "(a) TT (tall) × tt (short) → F_{1} all Tt (tall). F_{1} × F_{1}: gametes T and t from each parent → TT, Tt, Tt, tt. F_{2}: 3 tall : 1 short (genotypes 1 : 2 : 1). (b) In F_{1} only tallness appears, so tallness is dominant. Shortness reappears in F_{2}, so it was present but hidden: it is recessive and shows only in the tt combination."}
+      ]
+    }
+  ],
+  "closing": "Keywords win marks in Biology. Use the textbook terms!"
+}
