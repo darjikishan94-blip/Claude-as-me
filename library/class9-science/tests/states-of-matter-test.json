@@ -1,0 +1,222 @@
+{
+  "type": "test",
+  "file_name": "c9-test-states-of-matter",
+  "title": "Unit Test: Matter in Our Surroundings",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Matter in Our Surroundings (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "K = °C + 273"
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "In which state is the space between particles the least?",
+          "marks": 1,
+          "options": [
+            "Liquid",
+            "Gas",
+            "Same in all three",
+            "Solid"
+          ],
+          "answer": "(d) Solid"
+        },
+        {
+          "q": "The boiling point of water on the Kelvin scale is:",
+          "marks": 1,
+          "options": [
+            "100 K",
+            "273 K",
+            "373 K",
+            "473 K"
+          ],
+          "answer": "(c) 373 K"
+        },
+        {
+          "q": "The rate of evaporation increases with an increase in:",
+          "marks": 1,
+          "options": [
+            "humidity",
+            "wind speed",
+            "the depth of the liquid",
+            "air pressure only"
+          ],
+          "answer": "(b) wind speed"
+        },
+        {
+          "q": "Dry ice is solid:",
+          "marks": 1,
+          "options": [
+            "water",
+            "nitrogen",
+            "ammonia",
+            "carbon dioxide"
+          ],
+          "answer": "(d) carbon dioxide"
+        },
+        {
+          "q": "The change of a gas into a liquid is called:",
+          "marks": 1,
+          "options": [
+            "evaporation",
+            "sublimation",
+            "condensation",
+            "melting"
+          ],
+          "answer": "(c) condensation"
+        },
+        {
+          "q": "**Assertion (A):** The temperature stays constant while ice is melting.\n**Reason (R):** The heat supplied is used to overcome the forces of attraction between the particles (latent heat).",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "The smell of hot, sizzling food reaches you several metres away, but you have to go close to cold food to smell it. Why?",
+          "marks": 2,
+          "answer": "Smell spreads by diffusion of particles through the air. At a higher temperature the particles have more kinetic energy and move faster, so they diffuse more quickly.",
+          "marking": [
+            "Diffusion: 1",
+            "Faster at higher temperature: 1"
+          ],
+          "or": {
+            "q": "Why is ice at 273 K more effective at cooling than water at the same temperature?",
+            "marks": 2,
+            "answer": "To melt, ice absorbs extra heat (its latent heat of fusion) from the surroundings, as well as the heat it takes as water at 273 K. So it takes away more heat and cools better.",
+            "marking": [
+              "Latent heat of fusion: 1",
+              "Absorbs more heat: 1"
+            ]
+          }
+        },
+        {
+          "q": "Convert (a) 0 °C to kelvin, (b) 310 K to degrees Celsius.",
+          "marks": 2,
+          "answer": "(a) 0 + 273 = 273 K. (b) 310 – 273 = 37 °C (normal body temperature).",
+          "marking": [
+            "Each: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about diffusion:",
+          "subparts": [
+            {
+              "q": "What is diffusion?",
+              "marks": 1,
+              "answer": "The intermixing of particles of two different types of matter on their own."
+            },
+            {
+              "q": "Why is diffusion faster in gases than in liquids?",
+              "marks": 1,
+              "answer": "Gas particles have much more space between them and move much faster than liquid particles."
+            },
+            {
+              "q": "Give one everyday example of diffusion.",
+              "marks": 1,
+              "answer": "(Any one) The smell of perfume or incense spreading in a room; ink spreading in water; oxygen dissolving in water for aquatic animals."
+            }
+          ]
+        },
+        {
+          "q": "How can a gas be changed into a liquid? Explain with the example of LPG.",
+          "marks": 3,
+          "answer": "By applying pressure and lowering the temperature. Pressure brings the particles close together, and cooling reduces their energy, so the forces of attraction hold them as a liquid. LPG (liquefied petroleum gas) is gas compressed into liquid form, so a large amount fits in a small cylinder.",
+          "marking": [
+            "Pressure + cooling: 1",
+            "Explanation with particles: 1",
+            "LPG example: 1"
+          ],
+          "or": {
+            "q": "Explain: (a) a sponge can be compressed, though it is a solid; (b) naphthalene balls disappear over time; (c) we can smell perfume from across a room.",
+            "marks": 3,
+            "answer": "(a) A sponge has tiny pores filled with air; pressing pushes the air out. (b) Naphthalene sublimes: it changes directly from solid to vapour. (c) Perfume particles diffuse through the air.",
+            "marking": [
+              "Each: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe an activity to study how temperature changes when ice is heated until the water boils.",
+              "marks": 3,
+              "answer": "Put ice in a beaker with a thermometer and heat it slowly, noting the temperature every minute. The temperature stays at 0 °C (273 K) until all the ice melts, because the heat is used as latent heat of fusion. It then rises steadily to 100 °C (373 K), and stays there while the water boils, because the heat is used as latent heat of vaporisation.",
+              "marking": [
+                "Set-up: 1",
+                "Constant temperature at melting: 1",
+                "Constant temperature at boiling: 1"
+              ]
+            },
+            {
+              "q": "Define latent heat of fusion and latent heat of vaporisation.",
+              "marks": 2,
+              "answer": "Latent heat of fusion: the heat needed to change 1 kg of a solid into liquid at its melting point, at atmospheric pressure. Latent heat of vaporisation: the heat needed to change 1 kg of a liquid into gas at its boiling point, at atmospheric pressure.",
+              "marking": [
+                "Each: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "In summer, Meera noticed that wet clothes dried much faster on a sunny, windy day than on a cloudy, still day. Her grandmother kept drinking water in an earthen pot (matka), and it stayed cool. In the evening, people sprinkled water on the hot terrace floor to cool it.",
+          "subparts": [
+            {
+              "q": "Name the process common to all three observations.",
+              "marks": 1,
+              "answer": "Evaporation."
+            },
+            {
+              "q": "Why does water in an earthen pot stay cool?",
+              "marks": 1,
+              "answer": "Water seeps through the tiny pores of the pot and evaporates from its surface. Evaporation takes heat from the pot and the water inside, cooling them."
+            },
+            {
+              "q": "Give two reasons why the clothes dried faster on the sunny, windy day.",
+              "marks": 2,
+              "answer": "(1) Higher temperature: the sun gives the water particles more energy to evaporate. (2) Wind carries away the water vapour, so more water can evaporate. (Lower humidity on a clear day also helps.)",
+              "marking": [
+                "Each reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

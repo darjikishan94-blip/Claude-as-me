@@ -111,9 +111,11 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 | Title | Files |
 |---|---|
+| Unit Test: Combustion and Flame | [PDF](class8-science/pdf/c8-test-combustion-flame.pdf) · [Word](class8-science/pdf/c8-test-combustion-flame.docx) · [Answer key](class8-science/pdf/c8-test-combustion-flame-answer-key.pdf) |
 | Unit Test: Force and Pressure | [PDF](class8-science/pdf/c8-test-force-pressure.pdf) · [Word](class8-science/pdf/c8-test-force-pressure.docx) · [Answer key](class8-science/pdf/c8-test-force-pressure-answer-key.pdf) |
 | Unit Test: Metals and Non-metals | [PDF](class8-science/pdf/c8-test-metals-non-metals.pdf) · [Word](class8-science/pdf/c8-test-metals-non-metals.docx) · [Answer key](class8-science/pdf/c8-test-metals-non-metals-answer-key.pdf) |
 | Unit Test: Microorganisms – Friend and Foe | [PDF](class8-science/pdf/c8-test-microorganisms.pdf) · [Word](class8-science/pdf/c8-test-microorganisms.docx) · [Answer key](class8-science/pdf/c8-test-microorganisms-answer-key.pdf) |
+| Unit Test: Sound | [PDF](class8-science/pdf/c8-test-sound.pdf) · [Word](class8-science/pdf/c8-test-sound.docx) · [Answer key](class8-science/pdf/c8-test-sound-answer-key.pdf) |
 
 ### Worksheets
 
@@ -134,7 +136,11 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Unit Test: Structure of the Atom | [PDF](class9-science/pdf/c9-test-atomic-structure.pdf) · [Word](class9-science/pdf/c9-test-atomic-structure.docx) · [Answer key](class9-science/pdf/c9-test-atomic-structure-answer-key.pdf) |
 | Unit Test: The Fundamental Unit of Life (Cell) | [PDF](class9-science/pdf/c9-test-cell.pdf) · [Word](class9-science/pdf/c9-test-cell.docx) · [Answer key](class9-science/pdf/c9-test-cell-answer-key.pdf) |
 | Unit Test: Force and Laws of Motion | [PDF](class9-science/pdf/c9-test-force-laws-of-motion.pdf) · [Word](class9-science/pdf/c9-test-force-laws-of-motion.docx) · [Answer key](class9-science/pdf/c9-test-force-laws-of-motion-answer-key.pdf) |
+| Unit Test: Mixtures, Solutions and Separation | [PDF](class9-science/pdf/c9-test-mixtures-separation.pdf) · [Word](class9-science/pdf/c9-test-mixtures-separation.docx) · [Answer key](class9-science/pdf/c9-test-mixtures-separation-answer-key.pdf) |
 | Unit Test: Motion | [PDF](class9-science/pdf/c9-test-motion.pdf) · [Word](class9-science/pdf/c9-test-motion.docx) · [Answer key](class9-science/pdf/c9-test-motion-answer-key.pdf) |
+| Unit Test: Sound | [PDF](class9-science/pdf/c9-test-sound.pdf) · [Word](class9-science/pdf/c9-test-sound.docx) · [Answer key](class9-science/pdf/c9-test-sound-answer-key.pdf) |
+| Unit Test: Matter in Our Surroundings | [PDF](class9-science/pdf/c9-test-states-of-matter.pdf) · [Word](class9-science/pdf/c9-test-states-of-matter.docx) · [Answer key](class9-science/pdf/c9-test-states-of-matter-answer-key.pdf) |
+| Unit Test: Tissues | [PDF](class9-science/pdf/c9-test-tissues.pdf) · [Word](class9-science/pdf/c9-test-tissues.docx) · [Answer key](class9-science/pdf/c9-test-tissues-answer-key.pdf) |
 | Unit Test: Work and Energy | [PDF](class9-science/pdf/c9-test-work-energy.pdf) · [Word](class9-science/pdf/c9-test-work-energy.docx) · [Answer key](class9-science/pdf/c9-test-work-energy-answer-key.pdf) |
 
 ### Worksheets

@@ -1,0 +1,197 @@
+{
+  "type": "test",
+  "file_name": "c8-test-sound",
+  "title": "Unit Test: Sound",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Sound (topic-based)",
+  "time": "45 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks.",
+    "Frequency = number of oscillations ÷ time · time period = 1 ÷ frequency"
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Sound is produced by:",
+          "marks": 1,
+          "options": [
+            "objects at rest",
+            "vibrating objects",
+            "light",
+            "heat"
+          ],
+          "answer": "(b) vibrating objects"
+        },
+        {
+          "q": "The unit of frequency is the:",
+          "marks": 1,
+          "options": [
+            "metre",
+            "second",
+            "kilogram",
+            "hertz"
+          ],
+          "answer": "(d) hertz"
+        },
+        {
+          "q": "The loudness of a sound depends on its:",
+          "marks": 1,
+          "options": [
+            "amplitude",
+            "frequency",
+            "time period",
+            "speed"
+          ],
+          "answer": "(a) amplitude"
+        },
+        {
+          "q": "Sound cannot travel through:",
+          "marks": 1,
+          "options": [
+            "a vacuum",
+            "air",
+            "water",
+            "steel"
+          ],
+          "answer": "(a) a vacuum"
+        },
+        {
+          "q": "In humans, sound is produced by the:",
+          "marks": 1,
+          "options": [
+            "eardrum",
+            "lungs",
+            "nose",
+            "larynx (voice box)"
+          ],
+          "answer": "(d) larynx (voice box)"
+        },
+        {
+          "q": "A vibration has a time period of 0.05 s. Its frequency is:",
+          "marks": 1,
+          "options": [
+            "0.05 Hz",
+            "5 Hz",
+            "20 Hz",
+            "50 Hz"
+          ],
+          "answer": "(c) 20 Hz"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why can't astronauts on the Moon talk to each other directly, without radios?",
+          "marks": 2,
+          "answer": "There is no air on the Moon. Sound needs a medium to travel, so it cannot pass through the empty space between them.",
+          "marking": [
+            "No air on the Moon: 1",
+            "Sound needs a medium: 1"
+          ]
+        },
+        {
+          "q": "Which part of the ear vibrates when sound reaches it? Why should we never put sharp objects into our ears?",
+          "marks": 2,
+          "answer": "The eardrum. A sharp object can damage the eardrum, which can affect hearing.",
+          "marking": [
+            "Eardrum: 1",
+            "Damage → hearing loss: 1"
+          ]
+        },
+        {
+          "q": "What is the difference between music and noise?",
+          "marks": 2,
+          "answer": "Sounds that are pleasant to hear are called music. Unpleasant sounds are called noise. Even music becomes noise when it is too loud.",
+          "marking": [
+            "Music: 1",
+            "Noise: 1"
+          ]
+        },
+        {
+          "q": "Give two sources of noise pollution and two of its harmful effects.",
+          "marks": 2,
+          "answer": "Sources (any two): vehicle horns, loudspeakers, firecrackers, factory machines, loud TV or music. Effects (any two): lack of sleep, high blood pressure, anxiety, hearing loss.",
+          "marking": [
+            "Two sources: 1",
+            "Two effects: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A pendulum makes 20 oscillations in 4 seconds.",
+          "subparts": [
+            {
+              "q": "Find its frequency.",
+              "marks": 1,
+              "answer": "20 ÷ 4 = 5 Hz"
+            },
+            {
+              "q": "Find its time period.",
+              "marks": 1,
+              "answer": "1 ÷ 5 = 0.2 s"
+            },
+            {
+              "q": "If a vibrating object vibrates with a larger amplitude, what changes about the sound it makes?",
+              "marks": 1,
+              "answer": "The sound becomes louder."
+            }
+          ]
+        },
+        {
+          "q": "Which part vibrates to produce sound in (a) a sitar, (b) a flute, (c) a dholak?",
+          "marks": 3,
+          "answer": "(a) Sitar: the stretched strings. (b) Flute: the air column inside the tube. (c) Dholak: the stretched membrane (skin).",
+          "marking": [
+            "Each: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "How is the human voice produced?",
+              "marks": 2,
+              "answer": "The voice box (larynx) at the upper end of the windpipe has two vocal cords with a narrow slit between them. When air from the lungs is forced through the slit, the vocal cords vibrate and produce sound.",
+              "marking": [
+                "Larynx with vocal cords: 1",
+                "Air makes them vibrate: 1"
+              ]
+            },
+            {
+              "q": "Why are men's voices usually deeper than women's?",
+              "marks": 1,
+              "answer": "Men's vocal cords are longer (about 20 mm, compared with about 15 mm in women), so they vibrate at a lower frequency, giving a lower pitch."
+            },
+            {
+              "q": "Suggest two ways to reduce noise near a school.",
+              "marks": 2,
+              "answer": "(Any two) Plant trees along the roads around the school; put up 'No horn' signs and enforce them; keep loud vehicles and factories away; use sound-absorbing materials in classrooms.",
+              "marking": [
+                "Any two: 1 + 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

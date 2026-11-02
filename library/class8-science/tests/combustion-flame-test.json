@@ -1,0 +1,185 @@
+{
+  "type": "test",
+  "file_name": "c8-test-combustion-flame",
+  "title": "Unit Test: Combustion and Flame",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Combustion and Flame (topic-based)",
+  "time": "45 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of these is a combustible substance?",
+          "marks": 1,
+          "options": [
+            "Glass",
+            "Stone",
+            "Iron nail",
+            "Wood"
+          ],
+          "answer": "(d) Wood"
+        },
+        {
+          "q": "The hottest part of a candle flame is the:",
+          "marks": 1,
+          "options": [
+            "outermost non-luminous zone",
+            "innermost dark zone",
+            "middle luminous zone",
+            "wick"
+          ],
+          "answer": "(a) outermost non-luminous zone"
+        },
+        {
+          "q": "Which is the best fire extinguisher for a fire in electrical equipment?",
+          "marks": 1,
+          "options": [
+            "Water",
+            "Carbon dioxide",
+            "Kerosene",
+            "Petrol"
+          ],
+          "answer": "(b) Carbon dioxide"
+        },
+        {
+          "q": "The unit of calorific value is:",
+          "marks": 1,
+          "options": [
+            "kg/kJ",
+            "kJ/kg",
+            "°C",
+            "joule only"
+          ],
+          "answer": "(b) kJ/kg"
+        },
+        {
+          "q": "Which of these fuels has the highest calorific value?",
+          "marks": 1,
+          "options": [
+            "Wood",
+            "Coal",
+            "Hydrogen",
+            "LPG"
+          ],
+          "answer": "(c) Hydrogen"
+        },
+        {
+          "q": "The burning of a candle involves:",
+          "marks": 1,
+          "options": [
+            "only a physical change",
+            "only a chemical change",
+            "both physical and chemical changes",
+            "no change"
+          ],
+          "answer": "(c) both physical and chemical changes (wax melts, and wax vapour burns)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is ignition temperature? Why does wet wood not catch fire easily?",
+          "marks": 2,
+          "answer": "Ignition temperature is the lowest temperature at which a substance catches fire. In wet wood, the heat is first used to evaporate the water, so the wood takes a long time to reach its ignition temperature.",
+          "marking": [
+            "Definition: 1",
+            "Reason: 1"
+          ]
+        },
+        {
+          "q": "Why should water not be poured on a fire caused by oil?",
+          "marks": 2,
+          "answer": "Oil is lighter than water and floats on top of it, so it keeps burning. The burning oil can spread with the water and make the fire bigger.",
+          "marking": [
+            "Oil floats: 1",
+            "Fire spreads: 1"
+          ]
+        },
+        {
+          "q": "What is spontaneous combustion? Give one example.",
+          "marks": 2,
+          "answer": "A substance suddenly bursting into flames without any apparent cause (no flame applied). Example: white phosphorus catches fire in air at room temperature.",
+          "marking": [
+            "Definition: 1",
+            "Example: 1"
+          ]
+        },
+        {
+          "q": "Name the poisonous gas formed when fuels burn incompletely. Why is it dangerous?",
+          "marks": 2,
+          "answer": "Carbon monoxide. It is very poisonous: breathing it in a closed room, for example while sleeping near burning coal, can kill.",
+          "marking": [
+            "Carbon monoxide: 1",
+            "Danger: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "3 kg of a fuel produces 150,000 kJ of heat on complete burning. Find its calorific value. LPG has a calorific value of about 55,000 kJ/kg. Which of the two is the better fuel by this measure?",
+          "marks": 3,
+          "answer": "Calorific value = 150,000 ÷ 3 = 50,000 kJ/kg. LPG (about 55,000 kJ/kg) gives more heat per kg, so it is the better fuel by this measure.",
+          "marking": [
+            "Calculation: 1",
+            "50,000 kJ/kg: 1",
+            "Comparison: 1"
+          ]
+        },
+        {
+          "q": "Name the three zones of a candle flame and describe what happens in each.",
+          "marks": 3,
+          "answer": "Innermost (dark) zone: unburnt wax vapour; least hot. Middle (luminous, yellow) zone: partial combustion, with glowing unburnt carbon particles giving light. Outermost (non-luminous, blue) zone: complete combustion; the hottest part.",
+          "marking": [
+            "Each zone: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What three things are needed for a fire to start and continue?",
+              "marks": 2,
+              "answer": "A fuel (combustible substance), a supply of air (oxygen), and heat to raise the fuel to its ignition temperature.",
+              "marking": [
+                "All three: 2 (two correct: 1)"
+              ]
+            },
+            {
+              "q": "How does a carbon dioxide fire extinguisher put out a fire?",
+              "marks": 1,
+              "answer": "CO_{2} is heavier than oxygen, so it covers the fire like a blanket and cuts off the air supply. It also cools the fuel."
+            },
+            {
+              "q": "Give two harmful effects on the environment of burning wood, coal and leaves.",
+              "marks": 2,
+              "answer": "(Any two) Smoke and unburnt carbon particles pollute the air and cause breathing problems. Carbon dioxide adds to global warming. Burning wood means cutting trees (deforestation). Oxides of sulphur and nitrogen cause acid rain.",
+              "marking": [
+                "Any two: 1 + 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

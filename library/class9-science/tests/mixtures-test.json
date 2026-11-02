@@ -1,0 +1,222 @@
+{
+  "type": "test",
+  "file_name": "c9-test-mixtures-separation",
+  "title": "Unit Test: Mixtures, Solutions and Separation",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Is Matter Around Us Pure (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following is a homogeneous mixture?",
+          "marks": 1,
+          "options": [
+            "Sand in water",
+            "Oil in water",
+            "Salt solution",
+            "Chalk in water"
+          ],
+          "answer": "(c) Salt solution"
+        },
+        {
+          "q": "Which of these shows the Tyndall effect?",
+          "marks": 1,
+          "options": [
+            "Salt solution",
+            "Sugar solution",
+            "Copper sulphate solution",
+            "Milk"
+          ],
+          "answer": "(d) Milk (a colloid)"
+        },
+        {
+          "q": "Camphor can be separated from common salt by:",
+          "marks": 1,
+          "options": [
+            "filtration",
+            "sublimation",
+            "distillation",
+            "chromatography"
+          ],
+          "answer": "(b) sublimation"
+        },
+        {
+          "q": "Which of these is a chemical change?",
+          "marks": 1,
+          "options": [
+            "Rusting of iron",
+            "Melting of ice",
+            "Dissolving sugar in water",
+            "Boiling of water"
+          ],
+          "answer": "(a) Rusting of iron"
+        },
+        {
+          "q": "Brass is:",
+          "marks": 1,
+          "options": [
+            "an element",
+            "a homogeneous mixture (alloy)",
+            "a compound",
+            "a heterogeneous mixture"
+          ],
+          "answer": "(b) a homogeneous mixture (alloy)"
+        },
+        {
+          "q": "**Assertion (A):** A sugar solution does not show the Tyndall effect.\n**Reason (R):** The particles in a true solution are too small to scatter light.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Classify each as an element, a compound or a mixture: water, air, copper, sugar.",
+          "marks": 2,
+          "answer": "Water: compound. Air: mixture. Copper: element. Sugar: compound.",
+          "marking": [
+            "½ each"
+          ],
+          "or": {
+            "q": "What is a saturated solution? How does the solubility of most solids change with temperature?",
+            "marks": 2,
+            "answer": "A saturated solution can dissolve no more solute at a given temperature. For most solids, solubility increases as the temperature increases.",
+            "marking": [
+              "Definition: 1",
+              "Effect of temperature: 1"
+            ]
+          }
+        },
+        {
+          "q": "Find the mass of glucose in 250 g of a 20% (mass by mass) glucose solution.",
+          "marks": 2,
+          "answer": "Mass of glucose = 20% of 250 g = (20/100) × 250 = 50 g.",
+          "marking": [
+            "Method: 1",
+            "50 g: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Suggest a method to separate:",
+          "subparts": [
+            {
+              "q": "butter from curd.",
+              "marks": 1,
+              "answer": "Centrifugation (churning)."
+            },
+            {
+              "q": "iron filings from sulphur powder.",
+              "marks": 1,
+              "answer": "Using a magnet."
+            },
+            {
+              "q": "salt from sea water.",
+              "marks": 1,
+              "answer": "Evaporation."
+            }
+          ]
+        },
+        {
+          "q": "What is chromatography? Explain how it separates the colours in ink, and give two uses.",
+          "marks": 3,
+          "answer": "Chromatography separates components of a mixture that dissolve in the same solvent. A spot of ink is put near the bottom of a strip of filter paper, and the strip is dipped in water. As the water rises, the colour that dissolves more readily rises faster and separates from the others. Uses (any two): separating colours in a dye or pigments from natural colours; separating drugs from blood.",
+          "marking": [
+            "Definition: 1",
+            "How it works: 1",
+            "Two uses: 1"
+          ],
+          "or": {
+            "q": "How would you separate a mixture of acetone and water? Name the method and explain why it works.",
+            "marks": 3,
+            "answer": "By distillation. The mixture is heated in a distillation flask. Acetone has a lower boiling point (56 °C) than water (100 °C), so it evaporates first, is condensed in the condenser, and is collected separately. Water stays in the flask. This works because the two liquids are miscible but have quite different boiling points.",
+            "marking": [
+              "Distillation: 1",
+              "Process: 1",
+              "Reason (different boiling points): 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Compare true solutions, colloids and suspensions on particle size, visibility of particles, and stability.",
+              "marks": 3,
+              "answer": "Particle size: true solution less than 1 nm; colloid 1–100 nm; suspension more than 100 nm. Visibility: particles of a solution and a colloid cannot be seen with the naked eye; those of a suspension can. Stability: solutions and colloids are stable (particles don't settle); in a suspension the particles settle on standing.",
+              "marking": [
+                "Each point of comparison: 1"
+              ]
+            },
+            {
+              "q": "Classify as a true solution, colloid or suspension: milk, chalk in water, salt solution, smoke.",
+              "marks": 2,
+              "answer": "Milk: colloid. Chalk in water: suspension. Salt solution: true solution. Smoke: colloid.",
+              "marking": [
+                "½ each"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "While making tea, Priya boiled water, added tea leaves, sugar and milk, and then poured the tea through a strainer into a cup. The tea leaves were left behind in the strainer.",
+          "subparts": [
+            {
+              "q": "In dissolving the sugar, which substance is the solvent?",
+              "marks": 1,
+              "answer": "Water."
+            },
+            {
+              "q": "What is the residue and what is the filtrate in this process?",
+              "marks": 1,
+              "answer": "Residue: tea leaves. Filtrate: the tea in the cup."
+            },
+            {
+              "q": "Name the separation method used, and say whether sugar dissolving in water is a physical or a chemical change.",
+              "marks": 2,
+              "answer": "Filtration (straining). Dissolving sugar is a physical change: no new substance forms, and the sugar can be recovered by evaporating the water.",
+              "marking": [
+                "Filtration: 1",
+                "Physical change with reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

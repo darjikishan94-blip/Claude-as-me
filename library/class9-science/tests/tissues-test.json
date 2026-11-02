@@ -1,0 +1,221 @@
+{
+  "type": "test",
+  "file_name": "c9-test-tissues",
+  "title": "Unit Test: Tissues",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Tissues (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Draw neat, labelled diagrams wherever required."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which tissue increases the length of the stem and the root?",
+          "marks": 1,
+          "options": [
+            "Apical meristem",
+            "Lateral meristem",
+            "Intercalary meristem",
+            "Parenchyma"
+          ],
+          "answer": "(a) Apical meristem"
+        },
+        {
+          "q": "Lignin is found in the cell walls of:",
+          "marks": 1,
+          "options": [
+            "parenchyma",
+            "collenchyma",
+            "epidermis",
+            "sclerenchyma"
+          ],
+          "answer": "(d) sclerenchyma"
+        },
+        {
+          "q": "Blood is a type of:",
+          "marks": 1,
+          "options": [
+            "epithelial tissue",
+            "connective tissue",
+            "muscular tissue",
+            "nervous tissue"
+          ],
+          "answer": "(b) connective tissue"
+        },
+        {
+          "q": "Which tissue connects one bone to another?",
+          "marks": 1,
+          "options": [
+            "Tendon",
+            "Cartilage",
+            "Adipose tissue",
+            "Ligament"
+          ],
+          "answer": "(d) Ligament"
+        },
+        {
+          "q": "Food is transported in plants by the:",
+          "marks": 1,
+          "options": [
+            "xylem",
+            "epidermis",
+            "phloem",
+            "cork"
+          ],
+          "answer": "(c) phloem"
+        },
+        {
+          "q": "**Assertion (A):** Cardiac muscles contract and relax rhythmically throughout life.\n**Reason (R):** Cardiac muscles are voluntary muscles.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(c). Cardiac muscles are involuntary."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What are the functions of stomata? Name the cells that surround them.",
+          "marks": 2,
+          "answer": "Stomata allow the exchange of gases (CO_{2} and O_{2}) with the atmosphere, and the loss of water vapour (transpiration). They are surrounded by two kidney-shaped guard cells.",
+          "marking": [
+            "Functions: 1",
+            "Guard cells: 1"
+          ],
+          "or": {
+            "q": "Why is the epidermis important for a plant? How is it adapted in desert plants?",
+            "marks": 2,
+            "answer": "The epidermis protects all parts of the plant. In desert plants it has a thick waxy coating of cutin, which acts as a water-proof layer and reduces water loss.",
+            "marking": [
+              "Protection: 1",
+              "Thick cuticle in desert plants: 1"
+            ]
+          }
+        },
+        {
+          "q": "Name the tissue that (a) stores fat below the skin, (b) smoothens bone surfaces at joints.",
+          "marks": 2,
+          "answer": "(a) Adipose tissue. (b) Cartilage.",
+          "marking": [
+            "Each: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Name the simple permanent plant tissue that:",
+          "subparts": [
+            {
+              "q": "is made of dead cells and gives the plant strength.",
+              "marks": 1,
+              "answer": "Sclerenchyma"
+            },
+            {
+              "q": "gives flexibility to parts such as leaf stalks.",
+              "marks": 1,
+              "answer": "Collenchyma"
+            },
+            {
+              "q": "stores food and has loosely packed, thin-walled living cells.",
+              "marks": 1,
+              "answer": "Parenchyma"
+            }
+          ]
+        },
+        {
+          "q": "Describe the structure of a neuron and its function.",
+          "marks": 3,
+          "answer": "A neuron has a cell body with a nucleus and cytoplasm, short branched dendrites, and a long single axon. Nerve impulses travel from the dendrites to the cell body and along the axon. Neurons can be up to a metre long. They receive and conduct stimuli very rapidly from one part of the body to another.",
+          "marking": [
+            "Parts: 2",
+            "Function: 1"
+          ],
+          "or": {
+            "q": "Give three differences between xylem and phloem.",
+            "marks": 3,
+            "answer": "Xylem carries water and minerals, while phloem carries food. Xylem transport is upward only, while phloem transport can go up or down. Xylem consists of tracheids, vessels, xylem parenchyma and fibres, mostly dead except the parenchyma. Phloem consists of sieve tubes, companion cells, phloem parenchyma and fibres; all are living except the fibres.",
+            "marking": [
+              "Any three: 1 each"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe the three types of muscle tissue, with one location of each.",
+              "marks": 3,
+              "answer": "Striated (skeletal) muscle: voluntary; long, cylindrical, multinucleate cells with light and dark bands; found in the limbs. Smooth muscle: involuntary; spindle-shaped, uninucleate, no striations; found in the alimentary canal, blood vessels and iris. Cardiac muscle: involuntary; cylindrical, branched, uninucleate cells; found only in the heart, where it contracts rhythmically throughout life.",
+              "marking": [
+                "Each type with location: 1"
+              ]
+            },
+            {
+              "q": "Why is blood called a connective tissue?",
+              "marks": 2,
+              "answer": "Blood has cells (RBCs, WBCs and platelets) suspended in a fluid matrix called plasma. It flows through the body and connects different parts, carrying gases, digested food, hormones and wastes between them.",
+              "marking": [
+                "Cells in a fluid matrix: 1",
+                "Connects/transports between body parts: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "As plants grow older, the outer protective tissue of the stem changes. A strip of secondary meristem replaces the epidermis, and cells cut off on the outside form a several-layer-thick cork, the bark of the tree. Cork cells are dead, compactly arranged and without intercellular spaces. Their walls contain a chemical called suberin, which makes them impervious to gases and water.",
+          "subparts": [
+            {
+              "q": "What replaces the epidermis in older stems?",
+              "marks": 1,
+              "answer": "Cork (bark), formed by a secondary meristem."
+            },
+            {
+              "q": "Name the chemical present in the walls of cork cells.",
+              "marks": 1,
+              "answer": "Suberin."
+            },
+            {
+              "q": "How does cork protect the plant? Why is cork used to make bottle stoppers?",
+              "marks": 2,
+              "answer": "Cork cells are dead and tightly packed, with suberin in their walls, so they stop water loss, gas exchange through the bark, and injury or infection. The same properties (impervious to water and gases, light and compressible) make cork good for bottle stoppers.",
+              "marking": [
+                "Protection: 1",
+                "Use in stoppers: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

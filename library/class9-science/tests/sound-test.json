@@ -1,0 +1,225 @@
+{
+  "type": "test",
+  "file_name": "c9-test-sound",
+  "title": "Unit Test: Sound",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Sound (topic-based)",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Show the formula, substitution and unit in every numerical."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Sound travels fastest in:",
+          "marks": 1,
+          "options": [
+            "air",
+            "water",
+            "steel",
+            "a vacuum"
+          ],
+          "answer": "(c) steel"
+        },
+        {
+          "q": "The SI unit of frequency is the:",
+          "marks": 1,
+          "options": [
+            "metre",
+            "second",
+            "decibel",
+            "hertz"
+          ],
+          "answer": "(d) hertz"
+        },
+        {
+          "q": "Sound waves in air are:",
+          "marks": 1,
+          "options": [
+            "transverse",
+            "longitudinal",
+            "electromagnetic",
+            "not waves at all"
+          ],
+          "answer": "(b) longitudinal"
+        },
+        {
+          "q": "Sound of frequency higher than 20 kHz is called:",
+          "marks": 1,
+          "options": [
+            "infrasonic",
+            "ultrasonic",
+            "audible",
+            "supersonic"
+          ],
+          "answer": "(b) ultrasonic"
+        },
+        {
+          "q": "A sound has a frequency of 500 Hz. Its time period is:",
+          "marks": 1,
+          "options": [
+            "0.002 s",
+            "0.02 s",
+            "2 s",
+            "500 s"
+          ],
+          "answer": "(a) 0.002 s (T = 1/f)"
+        },
+        {
+          "q": "**Assertion (A):** We see a lightning flash before we hear the thunder.\n**Reason (R):** Light travels much faster than sound.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What are compressions and rarefactions?",
+          "marks": 2,
+          "answer": "When sound travels through air, compressions are regions where the particles are crowded together (high pressure), and rarefactions are regions where they are spread apart (low pressure).",
+          "marking": [
+            "Compression: 1",
+            "Rarefaction: 1"
+          ],
+          "or": {
+            "q": "What is reverberation? How can it be reduced in a big hall?",
+            "marks": 2,
+            "answer": "Reverberation is the persistence of sound in a big hall due to repeated reflections from the walls, ceiling and floor. It can be reduced by covering these surfaces with sound-absorbing materials such as fibreboard, rough plaster or curtains, and by using seats made of absorbent material.",
+            "marking": [
+              "Definition: 1",
+              "How to reduce: 1"
+            ]
+          }
+        },
+        {
+          "q": "Sound travels at 340 m/s in air. Find the frequency of a sound wave of wavelength 1.7 m.",
+          "marks": 2,
+          "answer": "f = v/λ = 340/1.7 = 200 Hz",
+          "marking": [
+            "Formula: 1",
+            "200 Hz: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A boy claps his hands in front of a tall building and hears the echo 3 s later. (Speed of sound = 340 m/s)",
+          "subparts": [
+            {
+              "q": "What total distance has the sound travelled?",
+              "marks": 1,
+              "answer": "340 × 3 = 1020 m"
+            },
+            {
+              "q": "How far is the building from the boy?",
+              "marks": 1,
+              "answer": "1020/2 = 510 m (the sound goes there and back)"
+            },
+            {
+              "q": "What is the minimum distance needed to hear a distinct echo at this speed of sound?",
+              "marks": 1,
+              "answer": "The echo must return after at least 0.1 s, so the distance = (340 × 0.1)/2 = 17 m"
+            }
+          ]
+        },
+        {
+          "q": "Give three uses of ultrasound.",
+          "marks": 3,
+          "answer": "(Any three) Cleaning hard-to-reach parts of objects such as spiral tubes and electronic components; detecting cracks and flaws in metal blocks; imaging the heart (echocardiography) and other internal organs (ultrasonography); breaking kidney stones into fine grains; SONAR, for finding the depth of the sea and locating underwater objects.",
+          "marking": [
+            "Any three: 1 each"
+          ],
+          "or": {
+            "q": "What is SONAR? Explain how it is used to find the depth of the sea.",
+            "marks": 3,
+            "answer": "SONAR (Sound Navigation And Ranging) uses ultrasonic waves to measure the distance, direction and speed of underwater objects. A transmitter on a ship sends ultrasonic waves down. They reflect from the sea bed and are picked up by a detector. If the echo takes time t and the speed of sound in water is v, the depth = (v × t)/2.",
+            "marking": [
+              "What SONAR is: 1",
+              "Working: 1",
+              "Depth = vt/2: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain how sound travels through air from a vibrating object to our ears.",
+              "marks": 3,
+              "answer": "When an object vibrates forward, it pushes the air particles in front of it and creates a region of high pressure (compression). When it moves back, it creates a region of low pressure (rarefaction). As it keeps vibrating, a series of compressions and rarefactions travels through the air. The air particles themselves only vibrate about their positions; they do not travel with the wave. The disturbance reaches our ear and makes the eardrum vibrate.",
+              "marking": [
+                "Compression formed: 1",
+                "Rarefaction formed: 1",
+                "Disturbance travels, particles don't: 1"
+              ]
+            },
+            {
+              "q": "A ship sends out an ultrasonic pulse and receives the echo from the sea bed after 4 s. The speed of sound in sea water is 1500 m/s. How deep is the sea?",
+              "marks": 2,
+              "answer": "Depth = (v × t)/2 = (1500 × 4)/2 = 3000 m",
+              "marking": [
+                "Formula with ÷2: 1",
+                "3000 m: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "The outer ear collects sound and sends it through the ear canal to the eardrum, which starts vibrating. In the middle ear, three tiny bones (the hammer, anvil and stirrup) increase these vibrations several times and pass them to the inner ear. In the inner ear, the cochlea converts the pressure variations into electrical signals, which the auditory nerve carries to the brain.",
+          "subparts": [
+            {
+              "q": "Which part of the ear vibrates first when sound reaches it?",
+              "marks": 1,
+              "answer": "The eardrum."
+            },
+            {
+              "q": "Name the three bones of the middle ear.",
+              "marks": 1,
+              "answer": "Hammer, anvil and stirrup."
+            },
+            {
+              "q": "What is the role of the cochlea? Why can very loud sounds be harmful?",
+              "marks": 2,
+              "answer": "The cochlea converts the vibrations (pressure variations) into electrical signals that are sent to the brain. Very loud sounds can damage the eardrum and the inner ear, causing temporary or permanent hearing loss.",
+              "marking": [
+                "Cochlea's role: 1",
+                "Harm from loud sounds: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
