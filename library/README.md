@@ -49,5 +49,15 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Pre-Board Mock 1 (CBSE pattern) | [PDF](class10-science/pdf/c10-mock-cbse-1.pdf) · [Word](class10-science/pdf/c10-mock-cbse-1.docx) · [Answer key](class10-science/pdf/c10-mock-cbse-1-answer-key.pdf) |
 | Pre-Board Mock 1 (GSEB pattern) | [PDF](class10-science/pdf/c10-mock-gseb-1.pdf) · [Word](class10-science/pdf/c10-mock-gseb-1.docx) · [Answer key](class10-science/pdf/c10-mock-gseb-1-answer-key.pdf) |
 
+### Plans
+
+| Title | Files |
+|---|---|
+| Class 10 Science: 90-Day Board Revision Plan | [PDF](class10-science/pdf/c10-plan-90-day-board-revision.pdf) · [Word](class10-science/pdf/c10-plan-90-day-board-revision.docx) |
+
+## Guides & message kits
+
+- [Class 10 board season: parent message series (Nov 2026 – Feb 2027)](class10-science/plans/class10-90-day-parent-messages.md)
+
 ---
 Rebuild after editing any spec: `python3 tools/build_library.py`

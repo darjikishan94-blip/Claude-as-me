@@ -463,6 +463,30 @@ def short(text, n=150):
 
 # ---------------------------------------------------------------- notes
 
+
+def set_col_widths(table, rows, widths_cm=None):
+    """Fixed column widths: given in cm, or proportional to the longest text in each column."""
+    ncols = len(rows[0])
+    if not widths_cm:
+        plain = [[re.sub(r"[*_^{}]", "", str(c)) for c in r] for r in rows]
+        weights = []
+        for c in range(ncols):
+            longest = max(len(r[c]) for r in plain)
+            avg = sum(len(r[c]) for r in plain) / len(plain)
+            word = max((len(w) for r in plain for w in r[c].split()), default=4)
+            weights.append(min(45, max(word * 1.6 + 3, 0.5 * longest + 0.5 * avg)))
+        widths_cm = [TEXT_W * w / sum(weights) for w in weights]
+    table.autofit = False
+    tblPr = table._tbl.tblPr
+    layout = OxmlElement("w:tblLayout")
+    layout.set(qn("w:type"), "fixed")
+    tblPr.append(layout)
+    for c, w in enumerate(widths_cm):
+        table.columns[c].width = Cm(w)
+        for cell in table.columns[c].cells:
+            cell.width = Cm(w)
+
+
 def render_notes(spec, path):
     doc = new_document(f"{spec.get('academy', 'Level Up Academy')}  ·  {spec.get('title', '')}")
     academy = spec.get("academy", "Level Up Academy")
@@ -492,9 +516,16 @@ def render_notes(spec, path):
             rows = block["table"]
             t = doc.add_table(rows=len(rows), cols=len(rows[0]))
             t.style = "Table Grid"
+            set_col_widths(t, rows, block.get("col_widths"))
             for r, row in enumerate(rows):
                 for c, txt in enumerate(row):
                     add_rich(t.rows[r].cells[c].paragraphs[0], txt, size=10, bold=(r == 0))
+                if r and block.get("row_height_cm"):
+                    trPr = t.rows[r]._tr.get_or_add_trPr()
+                    h = OxmlElement("w:trHeight")
+                    h.set(qn("w:val"), str(int(float(block["row_height_cm"]) * 567)))
+                    h.set(qn("w:hRule"), "atLeast")
+                    trPr.append(h)
             para(doc, "", after=3)
         elif "lines" in block:
             answer_lines(doc, block["lines"], indent=0)
