@@ -1,0 +1,60 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch04-notes-carbon-compounds",
+  "title": "Quick Revision: Carbon and its Compounds",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Why carbon is special"},
+    {"bullets": [
+      "**Covalent bonds:** carbon (valency 4) shares electrons, because gaining or losing 4 electrons is very hard.",
+      "**Catenation:** carbon bonds with other carbon atoms to form chains, branches and rings. **Tetravalency:** it can bond with 4 other atoms.",
+      "Covalent compounds have low melting and boiling points and are poor conductors (no ions are formed).",
+      "**Allotropes:** diamond (each C bonded to 4 others; hardest), graphite (layers; conducts electricity), fullerene C_{60}."
+    ]},
+    {"h": "Hydrocarbons & naming"},
+    {"table": [
+      ["Series", "General formula", "Bond", "Examples"],
+      ["Alkane (saturated)", "C_{n}H_{2n+2}", "single", "methane CH_{4}, ethane C_{2}H_{6}"],
+      ["Alkene", "C_{n}H_{2n}", "double", "ethene C_{2}H_{4}, propene C_{3}H_{6}"],
+      ["Alkyne", "C_{n}H_{2n–2}", "triple", "ethyne C_{2}H_{2}, propyne C_{3}H_{4}"]
+    ]},
+    {"p": "**Homologous series:** same functional group; consecutive members differ by –CH_{2}– (14 u); similar chemical properties; physical properties change gradually. **Isomers:** same molecular formula, different structure (butane has 2)."},
+    {"table": [
+      ["Functional group", "Formula", "Name ending / prefix", "Example"],
+      ["Halogen", "–Cl, –Br", "chloro-, bromo-", "chloropropane"],
+      ["Alcohol", "–OH", "-ol", "propanol"],
+      ["Aldehyde", "–CHO", "-al", "propanal"],
+      ["Ketone", ">C=O", "-one", "propanone"],
+      ["Carboxylic acid", "–COOH", "-oic acid", "propanoic acid"]
+    ]},
+    {"h": "Chemical properties"},
+    {"bullets": [
+      "**Combustion:** CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O + heat and light. Saturated: clean blue flame. Unsaturated: sooty yellow flame.",
+      "**Oxidation:** alkaline KMnO_{4} or acidified K_{2}Cr_{2}O_{7} oxidises ethanol to ethanoic acid.",
+      "**Addition (hydrogenation):** unsaturated + H_{2}, with Ni or Pd catalyst. Vegetable oil → vegetable ghee.",
+      "**Substitution:** CH_{4} + Cl_{2} → CH_{3}Cl + HCl (in sunlight)"
+    ]},
+    {"h": "Ethanol & ethanoic acid"},
+    {"bullets": [
+      "Ethanol + sodium: 2C_{2}H_{5}OH + 2Na → 2C_{2}H_{5}ONa + H_{2}",
+      "Ethanol + hot concentrated H_{2}SO_{4} at 443 K → ethene: C_{2}H_{5}OH → C_{2}H_{4} + H_{2}O",
+      "Ethanoic acid: vinegar is a 5–8% solution. Pure acid freezes in winter (glacial acetic acid).",
+      "Esterification: CH_{3}COOH + C_{2}H_{5}OH → CH_{3}COOC_{2}H_{5} + H_{2}O (acid catalyst; sweet smell)",
+      "Saponification: CH_{3}COOC_{2}H_{5} + NaOH → C_{2}H_{5}OH + CH_{3}COONa",
+      "With a carbonate: 2CH_{3}COOH + Na_{2}CO_{3} → 2CH_{3}COONa + H_{2}O + CO_{2}"
+    ]},
+    {"box": [
+      "**Soap:** sodium or potassium salt of a long-chain carboxylic acid. Its ionic end is hydrophilic and its hydrocarbon tail is hydrophobic, so it forms **micelles** around oily dirt.",
+      "In hard water (Ca^{2+}, Mg^{2+}), soap forms insoluble **scum**. Detergents work in hard water too."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. How many covalent bonds are there in ethane, C_{2}H_{6}?"},
+    {"lines": 1},
+    {"p": "2. Name the functional group in propanone and in propanoic acid."},
+    {"lines": 1},
+    {"p": "3. Why do unsaturated hydrocarbons burn with a sooty flame?"},
+    {"lines": 1}
+  ]
+}

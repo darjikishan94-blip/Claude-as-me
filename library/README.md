@@ -29,6 +29,18 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Title | Files |
 |---|---|
 | Quick Revision: Chemical Reactions and Equations | [PDF](class10-science/pdf/c10-ch01-notes-chemical-reactions.pdf) · [Word](class10-science/pdf/c10-ch01-notes-chemical-reactions.docx) |
+| Quick Revision: Acids, Bases and Salts | [PDF](class10-science/pdf/c10-ch02-notes-acids-bases-salts.pdf) · [Word](class10-science/pdf/c10-ch02-notes-acids-bases-salts.docx) |
+| Quick Revision: Metals and Non-metals | [PDF](class10-science/pdf/c10-ch03-notes-metals-non-metals.pdf) · [Word](class10-science/pdf/c10-ch03-notes-metals-non-metals.docx) |
+| Quick Revision: Carbon and its Compounds | [PDF](class10-science/pdf/c10-ch04-notes-carbon-compounds.pdf) · [Word](class10-science/pdf/c10-ch04-notes-carbon-compounds.docx) |
+| Quick Revision: Life Processes | [PDF](class10-science/pdf/c10-ch05-notes-life-processes.pdf) · [Word](class10-science/pdf/c10-ch05-notes-life-processes.docx) |
+| Quick Revision: Control and Coordination | [PDF](class10-science/pdf/c10-ch06-notes-control-coordination.pdf) · [Word](class10-science/pdf/c10-ch06-notes-control-coordination.docx) |
+| Quick Revision: How do Organisms Reproduce? | [PDF](class10-science/pdf/c10-ch07-notes-how-do-organisms-reproduce.pdf) · [Word](class10-science/pdf/c10-ch07-notes-how-do-organisms-reproduce.docx) |
+| Quick Revision: Heredity | [PDF](class10-science/pdf/c10-ch08-notes-heredity.pdf) · [Word](class10-science/pdf/c10-ch08-notes-heredity.docx) |
+| Quick Revision: Light – Reflection and Refraction | [PDF](class10-science/pdf/c10-ch09-notes-light-reflection-refraction.pdf) · [Word](class10-science/pdf/c10-ch09-notes-light-reflection-refraction.docx) |
+| Quick Revision: The Human Eye and the Colourful World | [PDF](class10-science/pdf/c10-ch10-notes-human-eye-colourful-world.pdf) · [Word](class10-science/pdf/c10-ch10-notes-human-eye-colourful-world.docx) |
+| Quick Revision: Electricity | [PDF](class10-science/pdf/c10-ch11-notes-electricity.pdf) · [Word](class10-science/pdf/c10-ch11-notes-electricity.docx) |
+| Quick Revision: Magnetic Effects of Electric Current | [PDF](class10-science/pdf/c10-ch12-notes-magnetic-effects.pdf) · [Word](class10-science/pdf/c10-ch12-notes-magnetic-effects.docx) |
+| Quick Revision: Our Environment | [PDF](class10-science/pdf/c10-ch13-notes-our-environment.pdf) · [Word](class10-science/pdf/c10-ch13-notes-our-environment.docx) |
 
 ---
 Rebuild after editing any spec: `python3 tools/build_library.py`

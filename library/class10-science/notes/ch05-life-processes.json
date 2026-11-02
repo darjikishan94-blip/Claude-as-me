@@ -1,0 +1,56 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch05-notes-life-processes",
+  "title": "Quick Revision: Life Processes",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Nutrition"},
+    {"bullets": [
+      "**Autotrophic** (plants): photosynthesis. 6CO_{2} + 12H_{2}O → C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O (sunlight, chlorophyll)",
+      "Events: (1) light absorbed by chlorophyll, (2) light energy → chemical energy, water split into H and O, (3) CO_{2} reduced to carbohydrate.",
+      "Stomata allow gas exchange. Guard cells open and close them (they swell when water flows in).",
+      "**Heterotrophic:** holozoic (Amoeba, humans), parasitic (Cuscuta, ticks), saprophytic (fungi)."
+    ]},
+    {"table": [
+      ["Part", "Secretion", "What it does"],
+      ["Mouth", "Saliva (salivary amylase)", "Starch → sugar"],
+      ["Stomach", "HCl, pepsin, mucus", "Acidic medium; protein digestion; protects the lining"],
+      ["Liver", "Bile", "Makes the medium alkaline; emulsifies fats"],
+      ["Pancreas", "Trypsin, lipase", "Proteins; emulsified fats"],
+      ["Small intestine", "Intestinal juice", "Final digestion: proteins → amino acids, carbohydrates → glucose, fats → fatty acids + glycerol. Villi absorb food"],
+      ["Large intestine", "n/a", "Absorbs water; waste removed through the anus"]
+    ]},
+    {"h": "Respiration"},
+    {"bullets": [
+      "Glucose → pyruvate (in the **cytoplasm**). Then:",
+      "No oxygen (yeast): pyruvate → ethanol + CO_{2} + energy (fermentation).",
+      "Lack of oxygen (muscles): pyruvate → lactic acid + energy (causes **cramps**).",
+      "Oxygen present (**mitochondria**): pyruvate → CO_{2} + H_{2}O + much more energy.",
+      "Energy is stored as **ATP**. Alveoli give a huge surface area with thin walls and capillaries. Haemoglobin carries O_{2}."
+    ]},
+    {"h": "Transportation"},
+    {"bullets": [
+      "Heart: 4 chambers. Right side carries deoxygenated blood, left side oxygenated. Ventricles have thicker walls. Valves stop backflow.",
+      "**Double circulation:** blood passes through the heart twice per cycle, keeping oxygenated and deoxygenated blood separate. Fish have a 2-chambered heart.",
+      "Arteries carry blood away from the heart (thick, elastic walls). Veins carry blood to the heart (have valves). Capillaries are one cell thick.",
+      "Platelets help clotting. Lymph carries digested fat and drains extra fluid.",
+      "Plants: **xylem** carries water and minerals (root pressure + transpiration pull). **Phloem** carries food (translocation, uses ATP)."
+    ]},
+    {"h": "Excretion"},
+    {"bullets": [
+      "Kidneys → ureters → urinary bladder → urethra. Each kidney has many **nephrons**.",
+      "Nephron: glomerulus in Bowman's capsule filters blood → tubule reabsorbs glucose, amino acids, salts and water → urine.",
+      "**Dialysis** (artificial kidney) filters blood but has no reabsorption.",
+      "Plants: excess water by transpiration; wastes stored in old leaves, bark, or as gums and resins."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Where in the cell does pyruvate break down completely in aerobic respiration?"},
+    {"lines": 1},
+    {"p": "2. Why do ventricles have thicker walls than atria?"},
+    {"lines": 1},
+    {"p": "3. Name the tissue that transports food in plants."},
+    {"lines": 1}
+  ]
+}

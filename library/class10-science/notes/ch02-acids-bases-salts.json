@@ -1,0 +1,62 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch02-notes-acids-bases-salts",
+  "title": "Quick Revision: Acids, Bases and Salts",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Indicators"},
+    {"table": [
+      ["Indicator", "In acid", "In base"],
+      ["Blue litmus", "turns red", "no change"],
+      ["Red litmus", "no change", "turns blue"],
+      ["Phenolphthalein", "colourless", "pink"],
+      ["Methyl orange", "red", "yellow"],
+      ["Turmeric", "yellow (no change)", "reddish-brown"]
+    ]},
+    {"p": "**Olfactory indicators** (onion, vanilla, clove oil): their smell cannot be detected in a basic solution."},
+    {"h": "Key reactions"},
+    {"bullets": [
+      "Acid + metal → salt + hydrogen:  Zn + H_{2}SO_{4} → ZnSO_{4} + H_{2}  (gas burns with a pop)",
+      "Base + metal (some):  2NaOH + Zn → Na_{2}ZnO_{2} + H_{2}  (sodium zincate)",
+      "Acid + carbonate/hydrogencarbonate → salt + water + CO_{2}:  Na_{2}CO_{3} + 2HCl → 2NaCl + H_{2}O + CO_{2}",
+      "CO_{2} turns lime water milky:  Ca(OH)_{2} + CO_{2} → CaCO_{3} + H_{2}O",
+      "Neutralisation (acid + base → salt + water):  NaOH + HCl → NaCl + H_{2}O",
+      "Acid + metal oxide → salt + water:  CuO + 2HCl → CuCl_{2} + H_{2}O  (solution turns blue-green)"
+    ]},
+    {"h": "pH and daily life"},
+    {"bullets": [
+      "pH 0–7 acidic · 7 neutral · 7–14 basic. **Lower pH = stronger acid** (more H^{+} ions).",
+      "Acids give H^{+} (H_{3}O^{+}) ions only in water. Bases soluble in water are called **alkalis** and give OH^{–} ions.",
+      "Tooth decay starts below pH 5.5. Rain with pH below 5.6 is acid rain.",
+      "Bee sting (methanoic acid): apply baking soda. Indigestion: antacid such as milk of magnesia, Mg(OH)_{2}."
+    ]},
+    {"h": "Important salts"},
+    {"table": [
+      ["Salt", "Formula", "How it's made / key use"],
+      ["Caustic soda", "NaOH", "Chlor-alkali process: 2NaCl + 2H_{2}O → 2NaOH + Cl_{2} + H_{2}"],
+      ["Bleaching powder", "CaOCl_{2}", "Ca(OH)_{2} + Cl_{2} → CaOCl_{2} + H_{2}O · bleaching, disinfecting water"],
+      ["Baking soda", "NaHCO_{3}", "NaCl + H_{2}O + CO_{2} + NH_{3} → NH_{4}Cl + NaHCO_{3} · antacid, baking powder"],
+      ["Washing soda", "Na_{2}CO_{3}·10H_{2}O", "Recrystallise sodium carbonate · glass, soap, removes permanent hardness"],
+      ["Plaster of Paris", "CaSO_{4}·½H_{2}O", "Heat gypsum at 373 K · plasters for fractures, toys, decoration"]
+    ]},
+    {"box": [
+      "**Water of crystallisation:** copper sulphate crystals CuSO_{4}·5H_{2}O are blue. On heating they lose water and turn white. Adding water brings back the blue colour.",
+      "**Baking powder** = baking soda + a mild edible acid (tartaric acid). The CO_{2} released makes the cake soft and spongy."
+    ]},
+    {"h": "Common mistakes"},
+    {"bullets": [
+      "Thinking pH 5 is more acidic than pH 3. It's the other way round.",
+      "Adding water to concentrated acid. Always add **acid to water**, slowly and with stirring.",
+      "Mixing up baking soda (NaHCO_{3}) and washing soda (Na_{2}CO_{3}·10H_{2}O)."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Which is more acidic: a solution of pH 3 or one of pH 5?"},
+    {"lines": 1},
+    {"p": "2. Write the formula of Plaster of Paris and one use."},
+    {"lines": 1},
+    {"p": "3. Why does dry HCl gas not change the colour of dry litmus paper?"},
+    {"lines": 2}
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch09-notes-light-reflection-refraction",
+  "title": "Quick Revision: Light – Reflection and Refraction",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Formulas & sign convention"},
+    {"table": [
+      ["", "Mirror", "Lens"],
+      ["Formula", "1/v + 1/u = 1/f", "1/v – 1/u = 1/f"],
+      ["Magnification", "m = h′/h = –v/u", "m = h′/h = v/u"],
+      ["Focal length", "f = R/2", "Power P = 1/f (f in metres), unit dioptre (D)"],
+      ["Sign of f", "Concave –, convex +", "Convex +, concave –"]
+    ]},
+    {"p": "**New Cartesian convention:** distances are measured from the pole or optical centre. Object on the left, so u is always negative. Distances along the incident light are +, against it are –. Heights above the axis are +, below are –. **Negative m = real and inverted. Positive m = virtual and erect.**"},
+    {"h": "Concave mirror: image formation"},
+    {"table": [
+      ["Object at", "Image at", "Size", "Nature"],
+      ["Infinity", "F", "Point-sized", "Real, inverted"],
+      ["Beyond C", "Between F and C", "Diminished", "Real, inverted"],
+      ["C", "C", "Same size", "Real, inverted"],
+      ["Between C and F", "Beyond C", "Enlarged", "Real, inverted"],
+      ["F", "Infinity", "Highly enlarged", "Real, inverted"],
+      ["Between P and F", "Behind the mirror", "Enlarged", "Virtual, erect"]
+    ]},
+    {"h": "Convex lens: image formation"},
+    {"table": [
+      ["Object at", "Image at", "Size", "Nature"],
+      ["Infinity", "F_{2}", "Point-sized", "Real, inverted"],
+      ["Beyond 2F_{1}", "Between F_{2} and 2F_{2}", "Diminished", "Real, inverted"],
+      ["2F_{1}", "2F_{2}", "Same size", "Real, inverted"],
+      ["Between F_{1} and 2F_{1}", "Beyond 2F_{2}", "Enlarged", "Real, inverted"],
+      ["F_{1}", "Infinity", "Highly enlarged", "Real, inverted"],
+      ["Between F_{1} and O", "Same side as the object", "Enlarged", "Virtual, erect"]
+    ]},
+    {"p": "**Convex mirror** and **concave lens** always give a virtual, erect, diminished image (convex mirror: behind the mirror between P and F; concave lens: between F_{1} and O)."},
+    {"h": "Refraction"},
+    {"bullets": [
+      "Light bends because its speed changes. Going into a denser medium (air → glass) it bends **towards** the normal; going into a rarer medium it bends away.",
+      "Laws: incident ray, refracted ray and normal lie in one plane; **sin i / sin r = constant** (Snell's law).",
+      "Refractive index n = c/v (speed in vacuum ÷ speed in medium). n_{21} = v_{1}/v_{2}. Glass slab: the emergent ray is parallel to the incident ray but shifted sideways.",
+      "Values to remember: water 1.33, kerosene 1.44, crown glass 1.52, diamond 2.42 (optically densest)."
+    ]},
+    {"box": [
+      "**Uses.** Concave mirror: torches and headlights, shaving and dentists' mirrors, solar furnaces. Convex mirror: rear-view mirrors (erect image, wider view).",
+      "**Ray-diagram rules:** a ray parallel to the axis passes through (or appears to come from) F; a ray through F becomes parallel; a ray through C (mirror) returns along itself; a ray through O (lens) goes straight."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Power of a lens is –2.5 D. What is its focal length, and what type of lens is it?"},
+    {"lines": 1},
+    {"p": "2. Where should an object be placed in front of a concave mirror to get a same-size real image?"},
+    {"lines": 1}
+  ]
+}

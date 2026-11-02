@@ -1,0 +1,53 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch12-notes-magnetic-effects",
+  "title": "Quick Revision: Magnetic Effects of Electric Current",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Magnetic field & field lines"},
+    {"bullets": [
+      "A compass needle is a small bar magnet. Its north-pointing end is the north pole.",
+      "Field lines go from N to S outside the magnet and from S to N inside, forming **closed curves**.",
+      "Where lines are closer, the field is stronger. **Lines never cross**: a compass can't point two ways at once.",
+      "Oersted (1820): a current-carrying wire deflects a compass needle, so **electric current produces a magnetic field**."
+    ]},
+    {"h": "Field due to a current"},
+    {"table": [
+      ["Conductor", "Field pattern", "Strength increases with"],
+      ["Straight wire", "Concentric circles around the wire", "More current; closer to the wire"],
+      ["Circular loop", "Circles near the wire; nearly straight lines at the centre", "More current; more turns"],
+      ["Solenoid", "Like a bar magnet; **uniform** (parallel lines) inside", "More turns; more current; a soft iron core"]
+    ]},
+    {"bullets": [
+      "**Right-hand thumb rule:** thumb along the current; curled fingers show the field direction.",
+      "**Electromagnet:** a soft iron core inside a solenoid. Magnetism can be switched on and off, and its strength changed.",
+      "Example: current from east to west in an overhead wire. The field is north → south below the wire and south → north above it."
+    ]},
+    {"h": "Force on a current-carrying conductor"},
+    {"bullets": [
+      "A conductor carrying current in a magnetic field experiences a force. The force is **greatest when the current is perpendicular to the field** and **zero when parallel**.",
+      "Reverse the current or the field and the force reverses.",
+      "**Fleming's left-hand rule:** forefinger = field, middle finger = current, thumb = force (motion), all at right angles.",
+      "Used in electric motors, loudspeakers, microphones and measuring instruments. MRI scans use magnetic fields inside the body."
+    ]},
+    {"h": "Domestic electric circuits"},
+    {"table": [
+      ["Wire", "Insulation colour", "Role"],
+      ["Live", "Red", "Carries current at 220 V (India)"],
+      ["Neutral", "Black", "Return path, at 0 V"],
+      ["Earth", "Green", "Safety: leaked current goes to earth, preventing shock"]
+    ]},
+    {"bullets": [
+      "Two circuits: **15 A** for high-power appliances (geyser, AC, heater) and **5 A** for bulbs and fans. All appliances are connected in parallel.",
+      "**Short-circuit:** live touches neutral and the current shoots up. **Overloading:** too many appliances on one socket, or a voltage surge.",
+      "**Fuse / MCB** breaks the circuit when the current exceeds the safe limit. A fuse is placed in the live wire."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. State Fleming's left-hand rule."},
+    {"lines": 2},
+    {"p": "2. Why is the earth wire connected to the metal body of an appliance?"},
+    {"lines": 1}
+  ]
+}

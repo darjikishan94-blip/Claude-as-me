@@ -1,0 +1,56 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch10-notes-human-eye-colourful-world",
+  "title": "Quick Revision: The Human Eye and the Colourful World",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Parts of the eye"},
+    {"table": [
+      ["Part", "Job"],
+      ["Cornea", "Transparent front bulge; most of the refraction happens here"],
+      ["Iris", "Coloured muscle that controls the size of the pupil"],
+      ["Pupil", "Opening that controls how much light enters (smaller in bright light)"],
+      ["Eye lens", "Convex lens that fine-tunes focus; its focal length is changed by the ciliary muscles"],
+      ["Retina", "Light-sensitive screen where a real, inverted image forms. Signals go to the brain through the optic nerve"]
+    ]},
+    {"bullets": [
+      "**Accommodation:** the eye lens changes its focal length (thin for distant objects, thick for near ones).",
+      "Normal eye: near point 25 cm (least distance of distinct vision); far point at infinity."
+    ]},
+    {"h": "Defects of vision"},
+    {"table": [
+      ["Defect", "Can't see clearly", "Cause", "Correction"],
+      ["Myopia (near-sightedness)", "Distant objects (image forms in front of the retina)", "Lens too curved / eyeball too long", "Concave lens"],
+      ["Hypermetropia (far-sightedness)", "Nearby objects (image forms behind the retina)", "Focal length too long / eyeball too short", "Convex lens"],
+      ["Presbyopia", "Nearby objects, with age", "Ciliary muscles weaken; lens loses flexibility", "Convex lens, or bifocals"]
+    ]},
+    {"h": "Prism & dispersion"},
+    {"bullets": [
+      "A glass prism splits white light into a **spectrum**: VIBGYOR. **Red bends the least, violet the most.**",
+      "Newton: a second, identical prism turned upside down recombines the colours into white light.",
+      "**Rainbow:** forms opposite the Sun. Water droplets act as prisms: refraction + dispersion → internal reflection → refraction."
+    ]},
+    {"h": "Atmospheric refraction"},
+    {"bullets": [
+      "**Twinkling of stars:** starlight passes through air layers with changing refractive index, so the star's position and brightness flicker. **Planets don't twinkle**: they are closer and act as extended sources, so the variations average out.",
+      "**Advance sunrise / delayed sunset:** the Sun is seen about 2 minutes before actual sunrise and about 2 minutes after actual sunset."
+    ]},
+    {"h": "Scattering of light"},
+    {"bullets": [
+      "**Tyndall effect:** colloidal particles scatter light, making a beam visible (sunlight through trees or a dusty room).",
+      "**Blue sky:** fine particles scatter blue (short wavelength) light much more than red.",
+      "**Red sunrise and sunset:** light travels a long path near the horizon, blue is scattered away, and red reaches us.",
+      "**Danger signals are red:** red is scattered least by fog and smoke, so it is visible from far.",
+      "Clouds look white: larger particles scatter all colours about equally. In space the sky would look dark (no scattering)."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Which lens corrects myopia, and why?"},
+    {"lines": 1},
+    {"p": "2. Why do planets not twinkle?"},
+    {"lines": 1},
+    {"p": "3. Why does the sky appear dark to an astronaut in space?"},
+    {"lines": 1}
+  ]
+}

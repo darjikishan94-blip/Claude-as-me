@@ -1,0 +1,55 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch03-notes-metals-non-metals",
+  "title": "Quick Revision: Metals and Non-metals",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Physical properties"},
+    {"table": [
+      ["Metals", "Non-metals"],
+      ["Lustrous, hard, malleable, ductile, sonorous", "Dull, brittle (solids), not sonorous"],
+      ["Good conductors of heat and electricity", "Poor conductors"],
+      ["Mostly solids with high melting points", "Solids, liquid (bromine) or gases"]
+    ]},
+    {"p": "**Exceptions:** mercury is a liquid metal. Sodium and potassium are soft and can be cut with a knife. Gallium and caesium melt on the palm. Iodine is lustrous. Diamond (carbon) is the hardest natural substance. Graphite conducts electricity."},
+    {"h": "Chemical properties"},
+    {"bullets": [
+      "Metal + oxygen → **basic** oxide: 2Cu + O_{2} → 2CuO. Non-metal oxides are acidic or neutral.",
+      "**Amphoteric** oxides (Al_{2}O_{3}, ZnO) react with both acids and bases: Al_{2}O_{3} + 2NaOH → 2NaAlO_{2} + H_{2}O",
+      "With water: Na and K react violently with cold water: 2Na + 2H_{2}O → 2NaOH + H_{2} + heat. Ca reacts less violently. Mg reacts with hot water. Al, Fe and Zn react only with steam: 3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2}. Pb, Cu, Ag and Au do not react.",
+      "With dilute acids: metals above hydrogen give H_{2}. Nitric acid is an oxidising agent, so usually no H_{2} (except Mg and Mn with very dilute HNO_{3}).",
+      "Displacement: a more reactive metal displaces a less reactive one: Fe + CuSO_{4} → FeSO_{4} + Cu"
+    ]},
+    {"box": ["**Reactivity series:**  K > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au"]},
+    {"h": "Ionic compounds (e.g. NaCl, MgCl_{2})"},
+    {"bullets": [
+      "Formed by transfer of electrons. Na → Na^{+} + e^{–} and Cl + e^{–} → Cl^{–}",
+      "Hard solids with high melting and boiling points (strong forces between ions).",
+      "Soluble in water, insoluble in kerosene and petrol.",
+      "Conduct electricity when molten or in solution (ions can move), not when solid."
+    ]},
+    {"h": "Extraction of metals"},
+    {"table": [
+      ["Reactivity", "Method", "Example"],
+      ["Low (Hg, Cu)", "Heating alone", "2HgS + 3O_{2} → 2HgO + 2SO_{2};  2HgO → 2Hg + O_{2}"],
+      ["Middle (Zn, Fe, Pb)", "Roasting (sulphide) or calcination (carbonate), then reduction with carbon", "2ZnS + 3O_{2} → 2ZnO + 2SO_{2};  ZnCO_{3} → ZnO + CO_{2};  ZnO + C → Zn + CO"],
+      ["High (Na, Mg, Ca, Al)", "Electrolysis of molten chloride/oxide", "Na at cathode, Cl_{2} at anode"]
+    ]},
+    {"p": "**Thermite reaction:** Fe_{2}O_{3} + 2Al → 2Fe + Al_{2}O_{3} + heat (joins railway tracks). **Electrolytic refining:** impure metal is the anode, a thin strip of pure metal is the cathode, and impurities settle as anode mud."},
+    {"h": "Corrosion & alloys"},
+    {"bullets": [
+      "Silver turns black (silver sulphide). Copper gets a green coat (basic copper carbonate). Iron rusts (needs both air and water).",
+      "Prevention: painting, oiling, greasing, galvanising (zinc coat), chrome plating, anodising, alloying.",
+      "Alloys: brass (Cu + Zn), bronze (Cu + Sn), solder (Pb + Sn, low melting point), stainless steel (Fe + Ni + Cr). 22 carat gold = 22 parts gold + 2 parts Cu or Ag."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Why is sodium kept under kerosene?"},
+    {"lines": 1},
+    {"p": "2. Name a metal that is extracted by electrolysis and one that is obtained by heating alone."},
+    {"lines": 1},
+    {"p": "3. Give two conditions needed for iron to rust."},
+    {"lines": 1}
+  ]
+}

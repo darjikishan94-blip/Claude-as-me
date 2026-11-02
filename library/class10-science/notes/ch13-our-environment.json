@@ -1,0 +1,46 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch13-notes-our-environment",
+  "title": "Quick Revision: Our Environment",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Ecosystem"},
+    {"bullets": [
+      "**Ecosystem** = all living organisms in an area + the non-living environment. **Biotic:** plants, animals, microbes. **Abiotic:** temperature, rainfall, wind, soil, minerals.",
+      "Natural ecosystems: forests, ponds, lakes. Artificial ecosystems: gardens, crop fields, aquariums.",
+      "**Producers** (green plants) → **consumers** (herbivores, carnivores, omnivores, parasites) → **decomposers** (bacteria, fungi) return nutrients to the soil."
+    ]},
+    {"h": "Food chains & energy flow"},
+    {"bullets": [
+      "Each step of a food chain is a **trophic level**: grass (producer) → grasshopper (primary consumer) → frog (secondary) → snake (tertiary) → eagle.",
+      "Green plants capture about **1%** of the sunlight falling on their leaves.",
+      "**10 per cent law:** only about 10% of the energy is passed to the next level. The rest is used for life processes or lost as heat.",
+      "So food chains have only **3–4 levels**, and there are fewer organisms at higher levels.",
+      "Energy flow is **unidirectional**: it never goes back to the previous level. Food chains interconnect to form a **food web**."
+    ]},
+    {"box": ["**Biological magnification:** non-biodegradable chemicals (e.g. pesticides) are not broken down, so they build up at each trophic level. Their concentration is highest at the **top** of the food chain, including in humans."]},
+    {"h": "Ozone layer"},
+    {"bullets": [
+      "Ozone (O_{3}) in the upper atmosphere shields the Earth from harmful **UV radiation** (which causes skin cancer).",
+      "Formation: O_{2} → O + O (UV splits oxygen); then O + O_{2} → O_{3}",
+      "Depleted by **CFCs** (used in refrigerants and fire extinguishers). In 1987, UNEP got countries to agree to freeze CFC production at 1986 levels. Now CFC-free refrigerators are made."
+    ]},
+    {"h": "Managing garbage"},
+    {"table": [
+      ["Biodegradable", "Non-biodegradable"],
+      ["Broken down by microbes", "Not broken down; stays for a long time"],
+      ["Peels, paper, wood, cotton, food waste", "Plastic, polythene, glass, DDT, some metals"]
+    ]},
+    {"bullets": [
+      "Reduce waste: segregate wet and dry, compost kitchen waste, carry cloth bags, avoid single-use plastic, reuse, recycle.",
+      "Even biodegradable options have costs: kulhads (clay cups) on trains would use up fertile top soil, so paper cups are used."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. If 20,000 J is available to the producers, how much reaches the secondary consumers?"},
+    {"lines": 1},
+    {"p": "2. Why is energy flow in an ecosystem called unidirectional?"},
+    {"lines": 1}
+  ]
+}

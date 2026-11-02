@@ -1,0 +1,57 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch06-notes-control-coordination",
+  "title": "Quick Revision: Control and Coordination",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Nervous system"},
+    {"bullets": [
+      "**Neuron:** dendrite (receives information) → cell body → axon (carries the electrical impulse) → nerve ending.",
+      "**Synapse:** the gap between neurons. At the axon end, chemicals are released that cross the synapse and start an impulse in the next neuron.",
+      "**Reflex action:** a quick, automatic response (hand pulled from a hot object, blinking, sneezing). It is controlled by the spinal cord.",
+      "**Reflex arc:** receptor → sensory neuron → relay neuron in the spinal cord → motor neuron → effector (muscle or gland)."
+    ]},
+    {"table": [
+      ["Part of brain", "Main functions"],
+      ["Forebrain (cerebrum)", "Thinking, intelligence, memory, voluntary actions, sensory areas (sight, hearing, smell), hunger"],
+      ["Midbrain", "Involuntary actions, e.g. reflex movements of the head and eyes"],
+      ["Hindbrain: cerebellum", "Posture and balance; precision of voluntary actions (walking in a straight line, picking up a pencil)"],
+      ["Hindbrain: medulla", "Blood pressure, salivation, vomiting"],
+      ["Hindbrain: pons", "Involuntary actions, e.g. regulation of breathing"]
+    ]},
+    {"p": "**Protection:** the brain sits inside the skull in a fluid-filled balloon (shock absorber). The spinal cord is protected by the vertebral column."},
+    {"h": "Coordination in plants"},
+    {"bullets": [
+      "**Touch-me-not (Mimosa):** leaves fold when touched. Cells change shape by changing their water content. No growth is involved.",
+      "**Tropisms** are growth movements towards or away from a stimulus. Phototropism (light): shoot +, root –. Geotropism (gravity): root +, shoot –. Hydrotropism (water) and chemotropism (pollen tube growing towards the ovule)."
+    ]},
+    {"table": [
+      ["Plant hormone", "Effect"],
+      ["Auxin", "Made at the shoot tip; makes cells grow longer; causes bending towards light"],
+      ["Gibberellin", "Growth of the stem"],
+      ["Cytokinin", "Promotes cell division (high in fruits and seeds)"],
+      ["Abscisic acid", "Inhibits growth; causes wilting of leaves"]
+    ]},
+    {"h": "Hormones in animals"},
+    {"table": [
+      ["Gland", "Hormone", "Function / problem"],
+      ["Pituitary", "Growth hormone", "Growth. Deficiency in childhood → dwarfism"],
+      ["Thyroid", "Thyroxin", "Metabolism of carbohydrates, fats, proteins. Needs iodine (lack → goitre)"],
+      ["Pancreas", "Insulin", "Controls blood sugar. Deficiency → diabetes"],
+      ["Adrenal", "Adrenaline", "Emergencies: faster heartbeat and breathing, blood diverted to muscles"],
+      ["Testes", "Testosterone", "Changes in boys at puberty"],
+      ["Ovaries", "Oestrogen", "Changes in girls at puberty"],
+      ["Hypothalamus", "Releasing hormones", "Stimulates the pituitary (e.g. growth hormone release)"]
+    ]},
+    {"box": ["**Feedback mechanism:** controls the timing and amount of hormone. If blood sugar rises, the pancreas releases more insulin. As sugar falls, insulin secretion is reduced."]},
+    {"h": "Quick check"},
+    {"p": "1. Which part of the brain maintains posture and balance?"},
+    {"lines": 1},
+    {"p": "2. Why is iodised salt advised in our diet?"},
+    {"lines": 1},
+    {"p": "3. How is the movement of a touch-me-not leaf different from a shoot bending towards light?"},
+    {"lines": 2}
+  ]
+}

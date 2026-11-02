@@ -1,0 +1,53 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch07-notes-how-do-organisms-reproduce",
+  "title": "Quick Revision: How do Organisms Reproduce?",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Why reproduction matters"},
+    {"bullets": [
+      "DNA copying passes on the body design. Small copying errors cause **variation**, which helps a species survive when the environment changes.",
+      "Reproduction keeps populations stable in their niches."
+    ]},
+    {"h": "Asexual reproduction (single parent)"},
+    {"table": [
+      ["Method", "How", "Example"],
+      ["Binary fission", "Splits into 2 equal halves", "Amoeba; Leishmania (definite plane)"],
+      ["Multiple fission", "Splits into many cells at once, inside a cyst", "Plasmodium (malaria parasite)"],
+      ["Fragmentation", "Breaks into pieces, each grows into a new organism", "Spirogyra"],
+      ["Regeneration", "Body pieces grow into complete organisms (specialised cells)", "Planaria, Hydra"],
+      ["Budding", "Outgrowth (bud) grows and detaches", "Hydra, yeast"],
+      ["Spore formation", "Sporangia release spores", "Rhizopus (bread mould)"],
+      ["Vegetative propagation", "New plants from roots, stems or leaves", "Bryophyllum (leaf notches), potato eyes, rose cuttings, grafting, layering"]
+    ]},
+    {"p": "**Vegetative propagation advantages:** grows plants that don't make viable seeds (banana, orange, rose, jasmine); flowers and fruits come earlier; offspring keep the parent's good characters. **Tissue culture** grows many plants from a few cells."},
+    {"h": "Sexual reproduction in flowering plants"},
+    {"bullets": [
+      "Stamen (male): anther + filament. The anther makes **pollen**. Pistil (female): stigma, style, ovary with ovules (each ovule has an egg cell).",
+      "**Pollination:** pollen reaches the stigma. Self-pollination is in the same flower; cross-pollination is to another plant (by wind, water or animals).",
+      "Pollen tube grows through the style to the ovule. Male germ cell + female germ cell → **zygote** (fertilisation).",
+      "After fertilisation: zygote → embryo; ovule → seed; ovary → fruit. Petals, sepals and stamens shrivel and fall."
+    ]},
+    {"h": "Human reproduction"},
+    {"bullets": [
+      "**Puberty:** sex hormones (testosterone, oestrogen) bring changes in the body.",
+      "**Male:** testes make sperm and testosterone (they lie outside the body because sperm need a lower temperature). Vas deferens carries sperm. Seminal vesicles and prostate add fluid.",
+      "**Female:** ovaries release one egg a month and make oestrogen and progesterone. Fertilisation happens in the **oviduct**. The embryo implants in the **uterus**.",
+      "**Placenta:** villi give a large surface area for glucose and O_{2} to pass from mother to embryo, and wastes to pass back. Gestation is about 9 months.",
+      "No fertilisation: the uterus lining breaks down and comes out as menstruation (about every month)."
+    ]},
+    {"box": [
+      "**Contraception:** barrier (condom, which also protects against STDs), hormonal (oral pills), copper-T/loop in the uterus, surgical (vasectomy / tubectomy).",
+      "**STDs:** gonorrhoea and syphilis (bacterial), warts and HIV-AIDS (viral)."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Name an organism that reproduces by multiple fission."},
+    {"lines": 1},
+    {"p": "2. What do the ovule and the ovary become after fertilisation?"},
+    {"lines": 1},
+    {"p": "3. How does the placenta help the developing embryo?"},
+    {"lines": 2}
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "notes",
+  "file_name": "c10-ch11-notes-electricity",
+  "title": "Quick Revision: Electricity",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Formula sheet"},
+    {"table": [
+      ["Quantity", "Formula", "SI unit"],
+      ["Current", "I = Q/t", "ampere (A)"],
+      ["Potential difference", "V = W/Q", "volt (V)"],
+      ["Ohm's law", "V = IR", "ohm (Ω)"],
+      ["Resistance of a wire", "R = ρL/A", "ρ in ohm metre (Ω m)"],
+      ["Series", "R_{s} = R_{1} + R_{2} + R_{3}", "same current through all"],
+      ["Parallel", "1/R_{p} = 1/R_{1} + 1/R_{2} + 1/R_{3}", "same voltage across all"],
+      ["Heating (Joule's law)", "H = I^{2}Rt", "joule (J)"],
+      ["Power", "P = VI = I^{2}R = V^{2}/R", "watt (W)"],
+      ["Energy", "E = Pt", "1 kWh = 3.6 × 10^{6} J"]
+    ]},
+    {"h": "Must-know points"},
+    {"bullets": [
+      "Charge on an electron = 1.6 × 10^{-19} C. Conventional current flows opposite to electron flow.",
+      "Ammeter goes **in series** (low resistance). Voltmeter goes **in parallel** (high resistance).",
+      "Ohm's law holds at constant temperature: the V–I graph is a straight line through the origin, and its slope gives R.",
+      "R depends on length (R ∝ L), area (R ∝ 1/A), material (ρ) and temperature. Doubling the length doubles R. Doubling the diameter makes R one-fourth.",
+      "Good conductors (Cu, Al) have low ρ. Alloys (nichrome) have high ρ and don't oxidise easily, so they are used in heaters, toasters and irons.",
+      "In parallel, R_{p} is smaller than the smallest resistor. A wire cut into n equal parts joined in parallel gives R/n^{2}."
+    ]},
+    {"box": [
+      "**Why homes use parallel wiring:** each appliance gets the full 220 V, can be switched on or off separately, and keeps working if another fails.",
+      "**Uses of heating effect:** bulb filament (tungsten, very high melting point), electric iron, toaster, heater, fuse (low melting point wire)."
+    ]},
+    {"h": "Worked examples"},
+    {"bullets": [
+      "5 Ω, 10 Ω, 30 Ω in parallel: 1/R = 1/5 + 1/10 + 1/30 = 10/30, so R = 3 Ω. At 12 V: I = 4 A.",
+      "Bulb 220 V, 100 W: R = V^{2}/P = 484 Ω. On 110 V: P = 110^{2}/484 = 25 W (one-fourth).",
+      "Fridge 400 W × 8 h × 30 days = 96 kWh. At ₹3 per unit, the cost is ₹288."
+    ]},
+    {"h": "Common mistakes"},
+    {"bullets": [
+      "Not converting units: mm → m (0.5 mm = 0.5 × 10^{-3} m), W → kW, minutes → seconds.",
+      "Using diameter instead of radius in A = πr^{2}.",
+      "Writing 'units' of energy without saying 1 unit = 1 kWh."
+    ]},
+    {"h": "Quick check"},
+    {"p": "1. Two 6 Ω resistors are in parallel. What is the equivalent resistance?"},
+    {"lines": 1},
+    {"p": "2. How much current does a 60 W, 220 V bulb draw?"},
+    {"lines": 1}
+  ]
+}
