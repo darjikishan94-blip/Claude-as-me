@@ -1,0 +1,58 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-force-laws-of-motion",
+  "title": "Practice Pack: Force and Laws of Motion",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style numericals, and Level 3 is Foundation-level challenge.",
+    "Key relations: p = mv · F = ma = (change in momentum)/time · momentum before = momentum after (when no external force acts).",
+    "Convert g → kg and km/h → m/s before you substitute."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "State Newton's first law of motion.", "lines": 2,
+         "answer": "An object stays at rest, or in uniform motion in a straight line, unless an unbalanced external force acts on it."},
+        {"q": "Why do passengers lurch forward when a moving bus stops suddenly?", "lines": 2,
+         "answer": "Because of inertia of motion. The bus stops, but the passengers' bodies tend to keep moving forward."},
+        {"q": "Define momentum and give its SI unit.", "lines": 1,
+         "answer": "Momentum is the product of mass and velocity (p = mv). Its SI unit is kg m/s."},
+        {"q": "A rubber ball and a stone are the same size. Which has more inertia, and why?", "lines": 1,
+         "answer": "The stone, because it has more mass. Inertia depends on mass."},
+        {"q": "State Newton's third law of motion with one example.", "lines": 2,
+         "answer": "To every action there is an equal and opposite reaction, and the two act on different bodies. Example: a gun recoils backwards when a bullet is fired forwards."}
+      ]
+    },
+    {
+      "title": "Level 2: Numericals",
+      "questions": [
+        {"q": "A force of 5 N gives mass m_{1} an acceleration of 10 m/s^{2} and mass m_{2} an acceleration of 20 m/s^{2}. What acceleration would it give if both masses were tied together?", "lines": 4,
+         "answer": "m_{1} = 5/10 = 0.5 kg, m_{2} = 5/20 = 0.25 kg. Total = 0.75 kg. a = 5/0.75 ≈ 6.67 m/s^{2}."},
+        {"q": "A car of mass 1200 kg moving at 90 km/h is slowed down to 18 km/h in 4 s. Find the acceleration, the change in momentum, and the force applied.", "lines": 5,
+         "answer": "u = 25 m/s, v = 5 m/s. a = (5 – 25)/4 = –5 m/s^{2}. Change in momentum = 1200 × (5 – 25) = –24,000 kg m/s. Force = ma = 1200 × 5 = 6000 N (opposite to the motion)."},
+        {"q": "An object of mass 100 kg is accelerated uniformly from 5 m/s to 8 m/s in 6 s. Find its initial and final momentum and the force applied.", "lines": 4,
+         "answer": "Initial p = 100 × 5 = 500 kg m/s. Final p = 100 × 8 = 800 kg m/s. F = (800 – 500)/6 = 50 N."},
+        {"q": "A bullet of mass 20 g is fired from a pistol of mass 2 kg with a velocity of 150 m/s. Find the recoil velocity of the pistol.", "lines": 3,
+         "answer": "Total momentum before = 0. So 0.02 × 150 + 2 × v = 0, which gives v = –1.5 m/s. The pistol recoils at 1.5 m/s, opposite to the bullet."},
+        {"q": "A hockey ball of mass 200 g moving at 10 m/s is hit so that it goes back along its path at 5 m/s. Find the change in its momentum.", "lines": 3,
+         "answer": "Take the initial direction as +. Change in momentum = m(v – u) = 0.2 × (–5 – 10) = –3 kg m/s. The magnitude is 3 kg m/s, opposite to the original direction."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "Two objects of masses 100 g and 200 g move along the same line and direction at 2 m/s and 1 m/s respectively. They collide, and after the collision the first object moves at 1.67 m/s. Find the velocity of the second object.", "lines": 4,
+         "answer": "Momentum before = 0.1 × 2 + 0.2 × 1 = 0.4 kg m/s. After: 0.1 × 1.67 + 0.2 × v = 0.4, so 0.2v = 0.233 and v ≈ 1.165 m/s (same direction)."},
+        {"q": "Why does a cricketer pull the hands backwards while catching a fast ball? Use the idea of force and time.", "lines": 3,
+         "answer": "The ball's momentum has to be reduced to zero. Moving the hands back increases the time taken to stop the ball. Since F = (change in momentum)/time, a longer time means a smaller force on the hands, so they hurt less."},
+        {"q": "A truck starts from rest and rolls down a slope with constant acceleration, covering 400 m in 20 s. Find its acceleration and the force acting on it if its mass is 7 tonnes.", "lines": 4,
+         "answer": "s = ½at^{2}, so 400 = ½ × a × 400 and a = 2 m/s^{2}. F = ma = 7000 kg × 2 = 14,000 N."}
+      ]
+    }
+  ],
+  "closing": "Momentum questions: always choose a positive direction first!"
+}

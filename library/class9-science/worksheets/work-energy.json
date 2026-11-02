@@ -1,0 +1,60 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-work-energy",
+  "title": "Practice Pack: Work and Energy",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style numericals, and Level 3 is Foundation-level challenge.",
+    "Key relations: W = F × s · KE = ½mv^{2} · PE = mgh · P = W/t · 1 kWh = 3.6 × 10^{6} J",
+    "Use the value of g given in each question."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "Define work and give its SI unit.", "lines": 2,
+         "answer": "Work is done when a force moves an object in the direction of the force: W = F × s. The SI unit is the joule (J). 1 J = 1 N × 1 m."},
+        {"q": "Give two situations where a force acts but no work is done.", "lines": 2,
+         "answer": "(1) Pushing a wall that does not move (no displacement). (2) Carrying a load on your head while walking on level ground: the force of gravity is perpendicular to the displacement, so gravity does no work."},
+        {"q": "Define power and give its SI unit.", "lines": 1,
+         "answer": "Power is the rate of doing work (P = W/t). The SI unit is the watt (W) = 1 J/s."},
+        {"q": "State the law of conservation of energy.", "lines": 2,
+         "answer": "Energy can neither be created nor destroyed. It can only change from one form to another, so the total energy stays the same."},
+        {"q": "How many joules are there in 1 kWh?", "lines": 1,
+         "answer": "1 kWh = 1000 W × 3600 s = 3.6 × 10^{6} J."}
+      ]
+    },
+    {
+      "title": "Level 2: Numericals",
+      "questions": [
+        {"q": "A force of 7 N moves an object 8 m in the direction of the force. How much work is done?", "lines": 2,
+         "answer": "W = F × s = 7 × 8 = 56 J."},
+        {"q": "Find the kinetic energy of a 15 kg object moving at 4 m/s.", "lines": 2,
+         "answer": "KE = ½mv^{2} = ½ × 15 × 4^{2} = 120 J."},
+        {"q": "Find the potential energy of a 10 kg object at a height of 6 m. (g = 9.8 m/s^{2})", "lines": 2,
+         "answer": "PE = mgh = 10 × 9.8 × 6 = 588 J."},
+        {"q": "A lamp uses 1000 J of electrical energy in 10 s. What is its power?", "lines": 2,
+         "answer": "P = W/t = 1000/10 = 100 W."},
+        {"q": "How much work is needed to increase the speed of a 1500 kg car from 30 km/h to 60 km/h?", "lines": 4,
+         "answer": "u = 30/3.6 ≈ 8.33 m/s, v = 60/3.6 ≈ 16.67 m/s. W = change in KE = ½m(v^{2} – u^{2}) = ½ × 1500 × (277.8 – 69.4) ≈ 1.56 × 10^{5} J (156,250 J)."},
+        {"q": "A 1500 W heater runs for 10 hours. How much energy does it use, in kWh?", "lines": 2,
+         "answer": "E = P × t = 1.5 kW × 10 h = 15 kWh."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "Two girls, each weighing 400 N, climb a rope to a height of 8 m. Girl A takes 20 s and girl B takes 50 s. Find the power of each.", "lines": 4,
+         "answer": "Work by each = 400 × 8 = 3200 J. Power of A = 3200/20 = 160 W. Power of B = 3200/50 = 64 W."},
+        {"q": "A boy of mass 50 kg runs up a staircase of 45 steps in 9 s. Each step is 15 cm high. Find his power. (g = 10 m/s^{2})", "lines": 4,
+         "answer": "Height = 45 × 0.15 = 6.75 m. Work = mgh = 50 × 10 × 6.75 = 3375 J. Power = 3375/9 = 375 W."},
+        {"q": "An object of mass 40 kg is raised to a height of 5 m. Find its potential energy. If it is allowed to fall, find its kinetic energy when it is halfway down. (g = 10 m/s^{2})", "lines": 4,
+         "answer": "PE = mgh = 40 × 10 × 5 = 2000 J. Halfway down, PE = 40 × 10 × 2.5 = 1000 J. By conservation of energy, KE = 2000 – 1000 = 1000 J."}
+      ]
+    }
+  ],
+  "closing": "Energy is never lost, only changed. Use that idea to check your answers!"
+}

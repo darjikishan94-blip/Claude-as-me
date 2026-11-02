@@ -1,0 +1,62 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-motion",
+  "title": "Practice Pack: Motion",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style numericals, and Level 3 is Foundation-level challenge.",
+    "In every numerical: write the given values, convert units (km/h → m/s: divide by 3.6), write the formula, substitute, and give the answer with its unit.",
+    "Equations of motion: v = u + at · s = ut + ½at^{2} · v^{2} – u^{2} = 2as"
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "Define displacement. Can the displacement of a body be zero when the distance it has covered is not zero? Give an example.", "lines": 3,
+         "answer": "Displacement is the shortest distance from the initial to the final position, in a stated direction. Yes: if a body returns to its starting point, for example one full round of a circular track, its displacement is zero but the distance covered is not."},
+        {"q": "A body covers equal distances in equal intervals of time. What kind of motion is this?", "lines": 1,
+         "answer": "Uniform motion."},
+        {"q": "What does the slope of a distance–time graph tell us?", "lines": 1,
+         "answer": "The speed of the body. A steeper slope means a higher speed."},
+        {"q": "What does the area under a velocity–time graph give?", "lines": 1,
+         "answer": "The displacement (equal to the distance for motion in one direction along a straight line)."},
+        {"q": "Is uniform circular motion accelerated? Explain.", "lines": 2,
+         "answer": "Yes. The speed is constant, but the direction of motion changes at every point, so the velocity changes and the motion is accelerated."}
+      ]
+    },
+    {
+      "title": "Level 2: Numericals",
+      "questions": [
+        {"q": "A car travels 150 km in 3 hours. Find its average speed in km/h and in m/s.", "lines": 3,
+         "answer": "Average speed = 150 km/3 h = 50 km/h = 50/3.6 ≈ 13.9 m/s."},
+        {"q": "An athlete completes one round of a circular track of diameter 200 m in 40 s. What distance has he covered, and what is his displacement, at the end of 2 minutes 20 seconds? (Take π = 22/7.)", "lines": 4,
+         "answer": "Time = 140 s = 3.5 rounds. Circumference = (22/7) × 200 ≈ 628.6 m, so distance = 3.5 × 628.6 = 2200 m. After 3.5 rounds he is at the opposite end of a diameter, so displacement = 200 m."},
+        {"q": "A bus slows down from 80 km/h to 60 km/h in 5 s. Find its acceleration.", "lines": 3,
+         "answer": "u = 80/3.6 ≈ 22.2 m/s, v = 60/3.6 ≈ 16.7 m/s. a = (v – u)/t = (16.7 – 22.2)/5 ≈ –1.1 m/s^{2}. The negative sign shows retardation."},
+        {"q": "A train starting from rest reaches a speed of 72 km/h in 5 minutes. Find its acceleration and the distance it travels in this time.", "lines": 4,
+         "answer": "u = 0, v = 72 km/h = 20 m/s, t = 300 s. a = 20/300 ≈ 0.067 m/s^{2}. s = ½at^{2} = ½ × (1/15) × 300^{2} = 3000 m = 3 km."},
+        {"q": "A car accelerates uniformly from 18 km/h to 36 km/h in 5 s. Find (i) the acceleration and (ii) the distance covered in that time.", "lines": 4,
+         "answer": "u = 5 m/s, v = 10 m/s. (i) a = (10 – 5)/5 = 1 m/s^{2}. (ii) s = ut + ½at^{2} = 5 × 5 + ½ × 1 × 25 = 37.5 m."},
+        {"q": "A car moving at 20 m/s is brought to rest with a uniform retardation of 4 m/s^{2}. Find the time taken and the stopping distance.", "lines": 3,
+         "answer": "t = (v – u)/a = (0 – 20)/(–4) = 5 s. s = (v^{2} – u^{2})/2a = (0 – 400)/(–8) = 50 m."},
+        {"q": "A satellite moves in a circular orbit of radius 42,250 km and takes 24 hours to go around the Earth once. Find its speed.", "lines": 3,
+         "answer": "v = 2πr/t = (2 × 3.14 × 42,250 km)/24 h ≈ 11,060 km/h ≈ 3.07 km/s."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "A car covers the first half of a journey at 40 km/h and the second half at 60 km/h. Find its average speed for the whole journey. (Hint: it is NOT 50 km/h.)", "lines": 4,
+         "answer": "Let each half be d km. Time = d/40 + d/60 = 5d/120 = d/24 h. Average speed = 2d ÷ (d/24) = 48 km/h. (For equal distances, average speed = 2v_{1}v_{2}/(v_{1} + v_{2}).)"},
+        {"q": "Car A starts from rest and accelerates at 2 m/s^{2} for 5 s. Car B starts from rest and accelerates at 1 m/s^{2} for 10 s. Which car ends with the greater speed, and which covers the greater distance?", "lines": 4,
+         "answer": "A: v = 2 × 5 = 10 m/s, s = ½ × 2 × 25 = 25 m. B: v = 1 × 10 = 10 m/s, s = ½ × 1 × 100 = 50 m. Both end at the same speed (10 m/s), but B covers twice the distance."},
+        {"q": "A velocity–time graph is a straight line rising from 0 to 20 m/s in the first 4 s, then horizontal at 20 m/s for the next 6 s. Find the acceleration in the first 4 s and the total distance covered in 10 s.", "lines": 4,
+         "answer": "a = 20/4 = 5 m/s^{2}. Distance = area under the graph = triangle (½ × 4 × 20 = 40 m) + rectangle (6 × 20 = 120 m) = 160 m."}
+      ]
+    }
+  ],
+  "closing": "Check every answer for units. That's where most marks go missing!"
+}

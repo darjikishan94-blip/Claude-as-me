@@ -80,6 +80,17 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 |---|---|
 | Class 10 Science: 90-Day Board Revision Plan | [PDF](class10-science/pdf/c10-plan-90-day-board-revision.pdf) · [Word](class10-science/pdf/c10-plan-90-day-board-revision.docx) |
 
+## Class 9 Science
+
+### Worksheets
+
+| Title | Files |
+|---|---|
+| Practice Pack: Force and Laws of Motion | [PDF](class9-science/pdf/c9-practice-force-laws-of-motion.pdf) · [Word](class9-science/pdf/c9-practice-force-laws-of-motion.docx) · [Answer key](class9-science/pdf/c9-practice-force-laws-of-motion-answer-key.pdf) |
+| Practice Pack: Motion | [PDF](class9-science/pdf/c9-practice-motion.pdf) · [Word](class9-science/pdf/c9-practice-motion.docx) · [Answer key](class9-science/pdf/c9-practice-motion-answer-key.pdf) |
+| Practice Pack: Sound | [PDF](class9-science/pdf/c9-practice-sound.pdf) · [Word](class9-science/pdf/c9-practice-sound.docx) · [Answer key](class9-science/pdf/c9-practice-sound-answer-key.pdf) |
+| Practice Pack: Work and Energy | [PDF](class9-science/pdf/c9-practice-work-energy.pdf) · [Word](class9-science/pdf/c9-practice-work-energy.docx) · [Answer key](class9-science/pdf/c9-practice-work-energy-answer-key.pdf) |
+
 ## Guides & message kits
 
 - [Parent message calendar: the whole academic year (April–March)](admin/parent-message-calendar.md)

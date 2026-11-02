@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-sound",
+  "title": "Practice Pack: Sound",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style numericals, and Level 3 is Foundation-level challenge.",
+    "Key relations: v = fλ (speed = frequency × wavelength) · f = 1/T · echo distance = (speed × time)/2"
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "Why can sound not travel through a vacuum?", "lines": 2,
+         "answer": "Sound is a mechanical wave. It needs a medium (solid, liquid or gas) whose particles can vibrate to pass it on, and a vacuum has no particles."},
+        {"q": "Define frequency and give its SI unit.", "lines": 1,
+         "answer": "The number of oscillations (vibrations) per second. Its SI unit is the hertz (Hz)."},
+        {"q": "What is the audible range of frequencies for human beings?", "lines": 1,
+         "answer": "About 20 Hz to 20,000 Hz (20 kHz)."},
+        {"q": "Which property of sound decides its (a) loudness and (b) pitch?", "lines": 2,
+         "answer": "(a) Loudness depends on the amplitude. (b) Pitch depends on the frequency."},
+        {"q": "Why are the ceilings of concert halls and auditoriums curved?", "lines": 2,
+         "answer": "So that sound reflected from the ceiling spreads evenly and reaches every part of the hall."}
+      ]
+    },
+    {
+      "title": "Level 2: Numericals",
+      "questions": [
+        {"q": "A sound wave has a frequency of 2 kHz and a wavelength of 35 cm. How long will it take to travel 1.5 km?", "lines": 3,
+         "answer": "v = fλ = 2000 × 0.35 = 700 m/s. t = 1500/700 ≈ 2.1 s."},
+        {"q": "A person claps near a cliff and hears the echo after 2 s. How far is the cliff? (Speed of sound = 346 m/s)", "lines": 3,
+         "answer": "Sound travels to the cliff and back, so distance = (346 × 2)/2 = 346 m."},
+        {"q": "A source vibrates at 100 Hz. How many times does it vibrate in one minute?", "lines": 2,
+         "answer": "100 × 60 = 6000 times."},
+        {"q": "A sonar on a submarine receives the echo of its signal 5 s after sending it. The object is 3625 m away. Find the speed of sound in water.", "lines": 3,
+         "answer": "The signal travels 2 × 3625 = 7250 m in 5 s. v = 7250/5 = 1450 m/s."},
+        {"q": "Find the wavelength of a 220 Hz sound in air, where its speed is 440 m/s.", "lines": 2,
+         "answer": "λ = v/f = 440/220 = 2 m."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "A stone is dropped from the top of a 500 m tall tower into a pond at its base. After how long is the splash heard at the top? (g = 10 m/s^{2}, speed of sound = 340 m/s)", "lines": 5,
+         "answer": "Fall: 500 = ½ × 10 × t^{2}, so t = 10 s. Sound coming back up: 500/340 ≈ 1.47 s. Total ≈ 11.47 s."},
+        {"q": "What is the minimum distance needed between you and a wall to hear a distinct echo? (The sensation of a sound lasts about 0.1 s; speed of sound = 344 m/s.)", "lines": 3,
+         "answer": "The echo must return after at least 0.1 s, so the total path is 344 × 0.1 = 34.4 m. The wall must be at least 34.4/2 = 17.2 m away."},
+        {"q": "Bats fly in the dark without hitting objects. Explain how they do it.", "lines": 3,
+         "answer": "Bats send out high-pitched ultrasonic squeaks. These reflect off obstacles or prey and return to the bat's ears. From the echoes, the bat judges where the objects are and how far away they are, which is a form of echolocation."}
+      ]
+    }
+  ],
+  "closing": "Echo questions: remember to halve the total distance!"
+}
