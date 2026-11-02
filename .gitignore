@@ -1,0 +1,13 @@
+# Student/parent data and generated outputs: NEVER commit (this repo is public)
+private/
+*.xlsx
+*.xls
+*.csv
+!samples/*.csv
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+dist/kishan-as-me/
