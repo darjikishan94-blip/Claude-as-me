@@ -1,0 +1,48 @@
+{
+  "type": "worksheet",
+  "file_name": "c8-practice-sound",
+  "title": "Practice Pack: Sound",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "instructions": [
+    "Part A checks the basics. Part B makes you think and apply.",
+    "Frequency = number of oscillations ÷ time (unit: hertz, Hz). Time period = 1 ÷ frequency."
+  ],
+  "sections": [
+    {
+      "title": "Part A: Basics",
+      "questions": [
+        {"q": "How is sound produced?", "lines": 1,
+         "answer": "By vibrating objects."},
+        {"q": "Which part of the body produces sound in humans?", "lines": 1,
+         "answer": "The larynx (voice box): its vocal cords vibrate."},
+        {"q": "Can sound travel through a vacuum? Give a reason.", "lines": 2,
+         "answer": "No. Sound needs a medium (solid, liquid or gas) to travel, and a vacuum has none."},
+        {"q": "What decides the loudness and the pitch of a sound?", "lines": 2,
+         "answer": "Loudness depends on the amplitude of the vibration. Pitch depends on the frequency (higher frequency gives a higher pitch)."},
+        {"q": "What is the audible range of the human ear?", "lines": 1,
+         "answer": "About 20 Hz to 20,000 Hz."}
+      ]
+    },
+    {
+      "title": "Part B: Think and apply",
+      "questions": [
+        {"q": "A pendulum oscillates 40 times in 4 seconds. Find its time period and frequency.", "lines": 3,
+         "answer": "Frequency = 40 ÷ 4 = 10 Hz. Time period = 1 ÷ 10 = 0.1 s."},
+        {"q": "A mosquito vibrates its wings 500 times per second. What is the time period of the vibration?", "lines": 2,
+         "answer": "Frequency = 500 Hz, so the time period = 1/500 = 0.002 s."},
+        {"q": "Why does a woman's voice usually sound shriller than a man's?", "lines": 2,
+         "answer": "Women generally have shorter vocal cords, which vibrate at a higher frequency and give a higher pitch."},
+        {"q": "Lightning and thunder happen at the same time, but we see the flash first. Why?", "lines": 2,
+         "answer": "Light travels much faster than sound, so the flash reaches us before the sound of thunder."},
+        {"q": "What is noise pollution? Give two harmful effects and two ways to reduce it.", "lines": 4,
+         "answer": "Unwanted, excessive sound in the surroundings. Effects (any two): lack of sleep, high blood pressure, anxiety, temporary or permanent hearing loss. Ways (any two): lower the volume of TVs and music; avoid unnecessary horns; plant trees along roads; keep noisy activities away from homes and schools."},
+        {"q": "Why do we put our ear to a railway track to hear a distant train? (Do NOT try this!)", "lines": 2,
+         "answer": "Sound travels faster through solids (the steel track) than through air, so the train's sound reaches us sooner through the rail."}
+      ]
+    }
+  ],
+  "closing": "No vibration, no sound. Feel your throat when you hum!"
+}

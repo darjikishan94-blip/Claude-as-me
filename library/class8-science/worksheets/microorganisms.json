@@ -1,0 +1,48 @@
+{
+  "type": "worksheet",
+  "file_name": "c8-practice-microorganisms",
+  "title": "Practice Pack: Microorganisms – Friend and Foe",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "instructions": [
+    "Part A checks the basics. Part B makes you think and apply.",
+    "Make two columns in your notebook, 'Friend' and 'Foe', and fill them as you go."
+  ],
+  "sections": [
+    {
+      "title": "Part A: Basics",
+      "questions": [
+        {"q": "Name the major groups of microorganisms.", "lines": 1,
+         "answer": "Bacteria, fungi, protozoa and algae. Viruses are also microscopic, but they reproduce only inside a host cell."},
+        {"q": "Which microorganism turns milk into curd?", "lines": 1,
+         "answer": "Lactobacillus (a bacterium)."},
+        {"q": "Which microorganism is used to make bread rise? How does it do it?", "lines": 2,
+         "answer": "Yeast. It respires and produces carbon dioxide gas, whose bubbles make the dough rise."},
+        {"q": "Name two diseases caused by bacteria and two caused by viruses in humans.", "lines": 2,
+         "answer": "Bacteria: tuberculosis, typhoid, cholera. Viruses: common cold, influenza, measles, polio, chickenpox."},
+        {"q": "What are antibiotics? Give one example.", "lines": 2,
+         "answer": "Medicines made from microorganisms that kill or stop the growth of disease-causing microbes. Example: penicillin, streptomycin."}
+      ]
+    },
+    {
+      "title": "Part B: Think and apply",
+      "questions": [
+        {"q": "How do microorganisms help in increasing soil fertility?", "lines": 3,
+         "answer": "Some bacteria (e.g. Rhizobium in the root nodules of legumes) and blue-green algae fix nitrogen from the air into compounds that plants can use. Decomposers also break down dead matter and return nutrients to the soil."},
+        {"q": "Why should we not take antibiotics without a doctor's advice? Do antibiotics work against the common cold?", "lines": 3,
+         "answer": "Taking them unnecessarily or in the wrong dose can make them less effective later, and can kill useful bacteria in the body. They do not work against the common cold, which is caused by a virus."},
+        {"q": "How do vaccines protect us from disease?", "lines": 3,
+         "answer": "A vaccine contains dead or weakened microbes. The body produces antibodies to fight them and remembers how to make them, so if the real disease-causing microbe enters later, the body can fight it quickly."},
+        {"q": "Give four methods of preserving food, and explain how one of them works.", "lines": 3,
+         "answer": "Salting, sugaring (jams), using oil and vinegar (pickles), heating and cooling (pasteurisation, refrigeration), chemical preservatives, airtight packing. Example: salt draws water out of the food, so microbes cannot grow."},
+        {"q": "Why is milk pasteurised? How is it done?", "lines": 2,
+         "answer": "To kill harmful microbes so that milk is safe and lasts longer. Milk is heated to about 70 °C for 15–30 seconds, then suddenly chilled and stored."},
+        {"q": "How does the female Anopheles mosquito spread malaria, and how can we prevent it?", "lines": 3,
+         "answer": "It carries the malaria parasite (Plasmodium, a protozoan) and passes it into a person's blood when it bites. Prevention: don't let water collect anywhere (mosquitoes breed in stagnant water), use mosquito nets and repellents, and keep the surroundings clean."}
+      ]
+    }
+  ],
+  "closing": "Microbes are tiny, but they're everywhere. Wash your hands!"
+}

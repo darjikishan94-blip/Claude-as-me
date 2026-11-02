@@ -1,0 +1,48 @@
+{
+  "type": "worksheet",
+  "file_name": "c8-practice-metals-non-metals",
+  "title": "Practice Pack: Metals and Non-metals",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "instructions": [
+    "Part A checks the basics. Part B makes you think and apply.",
+    "Write word equations first. Then try the chemical equations where they are asked for."
+  ],
+  "sections": [
+    {
+      "title": "Part A: Basics",
+      "questions": [
+        {"q": "Give four physical properties of metals.", "lines": 2,
+         "answer": "(Any four) They are lustrous (shiny), hard, malleable (can be beaten into sheets), ductile (can be drawn into wires), good conductors of heat and electricity, and sonorous (they make a ringing sound)."},
+        {"q": "Name a metal that is a liquid at room temperature, and a non-metal that is a liquid.", "lines": 1,
+         "answer": "Metal: mercury. Non-metal: bromine."},
+        {"q": "Why are bells made of metal and not of wood?", "lines": 1,
+         "answer": "Metals are sonorous: they make a ringing sound when struck."},
+        {"q": "What is the nature of the oxides of metals and of non-metals?", "lines": 2,
+         "answer": "Metal oxides are basic (they turn red litmus blue). Non-metal oxides are acidic (they turn blue litmus red)."},
+        {"q": "Why is sodium stored in kerosene?", "lines": 1,
+         "answer": "It reacts vigorously with oxygen and water in the air and can catch fire."}
+      ]
+    },
+    {
+      "title": "Part B: Think and apply",
+      "questions": [
+        {"q": "Write the word equation and the balanced chemical equation for burning magnesium in air. What is the nature of the product?", "lines": 3,
+         "answer": "Magnesium + oxygen → magnesium oxide. 2Mg + O_{2} → 2MgO. Magnesium oxide is basic."},
+        {"q": "Write the equation for burning sulphur in air. What happens when the product dissolves in water?", "lines": 3,
+         "answer": "S + O_{2} → SO_{2}. Sulphur dioxide dissolves in water to form sulphurous acid, which turns blue litmus red (acidic)."},
+        {"q": "A zinc plate is put in copper sulphate solution. What do you observe? Write the equation.", "lines": 3,
+         "answer": "The blue colour of the solution fades, and a reddish-brown layer of copper forms on the zinc. Zinc is more reactive than copper and displaces it: Zn + CuSO_{4} → ZnSO_{4} + Cu."},
+        {"q": "Will a reaction take place if copper is put in zinc sulphate solution? Why?", "lines": 2,
+         "answer": "No. Copper is less reactive than zinc, so it cannot displace zinc."},
+        {"q": "Why are copper and aluminium used to make electric wires?", "lines": 2,
+         "answer": "They are good conductors of electricity and are ductile (can be drawn into thin wires)."},
+        {"q": "Why do iron objects rust, but gold jewellery stays shiny for years?", "lines": 2,
+         "answer": "Iron reacts with oxygen and moisture in the air to form rust. Gold is very unreactive and does not react with air or water."}
+      ]
+    }
+  ],
+  "closing": "Reactive metals push out less reactive ones. Remember the rule!"
+}

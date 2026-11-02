@@ -91,6 +91,18 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 |---|---|
 | Class 10 Science: 90-Day Board Revision Plan | [PDF](class10-science/pdf/c10-plan-90-day-board-revision.pdf) · [Word](class10-science/pdf/c10-plan-90-day-board-revision.docx) |
 
+## Class 8 Science
+
+### Worksheets
+
+| Title | Files |
+|---|---|
+| Practice Pack: Combustion and Flame | [PDF](class8-science/pdf/c8-practice-combustion-flame.pdf) · [Word](class8-science/pdf/c8-practice-combustion-flame.docx) · [Answer key](class8-science/pdf/c8-practice-combustion-flame-answer-key.pdf) |
+| Practice Pack: Force and Pressure | [PDF](class8-science/pdf/c8-practice-force-pressure.pdf) · [Word](class8-science/pdf/c8-practice-force-pressure.docx) · [Answer key](class8-science/pdf/c8-practice-force-pressure-answer-key.pdf) |
+| Practice Pack: Metals and Non-metals | [PDF](class8-science/pdf/c8-practice-metals-non-metals.pdf) · [Word](class8-science/pdf/c8-practice-metals-non-metals.docx) · [Answer key](class8-science/pdf/c8-practice-metals-non-metals-answer-key.pdf) |
+| Practice Pack: Microorganisms – Friend and Foe | [PDF](class8-science/pdf/c8-practice-microorganisms.pdf) · [Word](class8-science/pdf/c8-practice-microorganisms.docx) · [Answer key](class8-science/pdf/c8-practice-microorganisms-answer-key.pdf) |
+| Practice Pack: Sound | [PDF](class8-science/pdf/c8-practice-sound.pdf) · [Word](class8-science/pdf/c8-practice-sound.docx) · [Answer key](class8-science/pdf/c8-practice-sound-answer-key.pdf) |
+
 ## Class 9 Science
 
 ### Worksheets

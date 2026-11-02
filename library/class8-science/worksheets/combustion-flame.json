@@ -1,0 +1,48 @@
+{
+  "type": "worksheet",
+  "file_name": "c8-practice-combustion-flame",
+  "title": "Practice Pack: Combustion and Flame",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "instructions": [
+    "Part A checks the basics. Part B makes you think and apply.",
+    "Calorific value = heat produced ÷ mass of fuel burnt (unit: kJ/kg)."
+  ],
+  "sections": [
+    {
+      "title": "Part A: Basics",
+      "questions": [
+        {"q": "What is combustion? List the three things needed for it.", "lines": 2,
+         "answer": "Combustion is a chemical process in which a substance reacts with oxygen to give off heat (and often light). Needed: a combustible substance (fuel), a supply of air (oxygen), and heating to the ignition temperature."},
+        {"q": "What is ignition temperature?", "lines": 1,
+         "answer": "The lowest temperature at which a substance catches fire."},
+        {"q": "Name the three zones of a candle flame and say which is the hottest.", "lines": 2,
+         "answer": "The innermost dark zone (unburnt wax vapour), the middle luminous zone (partial combustion) and the outer non-luminous zone (complete combustion). The outer zone is the hottest."},
+        {"q": "Why is water not used to put out fires caused by electricity or oil?", "lines": 2,
+         "answer": "Water conducts electricity, so it could give a shock. Oil is lighter than water and floats on it, so the fire keeps burning and can spread."},
+        {"q": "Give two characteristics of an ideal fuel.", "lines": 2,
+         "answer": "(Any two) Cheap and easily available; high calorific value; burns easily in air at a moderate rate; leaves no harmful products; easy to store and transport."}
+      ]
+    },
+    {
+      "title": "Part B: Think and apply",
+      "questions": [
+        {"q": "4.5 kg of a fuel burns completely and produces 180,000 kJ of heat. Find its calorific value.", "lines": 2,
+         "answer": "Calorific value = 180,000 kJ ÷ 4.5 kg = 40,000 kJ/kg."},
+        {"q": "Why is carbon dioxide the best extinguisher for fires involving electrical equipment and petrol?", "lines": 3,
+         "answer": "CO_{2} is heavier than oxygen, so it covers the fire like a blanket and cuts off the supply of air. It also cools the fuel. It does not conduct electricity, and it does no harm to electrical equipment."},
+        {"q": "Why does a matchstick catch fire when rubbed on the side of a matchbox?", "lines": 3,
+         "answer": "Rubbing produces heat that converts a little red phosphorus on the box into white phosphorus, which catches fire easily. This lights the antimony trisulphide and potassium chlorate on the match head."},
+        {"q": "A paper cup filled with water can be heated over a flame without burning. Explain.", "lines": 3,
+         "answer": "The heat from the flame passes through the paper to the water. The paper never reaches its ignition temperature until all the water has boiled away, so it does not catch fire."},
+        {"q": "Why is it dangerous to burn coal or wood in a closed room?", "lines": 2,
+         "answer": "With little air, burning is incomplete and produces carbon monoxide, a poisonous gas that can kill people sleeping in the room."},
+        {"q": "Give two harmful effects of burning fuels on the environment.", "lines": 2,
+         "answer": "(Any two) Unburnt carbon particles cause breathing problems. Carbon dioxide adds to global warming. Oxides of sulphur and nitrogen dissolve in rain water to form acid rain."}
+      ]
+    }
+  ],
+  "closing": "Fuel + oxygen + heat = fire. Remove any one and the fire goes out!"
+}

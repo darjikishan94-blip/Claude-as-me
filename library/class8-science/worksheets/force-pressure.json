@@ -1,0 +1,48 @@
+{
+  "type": "worksheet",
+  "file_name": "c8-practice-force-pressure",
+  "title": "Practice Pack: Force and Pressure",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "instructions": [
+    "Part A checks the basics. Part B makes you think and apply.",
+    "Pressure = Force ÷ Area. SI unit: pascal (Pa) = N/m^{2}."
+  ],
+  "sections": [
+    {
+      "title": "Part A: Basics",
+      "questions": [
+        {"q": "What is a force? Give two effects a force can have on an object.", "lines": 2,
+         "answer": "A force is a push or a pull. Effects (any two): it can make a still object move, change the speed or direction of a moving object, or change the shape of an object."},
+        {"q": "Name two contact forces and two non-contact forces.", "lines": 2,
+         "answer": "Contact: muscular force, friction. Non-contact: magnetic force, electrostatic force, gravitational force."},
+        {"q": "Why is it easier to cut vegetables with a sharp knife than with a blunt one?", "lines": 2,
+         "answer": "A sharp edge has a very small area, so the same force produces much greater pressure."},
+        {"q": "Why do liquids leak from holes at the bottom of a bottle with more force than from holes near the top?", "lines": 2,
+         "answer": "Liquid pressure increases with depth, so the pressure is greater near the bottom."},
+        {"q": "What is atmospheric pressure?", "lines": 1,
+         "answer": "The pressure exerted by the air around us."}
+      ]
+    },
+    {
+      "title": "Part B: Think and apply",
+      "questions": [
+        {"q": "A force of 50 N acts on an area of 0.5 m^{2}. Find the pressure.", "lines": 2,
+         "answer": "Pressure = 50 N ÷ 0.5 m^{2} = 100 Pa."},
+        {"q": "A brick weighs 30 N. Its faces measure 0.2 m × 0.1 m, 0.2 m × 0.05 m and 0.1 m × 0.05 m. On which face should it rest to put the least pressure on the ground? Calculate the pressure in each case.", "lines": 4,
+         "answer": "Areas: 0.02 m^{2}, 0.01 m^{2} and 0.005 m^{2}. Pressures: 30/0.02 = 1500 Pa, 30/0.01 = 3000 Pa and 30/0.005 = 6000 Pa. The least pressure (1500 Pa) is on the largest face (0.2 m × 0.1 m)."},
+        {"q": "Why do school bags have wide straps?", "lines": 2,
+         "answer": "Wide straps spread the weight over a larger area of the shoulder, so the pressure is less and the bag feels lighter."},
+        {"q": "Why are the walls of a dam made thicker at the bottom?", "lines": 2,
+         "answer": "Water pressure increases with depth, so the bottom of the dam has to withstand the greatest pressure."},
+        {"q": "A suction hook (rubber sucker) sticks to a smooth wall. Explain why.", "lines": 3,
+         "answer": "Pressing the sucker pushes out most of the air between it and the wall. The atmospheric pressure outside is now much greater than the pressure inside, so the air outside presses the sucker firmly against the wall."},
+        {"q": "Camels walk easily on sand, but people sink in. Why?", "lines": 2,
+         "answer": "A camel's broad, flat feet spread its weight over a large area, so the pressure on the sand is low and it does not sink much."}
+      ]
+    }
+  ],
+  "closing": "Small area → big pressure. Big area → small pressure. Look for it everywhere!"
+}
