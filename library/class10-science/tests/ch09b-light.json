@@ -1,0 +1,233 @@
+{
+  "type": "test",
+  "file_name": "c10-ch09-test-b-light-reflection-refraction",
+  "title": "Ch 9 Test (Set B): Light – Reflection and Refraction",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Use the New Cartesian Sign Convention. Show the formula, substitution and units in numericals. Draw ray diagrams neatly."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The radius of curvature of a convex mirror is 32 cm. Its focal length is:",
+          "marks": 1,
+          "options": [
+            "−64 cm",
+            "−16 cm",
+            "+16 cm",
+            "+32 cm"
+          ],
+          "answer": "(c) +16 cm. f = R/2, positive for a convex mirror."
+        },
+        {
+          "q": "Which of the following is used as a magnifying glass?",
+          "marks": 1,
+          "options": [
+            "Concave lens",
+            "Convex lens",
+            "Plane glass sheet",
+            "Prism"
+          ],
+          "answer": "(b) Convex lens (object placed between F_{1} and O)"
+        },
+        {
+          "q": "Light travels fastest in:",
+          "marks": 1,
+          "options": [
+            "glass",
+            "water",
+            "diamond",
+            "vacuum"
+          ],
+          "answer": "(d) vacuum"
+        },
+        {
+          "q": "The magnification produced by a plane mirror is:",
+          "marks": 1,
+          "options": [
+            "−1",
+            "zero",
+            "infinity",
+            "+1"
+          ],
+          "answer": "(d) +1 (image is the same size and erect)"
+        },
+        {
+          "q": "When a ray of light passes obliquely from a denser medium into a rarer medium, it:",
+          "marks": 1,
+          "options": [
+            "bends towards the normal",
+            "always goes straight",
+            "bends away from the normal",
+            "is completely absorbed"
+          ],
+          "answer": "(c) bends away from the normal"
+        },
+        {
+          "q": "**Assertion (A):** Convex mirrors are placed at sharp bends on hilly roads.\n**Reason (R):** A convex mirror gives an erect image and a much wider field of view.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Define the power of a lens and give its SI unit. Find the power of a convex lens of focal length 40 cm.",
+          "marks": 2,
+          "answer": "The power of a lens is the reciprocal of its focal length in metres (P = 1/f). It shows how strongly the lens converges or diverges light. SI unit: dioptre (D). P = 1/0.40 m = +2.5 D.",
+          "marking": [
+            "Definition + unit: 1",
+            "P = +2.5 D: 1"
+          ],
+          "or": {
+            "q": "What does it mean when we say that the refractive index of diamond is 2.42?",
+            "marks": 2,
+            "answer": "It means the ratio of the speed of light in vacuum (air) to the speed of light in diamond is 2.42, so light travels 2.42 times slower in diamond than in vacuum.",
+            "marking": [
+              "Ratio of speeds: 1",
+              "Light slower in diamond: 1"
+            ]
+          }
+        },
+        {
+          "q": "Which type of mirror is used (a) in solar furnaces, (b) as a shaving mirror? Give a reason for each.",
+          "marks": 2,
+          "answer": "(a) Concave mirror. It concentrates sunlight at its focus, producing a lot of heat. (b) Concave mirror. When the face is within its focus, it gives an enlarged, erect image.",
+          "marking": [
+            "Each with reason: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "An object 5 cm high is placed 20 cm in front of a concave mirror of focal length 10 cm.",
+          "subparts": [
+            {
+              "q": "Find the position of the image.",
+              "marks": 2,
+              "answer": "u = −20 cm, f = −10 cm. 1/v = 1/f − 1/u = −1/10 + 1/20 = −1/20, so v = −20 cm. The image is 20 cm in front of the mirror (at C).",
+              "marking": [
+                "Formula and signs: 1",
+                "v = −20 cm: 1"
+              ]
+            },
+            {
+              "q": "Find the size and nature of the image.",
+              "marks": 1,
+              "answer": "m = −v/u = −(−20)/(−20) = −1, so h′ = −5 cm. The image is real, inverted and the same size as the object."
+            }
+          ]
+        },
+        {
+          "q": "A convex lens of focal length 10 cm forms a real image three times the size of the object. Find the object distance and the image distance.",
+          "marks": 3,
+          "answer": "Real image, so m = −3 and v = −3u. Using 1/v − 1/u = 1/f: 1/(−3u) − 1/u = 1/10, which gives −4/(3u) = 1/10, so u = −40/3 ≈ −13.3 cm. v = −3u = +40 cm. The object is 13.3 cm from the lens, and the image is 40 cm on the other side.",
+          "marking": [
+            "m = −3, v = −3u: 1",
+            "u ≈ −13.3 cm: 1",
+            "v = +40 cm: 1"
+          ],
+          "or": {
+            "q": "An object is placed 20 cm in front of a concave lens of focal length 20 cm. Find the position, nature and magnification of the image.",
+            "marks": 3,
+            "answer": "u = −20 cm, f = −20 cm. 1/v = 1/f + 1/u = −1/20 − 1/20 = −1/10, so v = −10 cm (same side as the object). m = v/u = (−10)/(−20) = +0.5. The image is virtual, erect and half the size of the object.",
+            "marking": [
+              "v = −10 cm: 1",
+              "m = +0.5: 1",
+              "Nature: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Draw a ray diagram for a concave mirror with the object placed between C and F. State the position, size and nature of the image.",
+              "marks": 3,
+              "answer": "Diagram: a ray parallel to the principal axis reflects through F, and a ray through C reflects back along itself. They meet beyond C. Image: beyond C; enlarged; real and inverted.",
+              "marking": [
+                "Correct ray diagram: 2",
+                "Position, size and nature: 1"
+              ]
+            },
+            {
+              "q": "Two lenses of power +3.5 D and −2.5 D are placed in contact. Find the power and focal length of the combination. Is it converging or diverging?",
+              "marks": 2,
+              "answer": "P = P_{1} + P_{2} = +3.5 + (−2.5) = +1.0 D. f = 1/P = 1 m = 100 cm. The positive power means the combination is converging.",
+              "marking": [
+                "P = +1 D: 1",
+                "f = 1 m, converging: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) State the laws of reflection of light. [2]\n(b) A coin at the bottom of a bucket of water appears to be raised. Explain why. [3]",
+            "marks": 5,
+            "answer": "(a) (1) The angle of incidence equals the angle of reflection. (2) The incident ray, the normal at the point of incidence and the reflected ray all lie in the same plane. (b) Light from the coin passes from water (denser) into air (rarer) and bends away from the normal. Our eyes trace the refracted rays back in straight lines, and they appear to come from a point higher than the coin. So the coin looks raised. This is due to refraction.",
+            "marking": [
+              "(a) 1 + 1",
+              "(b) refraction 1, bends away 1, appears raised 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "In an experiment with a rectangular glass slab, a student sent a ray of light into the slab at an angle of incidence of 30°. The angle of refraction inside the glass was measured as 19.5°. (Use sin 30° = 0.500 and sin 19.5° = 0.334.)",
+          "subparts": [
+            {
+              "q": "State Snell's law of refraction.",
+              "marks": 1,
+              "answer": "For a given pair of media and a given colour of light, sin i / sin r is a constant (the refractive index of the second medium with respect to the first)."
+            },
+            {
+              "q": "Calculate the refractive index of the glass.",
+              "marks": 1,
+              "answer": "n = sin i / sin r = 0.500/0.334 ≈ 1.5"
+            },
+            {
+              "q": "If the angle of incidence is increased to 45°, what happens to the angle of refraction and to the refractive index?",
+              "marks": 2,
+              "answer": "The angle of refraction increases. The refractive index stays the same (about 1.5), because it depends only on the pair of media (and the colour of light), not on the angle.",
+              "marking": [
+                "r increases: 1",
+                "n unchanged, with reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,236 @@
+{
+  "type": "test",
+  "file_name": "c10-ch11-test-b-electricity",
+  "title": "Ch 11 Test (Set B): Electricity",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Electricity",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "In numericals, write the formula, substitute values with units, and give the final answer with its unit."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The SI unit of potential difference is the:",
+          "marks": 1,
+          "options": [
+            "ampere",
+            "ohm",
+            "coulomb",
+            "volt"
+          ],
+          "answer": "(d) volt"
+        },
+        {
+          "q": "The length of a wire is doubled and its area of cross-section is halved. Its resistivity:",
+          "marks": 1,
+          "options": [
+            "doubles",
+            "stays the same",
+            "halves",
+            "becomes four times"
+          ],
+          "answer": "(b) stays the same (resistivity depends only on the material and temperature)"
+        },
+        {
+          "q": "Two 4 Ω resistors are connected first in series and then in parallel. The ratio of the series resistance to the parallel resistance is:",
+          "marks": 1,
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "(c) 4. Series 8 Ω, parallel 2 Ω."
+        },
+        {
+          "q": "How much electrical energy does a 100 W bulb use in 10 hours?",
+          "marks": 1,
+          "options": [
+            "0.1 kWh",
+            "1 kWh",
+            "10 kWh",
+            "100 kWh"
+          ],
+          "answer": "(b) 1 kWh. E = 0.1 kW × 10 h"
+        },
+        {
+          "q": "The filament of an electric bulb is made of:",
+          "marks": 1,
+          "options": [
+            "copper",
+            "nichrome",
+            "tungsten",
+            "aluminium"
+          ],
+          "answer": "(c) tungsten"
+        },
+        {
+          "q": "**Assertion (A):** Alloys are used in electric heating devices.\n**Reason (R):** Alloys have a higher resistivity than pure metals and do not oxidise easily at high temperatures.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "A current of 0.5 A flows through a bulb for 10 minutes. How much charge flows through it?",
+          "marks": 2,
+          "answer": "Q = It = 0.5 A × (10 × 60) s = 300 C",
+          "marking": [
+            "Formula and time in seconds: 1",
+            "300 C: 1"
+          ],
+          "or": {
+            "q": "How many electrons make up a charge of 1 coulomb? (Charge on an electron = 1.6 × 10^{-19} C.)",
+            "marks": 2,
+            "answer": "n = Q/e = 1/(1.6 × 10^{-19}) = 6.25 × 10^{18} electrons",
+            "marking": [
+              "Formula: 1",
+              "6.25 × 10^{18}: 1"
+            ]
+          }
+        },
+        {
+          "q": "Why does the cord of an electric heater not glow, while its heating element does?",
+          "marks": 2,
+          "answer": "The heating element is made of an alloy with a high resistance, so a lot of heat is produced in it (H = I^{2}Rt) and it glows. The cord is made of copper, which has a very low resistance, so very little heat is produced in it.",
+          "marking": [
+            "Element has high resistance: 1",
+            "Cord has low resistance: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Resistors of 2 Ω, 3 Ω and 5 Ω are connected in series to a 10 V battery.",
+          "subparts": [
+            {
+              "q": "Find the total resistance.",
+              "marks": 1,
+              "answer": "R = 2 + 3 + 5 = 10 Ω"
+            },
+            {
+              "q": "Find the current in the circuit.",
+              "marks": 1,
+              "answer": "I = V/R = 10/10 = 1 A"
+            },
+            {
+              "q": "Find the potential difference across the 5 Ω resistor.",
+              "marks": 1,
+              "answer": "V = IR = 1 × 5 = 5 V"
+            }
+          ]
+        },
+        {
+          "q": "A current of 2 A flows through a 50 Ω resistor for 1 minute. Calculate the heat produced. How would the heat change if the current were doubled?",
+          "marks": 3,
+          "answer": "H = I^{2}Rt = 2^{2} × 50 × 60 = 12000 J (1.2 × 10^{4} J). If the current is doubled, the heat becomes four times (48000 J), because H ∝ I^{2}.",
+          "marking": [
+            "Formula: 1",
+            "12000 J: 1",
+            "Four times: 1"
+          ],
+          "or": {
+            "q": "A 1500 W electric heater works on a 220 V supply. Find the current it draws and its resistance. Can it be used safely on a circuit protected by a 5 A fuse?",
+            "marks": 3,
+            "answer": "I = P/V = 1500/220 ≈ 6.8 A. R = V^{2}/P = 220^{2}/1500 ≈ 32.3 Ω. No: it draws more than 5 A, so the fuse would blow. It needs the 15 A circuit.",
+            "marking": [
+              "Current: 1",
+              "Resistance: 1",
+              "Not safe, with reason: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "State Ohm's law. Describe an experiment to verify it.",
+              "marks": 3,
+              "answer": "At constant temperature, the current through a conductor is directly proportional to the potential difference across its ends (V = IR). Experiment: connect a resistor (nichrome wire), an ammeter in series, a battery, a key and a rheostat, with a voltmeter in parallel across the resistor. Change the current using the rheostat (or the number of cells) and note V and I each time. V/I stays constant, and the V–I graph is a straight line through the origin.",
+              "marking": [
+                "Statement: 1",
+                "Circuit: 1",
+                "Observation (V/I constant, straight line): 1"
+              ]
+            },
+            {
+              "q": "What does the slope of a V–I graph (V on the y-axis, I on the x-axis) represent? Which of two such lines represents the larger resistance?",
+              "marks": 2,
+              "answer": "The slope (V/I) gives the resistance of the conductor. The steeper line represents the larger resistance.",
+              "marking": [
+                "Slope = R: 1",
+                "Steeper = larger R: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Compare the power used by the 2 Ω resistor in each case: (i) a 6 V battery in series with 1 Ω and 2 Ω resistors; (ii) a 4 V battery in parallel with 12 Ω and 2 Ω resistors. [3]\n(b) Why is a series arrangement not used in domestic circuits? [2]",
+            "marks": 5,
+            "answer": "(a) (i) I = 6/(1 + 2) = 2 A, so P = I^{2}R = 2^{2} × 2 = 8 W. (ii) The voltage across the 2 Ω resistor is 4 V, so P = V^{2}/R = 16/2 = 8 W. The power is the same (8 W) in both cases. (b) In series, the current is the same through every appliance, and the voltage is shared, so appliances don't get their full rated voltage. If one appliance fails, the whole circuit breaks, and appliances cannot be switched on or off independently.",
+            "marking": [
+              "(a) (i) 1, (ii) 1, comparison 1",
+              "(b) two reasons: 1 + 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A family uses five 10 W LED bulbs for 5 hours a day, two 75 W fans for 8 hours a day, and a refrigerator rated 150 W that effectively runs for 10 hours a day. Electricity costs ₹5 per unit (kWh).",
+          "subparts": [
+            {
+              "q": "How much energy do the LED bulbs use per day?",
+              "marks": 1,
+              "answer": "5 × 10 W × 5 h = 250 Wh = 0.25 kWh"
+            },
+            {
+              "q": "What is the total energy used per day?",
+              "marks": 1,
+              "answer": "Bulbs 0.25 kWh + fans 2 × 75 W × 8 h = 1.2 kWh + refrigerator 150 W × 10 h = 1.5 kWh, total 2.95 kWh"
+            },
+            {
+              "q": "Find the electricity bill for 30 days, and suggest one way to reduce it.",
+              "marks": 2,
+              "answer": "Energy = 2.95 × 30 = 88.5 kWh. Bill = 88.5 × ₹5 = ₹442.50. Ways to reduce it (any one): switch off fans and lights when not needed; use energy-efficient (star-rated) appliances; keep the refrigerator door closed.",
+              "marking": [
+                "₹442.50: 1",
+                "One sensible way: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

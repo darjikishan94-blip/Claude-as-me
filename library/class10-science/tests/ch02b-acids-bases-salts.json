@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch02-test-b-acids-bases-salts",
+  "title": "Ch 2 Test (Set B): Acids, Bases and Salts",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Write balanced chemical equations wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following gives carbon dioxide with dilute hydrochloric acid?",
+          "marks": 1,
+          "options": [
+            "Zinc",
+            "Sodium hydroxide",
+            "Sodium hydrogencarbonate",
+            "Sodium chloride"
+          ],
+          "answer": "(c) Sodium hydrogencarbonate. NaHCO_{3} + HCl → NaCl + H_{2}O + CO_{2}"
+        },
+        {
+          "q": "Which of these has the highest pH?",
+          "marks": 1,
+          "options": [
+            "Lemon juice",
+            "Milk of magnesia",
+            "Pure water",
+            "Vinegar"
+          ],
+          "answer": "(b) Milk of magnesia (it is basic)"
+        },
+        {
+          "q": "Which indicator turns pink in a basic solution?",
+          "marks": 1,
+          "options": [
+            "Methyl orange",
+            "Blue litmus",
+            "Turmeric",
+            "Phenolphthalein"
+          ],
+          "answer": "(d) Phenolphthalein"
+        },
+        {
+          "q": "The chemical formula of Plaster of Paris is:",
+          "marks": 1,
+          "options": [
+            "CaSO_{4}·2H_{2}O",
+            "CaSO_{4}·½H_{2}O",
+            "CaSO_{4}",
+            "CaCO_{3}"
+          ],
+          "answer": "(b) CaSO_{4}·½H_{2}O"
+        },
+        {
+          "q": "The stinging hairs of nettle leaves inject:",
+          "marks": 1,
+          "options": [
+            "citric acid",
+            "oxalic acid",
+            "lactic acid",
+            "methanoic acid"
+          ],
+          "answer": "(d) methanoic acid"
+        },
+        {
+          "q": "**Assertion (A):** Tooth decay starts when the pH in the mouth falls below 5.5.\n**Reason (R):** Below pH 5.5, tooth enamel starts to get corroded.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is a universal indicator? Why is it more useful than litmus?",
+          "marks": 2,
+          "answer": "A universal indicator is a mixture of several indicators that shows different colours at different pH values (different concentrations of H^{+} ions). Litmus only tells whether a solution is acidic or basic. A universal indicator also tells how strong the acid or base is (its pH).",
+          "marking": [
+            "Definition: 1",
+            "Shows strength / pH: 1"
+          ],
+          "or": {
+            "q": "Hydrochloric acid and acetic acid of the same concentration are taken. Why is HCl a stronger acid?",
+            "marks": 2,
+            "answer": "HCl ionises completely in water and produces many more H^{+} ions. Acetic acid ionises only partially, so it produces fewer H^{+} ions.",
+            "marking": [
+              "HCl ionises completely: 1",
+              "Acetic acid partially: 1"
+            ]
+          }
+        },
+        {
+          "q": "Why should Plaster of Paris be stored in a moisture-proof container?",
+          "marks": 2,
+          "answer": "Plaster of Paris reacts with water to form gypsum (CaSO_{4}·2H_{2}O), which sets into a hard solid mass. If moisture gets in, the powder becomes hard and useless.",
+          "marking": [
+            "Reacts with water to form gypsum: 1",
+            "Sets hard / becomes useless: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A solution has a pH of 3.",
+          "subparts": [
+            {
+              "q": "Is the solution acidic, basic or neutral?",
+              "marks": 1,
+              "answer": "Acidic"
+            },
+            {
+              "q": "What happens to its pH when it is diluted with water?",
+              "marks": 1,
+              "answer": "The pH increases towards 7, because the H^{+} ion concentration decreases."
+            },
+            {
+              "q": "What happens to the pH if a base is added slowly until the solution is neutralised?",
+              "marks": 1,
+              "answer": "The pH rises until it reaches 7 (neutral)."
+            }
+          ]
+        },
+        {
+          "q": "How is baking powder different from baking soda? Why does baking powder make a cake soft and spongy?",
+          "marks": 3,
+          "answer": "Baking soda is only sodium hydrogencarbonate. Baking powder is a mixture of baking soda and a mild edible acid such as tartaric acid. When it is heated or mixed with water, it releases carbon dioxide gas, which makes the dough rise, so the cake becomes soft and spongy. The acid also stops the bitter taste of sodium carbonate.",
+          "marking": [
+            "Difference: 1",
+            "CO_{2} released: 1",
+            "Makes it rise / soft: 1"
+          ],
+          "or": {
+            "q": "Write balanced equations, and name the salt formed, for the reactions of: (i) hydrochloric acid with sodium hydroxide, (ii) sulphuric acid with potassium hydroxide, (iii) nitric acid with calcium hydroxide.",
+            "marks": 3,
+            "answer": "(i) HCl + NaOH → NaCl + H_{2}O (sodium chloride)  (ii) H_{2}SO_{4} + 2KOH → K_{2}SO_{4} + 2H_{2}O (potassium sulphate)  (iii) 2HNO_{3} + Ca(OH)_{2} → Ca(NO_{3})_{2} + 2H_{2}O (calcium nitrate)",
+            "marking": [
+              "Each equation + salt: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What happens when carbon dioxide is passed through lime water, and when excess carbon dioxide is passed? Write the equations.",
+              "marks": 2,
+              "answer": "Lime water turns milky because insoluble calcium carbonate forms: Ca(OH)_{2} + CO_{2} → CaCO_{3} + H_{2}O. With excess CO_{2}, the milkiness disappears because soluble calcium hydrogencarbonate forms: CaCO_{3} + H_{2}O + CO_{2} → Ca(HCO_{3})_{2}",
+              "marking": [
+                "Each observation + equation: 1"
+              ]
+            },
+            {
+              "q": "Give three examples of neutralisation in everyday life and explain each briefly.",
+              "marks": 3,
+              "answer": "(Any three) Antacids such as milk of magnesia neutralise excess acid in the stomach during indigestion. Basic toothpaste neutralises the acid produced by bacteria in the mouth, preventing tooth decay. Baking soda (a mild base) is applied on a bee sting to neutralise the acid. Quicklime or slaked lime is added to acidic soil.",
+              "marking": [
+                "Any three examples with explanation: 1 each"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What is water of crystallisation? Describe what happens when blue copper sulphate crystals are heated, and when water is then added. [3]\n(b) Name the salt used (i) to remove permanent hardness of water, (ii) to disinfect drinking water. [2]",
+            "marks": 5,
+            "answer": "(a) Water of crystallisation is the fixed number of water molecules present in one formula unit of a salt crystal. Copper sulphate crystals (CuSO_{4}·5H_{2}O) are blue. On heating they lose their water of crystallisation and turn white (anhydrous CuSO_{4}), and water droplets appear in the test tube. When water is added, the blue colour returns. (b) (i) Washing soda (sodium carbonate). (ii) Bleaching powder.",
+            "marking": [
+              "(a) definition 1, heating 1, adding water 1",
+              "(b) 1 + 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Plants grow well only when the soil pH is in a suitable range. A farmer found that the soil in his field had a pH of 5. In his area, rain water sometimes has a pH below 5.6, which is called acid rain. When acid rain flows into rivers, it lowers the pH of the river water.",
+          "subparts": [
+            {
+              "q": "Is the farmer's soil acidic or basic?",
+              "marks": 1,
+              "answer": "Acidic (pH less than 7)."
+            },
+            {
+              "q": "What can he add to the soil to correct its pH?",
+              "marks": 1,
+              "answer": "Quicklime (calcium oxide), slaked lime (calcium hydroxide) or chalk (calcium carbonate): a base that neutralises the acid."
+            },
+            {
+              "q": "Why is it a problem when acid rain lowers the pH of river water? Why is it important to keep soil at the right pH?",
+              "marks": 2,
+              "answer": "Aquatic animals can survive only in a narrow pH range, so a lower pH makes survival difficult for river life. Plants need a specific pH range for healthy growth, so the wrong soil pH reduces crop yield.",
+              "marking": [
+                "River life: 1",
+                "Soil pH for plants: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

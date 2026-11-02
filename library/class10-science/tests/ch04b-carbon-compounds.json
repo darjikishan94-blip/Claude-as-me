@@ -1,0 +1,232 @@
+{
+  "type": "test",
+  "file_name": "c10-ch04-test-b-carbon-compounds",
+  "title": "Ch 4 Test (Set B): Carbon and its Compounds",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Write balanced chemical equations and structural formulae wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "The next homologue of methane (CH_{4}) is:",
+          "marks": 1,
+          "options": [
+            "C_{2}H_{4}",
+            "C_{3}H_{8}",
+            "C_{2}H_{6}",
+            "CH_{3}OH"
+          ],
+          "answer": "(c) C_{2}H_{6} (ethane)"
+        },
+        {
+          "q": "The functional group present in propanal is:",
+          "marks": 1,
+          "options": [
+            "alcohol",
+            "ketone",
+            "carboxylic acid",
+            "aldehyde"
+          ],
+          "answer": "(d) aldehyde (–CHO)"
+        },
+        {
+          "q": "The two carbon atoms in ethene are joined by:",
+          "marks": 1,
+          "options": [
+            "a single bond",
+            "a double bond",
+            "a triple bond",
+            "an ionic bond"
+          ],
+          "answer": "(b) a double bond"
+        },
+        {
+          "q": "Soaps are:",
+          "marks": 1,
+          "options": [
+            "esters of ethanol",
+            "ammonium salts of short-chain acids",
+            "sodium or potassium salts of long-chain carboxylic acids",
+            "alcohols"
+          ],
+          "answer": "(c) sodium or potassium salts of long-chain carboxylic acids"
+        },
+        {
+          "q": "Vegetable ghee is made from vegetable oils by:",
+          "marks": 1,
+          "options": [
+            "hydrogenation",
+            "oxidation",
+            "substitution",
+            "esterification"
+          ],
+          "answer": "(a) hydrogenation (with a nickel catalyst)"
+        },
+        {
+          "q": "**Assertion (A):** Pure ethanoic acid is called glacial acetic acid.\n**Reason (R):** Pure ethanoic acid freezes in cold climates because its melting point is 290 K.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why do covalent compounds generally have low melting and boiling points? Why are they poor conductors of electricity?",
+          "marks": 2,
+          "answer": "The forces between their molecules (intermolecular forces) are weak, so little energy is needed to separate them. They are poor conductors because the bonds are formed by sharing electrons, so no ions are formed.",
+          "marking": [
+            "Weak intermolecular forces: 1",
+            "No ions: 1"
+          ],
+          "or": {
+            "q": "Name these compounds: (a) CH_{3}–CH_{2}–Br, (b) HCHO, (c) CH_{3}COCH_{3}, (d) CH_{3}CH_{2}CH_{2}OH.",
+            "marks": 2,
+            "answer": "(a) Bromoethane (b) Methanal (c) Propanone (d) Propanol",
+            "marking": [
+              "½ each"
+            ]
+          }
+        },
+        {
+          "q": "What is a homologous series? Give two of its characteristics.",
+          "marks": 2,
+          "answer": "A series of compounds with the same functional group, in which successive members differ by a –CH_{2}– unit. Characteristics (any two): successive members differ by 14 u in molecular mass; they have similar chemical properties; their physical properties (such as melting and boiling points) change gradually; they can be represented by one general formula.",
+          "marking": [
+            "Definition: 1",
+            "Two characteristics: ½ + ½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Write the general formula of alkenes.",
+              "marks": 1,
+              "answer": "C_{n}H_{2n}"
+            },
+            {
+              "q": "Write the name and formula of the third member of the alkane series.",
+              "marks": 1,
+              "answer": "Propane, C_{3}H_{8}"
+            },
+            {
+              "q": "By how much do the molecular masses of two successive members of a homologous series differ?",
+              "marks": 1,
+              "answer": "14 u (one –CH_{2}– unit)"
+            }
+          ]
+        },
+        {
+          "q": "What is a substitution reaction? Give a balanced equation and the condition needed.",
+          "marks": 3,
+          "answer": "A reaction in which an atom or group of atoms in a molecule is replaced by another atom or group. Methane reacts with chlorine in the presence of sunlight: CH_{4} + Cl_{2} → CH_{3}Cl + HCl. A hydrogen atom is replaced by a chlorine atom.",
+          "marking": [
+            "Definition: 1",
+            "Equation: 1",
+            "Sunlight: 1"
+          ],
+          "or": {
+            "q": "Why do soap molecules form micelles in water? Would micelles form in ethanol? Explain.",
+            "marks": 3,
+            "answer": "A soap molecule has a hydrophilic ionic end and a long hydrophobic hydrocarbon tail. In water, the tails stay away from the water by clustering together inside, with the ionic ends on the outside, which forms a micelle. In ethanol, no micelle forms, because the hydrocarbon tail dissolves in ethanol and there is no need for the tails to cluster.",
+            "marking": [
+              "Two ends of soap molecule: 1",
+              "Micelle in water: 1",
+              "No micelle in ethanol, with reason: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following about ethanoic acid:",
+          "subparts": [
+            {
+              "q": "Write balanced equations for its reactions with (a) sodium hydroxide, (b) sodium carbonate, (c) ethanol (in the presence of an acid).",
+              "marks": 3,
+              "answer": "(a) CH_{3}COOH + NaOH → CH_{3}COONa + H_{2}O  (b) 2CH_{3}COOH + Na_{2}CO_{3} → 2CH_{3}COONa + H_{2}O + CO_{2}  (c) CH_{3}COOH + C_{2}H_{5}OH → CH_{3}COOC_{2}H_{5} + H_{2}O",
+              "marking": [
+                "Each equation: 1"
+              ]
+            },
+            {
+              "q": "Give one use of ethanoic acid and one use of esters.",
+              "marks": 2,
+              "answer": "Ethanoic acid: as vinegar (5–8% solution), used as a preservative in pickles. Esters: in perfumes and as flavouring agents.",
+              "marking": [
+                "Each use: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What are catenation and tetravalency? [2]\n(b) Write the structural formulae of ethane, ethene and ethyne. [3]",
+            "marks": 5,
+            "answer": "(a) Catenation is carbon's ability to form bonds with other carbon atoms, giving long chains, branches and rings. Tetravalency means carbon has a valency of four, so it can bond with four other atoms. (b) Ethane: CH_{3}–CH_{3}. Ethene: CH_{2}=CH_{2}. Ethyne: HC≡CH.",
+            "marking": [
+              "(a) 1 + 1",
+              "(b) 1 each"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Hard water contains salts of calcium and magnesium. When soap is used in hard water, it reacts with these salts to form an insoluble substance called scum, and it does not lather well. Detergents are generally ammonium or sulphonate salts of long-chain carboxylic acids. Their charged ends do not form insoluble precipitates with calcium and magnesium ions, so they work well even in hard water.",
+          "subparts": [
+            {
+              "q": "Which ions make water hard?",
+              "marks": 1,
+              "answer": "Calcium and magnesium ions."
+            },
+            {
+              "q": "What is scum?",
+              "marks": 1,
+              "answer": "An insoluble precipitate formed when soap reacts with the calcium and magnesium salts in hard water."
+            },
+            {
+              "q": "Why are detergents better than soaps for washing in hard water? Give two uses of detergents.",
+              "marks": 2,
+              "answer": "Detergents do not form scum with calcium and magnesium ions, so they lather well and less is wasted. Uses: shampoos, and products for washing clothes.",
+              "marking": [
+                "No scum: 1",
+                "Two uses: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

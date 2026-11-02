@@ -1,0 +1,230 @@
+{
+  "type": "test",
+  "file_name": "c10-ch05-test-b-life-processes",
+  "title": "Ch 5 Test (Set B): Life Processes",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Draw neat, labelled diagrams wherever required."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following shows holozoic nutrition?",
+          "marks": 1,
+          "options": [
+            "Cuscuta",
+            "Amoeba",
+            "Mushroom",
+            "Green plants"
+          ],
+          "answer": "(b) Amoeba"
+        },
+        {
+          "q": "The finger-like projections on the inner lining of the small intestine are called:",
+          "marks": 1,
+          "options": [
+            "alveoli",
+            "nephrons",
+            "villi",
+            "stomata"
+          ],
+          "answer": "(c) villi"
+        },
+        {
+          "q": "Which blood vessel carries deoxygenated blood from the heart to the lungs?",
+          "marks": 1,
+          "options": [
+            "Pulmonary vein",
+            "Aorta",
+            "Vena cava",
+            "Pulmonary artery"
+          ],
+          "answer": "(d) Pulmonary artery"
+        },
+        {
+          "q": "The opening and closing of stomata is caused by:",
+          "marks": 1,
+          "options": [
+            "movement of the epidermis",
+            "pressure in the xylem",
+            "flow of food in the phloem",
+            "a change in the water content of the guard cells"
+          ],
+          "answer": "(d) a change in the water content of the guard cells"
+        },
+        {
+          "q": "Which part of the nephron filters the blood?",
+          "marks": 1,
+          "options": [
+            "Collecting duct",
+            "Glomerulus",
+            "Ureter",
+            "Urethra"
+          ],
+          "answer": "(b) Glomerulus"
+        },
+        {
+          "q": "**Assertion (A):** Transport of materials in plants is slower than in animals.\n**Reason (R):** Plants do not move, and many of their tissues are made of dead cells, so their energy needs are low.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why do aquatic organisms breathe much faster than terrestrial organisms?",
+          "marks": 2,
+          "answer": "The amount of oxygen dissolved in water is much lower than the amount of oxygen in air. So aquatic organisms must breathe faster to get enough oxygen.",
+          "marking": [
+            "Less dissolved oxygen in water: 1",
+            "So faster breathing: 1"
+          ],
+          "or": {
+            "q": "Why do herbivores have a longer small intestine than carnivores?",
+            "marks": 2,
+            "answer": "Herbivores eat grass, which contains cellulose. Cellulose takes a long time to digest, so a longer small intestine gives more time for digestion. Meat is easier to digest, so carnivores have a shorter small intestine.",
+            "marking": [
+              "Cellulose takes longer to digest: 1",
+              "Meat easier, so shorter: 1"
+            ]
+          }
+        },
+        {
+          "q": "What is the role of (a) the hairs and mucus in the nasal passage, and (b) the rings of cartilage in the throat (trachea)?",
+          "marks": 2,
+          "answer": "(a) They filter the air we breathe in, trapping dust and germs. (b) They keep the air passage open and stop it from collapsing when there is less air in it.",
+          "marking": [
+            "Each: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about the human heart:",
+          "subparts": [
+            {
+              "q": "How many chambers does it have?",
+              "marks": 1,
+              "answer": "Four: two atria and two ventricles."
+            },
+            {
+              "q": "Which chamber pumps oxygenated blood to the rest of the body?",
+              "marks": 1,
+              "answer": "The left ventricle (through the aorta)."
+            },
+            {
+              "q": "What is the function of the valves in the heart?",
+              "marks": 1,
+              "answer": "They make sure blood does not flow backwards when the atria or ventricles contract."
+            }
+          ]
+        },
+        {
+          "q": "Name the enzyme that digests each of the following, and say where in the alimentary canal it acts: (i) starch, (ii) proteins, (iii) fats.",
+          "marks": 3,
+          "answer": "(i) Starch: salivary amylase, in the mouth. (ii) Proteins: pepsin in the stomach, and trypsin (from the pancreas) in the small intestine. (iii) Fats: lipase (from the pancreas), in the small intestine, after emulsification by bile.",
+          "marking": [
+            "Each enzyme + site: 1"
+          ],
+          "or": {
+            "q": "How do plants get rid of their waste products? Give three ways.",
+            "marks": 3,
+            "answer": "(Any three) Excess water is removed by transpiration, and oxygen (from photosynthesis) by diffusion through the stomata. Some wastes are stored in cell vacuoles. Some are stored in leaves that later fall off. Others are stored as gums and resins, especially in old xylem. Some wastes are excreted into the soil around the plant.",
+            "marking": [
+              "Any three: 1 each"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "How are oxygen and carbon dioxide transported in human beings?",
+              "marks": 2,
+              "answer": "Oxygen is carried by haemoglobin, a respiratory pigment in the red blood cells, which has a very high affinity for oxygen. Carbon dioxide is more soluble in water, so it is mostly carried dissolved in the blood plasma.",
+              "marking": [
+                "Oxygen by haemoglobin: 1",
+                "CO_{2} dissolved in blood: 1"
+              ]
+            },
+            {
+              "q": "Explain how we breathe in and breathe out.",
+              "marks": 3,
+              "answer": "Breathing in: the ribs are lifted and the diaphragm flattens, so the chest cavity becomes larger and air is sucked into the lungs, filling the alveoli. Breathing out: the ribs and diaphragm return to their positions, so the chest cavity becomes smaller and air is pushed out. The lungs always hold some residual air, so there is enough time for oxygen to be absorbed and carbon dioxide to be released.",
+              "marking": [
+                "Inhalation: 1",
+                "Exhalation: 1",
+                "Residual air: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "Give the function of each of the following: (i) haemoglobin, (ii) bile, (iii) guard cells, (iv) glomerulus, (v) villi.",
+            "marks": 5,
+            "answer": "(i) Haemoglobin carries oxygen from the lungs to the tissues. (ii) Bile makes the food in the small intestine alkaline and emulsifies fats into small globules. (iii) Guard cells open and close the stomata. (iv) The glomerulus filters the blood in the nephron. (v) Villi increase the surface area for absorbing digested food.",
+            "marking": [
+              "1 each"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A potted plant was kept in a dark room for three days. One of its leaves was then partly covered with strips of black paper on both sides, and the plant was kept in sunlight for a few hours. The leaf was then boiled in alcohol to remove chlorophyll and tested with iodine solution. Only the uncovered parts of the leaf turned blue-black.",
+          "subparts": [
+            {
+              "q": "Why was the plant kept in the dark for three days?",
+              "marks": 1,
+              "answer": "To use up the starch already in the leaves (destarching), so that any starch found later must have been made during the experiment."
+            },
+            {
+              "q": "What does the blue-black colour with iodine show?",
+              "marks": 1,
+              "answer": "The presence of starch."
+            },
+            {
+              "q": "What can you conclude from this experiment? Why did the covered parts not turn blue-black?",
+              "marks": 2,
+              "answer": "Light is necessary for photosynthesis. The covered parts received no light, so no photosynthesis took place there and no starch was made.",
+              "marking": [
+                "Conclusion: 1",
+                "Reason for covered parts: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
