@@ -1,0 +1,233 @@
+{
+  "type": "test",
+  "file_name": "c10-ch06-test-b-control-coordination",
+  "title": "Ch 6 Test (Set B): Control and Coordination",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Control and Coordination",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which part of the brain controls voluntary actions?",
+          "marks": 1,
+          "options": [
+            "Medulla",
+            "Spinal cord",
+            "Pons",
+            "Cerebrum (forebrain)"
+          ],
+          "answer": "(d) Cerebrum (forebrain)"
+        },
+        {
+          "q": "Which of these is an example of chemotropism?",
+          "marks": 1,
+          "options": [
+            "A shoot bending towards light",
+            "A pollen tube growing towards the ovule",
+            "Roots growing downwards",
+            "Leaves of touch-me-not folding"
+          ],
+          "answer": "(b) A pollen tube growing towards the ovule"
+        },
+        {
+          "q": "Growth hormone is secreted by the:",
+          "marks": 1,
+          "options": [
+            "thyroid gland",
+            "adrenal gland",
+            "pituitary gland",
+            "pancreas"
+          ],
+          "answer": "(c) pituitary gland"
+        },
+        {
+          "q": "Reflex arcs are formed in the:",
+          "marks": 1,
+          "options": [
+            "brain",
+            "spinal cord",
+            "heart",
+            "muscles"
+          ],
+          "answer": "(b) spinal cord"
+        },
+        {
+          "q": "Which hormone brings about the changes in girls at puberty?",
+          "marks": 1,
+          "options": [
+            "Testosterone",
+            "Insulin",
+            "Oestrogen",
+            "Adrenaline"
+          ],
+          "answer": "(c) Oestrogen"
+        },
+        {
+          "q": "**Assertion (A):** We can taste food with our tongue.\n**Reason (R):** Gustatory receptors detect taste, while olfactory receptors detect smell.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What is the function of receptors in our body? What could happen if they do not work properly?",
+          "marks": 2,
+          "answer": "Receptors detect information from the environment, such as light, sound, smell, taste, touch and heat, and pass it on to the nervous system. If they don't work properly, the information is not detected, so the body cannot respond correctly. For example, we might not pull our hand away from a hot object and could get hurt.",
+          "marking": [
+            "Function: 1",
+            "Consequence with example: 1"
+          ],
+          "or": {
+            "q": "How is a reflex action different from walking?",
+            "marks": 2,
+            "answer": "A reflex action is sudden and involuntary. It happens without thinking and is controlled by the spinal cord. Walking is a voluntary action: we decide to do it, and it is controlled by the brain, with the cerebellum maintaining balance.",
+            "marking": [
+              "Reflex: 1",
+              "Walking: 1"
+            ]
+          }
+        },
+        {
+          "q": "How does chemical coordination take place in plants?",
+          "marks": 2,
+          "answer": "Plants produce hormones (auxins, gibberellins, cytokinins, abscisic acid) that diffuse to the areas where they act. These hormones coordinate growth, development and responses to the environment, such as bending towards light.",
+          "marking": [
+            "Plant hormones produced and diffuse: 1",
+            "Coordinate growth/responses: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Name the gland:",
+          "subparts": [
+            {
+              "q": "found on top of each kidney.",
+              "marks": 1,
+              "answer": "Adrenal gland"
+            },
+            {
+              "q": "in the neck, which needs iodine to make its hormone.",
+              "marks": 1,
+              "answer": "Thyroid gland"
+            },
+            {
+              "q": "that produces digestive enzymes as well as a hormone.",
+              "marks": 1,
+              "answer": "Pancreas (enzymes in pancreatic juice; the hormone insulin)"
+            }
+          ]
+        },
+        {
+          "q": "How are involuntary actions different from reflex actions? Give one example of each.",
+          "marks": 3,
+          "answer": "Involuntary actions, such as the heartbeat, breathing and salivation, happen continuously without our thinking. They are controlled by the midbrain and hindbrain (e.g. the medulla). Reflex actions are sudden, quick responses to a stimulus, usually to protect us, and are controlled by the spinal cord (e.g. pulling the hand away from a hot plate).",
+          "marking": [
+            "Involuntary with example: 1½",
+            "Reflex with example: 1½"
+          ],
+          "or": {
+            "q": "What is the role of the hypothalamus? Explain with the example of growth hormone.",
+            "marks": 3,
+            "answer": "The hypothalamus plays an important role in the release of many hormones by controlling the pituitary gland. For example, when the level of growth hormone is low, the hypothalamus releases a growth hormone releasing factor. This stimulates the pituitary gland to release growth hormone.",
+            "marking": [
+              "Controls release of hormones: 1",
+              "Releasing factor: 1",
+              "Pituitary releases growth hormone: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe the structure of a neuron and how information travels through it.",
+              "marks": 3,
+              "answer": "A neuron has dendrites, a cell body with a nucleus, a long axon and nerve endings. Information is picked up at the dendritic tips and sets off a chemical reaction that creates an electrical impulse. The impulse travels from the dendrite to the cell body and then along the axon to its end. There, chemicals are released that cross the synapse and start an impulse in the next neuron.",
+              "marking": [
+                "Parts: 1",
+                "Electrical impulse along the neuron: 1",
+                "Chemical transmission across synapse: 1"
+              ]
+            },
+            {
+              "q": "Give two limitations of using electrical impulses for coordination.",
+              "marks": 2,
+              "answer": "(1) Impulses reach only the cells connected by nervous tissue, not every cell in the body. (2) Once a cell has generated an impulse, it needs time to reset before it can generate another, so it cannot send impulses continuously.",
+              "marking": [
+                "Each limitation: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Describe three types of tropic movements in plants, with an example of each. [3]\n(b) Explain why a shoot bends towards light. [2]",
+            "marks": 5,
+            "answer": "(a) Phototropism: growth in response to light; shoots bend towards light. Geotropism: growth in response to gravity; roots grow downwards. Hydrotropism: growth in response to water; roots grow towards water. (Chemotropism, e.g. pollen tubes growing towards ovules, is also accepted.) (b) Auxin is made at the shoot tip and diffuses to the shaded side. There, cells grow longer than on the lit side, so the shoot bends towards light.",
+            "marking": [
+              "(a) 1 each",
+              "(b) auxin to shaded side 1, cells elongate 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Riya's grandfather has diabetes. His doctor explained that his pancreas does not secrete enough insulin, so his blood sugar level stays high. He has to take insulin injections, and his sugar level is checked regularly to decide the dose.",
+          "subparts": [
+            {
+              "q": "Which gland produces insulin?",
+              "marks": 1,
+              "answer": "The pancreas."
+            },
+            {
+              "q": "What happens to the blood sugar level when insulin is not secreted in proper amounts?",
+              "marks": 1,
+              "answer": "It rises (stays high)."
+            },
+            {
+              "q": "Why do diabetes patients need insulin injections? How does the body normally control the amount of insulin released?",
+              "marks": 2,
+              "answer": "Insulin lowers blood sugar, so the injections make up for the shortage. Normally, a feedback mechanism controls it: when blood sugar rises, the pancreas detects this and releases more insulin, and as sugar falls, insulin release is reduced.",
+              "marking": [
+                "Insulin lowers blood sugar: 1",
+                "Feedback mechanism: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

@@ -1,0 +1,233 @@
+{
+  "type": "test",
+  "file_name": "c10-ch13-test-b-our-environment",
+  "title": "Ch 13 Test (Set B): Our Environment",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Our Environment",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which of the following is an artificial ecosystem?",
+          "marks": 1,
+          "options": [
+            "Forest",
+            "Crop field",
+            "Pond",
+            "Lake"
+          ],
+          "answer": "(b) Crop field"
+        },
+        {
+          "q": "Organisms that break down the dead remains of plants and animals are called:",
+          "marks": 1,
+          "options": [
+            "producers",
+            "herbivores",
+            "carnivores",
+            "decomposers"
+          ],
+          "answer": "(d) decomposers"
+        },
+        {
+          "q": "In the food chain grass → deer → tiger, the tiger is a:",
+          "marks": 1,
+          "options": [
+            "producer",
+            "primary consumer",
+            "decomposer",
+            "secondary consumer"
+          ],
+          "answer": "(d) secondary consumer"
+        },
+        {
+          "q": "Which of these is a good way to manage household waste?",
+          "marks": 1,
+          "options": [
+            "Composting kitchen waste",
+            "Burning plastic",
+            "Dumping waste in rivers",
+            "Mixing all waste together"
+          ],
+          "answer": "(a) Composting kitchen waste"
+        },
+        {
+          "q": "Green plants capture about what percentage of the sunlight that falls on their leaves?",
+          "marks": 1,
+          "options": [
+            "1%",
+            "10%",
+            "50%",
+            "90%"
+          ],
+          "answer": "(a) 1%"
+        },
+        {
+          "q": "**Assertion (A):** Pesticides are found in high concentrations in human beings.\n**Reason (R):** Pesticides are biodegradable.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(c). Pesticides are non-biodegradable, which is why they build up along food chains."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What will happen if all the organisms in one trophic level are killed?",
+          "marks": 2,
+          "answer": "The food chain will break. Organisms of the next trophic level will lose their food and may starve or die out, while the population of the level below may increase greatly. This upsets the balance of the ecosystem.",
+          "marking": [
+            "Next level loses food: 1",
+            "Previous level increases / imbalance: 1"
+          ],
+          "or": {
+            "q": "Why are crop fields and gardens called artificial ecosystems?",
+            "marks": 2,
+            "answer": "They are created and maintained by humans: we decide what grows there, and we water, fertilise and weed them. Natural ecosystems like forests and ponds develop and maintain themselves without human help.",
+            "marking": [
+              "Made and maintained by humans: 1",
+              "Contrast with natural: 1"
+            ]
+          }
+        },
+        {
+          "q": "Give two harmful effects of using too many pesticides.",
+          "marks": 2,
+          "answer": "(Any two) Pesticides are non-biodegradable, so they enter food chains and build up in higher organisms, including humans (biological magnification). They can kill useful organisms such as earthworms and pollinators. They pollute soil and water.",
+          "marking": [
+            "Any two: 1 + 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Study the pond food chain: phytoplankton → zooplankton → small fish → big fish",
+          "subparts": [
+            {
+              "q": "At which trophic level is the small fish?",
+              "marks": 1,
+              "answer": "Third trophic level (secondary consumer)."
+            },
+            {
+              "q": "If the phytoplankton capture 50,000 J of energy, how much energy is available to the big fish?",
+              "marks": 1,
+              "answer": "50 J (50,000 → 5,000 → 500 → 50 J, by the 10 per cent law)."
+            },
+            {
+              "q": "Why are there far fewer big fish than small fish in the pond?",
+              "marks": 1,
+              "answer": "Much less energy is available at the higher trophic level, so it can support fewer organisms."
+            }
+          ]
+        },
+        {
+          "q": "How have changes in our lifestyle increased the amount of waste we produce? Suggest two ways to reduce it.",
+          "marks": 3,
+          "answer": "We now use far more packaged goods and disposable items, such as plastic bags, wrappers, bottles and cups. Many of these are non-biodegradable and are thrown away after a single use. Ways to reduce waste (any two): carry cloth bags; refuse unnecessary packaging; reuse containers; segregate and compost wet waste; recycle paper, glass and metal.",
+          "marking": [
+            "Lifestyle cause: 1",
+            "Two ways: 1 + 1"
+          ],
+          "or": {
+            "q": "Describe the role of decomposers in recycling nutrients in an ecosystem.",
+            "marks": 3,
+            "answer": "Decomposers (bacteria and fungi) break down the dead remains and wastes of plants and animals into simpler substances. These substances go back into the soil, where plants absorb them again. Without decomposers, nutrients would stay locked up in dead matter, and wastes would pile up.",
+            "marking": [
+              "Break down dead matter: 1",
+              "Nutrients returned to soil and reused: 1",
+              "Consequence without them: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain biological magnification with an example of a food chain.",
+              "marks": 3,
+              "answer": "Non-biodegradable chemicals such as pesticides are not broken down. When they enter a food chain, they pass from one trophic level to the next and their concentration increases at each level. Example: pesticide in water → algae → small fish → big fish → humans. Each organism eats many from the level below, so the pesticide builds up and is highest at the top.",
+              "marking": [
+                "Definition: 1",
+                "Food chain example: 1",
+                "Concentration rises at each level: 1"
+              ]
+            },
+            {
+              "q": "Why are human beings especially affected by biological magnification?",
+              "marks": 2,
+              "answer": "Humans are at the top of many food chains, eating plants, animals and fish. So the chemicals that have built up through all the lower levels reach us in the highest concentrations.",
+              "marking": [
+                "Top of food chains: 1",
+                "Highest concentration reaches us: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Give two differences between natural and artificial ecosystems, with two examples of each. [2]\n(b) Why does an aquarium need regular cleaning, while a pond or lake does not? [3]",
+            "marks": 5,
+            "answer": "(a) Natural ecosystems (forests, ponds, lakes) form and maintain themselves. Artificial ones (crop fields, gardens, aquariums) are made and maintained by humans. Natural ones usually have more kinds of organisms. (b) An aquarium is a small artificial ecosystem without enough decomposers and natural processes to break down wastes and dead matter, so wastes pile up and must be cleaned. In a pond or lake, decomposers break down the wastes and the nutrients are recycled naturally.",
+            "marking": [
+              "(a) differences 1, examples 1",
+              "(b) aquarium lacks decomposers 1, wastes build up 1, pond recycles naturally 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "A housing society started separating its waste. Every flat now uses a green bin for wet waste and a blue bin for dry waste. The wet waste is composted in the society garden, and the dry waste is collected by a recycler every week. Within three months, the garbage sent to the city dump fell by more than half.",
+          "subparts": [
+            {
+              "q": "Name two items that go into the green (wet waste) bin.",
+              "marks": 1,
+              "answer": "(Any two) Vegetable and fruit peels, leftover food, tea leaves, flowers, garden leaves."
+            },
+            {
+              "q": "Name two items that go into the blue (dry waste) bin.",
+              "marks": 1,
+              "answer": "(Any two) Plastic bottles and bags, paper, cardboard, glass, metal cans."
+            },
+            {
+              "q": "How does separating waste help the environment?",
+              "marks": 2,
+              "answer": "Wet waste is turned into compost (manure) instead of rotting in dumps. Dry waste can be recycled, which saves resources. Less garbage goes to landfills, which reduces land, water and air pollution.",
+              "marking": [
+                "Composting/recycling: 1",
+                "Less landfill and pollution: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

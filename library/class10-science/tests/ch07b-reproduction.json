@@ -1,0 +1,231 @@
+{
+  "type": "test",
+  "file_name": "c10-ch07-test-b-how-do-organisms-reproduce",
+  "title": "Ch 7 Test (Set B): How do Organisms Reproduce?",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce?",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Multiple fission is seen in:",
+          "marks": 1,
+          "options": [
+            "Amoeba",
+            "yeast",
+            "Plasmodium",
+            "Hydra"
+          ],
+          "answer": "(c) Plasmodium"
+        },
+        {
+          "q": "Which organism reproduces by fragmentation?",
+          "marks": 1,
+          "options": [
+            "Planaria",
+            "Yeast",
+            "Plasmodium",
+            "Spirogyra"
+          ],
+          "answer": "(d) Spirogyra"
+        },
+        {
+          "q": "Which part of a flower develops into the fruit?",
+          "marks": 1,
+          "options": [
+            "Ovary",
+            "Ovule",
+            "Petal",
+            "Stigma"
+          ],
+          "answer": "(a) Ovary"
+        },
+        {
+          "q": "The transfer of pollen grains from the anther to the stigma is called:",
+          "marks": 1,
+          "options": [
+            "fertilisation",
+            "germination",
+            "budding",
+            "pollination"
+          ],
+          "answer": "(d) pollination"
+        },
+        {
+          "q": "Which method of contraception also helps protect against sexually transmitted diseases?",
+          "marks": 1,
+          "options": [
+            "Oral pills",
+            "Copper-T",
+            "Condom",
+            "Surgical method"
+          ],
+          "answer": "(c) Condom"
+        },
+        {
+          "q": "**Assertion (A):** A unisexual flower contains either stamens or a pistil, not both.\n**Reason (R):** Papaya and watermelon have unisexual flowers.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(b). R gives examples; it does not explain A."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Give two advantages of sexual reproduction over asexual reproduction.",
+          "marks": 2,
+          "answer": "(1) It combines DNA from two parents, so it creates more variation. (2) Variation increases the chance that some individuals survive if the environment changes, which helps the species survive.",
+          "marking": [
+            "Each advantage: 1"
+          ],
+          "or": {
+            "q": "What are bisexual and unisexual flowers? Give one example of each.",
+            "marks": 2,
+            "answer": "Bisexual flowers have both stamens and a pistil (e.g. hibiscus, mustard). Unisexual flowers have either stamens or a pistil (e.g. papaya, watermelon).",
+            "marking": [
+              "Each with example: 1"
+            ]
+          }
+        },
+        {
+          "q": "Why does the lining of the uterus become thick and spongy every month?",
+          "marks": 2,
+          "answer": "Every month the uterus prepares to receive and nourish a fertilised egg. The lining becomes thick and spongy, with a rich blood supply, so that the embryo can implant and be nourished.",
+          "marking": [
+            "To receive fertilised egg: 1",
+            "Rich blood supply to nourish embryo: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Answer the following about puberty:",
+          "subparts": [
+            {
+              "q": "Name the hormones responsible for the changes at puberty in boys and in girls.",
+              "marks": 1,
+              "answer": "Boys: testosterone. Girls: oestrogen."
+            },
+            {
+              "q": "Give two changes seen in both boys and girls at puberty.",
+              "marks": 1,
+              "answer": "(Any two) Thick hair grows in the armpits and genital area; the skin becomes oily and pimples may appear; height and weight increase quickly."
+            },
+            {
+              "q": "Name the organs that produce these hormones.",
+              "marks": 1,
+              "answer": "Testes (in boys) and ovaries (in girls)."
+            }
+          ]
+        },
+        {
+          "q": "What is germination? Name the parts of a seed that take part in it, and give the role of each.",
+          "marks": 3,
+          "answer": "Germination is the development of the embryo inside a seed into a seedling under suitable conditions. Plumule: the future shoot. Radicle: the future root. Cotyledon: stores food for the growing seedling. The seed coat protects the seed.",
+          "marking": [
+            "Definition: 1",
+            "Parts with roles: 2"
+          ],
+          "or": {
+            "q": "How does reproduction help to keep the populations of species stable?",
+            "marks": 3,
+            "answer": "Each species occupies a niche, and reproduction replaces individuals that die, keeping the population steady. Because DNA is copied fairly consistently, offspring keep a body design suited to that niche. Small variations from DNA copying mean that if the niche changes, some individuals may still survive, so the species continues.",
+            "marking": [
+              "Replaces dying individuals: 1",
+              "Consistent DNA copying keeps body design: 1",
+              "Variation helps survival in a changed niche: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "How do small errors in DNA copying lead to variation? Why is variation useful?",
+              "marks": 2,
+              "answer": "DNA copying is never absolutely accurate, so small changes appear in the copies, and offspring differ slightly from parents and from each other. These variations may help some individuals survive if the environment changes, for example a rise in temperature.",
+              "marking": [
+                "DNA copying errors cause variation: 1",
+                "Usefulness: 1"
+              ]
+            },
+            {
+              "q": "Explain three methods of vegetative propagation used by gardeners.",
+              "marks": 3,
+              "answer": "Cutting: a piece of stem with buds is planted in moist soil and grows roots (rose, sugarcane). Layering: a branch is bent down and covered with soil while still attached to the parent; once it grows roots it is cut off (jasmine). Grafting: the stem of one plant (scion) is joined onto the rooted stem of another (stock) so that they grow as one plant (mango, rose).",
+              "marking": [
+                "Each method: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What are sexually transmitted diseases? Name two caused by bacteria and two caused by viruses. [2]\n(b) How can their spread be prevented? [1]\n(c) What happens when the egg released by the ovary is not fertilised? [2]",
+            "marks": 5,
+            "answer": "(a) Diseases spread through sexual contact. Bacterial: gonorrhoea, syphilis. Viral: warts, HIV-AIDS. (b) Using a condom (barrier method). (c) The thick, spongy lining of the uterus is no longer needed. It breaks down and comes out through the vagina as blood and mucus. This is menstruation, which happens roughly every month and lasts about 2–8 days.",
+            "marking": [
+              "(a) 2",
+              "(b) 1",
+              "(c) lining breaks down 1, menstruation 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "When a Planaria is cut into several pieces, each piece grows into a complete organism. Specialised cells in the body divide to make large numbers of cells. These then change into the various cell types and tissues in an organised sequence, called development. This is known as regeneration.",
+          "subparts": [
+            {
+              "q": "What is regeneration?",
+              "marks": 1,
+              "answer": "The ability of a fully formed organism to grow new individuals from its body parts."
+            },
+            {
+              "q": "Name one other organism that shows regeneration.",
+              "marks": 1,
+              "answer": "Hydra"
+            },
+            {
+              "q": "Why can complex animals like humans not reproduce by regeneration? Is regeneration the same as reproduction?",
+              "marks": 2,
+              "answer": "Complex animals have highly specialised cells, tissues and organs. Most of their cells cannot divide to form all the cell types needed for a whole new body. Regeneration is not the same as reproduction, because most organisms do not normally depend on being cut up in order to reproduce.",
+              "marking": [
+                "Complexity/specialised cells: 1",
+                "Not the same as reproduction: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

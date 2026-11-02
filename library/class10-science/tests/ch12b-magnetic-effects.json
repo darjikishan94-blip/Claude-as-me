@@ -1,0 +1,232 @@
+{
+  "type": "test",
+  "file_name": "c10-ch12-test-b-magnetic-effects",
+  "title": "Ch 12 Test (Set B): Magnetic Effects of Electric Current",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Outside a bar magnet, magnetic field lines go:",
+          "marks": 1,
+          "options": [
+            "from the north pole to the south pole",
+            "from the south pole to the north pole",
+            "in straight lines away from both poles",
+            "only near the middle of the magnet"
+          ],
+          "answer": "(a) from the north pole to the south pole"
+        },
+        {
+          "q": "A current-carrying conductor placed parallel to a magnetic field experiences:",
+          "marks": 1,
+          "options": [
+            "the maximum force",
+            "a force along the field",
+            "a force opposite to the field",
+            "no force"
+          ],
+          "answer": "(d) no force"
+        },
+        {
+          "q": "Which instrument detects the presence of a current in a circuit?",
+          "marks": 1,
+          "options": [
+            "Voltmeter",
+            "Galvanometer",
+            "Rheostat",
+            "Solenoid"
+          ],
+          "answer": "(b) Galvanometer"
+        },
+        {
+          "q": "Which of the following increases the strength of an electromagnet?",
+          "marks": 1,
+          "options": [
+            "Reducing the current",
+            "Using a soft iron core",
+            "Reducing the number of turns",
+            "Using a wooden core"
+          ],
+          "answer": "(b) Using a soft iron core"
+        },
+        {
+          "q": "Which safety device works on the heating effect of current?",
+          "marks": 1,
+          "options": [
+            "Earth wire",
+            "Voltmeter",
+            "Solenoid",
+            "Fuse"
+          ],
+          "answer": "(d) Fuse"
+        },
+        {
+          "q": "**Assertion (A):** Appliances with metal bodies are connected to the earth wire.\n**Reason (R):** The earth wire carries the main current to the appliance.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(c). The earth wire is a safety wire. It carries leaked current to the earth, not the main current."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Describe the magnetic field lines of a current-carrying circular loop. Why is the field strong at the centre?",
+          "marks": 2,
+          "answer": "Near the wire, the field lines are concentric circles, which grow larger farther from the wire. At the centre of the loop they appear as nearly straight lines. Every part of the loop produces a field in the same direction at the centre, so the fields add up and make it strong there.",
+          "marking": [
+            "Pattern: 1",
+            "Fields add at centre: 1"
+          ],
+          "or": {
+            "q": "Why does a compass needle get deflected when it is brought near a bar magnet?",
+            "marks": 2,
+            "answer": "A compass needle is itself a small magnet. Its poles are attracted or repelled by the poles of the bar magnet, which exerts a force through its magnetic field, so the needle turns.",
+            "marking": [
+              "Needle is a small magnet: 1",
+              "Force of the magnet's field turns it: 1"
+            ]
+          }
+        },
+        {
+          "q": "Give two precautions that help avoid overloading of domestic circuits.",
+          "marks": 2,
+          "answer": "(Any two) Do not connect too many appliances to a single socket. Use high-power appliances only on the 15 A circuit. Use a fuse or MCB of the correct rating. Replace damaged wires and plugs.",
+          "marking": [
+            "Any two: 1 + 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A circular loop of wire lies flat on a table, and current flows through it clockwise (as seen from above).",
+          "subparts": [
+            {
+              "q": "State the right-hand thumb rule.",
+              "marks": 1,
+              "answer": "If you hold a current-carrying conductor in your right hand with the thumb along the current, your curled fingers show the direction of the magnetic field lines."
+            },
+            {
+              "q": "What is the direction of the magnetic field inside the loop?",
+              "marks": 1,
+              "answer": "Perpendicular to the table, pointing into it (downwards)."
+            },
+            {
+              "q": "What is the direction of the magnetic field outside the loop?",
+              "marks": 1,
+              "answer": "Perpendicular to the table, pointing out of it (upwards)."
+            }
+          ]
+        },
+        {
+          "q": "Give three ways to increase the force on a current-carrying conductor placed in a magnetic field.",
+          "marks": 3,
+          "answer": "(1) Increase the current through the conductor. (2) Use a stronger magnet (stronger magnetic field). (3) Increase the length of the conductor that lies in the field, keeping it perpendicular to the field.",
+          "marking": [
+            "Each way: 1"
+          ],
+          "or": {
+            "q": "A house has a 5 A lighting circuit. Can (i) a 100 W, 220 V bulb and (ii) a 2000 W, 220 V heater be used safely on it? Show your calculation.",
+            "marks": 3,
+            "answer": "(i) Bulb: I = P/V = 100/220 ≈ 0.45 A, which is less than 5 A, so it is safe. (ii) Heater: I = 2000/220 ≈ 9.1 A, which is more than 5 A, so it is not safe. It would overload the circuit and blow the fuse, so it should be used on the 15 A circuit.",
+            "marking": [
+              "Bulb: 1",
+              "Heater: 1",
+              "Conclusion: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe an activity to show that a current-carrying conductor experiences a force in a magnetic field.",
+              "marks": 3,
+              "answer": "Hang a small aluminium rod horizontally from two connecting wires. Place a strong horseshoe magnet so that the rod lies between its poles, with the field perpendicular to the rod. Connect the rod to a battery, a key and a rheostat. When the key is closed, the rod is pushed sideways (displaced). Reversing the current pushes it the opposite way.",
+              "marking": [
+                "Set-up: 1",
+                "Observation (rod displaced): 1",
+                "Reversal shows direction depends on current: 1"
+              ]
+            },
+            {
+              "q": "What happens to the displacement of the rod if both the current and the magnetic field are reversed? Explain.",
+              "marks": 2,
+              "answer": "The rod is displaced in the same direction as before. Reversing one of them reverses the force, so reversing both brings the force back to its original direction (Fleming's left-hand rule).",
+              "marking": [
+                "Same direction: 1",
+                "Reason: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Describe an activity to show the magnetic field around a straight current-carrying wire. [3]\n(b) How does this field change if the current is increased, or if we move farther from the wire? [2]",
+            "marks": 5,
+            "answer": "(a) Pass a thick copper wire vertically through a horizontal cardboard sheet and sprinkle iron filings on the sheet. Pass a current and tap the cardboard: the filings arrange themselves in concentric circles around the wire. A compass placed on a circle shows the direction of the field, which reverses when the current is reversed. (b) A larger current makes the field stronger. Moving farther from the wire makes the field weaker.",
+            "marking": [
+              "(a) set-up 1, concentric circles 1, direction with compass 1",
+              "(b) 1 + 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "An electric current always produces a magnetic field. Even weak ion currents travelling along the nerve cells in our body produce magnetic fields. The heart and the brain are the two main organs where these fields are significant. A technique called Magnetic Resonance Imaging (MRI) uses magnetic fields to obtain images of internal organs, which helps doctors in diagnosis.",
+          "subparts": [
+            {
+              "q": "What produces magnetic fields inside the human body?",
+              "marks": 1,
+              "answer": "Weak ion currents travelling along nerve cells."
+            },
+            {
+              "q": "Name the two organs where these magnetic fields are significant.",
+              "marks": 1,
+              "answer": "The heart and the brain."
+            },
+            {
+              "q": "What is MRI, and why is it useful?",
+              "marks": 2,
+              "answer": "MRI (Magnetic Resonance Imaging) is a technique that uses magnetic fields to produce images of internal organs. It helps doctors find problems inside the body without surgery.",
+              "marking": [
+                "What MRI is: 1",
+                "Usefulness: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

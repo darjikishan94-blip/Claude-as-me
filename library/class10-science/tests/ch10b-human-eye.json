@@ -1,0 +1,233 @@
+{
+  "type": "test",
+  "file_name": "c10-ch10-test-b-human-eye-colourful-world",
+  "title": "Ch 10 Test (Set B): The Human Eye and the Colourful World",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Draw neat, labelled ray diagrams wherever required."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which part of the eye controls the size of the pupil?",
+          "marks": 1,
+          "options": [
+            "Cornea",
+            "Retina",
+            "Iris",
+            "Eye lens"
+          ],
+          "answer": "(c) Iris"
+        },
+        {
+          "q": "The splitting of white light into its component colours is called:",
+          "marks": 1,
+          "options": [
+            "reflection",
+            "scattering",
+            "refraction",
+            "dispersion"
+          ],
+          "answer": "(d) dispersion"
+        },
+        {
+          "q": "The clear sky looks blue because of:",
+          "marks": 1,
+          "options": [
+            "reflection of light",
+            "scattering of light",
+            "dispersion of light",
+            "atmospheric refraction"
+          ],
+          "answer": "(b) scattering of light"
+        },
+        {
+          "q": "A person cannot see objects beyond 2 m clearly. The defect is:",
+          "marks": 1,
+          "options": [
+            "myopia",
+            "presbyopia",
+            "hypermetropia",
+            "cataract"
+          ],
+          "answer": "(a) myopia"
+        },
+        {
+          "q": "Signals from the retina are carried to the brain by the:",
+          "marks": 1,
+          "options": [
+            "ciliary muscles",
+            "optic nerve",
+            "iris",
+            "cornea"
+          ],
+          "answer": "(b) optic nerve"
+        },
+        {
+          "q": "**Assertion (A):** The sky appears dark to passengers flying at very high altitudes.\n**Reason (R):** At such heights there is very little scattering of sunlight.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "What are the near point and the far point of a normal human eye?",
+          "marks": 2,
+          "answer": "Near point: the closest point at which the eye can see an object clearly without strain, about 25 cm for a young adult. Far point: the farthest point it can see clearly, infinity for a normal eye.",
+          "marking": [
+            "Near point 25 cm: 1",
+            "Far point infinity: 1"
+          ],
+          "or": {
+            "q": "What happens to the image distance in the eye when we move an object farther away? How does the eye adjust?",
+            "marks": 2,
+            "answer": "The image distance stays the same, because the image always forms on the retina. The eye adjusts by changing the focal length of the eye lens (accommodation), using the ciliary muscles.",
+            "marking": [
+              "Image distance unchanged: 1",
+              "Accommodation: 1"
+            ]
+          }
+        },
+        {
+          "q": "Why does the Sun appear white at noon but reddish at sunrise?",
+          "marks": 2,
+          "answer": "At noon, sunlight travels a shorter distance through the atmosphere, so only a little of the blue and violet light is scattered and the Sun looks white. At sunrise, the light travels a much longer path near the horizon, so most blue light is scattered away and mainly red light reaches us.",
+          "marking": [
+            "Noon: shorter path, less scattering: 1",
+            "Sunrise: longer path, red reaches: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A person needs a lens of power −5.5 D to correct distant vision and a lens of power +1.5 D to correct near vision.",
+          "subparts": [
+            {
+              "q": "Find the focal length of the lens for distant vision.",
+              "marks": 1,
+              "answer": "f = 1/P = 1/(−5.5) m ≈ −0.18 m = −18.2 cm (concave lens)"
+            },
+            {
+              "q": "Find the focal length of the lens for near vision.",
+              "marks": 1,
+              "answer": "f = 1/P = 1/1.5 m ≈ +0.67 m = +66.7 cm (convex lens)"
+            },
+            {
+              "q": "What kind of spectacle lens would suit this person?",
+              "marks": 1,
+              "answer": "A bifocal lens: the upper part concave (for distant vision) and the lower part convex (for near vision)."
+            }
+          ]
+        },
+        {
+          "q": "Why do different colours bend through different angles in a prism? What is a spectrum? Write the order of its colours.",
+          "marks": 3,
+          "answer": "Different colours travel at slightly different speeds in glass, so they are refracted (bent) by different amounts. Red bends the least and violet the most. The band of coloured components of a light beam is called a spectrum. Order: Violet, Indigo, Blue, Green, Yellow, Orange, Red (VIBGYOR).",
+          "marking": [
+            "Reason: 1",
+            "Definition: 1",
+            "Order: 1"
+          ],
+          "or": {
+            "q": "Why do stars twinkle while planets do not?",
+            "marks": 3,
+            "answer": "Stars are very far away and act as point sources. Their light is refracted by layers of air whose refractive index keeps changing, so the star's apparent position and brightness flicker. Planets are much closer and act as extended sources, a collection of many point sources. The variations from all these points cancel out on average, so planets do not twinkle.",
+            "marking": [
+              "Atmospheric refraction: 1",
+              "Stars are point sources: 1",
+              "Planets are extended sources, variations average out: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Give the function of the cornea, iris, pupil, eye lens, ciliary muscles and retina.",
+              "marks": 3,
+              "answer": "Cornea: transparent front surface where most of the refraction of light happens. Iris: controls the size of the pupil. Pupil: regulates the amount of light entering the eye. Eye lens: fine-tunes the focus to form the image on the retina. Ciliary muscles: change the focal length of the lens (accommodation). Retina: light-sensitive screen on which the image forms.",
+              "marking": [
+                "Any six functions: ½ each"
+              ]
+            },
+            {
+              "q": "Why do we have two eyes rather than one?",
+              "marks": 2,
+              "answer": "(Any two) Two eyes give a wider field of view: about 180° compared with about 150° for one eye. They improve our ability to detect faint objects. Each eye sees a slightly different image, and the brain combines them to give a sense of depth (three-dimensional vision).",
+              "marking": [
+                "Any two reasons: 1 + 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What is presbyopia? How do bifocal lenses help? [3]\n(b) What is a cataract, and how is vision restored? [2]",
+            "marks": 5,
+            "answer": "(a) With age, the power of accommodation decreases because the ciliary muscles weaken and the eye lens becomes less flexible, so the near point moves away. A person may have both near and distant vision problems. A bifocal lens has a concave upper part for distant vision and a convex lower part for reading. (b) In old age the eye lens can become milky and cloudy, causing partial or complete loss of vision. Vision can be restored by cataract surgery.",
+            "marking": [
+              "(a) cause 1, effect 1, bifocal 1",
+              "(b) cloudy lens 1, surgery 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Eyes can live even after death! By donating our eyes after we die, we can light up the life of a blind person. The eyes must be removed within 4–6 hours of death. Many people in India suffer from corneal blindness, which can be cured by transplanting the cornea from donated eyes. One pair of eyes can give vision to up to four corneal-blind people.",
+          "subparts": [
+            {
+              "q": "Within how many hours after death must donated eyes be removed?",
+              "marks": 1,
+              "answer": "Within 4–6 hours."
+            },
+            {
+              "q": "Which part of a donated eye is used to cure corneal blindness?",
+              "marks": 1,
+              "answer": "The cornea."
+            },
+            {
+              "q": "How many people can benefit from one pair of donated eyes? Give one reason why eye donation should be encouraged.",
+              "marks": 2,
+              "answer": "Up to four corneal-blind people. Reason: it costs the donor nothing after death but can give sight to people whose blindness is curable.",
+              "marking": [
+                "Up to four: 1",
+                "Sensible reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

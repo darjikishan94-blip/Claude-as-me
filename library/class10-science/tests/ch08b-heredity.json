@@ -1,0 +1,234 @@
+{
+  "type": "test",
+  "file_name": "c10-ch08-test-b-heredity",
+  "title": "Ch 8 Test (Set B): Heredity",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Heredity",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Show crosses clearly with gametes and offspring wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Plants with round seeds (RR) are crossed with plants with wrinkled seeds (rr). The F_{1} seeds are:",
+          "marks": 1,
+          "options": [
+            "all wrinkled",
+            "all round",
+            "half round and half wrinkled",
+            "3 round : 1 wrinkled"
+          ],
+          "answer": "(b) all round (Rr)"
+        },
+        {
+          "q": "How many pairs of chromosomes are there in human body cells?",
+          "marks": 1,
+          "options": [
+            "21",
+            "22",
+            "23",
+            "46"
+          ],
+          "answer": "(c) 23 pairs (46 chromosomes)"
+        },
+        {
+          "q": "A child has the sex chromosomes XX. The child is:",
+          "marks": 1,
+          "options": [
+            "a boy",
+            "impossible to predict",
+            "either a boy or a girl",
+            "a girl"
+          ],
+          "answer": "(d) a girl"
+        },
+        {
+          "q": "In the F_{2} generation of Mendel's dihybrid cross, what fraction of plants show both recessive traits (wrinkled and green)?",
+          "marks": 1,
+          "options": [
+            "1/16",
+            "3/16",
+            "1/4",
+            "9/16"
+          ],
+          "answer": "(a) 1/16"
+        },
+        {
+          "q": "Mendel carried out his experiments on:",
+          "marks": 1,
+          "options": [
+            "fruit flies",
+            "garden peas",
+            "wheat",
+            "mice"
+          ],
+          "answer": "(b) garden peas"
+        },
+        {
+          "q": "**Assertion (A):** There is very little variation among offspring produced by asexual reproduction.\n**Reason (R):** In asexual reproduction, small errors in DNA copying are the only source of variation.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why were all the F_{1} plants tall, with no medium-height plants, when Mendel crossed pure tall and pure short pea plants?",
+          "marks": 2,
+          "answer": "Tallness (T) is dominant over shortness (t). The F_{1} plants are Tt, and a single copy of T is enough to make the plant tall. Traits do not blend, so no medium-height plants appear.",
+          "marking": [
+            "Tall is dominant, F_{1} is Tt: 1",
+            "No blending of traits: 1"
+          ],
+          "or": {
+            "q": "Define genotype and phenotype, with one example each.",
+            "marks": 2,
+            "answer": "Genotype is the genetic make-up of an organism for a trait (e.g. TT, Tt or tt). Phenotype is the visible trait that results (e.g. tall or short).",
+            "marking": [
+              "Each with example: 1"
+            ]
+          }
+        },
+        {
+          "q": "A man with blood group A marries a woman with blood group O, and their daughter has blood group O. Is this enough to tell which trait, A or O, is dominant? Explain.",
+          "marks": 2,
+          "answer": "No. One child is not enough. If A were dominant, the father could be carrying one O copy, and the daughter could inherit O from both parents. If O were dominant, the daughter could also be O. We need data from many offspring to decide.",
+          "marking": [
+            "No: 1",
+            "Reason (both possibilities fit / need more data): 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A pea plant with violet flowers (Vv) is crossed with a plant with white flowers (vv).",
+          "subparts": [
+            {
+              "q": "Write the gametes produced by each parent.",
+              "marks": 1,
+              "answer": "Vv parent: V and v. vv parent: v only."
+            },
+            {
+              "q": "Write the genotypes of the offspring and their ratio.",
+              "marks": 1,
+              "answer": "Vv and vv in the ratio 1 : 1."
+            },
+            {
+              "q": "Write the phenotypic ratio.",
+              "marks": 1,
+              "answer": "1 violet : 1 white"
+            }
+          ]
+        },
+        {
+          "q": "How do Mendel's experiments show that (i) traits may be dominant or recessive, and (ii) traits are inherited independently?",
+          "marks": 3,
+          "answer": "(i) In a monohybrid cross, all F_{1} plants were tall, so tallness is dominant. Shortness reappeared in one-fourth of the F_{2} plants, so it is recessive: it was hidden, not lost. (ii) In a dihybrid cross (round yellow × wrinkled green), new combinations such as round green and wrinkled yellow appeared in F_{2}. This shows seed shape and seed colour are inherited independently.",
+          "marking": [
+            "Dominant/recessive from monohybrid: 1½",
+            "Independent inheritance from dihybrid: 1½"
+          ],
+          "or": {
+            "q": "How is the number of chromosomes kept the same from one generation to the next? What is the role of germ cells?",
+            "marks": 3,
+            "answer": "Germ cells (gametes) are special cells that have only one set of chromosomes, half the number in body cells. When a male and a female germ cell fuse during fertilisation, the zygote gets the full number again. This keeps the chromosome number constant in every generation.",
+            "marking": [
+              "Germ cells have half the number: 1",
+              "Fusion restores full number: 1",
+              "Constant across generations: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain Mendel's dihybrid cross between round yellow (RRYY) and wrinkled green (rryy) plants, up to the F_{2} phenotypes and their ratio.",
+              "marks": 3,
+              "answer": "Parents: RRYY × rryy. Gametes: RY and ry. F_{1}: all RrYy, round and yellow. F_{1} plants form four kinds of gametes: RY, Ry, rY and ry. In F_{2}, a 16-box checkerboard gives 9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green.",
+              "marking": [
+                "Parents/gametes/F_{1}: 1",
+                "F_{1} gametes and checkerboard: 1",
+                "F_{2} ratio: 1"
+              ]
+            },
+            {
+              "q": "Which new combinations appear in F_{2}, and what do they prove?",
+              "marks": 2,
+              "answer": "Round green and wrinkled yellow, which were not present in either parent. They prove that seed shape and seed colour are inherited independently of each other.",
+              "marking": [
+                "New combinations: 1",
+                "Independent inheritance: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Explain how sex is determined in (i) human beings, (ii) some reptiles, (iii) snails. [3]\n(b) Is the sex of a human child decided by chance? Explain. [2]",
+            "marks": 5,
+            "answer": "(a) (i) Humans: genetically. The father's sperm carries X or Y; XX gives a girl and XY gives a boy. (ii) In some reptiles, the temperature at which the fertilised eggs are kept decides whether the young will be male or female. (iii) Snails can change sex, which shows sex is not genetically fixed in them. (b) Yes. The mother always gives X, while the father gives X or Y with equal probability. Which sperm fertilises the egg is a matter of chance, so there is a 50% chance of either.",
+            "marking": [
+              "(a) 1 each",
+              "(b) 2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Earlobes can be free or attached. Assume that free earlobes (F) are dominant over attached earlobes (f). Both of Arjun's parents have free earlobes, but Arjun has attached earlobes.",
+          "subparts": [
+            {
+              "q": "What is Arjun's genotype?",
+              "marks": 1,
+              "answer": "ff"
+            },
+            {
+              "q": "What must the genotypes of his parents be?",
+              "marks": 1,
+              "answer": "Both are Ff (heterozygous). Each gave Arjun one f."
+            },
+            {
+              "q": "What is the probability that their next child will have attached earlobes? Show the cross.",
+              "marks": 2,
+              "answer": "Ff × Ff gives FF, Ff, Ff and ff, in the ratio 1 : 2 : 1. Only ff has attached earlobes, so the probability is 1/4 (25%).",
+              "marking": [
+                "Cross: 1",
+                "1/4: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}

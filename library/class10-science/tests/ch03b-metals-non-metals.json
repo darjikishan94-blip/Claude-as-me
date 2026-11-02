@@ -1,0 +1,232 @@
+{
+  "type": "test",
+  "file_name": "c10-ch03-test-b-metals-non-metals",
+  "title": "Ch 3 Test (Set B): Metals and Non-metals",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Metals and Non-metals",
+  "time": "50 minutes",
+  "total_marks": 25,
+  "instructions": [
+    "All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: 1 mark each. Section B: 2 marks each. Section C: 3 marks each. Section D: 5 marks. Section E: case-based, 4 marks.",
+    "Write balanced chemical equations wherever asked."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "Which non-metal is a liquid at room temperature?",
+          "marks": 1,
+          "options": [
+            "Iodine",
+            "Mercury",
+            "Bromine",
+            "Sulphur"
+          ],
+          "answer": "(c) Bromine (mercury is a liquid metal)"
+        },
+        {
+          "q": "The property of metals that allows them to be drawn into thin wires is:",
+          "marks": 1,
+          "options": [
+            "malleability",
+            "sonority",
+            "lustre",
+            "ductility"
+          ],
+          "answer": "(d) ductility"
+        },
+        {
+          "q": "Which of these metals reacts only with steam, not with cold or hot water?",
+          "marks": 1,
+          "options": [
+            "Sodium",
+            "Iron",
+            "Potassium",
+            "Calcium"
+          ],
+          "answer": "(b) Iron"
+        },
+        {
+          "q": "In electrolytic refining, the anode mud consists of:",
+          "marks": 1,
+          "options": [
+            "soluble impurities",
+            "insoluble impurities",
+            "the pure metal",
+            "the electrolyte"
+          ],
+          "answer": "(b) insoluble impurities"
+        },
+        {
+          "q": "Which of the following oxides is basic?",
+          "marks": 1,
+          "options": [
+            "SO_{2}",
+            "CO_{2}",
+            "SO_{3}",
+            "Na_{2}O"
+          ],
+          "answer": "(d) Na_{2}O"
+        },
+        {
+          "q": "**Assertion (A):** Ionic compounds are generally solids and somewhat hard.\n**Reason (R):** There is a strong force of attraction between the positive and negative ions.",
+          "marks": 1,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a)"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why is sodium kept immersed in kerosene oil?",
+          "marks": 2,
+          "answer": "Sodium reacts so vigorously with oxygen and moisture in the air that it catches fire if kept in the open. Kerosene keeps air and moisture away from it, preventing accidental fires.",
+          "marking": [
+            "Very reactive with air/moisture, catches fire: 1",
+            "Kerosene keeps air and water away: 1"
+          ],
+          "or": {
+            "q": "What is anodising? Why is it done?",
+            "marks": 2,
+            "answer": "Anodising is a process of forming a thick oxide layer on aluminium. The aluminium article is made the anode and electrolysed with dilute sulphuric acid. The thicker oxide layer protects it from further corrosion and can also be dyed to give an attractive finish.",
+            "marking": [
+              "Process: 1",
+              "Purpose: 1"
+            ]
+          }
+        },
+        {
+          "q": "Name two metals that are the best conductors of heat, and two that are comparatively poor conductors of heat.",
+          "marks": 2,
+          "answer": "Best conductors: silver and copper. Comparatively poor conductors: lead and mercury.",
+          "marking": [
+            "Each pair: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Element X has atomic number 12, and element Y has atomic number 17.",
+          "subparts": [
+            {
+              "q": "Write the electronic configuration of X and Y.",
+              "marks": 1,
+              "answer": "X: 2, 8, 2 (magnesium). Y: 2, 8, 7 (chlorine)."
+            },
+            {
+              "q": "Write the formula of the compound formed between X and Y.",
+              "marks": 1,
+              "answer": "XY_{2} (MgCl_{2}). X loses 2 electrons and each of two Y atoms gains 1 electron."
+            },
+            {
+              "q": "Name the type of bond, and give two properties of this compound.",
+              "marks": 1,
+              "answer": "Ionic bond. Properties (any two): high melting point; soluble in water; conducts electricity when molten or in solution."
+            }
+          ]
+        },
+        {
+          "q": "Describe an activity to compare the reactivity of magnesium, aluminium, zinc and iron with dilute hydrochloric acid. Write the equations for magnesium and aluminium.",
+          "marks": 3,
+          "answer": "Take four test tubes with the same volume of dilute HCl and add a clean sample of each metal. Observe how fast bubbles of hydrogen form, and how warm each tube gets. Magnesium reacts most vigorously, then aluminium, zinc and iron. Mg + 2HCl → MgCl_{2} + H_{2} and 2Al + 6HCl → 2AlCl_{3} + 3H_{2}",
+          "marking": [
+            "Activity and observation: 1",
+            "Order of reactivity: 1",
+            "Equations: 1"
+          ],
+          "or": {
+            "q": "Define the terms mineral, ore and gangue.",
+            "marks": 3,
+            "answer": "Mineral: an element or compound that occurs naturally in the Earth's crust. Ore: a mineral from which a metal can be extracted profitably. Gangue: the unwanted impurities, such as soil and sand, present in an ore.",
+            "marking": [
+              "Each: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain how copper is obtained from copper sulphide (Cu_{2}S). Give balanced equations.",
+              "marks": 3,
+              "answer": "Copper is low in the reactivity series, so heating alone works. The ore is heated in air, and part of it changes into copper(I) oxide: 2Cu_{2}S + 3O_{2} → 2Cu_{2}O + 2SO_{2}. The copper(I) oxide then reacts with the remaining copper sulphide to give copper metal: 2Cu_{2}O + Cu_{2}S → 6Cu + SO_{2}",
+              "marking": [
+                "Heating alone (low reactivity): 1",
+                "Each equation: 1 + 1"
+              ]
+            },
+            {
+              "q": "Why can carbon not be used to reduce the oxides of sodium, magnesium and aluminium? How are these metals obtained?",
+              "marks": 2,
+              "answer": "These metals have a greater affinity for oxygen than carbon has, so carbon cannot remove oxygen from their oxides. They are obtained by electrolysis of their molten chlorides (electrolytic reduction).",
+              "marking": [
+                "Reason: 1",
+                "Electrolysis: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Give reasons: (i) Carbonate and sulphide ores are converted into oxides before reduction. (ii) Aluminium is very reactive, yet it is used to make cooking utensils. (iii) Gold and platinum are used to make jewellery. [3]\n(b) What is solder? Why is it used for welding electrical wires? [2]",
+            "marks": 5,
+            "answer": "(a) (i) It is easier to obtain a metal from its oxide than from its carbonate or sulphide. (ii) Aluminium is light, a good conductor of heat, and protected from corrosion by a thin oxide layer. (iii) They are lustrous, malleable, and do not corrode or react with air and water. (b) Solder is an alloy of lead and tin. It has a low melting point, so it melts easily to join wires.",
+            "marking": [
+              "(a) 1 each",
+              "(b) composition 1, low melting point 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read the passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "When iron(III) oxide is mixed with aluminium powder and ignited, the reaction gives out so much heat that the iron formed is molten. This molten iron is used to join railway tracks and cracked machine parts. This is called the thermite reaction.",
+          "subparts": [
+            {
+              "q": "Write the balanced equation for the thermite reaction.",
+              "marks": 1,
+              "answer": "Fe_{2}O_{3} + 2Al → 2Fe + Al_{2}O_{3} + heat"
+            },
+            {
+              "q": "Which substance acts as the reducing agent?",
+              "marks": 1,
+              "answer": "Aluminium (it takes oxygen away from iron(III) oxide)."
+            },
+            {
+              "q": "Why is aluminium able to reduce iron oxide? Name two types this reaction belongs to.",
+              "marks": 2,
+              "answer": "Aluminium is more reactive than iron, so it can displace iron from its oxide. It is a displacement reaction and a redox reaction (and it is highly exothermic).",
+              "marking": [
+                "Al more reactive: 1",
+                "Displacement + redox: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best!"
+}
