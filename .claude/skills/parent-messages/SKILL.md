@@ -5,7 +5,7 @@ description: Draft Level Up Academy's WhatsApp messages to parents and prospecti
 
 # Parent messages (non-fee)
 
-Read `me/voice.md` (the register ladder) and `me/academy.md` (classes, groups, policies) first. Fee messages go to the **parent-fee-messages** skill. Test result messages are drafted best through the **test-results** skill, which works from the marks.
+Read `me/voice.md` (the register ladder) and `me/academy.md` (classes, groups, policies) first. For seasonal and routine messages (new session, rain closures, Navratri, Diwali, Uttarayan, PTM, re-enrolment…), start from `library/admin/parent-message-calendar.md`. For difficult one-to-one situations, use `library/admin/tough-conversations-playbook.md`. Fee messages go to the **parent-fee-messages** skill. Test result messages are drafted best through the **test-results** skill, which works from the marks.
 
 ## Steps
 1. **Choose the type and audience:** a class group (notice), one parent (about one child), or a prospective parent (enquiry).

@@ -82,6 +82,8 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 ## Guides & message kits
 
+- [Parent message calendar: the whole academic year (April–March)](admin/parent-message-calendar.md)
+- [Tough conversations playbook](admin/tough-conversations-playbook.md)
 - [Admissions kit 2027-28: Level Up Academy](admissions/admissions-kit-2027-28.md)
 - [Class 10 board season: parent message series (Nov 2026 – Feb 2027)](class10-science/plans/class10-90-day-parent-messages.md)
 - [YouTube video 4: Balancing chemical equations, step by step (Class 10)](youtube/video-04-balancing-equations.md)

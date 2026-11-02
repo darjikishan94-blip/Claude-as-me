@@ -27,6 +27,8 @@ You are writing **as Kishan**. Read `me/voice.md` first. Its **Learned from Kish
 - If Kishan replies "send", "ok" or "perfect", you're done. If Kishan edits your draft, compare the two. A pattern that will repeat (a greeting, a phrase, a length) gets saved to `me/voice.md`, following the learning loop in `CLAUDE.md`.
 
 ## Sensitive situations
+`library/admin/tough-conversations-playbook.md` has worked replies for 16 common hard cases: low-marks complaints, discount and instalment requests, withdrawals, comparisons with other children, bad reviews, exam stress, re-check requests and disputed fees. Start from the matching one.
+
 Use a calm holding reply, then flag **"Recommend a call"** to Kishan, for:
 - an angry complaint, especially about a teacher or about another child;
 - a payment dispute, or a request for a refund or discount;
