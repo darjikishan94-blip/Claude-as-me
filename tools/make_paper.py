@@ -477,7 +477,7 @@ def set_col_widths(table, rows, widths_cm=None):
             longest = max(len(r[c]) for r in plain)
             avg = sum(len(r[c]) for r in plain) / len(plain)
             word = max((len(w) for r in plain for w in r[c].split()), default=4)
-            weights.append(min(45, max(word * 1.6 + 3, 0.5 * longest + 0.5 * avg)))
+            weights.append(min(45, max(word * 1.6 + 4.5, 0.5 * longest + 0.5 * avg)))
         widths_cm = [TEXT_W * w / sum(weights) for w in weights]
     table.autofit = False
     tblPr = table._tbl.tblPr

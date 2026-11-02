@@ -90,6 +90,7 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Title | Files |
 |---|---|
 | Class 10 Science: 90-Day Board Revision Plan | [PDF](class10-science/pdf/c10-plan-90-day-board-revision.pdf) · [Word](class10-science/pdf/c10-plan-90-day-board-revision.docx) |
+| Teacher's Session Plan: 90-Day Board Revision (Class 10 Science) | [PDF](class10-science/pdf/c10-plan-teacher-session-plan.pdf) · [Word](class10-science/pdf/c10-plan-teacher-session-plan.docx) |
 
 ## Class 8 Science
 
