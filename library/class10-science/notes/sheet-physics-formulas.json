@@ -1,0 +1,64 @@
+{
+  "type": "notes",
+  "file_name": "c10-sheet-physics-formulas",
+  "title": "Physics Formula & Rules Sheet (Class 10)",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"h": "Light: mirrors & lenses"},
+    {"table": [
+      ["What", "Formula / rule", "Watch out"],
+      ["Mirror formula", "1/v + 1/u = 1/f", "u is always negative"],
+      ["Lens formula", "1/v – 1/u = 1/f", "Minus sign, unlike the mirror"],
+      ["Magnification (mirror)", "m = h′/h = –v/u", "–ve m = real & inverted"],
+      ["Magnification (lens)", "m = h′/h = v/u", "+ve m = virtual & erect"],
+      ["Focal length of a mirror", "f = R/2", "Concave f –ve, convex f +ve"],
+      ["Power of a lens", "P = 1/f (f in metres), unit dioptre (D)", "Convex +, concave –. Convert cm → m!"],
+      ["Lenses in contact", "P = P_{1} + P_{2} + …", "Add with signs"],
+      ["Refractive index", "n = c/v  ·  n_{21} = v_{1}/v_{2}  ·  n = sin i / sin r", "No unit; c = 3 × 10^{8} m/s"]
+    ]},
+    {"p": "**Sign convention:** measure from the pole or optical centre. The object is on the left. Along the incident light is +, against it is –. Above the axis is +, below is –."},
+    {"bullets": [
+      "**Ray rules:** parallel ray → through F (or appears to come from F). Ray through F → parallel. Ray through C (mirror) → returns on itself. Ray through O (lens) → straight on.",
+      "**Same-size real image:** object at C (concave mirror) or at 2F_{1} (convex lens).",
+      "**Virtual & enlarged:** object between P and F (concave mirror) or between F_{1} and O (convex lens).",
+      "**Always virtual, erect, diminished:** convex mirror and concave lens."
+    ]},
+    {"h": "Human eye"},
+    {"table": [
+      ["Defect", "Image forms", "Lens"],
+      ["Myopia (can't see far)", "In front of the retina", "Concave (–ve power)"],
+      ["Hypermetropia (can't see near)", "Behind the retina", "Convex (+ve power)"],
+      ["Presbyopia (old age)", "Near point moves away", "Convex / bifocal"]
+    ]},
+    {"p": "Near point 25 cm · far point at infinity · red bends least, violet most · blue sky and red sunsets are due to **scattering** · twinkling stars and the 2-minute early sunrise are due to **atmospheric refraction**."},
+    {"h": "Electricity"},
+    {"table": [
+      ["Quantity", "Formula", "SI unit"],
+      ["Current", "I = Q/t", "ampere (A)"],
+      ["Potential difference", "V = W/Q", "volt (V) = J/C"],
+      ["Ohm's law", "V = IR", "ohm (Ω)"],
+      ["Resistance of a wire", "R = ρL/A", "ρ in Ω m"],
+      ["Series", "R_{s} = R_{1} + R_{2} + R_{3}", "Same I everywhere"],
+      ["Parallel", "1/R_{p} = 1/R_{1} + 1/R_{2} + 1/R_{3}", "Same V across each"],
+      ["Heat (Joule's law)", "H = I^{2}Rt", "joule (J)"],
+      ["Power", "P = VI = I^{2}R = V^{2}/R", "watt (W)"],
+      ["Energy", "E = P × t", "1 kWh = 3.6 × 10^{6} J = 1 unit"]
+    ]},
+    {"bullets": [
+      "Electron charge 1.6 × 10^{-19} C, so 1 C ≈ 6.25 × 10^{18} electrons.",
+      "Ammeter **in series**, voltmeter **in parallel**.",
+      "Double the length → R doubles. Double the diameter → R becomes ¼. Stretch to double the length → R becomes 4 times.",
+      "n equal resistors R: series gives nR; parallel gives R/n.",
+      "A bulb on half its rated voltage uses ¼ of its rated power (P ∝ V^{2} for fixed R)."
+    ]},
+    {"h": "Magnetic effects"},
+    {"bullets": [
+      "**Right-hand thumb rule:** thumb along the current → curled fingers show the field.",
+      "**Fleming's left-hand rule:** **F**orefinger = **F**ield, **C**entre (middle) finger = **C**urrent, thu**M**b = **M**otion (force).",
+      "Force is greatest when the current is ⟂ to the field, and zero when parallel to it.",
+      "Domestic wiring: live **red** · neutral **black** · earth **green** · 220 V · 15 A circuit for heavy appliances, 5 A for lights and fans · fuse in the live wire."
+    ]}
+  ]
+}

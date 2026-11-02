@@ -47,6 +47,9 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Quick Revision: Electricity | [PDF](class10-science/pdf/c10-ch11-notes-electricity.pdf) · [Word](class10-science/pdf/c10-ch11-notes-electricity.docx) |
 | Quick Revision: Magnetic Effects of Electric Current | [PDF](class10-science/pdf/c10-ch12-notes-magnetic-effects.pdf) · [Word](class10-science/pdf/c10-ch12-notes-magnetic-effects.docx) |
 | Quick Revision: Our Environment | [PDF](class10-science/pdf/c10-ch13-notes-our-environment.pdf) · [Word](class10-science/pdf/c10-ch13-notes-our-environment.docx) |
+| Diagram Checklist: Draw Each One Twice Before the Exam | [PDF](class10-science/pdf/c10-sheet-diagram-checklist.pdf) · [Word](class10-science/pdf/c10-sheet-diagram-checklist.docx) |
+| Equation Sheet: Every Equation You Need (Class 10) | [PDF](class10-science/pdf/c10-sheet-all-equations.pdf) · [Word](class10-science/pdf/c10-sheet-all-equations.docx) |
+| Physics Formula & Rules Sheet (Class 10) | [PDF](class10-science/pdf/c10-sheet-physics-formulas.pdf) · [Word](class10-science/pdf/c10-sheet-physics-formulas.docx) |
 
 ### Worksheets
 

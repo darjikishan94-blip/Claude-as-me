@@ -1,0 +1,52 @@
+{
+  "type": "notes",
+  "file_name": "c10-sheet-diagram-checklist",
+  "title": "Diagram Checklist: Draw Each One Twice Before the Exam",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "blocks": [
+    {"p": "Diagrams carry easy marks if the **labels** are right. Draw each one from memory, check the labels against your textbook, and tick the box. Use a pencil, keep label lines straight and parallel, and never let them cross."},
+    {"h": "Biology"},
+    {"table": [
+      ["Diagram", "Ch", "Labels you must show", "✓", "✓"],
+      ["Human digestive system", "5", "Mouth, oesophagus, stomach, liver, gall bladder, pancreas, small intestine, large intestine, rectum, anus", " ", " "],
+      ["Open and closed stomata", "5", "Guard cells, stomatal pore, epidermal cells, chloroplast", " ", " "],
+      ["Human respiratory system", "5", "Nasal passage, pharynx, larynx, trachea, bronchi, bronchioles, lungs, alveolar sacs, diaphragm, rib", " ", " "],
+      ["Section of the human heart", "5", "Right & left atrium, right & left ventricle, aorta, pulmonary artery, pulmonary veins, vena cava", " ", " "],
+      ["Human excretory system", "5", "Kidneys, renal artery & vein, aorta, vena cava, ureters, urinary bladder, urethra", " ", " "],
+      ["Nephron", "5", "Glomerulus, Bowman's capsule, tubule, branch of renal artery & vein, collecting duct", " ", " "],
+      ["Neuron", "6", "Dendrite, cell body, nucleus, axon, nerve ending", " ", " "],
+      ["Reflex arc", "6", "Receptor, sensory neuron, spinal cord (relay neuron), motor neuron, effector muscle", " ", " "],
+      ["Human brain", "6", "Forebrain (cerebrum), midbrain, hindbrain: cerebellum, pons, medulla; pituitary", " ", " "],
+      ["Binary fission (Amoeba) / budding (Hydra)", "7", "Nucleus dividing, daughter cells / bud, parent", " ", " "],
+      ["Longitudinal section of a flower", "7", "Petal, sepal, stamen (anther, filament), pistil (stigma, style, ovary), ovule", " ", " "],
+      ["Pollen tube growing on the stigma", "7", "Pollen grain, stigma, style, pollen tube, ovary, female germ cell", " ", " "],
+      ["Human reproductive systems", "7", "Male: testis, scrotum, vas deferens, seminal vesicle, prostate, urethra. Female: ovary, oviduct, uterus, cervix, vagina", " ", " "]
+    ], "row_height_cm": 0.9},
+    {"h": "Physics"},
+    {"table": [
+      ["Diagram", "Ch", "Labels you must show", "✓", "✓"],
+      ["Concave mirror: all 6 object positions", "9", "P, F, C, principal axis, two rays with arrows, image", " ", " "],
+      ["Convex lens: all 6 object positions", "9", "O, F_{1}, F_{2}, 2F_{1}, 2F_{2}, two rays with arrows, image", " ", " "],
+      ["Convex mirror and concave lens", "9", "Virtual rays dotted; image behind mirror / same side as object", " ", " "],
+      ["Refraction through a glass slab", "9", "Incident ray, normals, refracted ray, emergent ray, i, r, e, lateral displacement", " ", " "],
+      ["Human eye", "10", "Cornea, iris, pupil, eye lens, ciliary muscles, retina, optic nerve", " ", " "],
+      ["Myopia and hypermetropia with correction", "10", "Image position, correcting lens, far / near point", " ", " "],
+      ["Dispersion by a prism", "10", "White light, prism, spectrum VIBGYOR, red on top, violet at bottom", " ", " "],
+      ["Series and parallel circuits", "11", "Cell, key, resistors, ammeter (in series), voltmeter (in parallel), symbols", " ", " "],
+      ["Field around a bar magnet", "12", "N, S, field lines with arrows going from N to S outside the magnet", " ", " "],
+      ["Field around a straight wire / solenoid", "12", "Current direction, concentric circles / parallel lines inside, N and S ends", " ", " "],
+      ["Domestic electric circuit", "12", "Live, neutral, earth wires, fuse, meter, main switch, 5 A and 15 A lines", " ", " "]
+    ], "row_height_cm": 0.9},
+    {"h": "Chemistry"},
+    {"table": [
+      ["Diagram", "Ch", "Labels you must show", "✓", "✓"],
+      ["Electrolysis of water", "1", "Carbon electrodes, test tubes with H_{2} (double volume) and O_{2}, battery, water + dilute acid", " ", " "],
+      ["Zinc + acid, testing hydrogen", "2", "Test tube, zinc granules, dilute acid, delivery tube, soap bubbles, burning candle", " ", " "],
+      ["Electron-dot structures", "3, 4", "NaCl, MgCl_{2} (transfer); H_{2}, O_{2}, N_{2}, CH_{4}, CO_{2} (sharing)", " ", " "],
+      ["Electrolytic refining of copper", "3", "Impure Cu anode, pure Cu cathode, acidified CuSO_{4}, anode mud", " ", " "],
+      ["Soap micelle", "4", "Hydrophilic heads outside, hydrophobic tails inside, oily dirt in the centre", " ", " "]
+    ], "row_height_cm": 0.9}
+  ]
+}
