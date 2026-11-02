@@ -19,7 +19,9 @@ You don't need to name the skill. Just ask normally.
 ## 📚 Ready-made content library
 **[library/README.md](library/README.md)** has everything ready to print, all automatically checked (marks add up, equations balanced, answer keys valid):
 - **Class 10 Science:** a 25-mark test + answer key for all 13 chapters, and a one-page revision sheet for each
+- **Set B re-tests** for the six toughest chapters (1, 2, 4, 5, 9, 11)
 - **Four full 80-mark mock papers**: Mock 1 and Mock 2 in both CBSE and GSEB patterns, with marking schemes
+- **Two drill sheets:** CBSE assertion–reason + case-based, and GSEB 40 rapid-fire objective questions
 - **90-day board revision plan** (9 Nov 2026 – 7 Feb 2027) with an error-log page, plus 11 parent WhatsApp messages to go with it
 - **Admissions kit 2027-28:** broadcasts, posters, Instagram captions, enquiry replies, demo-class plan, referral and testimonial messages
 - **3 YouTube video scripts** (balancing equations, 3-mark answers, 90-day plan), with titles, descriptions, tags and Shorts cuts
