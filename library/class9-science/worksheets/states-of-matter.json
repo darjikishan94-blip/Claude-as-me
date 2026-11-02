@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-states-of-matter",
+  "title": "Practice Pack: Matter in Our Surroundings",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "instructions": [
+    "Level 1 checks the ideas, Level 2 is board-style questions, and Level 3 is Foundation-level challenge.",
+    "Temperature conversion: K = °C + 273 and °C = K – 273."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "Give two characteristics of the particles of matter.", "lines": 2,
+         "answer": "(Any two) Particles of matter have spaces between them, are continuously moving, and attract each other."},
+        {"q": "Define melting point and boiling point.", "lines": 2,
+         "answer": "Melting point: the temperature at which a solid melts into a liquid at atmospheric pressure (ice: 273 K). Boiling point: the temperature at which a liquid starts boiling at atmospheric pressure (water: 373 K)."},
+        {"q": "What is sublimation? Give one example.", "lines": 2,
+         "answer": "The change of a solid directly into a gas without becoming a liquid (and back). Examples: camphor, naphthalene, ammonium chloride."},
+        {"q": "What is latent heat of vaporisation?", "lines": 2,
+         "answer": "The heat energy needed to change 1 kg of a liquid into gas at atmospheric pressure at its boiling point, without any rise in temperature."},
+        {"q": "Convert to the Celsius scale: (a) 300 K (b) 573 K. Convert to the Kelvin scale: (c) 25 °C (d) 373 °C.", "lines": 2,
+         "answer": "(a) 27 °C (b) 300 °C (c) 298 K (d) 646 K"}
+      ]
+    },
+    {
+      "title": "Level 2: Board-style questions",
+      "questions": [
+        {"q": "Why does evaporation cause cooling? Give one everyday example.", "lines": 3,
+         "answer": "During evaporation, the particles of the liquid take energy from the surroundings (or from the surface they are on) to change into vapour, so the surroundings cool down. Examples: we feel cool when sweat evaporates; water in an earthen pot (matka) stays cool."},
+        {"q": "Give four factors that affect the rate of evaporation.", "lines": 3,
+         "answer": "(1) Surface area: more area, faster evaporation. (2) Temperature: higher temperature, faster. (3) Humidity: more humidity, slower. (4) Wind speed: more wind, faster."},
+        {"q": "Why do we wear cotton clothes in summer?", "lines": 2,
+         "answer": "Cotton absorbs sweat well and lets it evaporate. Evaporation takes heat from the body and keeps us cool."},
+        {"q": "Why does a gas fill the whole container it is kept in?", "lines": 2,
+         "answer": "Gas particles have very weak forces of attraction and move very fast in all directions, so they spread out to fill all the available space."},
+        {"q": "Why does steam cause more severe burns than boiling water at the same temperature?", "lines": 3,
+         "answer": "Steam at 373 K carries extra energy (the latent heat of vaporisation) compared with water at 373 K. When it condenses on the skin, it releases this extra heat as well."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "Why does a desert cooler cool better on a hot, dry day than on a humid day?", "lines": 3,
+         "answer": "A cooler works by evaporating water. On a dry day the air has little water vapour, so water evaporates quickly and takes away more heat. On a humid day the air already holds a lot of water vapour, so evaporation, and therefore cooling, is slower."},
+        {"q": "Water droplets appear on the outside of a glass holding ice-cold water. Where do they come from?", "lines": 3,
+         "answer": "Water vapour in the air touches the cold surface of the glass, loses energy, and condenses into liquid droplets. The water does not come through the glass."},
+        {"q": "Arrange in increasing order of the forces of attraction between particles: water, sugar, oxygen. Explain.", "lines": 3,
+         "answer": "Oxygen (gas) < water (liquid) < sugar (solid). Particles in solids attract each other most strongly, liquids less, and gases the least."}
+      ]
+    }
+  ],
+  "closing": "Evaporation = cooling. Look for examples at home today!"
+}

@@ -1,0 +1,57 @@
+{
+  "type": "worksheet",
+  "file_name": "c9-practice-gravitation",
+  "title": "Practice Pack: Gravitation, Floatation and Density",
+  "class": "9",
+  "board": "GSEB / old-book students",
+  "subject": "Science",
+  "chapter": "Topic-based. Gravitation is reported to be dropped from the new NCERT Class 9 book, so check your syllabus first",
+  "instructions": [
+    "Use this pack only if Gravitation is in your students' current syllabus (likely for GSEB / old-book students). It is also good Foundation practice.",
+    "Key relations: F = Gm_{1}m_{2}/r^{2} · W = mg · v = u + gt · s = ut + ½gt^{2} · v^{2} = u^{2} + 2gs · density = mass/volume. Take g = 9.8 m/s^{2} unless told otherwise."
+  ],
+  "sections": [
+    {
+      "title": "Level 1: Concepts",
+      "questions": [
+        {"q": "State the universal law of gravitation.", "lines": 3,
+         "answer": "Every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them: F = Gm_{1}m_{2}/r^{2}."},
+        {"q": "What is the difference between mass and weight?", "lines": 3,
+         "answer": "Mass is the amount of matter in an object. It stays the same everywhere and is measured in kg. Weight is the force with which the Earth (or another body) pulls the object (W = mg). It changes from place to place and is measured in newtons."},
+        {"q": "Why does an object weigh less on the Moon than on the Earth?", "lines": 2,
+         "answer": "The Moon's gravitational pull is about one-sixth of the Earth's, so the weight on the Moon is about one-sixth of the weight on Earth."},
+        {"q": "What is buoyant force (upthrust)?", "lines": 1,
+         "answer": "The upward force exerted by a liquid on an object immersed in it."},
+        {"q": "State Archimedes' principle.", "lines": 2,
+         "answer": "When an object is fully or partly immersed in a liquid, it experiences an upward force equal to the weight of the liquid it displaces."}
+      ]
+    },
+    {
+      "title": "Level 2: Numericals",
+      "questions": [
+        {"q": "An object has a mass of 10 kg. What is its weight on the Earth, and roughly what would it weigh on the Moon?", "lines": 3,
+         "answer": "On Earth: W = mg = 10 × 9.8 = 98 N. On the Moon: about 98/6 ≈ 16.3 N. Its mass stays 10 kg."},
+        {"q": "A ball is thrown vertically upwards with a speed of 49 m/s. Find (a) the maximum height it reaches and (b) the total time before it returns to the thrower.", "lines": 4,
+         "answer": "At the top, v = 0 with g = –9.8 m/s^{2}. (a) v^{2} = u^{2} + 2gs gives 0 = 49^{2} – 2 × 9.8 × h, so h = 2401/19.6 = 122.5 m. (b) Time up: t = u/g = 49/9.8 = 5 s. Total time = 2 × 5 = 10 s."},
+        {"q": "A stone is released from the top of a tower 19.6 m high. Find its speed just before it hits the ground.", "lines": 3,
+         "answer": "u = 0, s = 19.6 m, g = 9.8 m/s^{2}. v^{2} = 2gs = 2 × 9.8 × 19.6 = 384.16, so v = 19.6 m/s."},
+        {"q": "The relative density of silver is 10.8, and the density of water is 1000 kg/m^{3}. Find the density of silver.", "lines": 2,
+         "answer": "Density of silver = 10.8 × 1000 = 10,800 kg/m^{3}."},
+        {"q": "A sealed packet has a mass of 500 g and a volume of 350 cm^{3}. Will it float or sink in water (density 1 g/cm^{3})? What mass of water will it displace?", "lines": 3,
+         "answer": "Density = 500/350 ≈ 1.43 g/cm^{3}, which is more than water's density, so it sinks. It displaces its own volume of water: 350 cm^{3}, which is 350 g."}
+      ]
+    },
+    {
+      "title": "Level 3: Challenge (Foundation)",
+      "questions": [
+        {"q": "How does the gravitational force between two objects change if (a) the mass of one is doubled, (b) the distance between them is doubled, (c) both masses are doubled?", "lines": 3,
+         "answer": "(a) It doubles. (b) It becomes one-fourth (F ∝ 1/r^{2}). (c) It becomes four times."},
+        {"q": "A stone is dropped from a cliff and hits the ground after 3 s. Find the height of the cliff and the speed of the stone on impact.", "lines": 3,
+         "answer": "s = ½gt^{2} = ½ × 9.8 × 9 = 44.1 m. v = gt = 9.8 × 3 = 29.4 m/s."},
+        {"q": "Why does a block of plastic released under water come up to the surface, while an iron nail sinks?", "lines": 3,
+         "answer": "The plastic is less dense than water, so the upthrust on it is greater than its weight and it rises. The iron nail is denser than water, so its weight is greater than the upthrust and it sinks."}
+      ]
+    }
+  ],
+  "closing": "Mass never changes. Weight does!"
+}
