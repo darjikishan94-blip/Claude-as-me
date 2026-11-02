@@ -35,10 +35,10 @@
           "options": [
             "carboxylic acid",
             "aldehyde",
-            "alcohol",
-            "ketone"
+            "ketone",
+            "alcohol"
           ],
-          "answer": "(d) ketone"
+          "answer": "(c) ketone"
         },
         {
           "q": "The next higher homologue of ethanol (C_{2}H_{5}OH) is:",
@@ -46,35 +46,35 @@
           "options": [
             "CH_{3}OH",
             "C_{2}H_{5}COOH",
-            "C_{3}H_{7}OH",
-            "C_{3}H_{8}"
+            "C_{3}H_{8}",
+            "C_{3}H_{7}OH"
           ],
-          "answer": "(c) C_{3}H_{7}OH (propanol). Consecutive members differ by –CH_{2}–."
+          "answer": "(d) C_{3}H_{7}OH (propanol). Consecutive members differ by –CH_{2}–."
         },
         {
           "q": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that:",
           "marks": 1,
           "options": [
-            "the fuel is not burning completely",
             "the food is not cooked completely",
+            "the fuel is not burning completely",
             "the fuel is wet",
             "the fuel is burning completely"
           ],
-          "answer": "(a) the fuel is not burning completely (the soot is unburnt carbon)."
+          "answer": "(b) the fuel is not burning completely (the soot is unburnt carbon)."
         },
         {
           "q": "Which of the following is an unsaturated hydrocarbon?",
           "marks": 1,
           "options": [
+            "C_{2}H_{4}",
             "C_{3}H_{8}",
             "CH_{4}",
-            "C_{2}H_{4}",
             "C_{2}H_{6}"
           ],
-          "answer": "(c) C_{2}H_{4} (ethene). It has a carbon–carbon double bond."
+          "answer": "(a) C_{2}H_{4} (ethene). It has a carbon–carbon double bond."
         },
         {
-          "q": "**Assertion (A):** Carbon forms covalent bonds rather than ionic bonds.  **Reason (R):** Carbon has four valence electrons, and it is difficult for it to gain or lose four electrons.",
+          "q": "**Assertion (A):** Carbon forms covalent bonds rather than ionic bonds.\n**Reason (R):** Carbon has four valence electrons, and it is difficult for it to gain or lose four electrons.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",

@@ -73,7 +73,7 @@
           "answer": "(d) Fuse (or MCB)"
         },
         {
-          "q": "**Assertion (A):** Two magnetic field lines never cross each other.  **Reason (R):** If they crossed, a compass needle placed at the crossing point would have to point in two directions at once, which is not possible.",
+          "q": "**Assertion (A):** Two magnetic field lines never cross each other.\n**Reason (R):** If they crossed, a compass needle placed at the crossing point would have to point in two directions at once, which is not possible.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",

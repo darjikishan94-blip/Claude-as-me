@@ -205,9 +205,21 @@ def check_marks(spec):
     """Return (total, problems). Subparts must add up to their parent's marks."""
     total, problems = 0.0, []
     for s_i, sec in enumerate(spec.get("sections", []), 1):
-        for q_i, q in enumerate(sec.get("questions", []), 1):
+        qs = sec.get("questions", [])
+        if sec.get("attempt"):
+            per = {question_marks(q) for q in qs}
+            if len(per) != 1:
+                problems.append(f"{sec.get('title', f'Section {s_i}')}: 'attempt' needs every question "
+                                f"to carry the same marks (found {sorted(per)})")
+            elif int(sec["attempt"]) > len(qs):
+                problems.append(f"{sec.get('title', f'Section {s_i}')}: attempt {sec['attempt']} "
+                                f"but only {len(qs)} questions")
+            else:
+                total += int(sec["attempt"]) * per.pop()
+        for q_i, q in enumerate(qs, 1):
             m = question_marks(q)
-            total += m
+            if not sec.get("attempt"):
+                total += m
             subs = q.get("subparts")
             if subs and "marks" in q:
                 sub_total = sum(float(s.get("marks", 0)) for s in subs)
@@ -360,13 +372,17 @@ def render_paper(spec, path):
     n = 0
     for sec in spec.get("sections", []):
         if sec.get("title"):
-            sec_marks = sum(question_marks(q) for q in sec.get("questions", []))
+            qs = sec.get("questions", [])
+            sec_marks = (int(sec["attempt"]) * question_marks(qs[0]) if sec.get("attempt") and qs
+                         else sum(question_marks(q) for q in qs))
             p = para(doc, "", before=8, after=1)
             p.paragraph_format.tab_stops.add_tab_stop(Cm(TEXT_W), WD_TAB_ALIGNMENT.RIGHT)
             p.paragraph_format.keep_with_next = True
             add_rich(p, sec["title"].upper(), size=11.5, bold=True)
             if sec_marks and not worksheet:
-                add_rich(p, f"\t{fmt(sec_marks)} marks", size=9.5, color=GREY)
+                label = (f"answer any {sec['attempt']} of {len(qs)}  ·  {fmt(sec_marks)} marks"
+                         if sec.get("attempt") else f"{fmt(sec_marks)} marks")
+                add_rich(p, f"\t{label}", size=9.5, color=GREY)
             bottom_border(p, sz=4, color="BBBBBB")
         if sec.get("note"):
             para(doc, sec["note"], size=9.5, italic=True, after=2, color=GREY)

@@ -24,57 +24,57 @@
           "options": [
             "1/25",
             "1/5",
-            "25",
-            "5"
+            "5",
+            "25"
           ],
-          "answer": "(c) 25. Each part is R/5, and five in parallel give R′ = R/25."
+          "answer": "(d) 25. Each part is R/5, and five in parallel give R′ = R/25."
         },
         {
           "q": "Which of the following does NOT represent electric power in a circuit?",
           "marks": 1,
           "options": [
             "I^{2}R",
+            "IR^{2}",
             "VI",
-            "V^{2}/R",
-            "IR^{2}"
+            "V^{2}/R"
           ],
-          "answer": "(d) IR^{2}"
+          "answer": "(b) IR^{2}"
         },
         {
           "q": "The SI unit of electric charge is the:",
           "marks": 1,
           "options": [
             "ampere",
-            "coulomb",
             "volt",
+            "coulomb",
             "ohm"
           ],
-          "answer": "(b) coulomb"
+          "answer": "(c) coulomb"
         },
         {
           "q": "How much current does an 1100 W appliance draw from a 220 V supply?",
           "marks": 1,
           "options": [
             "0.5 A",
-            "5 A",
             "2 A",
+            "5 A",
             "10 A"
           ],
-          "answer": "(b) 5 A. I = P/V = 1100/220"
+          "answer": "(c) 5 A. I = P/V = 1100/220"
         },
         {
           "q": "An electric bulb is rated 220 V, 100 W. When it is operated on 110 V, the power consumed is:",
           "marks": 1,
           "options": [
-            "100 W",
-            "75 W",
+            "25 W",
             "50 W",
-            "25 W"
+            "75 W",
+            "100 W"
           ],
-          "answer": "(d) 25 W. R = V^{2}/P = 484 Ω, and P = 110^{2}/484 = 25 W"
+          "answer": "(a) 25 W. R = V^{2}/P = 484 Ω, and P = 110^{2}/484 = 25 W"
         },
         {
-          "q": "**Assertion (A):** An ammeter is always connected in series with the component whose current is to be measured.  **Reason (R):** The same current flows through all components connected in series.",
+          "q": "**Assertion (A):** An ammeter is always connected in series with the component whose current is to be measured.\n**Reason (R):** The same current flows through all components connected in series.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",

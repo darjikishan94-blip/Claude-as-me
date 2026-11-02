@@ -55,26 +55,26 @@
           "q": "The change in focal length of the eye lens is caused by the action of the:",
           "marks": 1,
           "options": [
-            "ciliary muscles",
             "pupil",
             "retina",
+            "ciliary muscles",
             "iris"
           ],
-          "answer": "(a) ciliary muscles"
+          "answer": "(c) ciliary muscles"
         },
         {
           "q": "Myopia (near-sightedness) is corrected using a:",
           "marks": 1,
           "options": [
-            "convex lens",
             "concave lens",
+            "convex lens",
             "bifocal lens",
             "cylindrical lens"
           ],
-          "answer": "(b) concave lens of suitable power"
+          "answer": "(a) concave lens of suitable power"
         },
         {
-          "q": "**Assertion (A):** The sky appears blue on a clear day.  **Reason (R):** Blue light has a shorter wavelength and is scattered much more strongly by the fine particles in the atmosphere than red light.",
+          "q": "**Assertion (A):** The sky appears blue on a clear day.\n**Reason (R):** Blue light has a shorter wavelength and is scattered much more strongly by the fine particles in the atmosphere than red light.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",

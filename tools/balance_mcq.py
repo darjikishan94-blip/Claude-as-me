@@ -19,6 +19,26 @@ from collections import Counter
 from pathlib import Path
 
 LOCKED = re.compile(r"all of the above|none of the above|\bboth\b|\bneither\b", re.I)
+NUM = re.compile(r"^\s*([+\-−]?)\s*(\d+(?:\.\d+)?)(?:\s*/\s*(\d+))?")
+
+
+def numeric_value(opt):
+    m = NUM.match(opt)
+    if not m:
+        return None
+    v = float(m.group(2)) / (float(m.group(3)) if m.group(3) else 1)
+    return -v if m.group(1) in "-−" and m.group(1) else v
+
+
+def sort_numeric(q):
+    """Numeric options read best in ascending order; keep the key pointing at the same option."""
+    vals = [numeric_value(o) for o in q["options"]]
+    if any(v is None for v in vals) or len(set(vals)) != len(vals):
+        return False
+    correct = q["options"]["abcd".index(q["answer"][1])]
+    q["options"] = [o for _, o in sorted(zip(vals, q["options"]))]
+    q["answer"] = f"({'abcd'[q['options'].index(correct)]})" + q["answer"][3:]
+    return True
 
 
 def eligible(q):
@@ -27,6 +47,8 @@ def eligible(q):
         return False
     if "Assertion" in q.get("q", "") or any(LOCKED.search(o) for o in opts):
         return False
+    if all(numeric_value(o) is not None for o in opts):
+        return False
     return bool(re.match(r"^\([a-d]\)", str(q.get("answer", ""))))
 
 
@@ -34,6 +56,10 @@ def balance(spec, seed):
     rng = random.Random(seed)
     used = Counter()
     mcqs = [q for sec in spec.get("sections", []) for q in sec.get("questions", []) if q.get("options")]
+    for q in mcqs:
+        if q.get("options") and len(q["options"]) == 4 and re.match(r"^\([a-d]\)", str(q.get("answer", ""))):
+            if all(numeric_value(o) is not None for o in q["options"]):
+                sort_numeric(q)
     for q in mcqs:  # count locked ones first so the total evens out
         if not eligible(q):
             m = re.match(r"^\(([a-d])\)", str(q.get("answer", "")))

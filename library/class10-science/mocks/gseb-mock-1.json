@@ -1,0 +1,475 @@
+{
+  "type": "test",
+  "file_name": "c10-mock-gseb-1",
+  "title": "Pre-Board Mock 1 (GSEB pattern)",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Full syllabus",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "Section A (Q1–24) is compulsory: 1 mark each.",
+    "Section B: answer any 9 of 12 questions (2 marks each). Section C: answer any 6 of 8 (3 marks each). Section D: answer any 5 of 7 (4 marks each).",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed. Show formulae and units in numericals.",
+    "This mock follows the reported GSEB blueprint (A 24 · B 18 · C 18 · D 20). Check the latest official GSEB blueprint for changes."
+  ],
+  "sections": [
+    {
+      "title": "Section A (Q1–8): Choose the correct option",
+      "questions": [
+        {
+          "q": "Which gas is given off when zinc reacts with sodium hydroxide solution?",
+          "marks": 1,
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Chlorine",
+            "Hydrogen"
+          ],
+          "answer": "(d) Hydrogen. 2NaOH + Zn → Na_{2}ZnO_{2} + H_{2}"
+        },
+        {
+          "q": "Which of the following is an amphoteric oxide?",
+          "marks": 1,
+          "options": [
+            "Na_{2}O",
+            "Al_{2}O_{3}",
+            "MgO",
+            "CO_{2}"
+          ],
+          "answer": "(b) Al_{2}O_{3}"
+        },
+        {
+          "q": "The functional group in ethanoic acid is:",
+          "marks": 1,
+          "options": [
+            "–OH",
+            "–CHO",
+            "–COOH",
+            ">C=O"
+          ],
+          "answer": "(c) –COOH"
+        },
+        {
+          "q": "Which component of blood helps in clotting?",
+          "marks": 1,
+          "options": [
+            "Platelets",
+            "Red blood cells",
+            "White blood cells",
+            "Plasma"
+          ],
+          "answer": "(a) Platelets"
+        },
+        {
+          "q": "Which part of the brain maintains posture and balance of the body?",
+          "marks": 1,
+          "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla",
+            "Pons"
+          ],
+          "answer": "(b) Cerebellum"
+        },
+        {
+          "q": "The SI unit of the power of a lens is:",
+          "marks": 1,
+          "options": [
+            "metre",
+            "watt",
+            "joule",
+            "dioptre"
+          ],
+          "answer": "(d) dioptre"
+        },
+        {
+          "q": "The resistivity of a wire depends on its:",
+          "marks": 1,
+          "options": [
+            "length",
+            "area of cross-section",
+            "material",
+            "shape"
+          ],
+          "answer": "(c) material (and temperature)"
+        },
+        {
+          "q": "In a food chain, the first trophic level is occupied by:",
+          "marks": 1,
+          "options": [
+            "producers",
+            "herbivores",
+            "carnivores",
+            "decomposers"
+          ],
+          "answer": "(a) producers"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q9–14): Fill in the blanks",
+      "questions": [
+        {
+          "q": "The chemical formula of rust is ______.",
+          "marks": 1,
+          "answer": "Fe_{2}O_{3}·xH_{2}O"
+        },
+        {
+          "q": "The pH of pure water is ______.",
+          "marks": 1,
+          "answer": "7"
+        },
+        {
+          "q": "______ is the hardest natural substance known.",
+          "marks": 1,
+          "answer": "Diamond"
+        },
+        {
+          "q": "The filtration unit of the kidney is called the ______.",
+          "marks": 1,
+          "answer": "nephron"
+        },
+        {
+          "q": "In humans, a child who inherits a ______ chromosome from the father will be a boy.",
+          "marks": 1,
+          "answer": "Y"
+        },
+        {
+          "q": "1 kWh = ______ joules.",
+          "marks": 1,
+          "answer": "3.6 × 10^{6}"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q15–19): State true or false",
+      "questions": [
+        {
+          "q": "Copper can displace iron from iron sulphate solution.",
+          "marks": 1,
+          "answer": "False. Copper is less reactive than iron."
+        },
+        {
+          "q": "Plaster of Paris should be stored in a moisture-proof container.",
+          "marks": 1,
+          "answer": "True. With water it sets into a hard mass of gypsum."
+        },
+        {
+          "q": "Bile juice contains digestive enzymes.",
+          "marks": 1,
+          "answer": "False. Bile has no enzymes; it makes the medium alkaline and emulsifies fats."
+        },
+        {
+          "q": "A convex mirror always forms a virtual image.",
+          "marks": 1,
+          "answer": "True"
+        },
+        {
+          "q": "Magnetic field lines intersect each other at the poles.",
+          "marks": 1,
+          "answer": "False. Field lines never intersect."
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q20–24): Answer in one word",
+      "questions": [
+        {
+          "q": "Name the process by which green plants make their own food.",
+          "marks": 1,
+          "answer": "Photosynthesis"
+        },
+        {
+          "q": "Name the gas that turns lime water milky.",
+          "marks": 1,
+          "answer": "Carbon dioxide"
+        },
+        {
+          "q": "Which defect of vision in young people is corrected using a convex lens?",
+          "marks": 1,
+          "answer": "Hypermetropia (far-sightedness)"
+        },
+        {
+          "q": "Name the instrument used to measure potential difference.",
+          "marks": 1,
+          "answer": "Voltmeter"
+        },
+        {
+          "q": "Which gas in the upper atmosphere protects us from ultraviolet radiation?",
+          "marks": 1,
+          "answer": "Ozone (O_{3})"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "attempt": 9,
+      "note": "Answer any 9 questions. 2 marks each.",
+      "questions": [
+        {
+          "q": "Write balanced chemical equations, with states, for: (a) hydrogen + chlorine → hydrogen chloride, (b) barium chloride + aluminium sulphate → barium sulphate + aluminium chloride.",
+          "marks": 2,
+          "answer": "(a) H_{2}(g) + Cl_{2}(g) → 2HCl(g)  (b) 3BaCl_{2}(aq) + Al_{2}(SO_{4})_{3}(aq) → 3BaSO_{4}(s) + 2AlCl_{3}(aq)",
+          "marking": [
+            "Each balanced equation: 1"
+          ]
+        },
+        {
+          "q": "What is a neutralisation reaction? Give two examples from daily life.",
+          "marks": 2,
+          "answer": "The reaction of an acid with a base to form a salt and water. Examples (any two): taking an antacid during indigestion; applying baking soda to a bee sting; adding quicklime or slaked lime to acidic soil.",
+          "marking": [
+            "Definition: 1",
+            "Two examples: ½ + ½"
+          ]
+        },
+        {
+          "q": "What is an alloy? How is stainless steel made, and why is it useful?",
+          "marks": 2,
+          "answer": "An alloy is a homogeneous mixture of two or more metals, or of a metal and a non-metal. Stainless steel is made by mixing iron with nickel and chromium. It is hard and does not rust.",
+          "marking": [
+            "Definition: 1",
+            "Composition + property: 1"
+          ]
+        },
+        {
+          "q": "What is catenation? Name one element other than carbon that shows it.",
+          "marks": 2,
+          "answer": "Catenation is the ability of an element to form bonds with atoms of the same element, giving long chains. Silicon shows it to some extent (chains of up to 7–8 atoms with hydrogen).",
+          "marking": [
+            "Definition: 1",
+            "Silicon: 1"
+          ]
+        },
+        {
+          "q": "Give two differences between arteries and veins.",
+          "marks": 2,
+          "answer": "Arteries carry blood away from the heart to the organs, while veins carry blood from the organs back to the heart. Arteries have thick, elastic walls because the blood is under high pressure, while veins have thinner walls and valves to stop backflow.",
+          "marking": [
+            "Any two differences: 1 + 1"
+          ]
+        },
+        {
+          "q": "Why is diffusion not enough to meet the oxygen needs of large multicellular organisms like humans?",
+          "marks": 2,
+          "answer": "In large organisms, most cells are not in direct contact with the environment. Diffusion is slow and works only over short distances, so it cannot supply oxygen to all the cells in time.",
+          "marking": [
+            "Cells not in contact with environment: 1",
+            "Diffusion too slow over large distances: 1"
+          ]
+        },
+        {
+          "q": "What are tropic movements? Give one example each of positive phototropism and positive geotropism.",
+          "marks": 2,
+          "answer": "Directional growth movements of plant parts in response to a stimulus. Positive phototropism: a shoot bending towards light. Positive geotropism: roots growing downwards.",
+          "marking": [
+            "Definition: 1",
+            "Examples: ½ + ½"
+          ]
+        },
+        {
+          "q": "Name the male and female reproductive parts of a flower, along with their components.",
+          "marks": 2,
+          "answer": "Male: the stamen, made of the anther (which produces pollen) and the filament. Female: the pistil (carpel), made of the stigma, style and ovary (containing ovules).",
+          "marking": [
+            "Stamen with parts: 1",
+            "Pistil with parts: 1"
+          ]
+        },
+        {
+          "q": "What is a gene? Where are genes located?",
+          "marks": 2,
+          "answer": "A gene is a section of DNA that carries the information to make a protein, and so controls a trait. Genes are located on the chromosomes in the nucleus.",
+          "marking": [
+            "Definition: 1",
+            "Location: 1"
+          ]
+        },
+        {
+          "q": "Give two differences between a real image and a virtual image.",
+          "marks": 2,
+          "answer": "A real image forms where light rays actually meet, while a virtual image forms where rays only appear to meet. A real image can be obtained on a screen, while a virtual image cannot. A real image is usually inverted, while a virtual image is erect.",
+          "marking": [
+            "Any two differences: 1 + 1"
+          ]
+        },
+        {
+          "q": "Find the resistance of a bulb rated 100 W, 220 V, and the current it draws.",
+          "marks": 2,
+          "answer": "R = V^{2}/P = 220^{2}/100 = 484 Ω. I = P/V = 100/220 ≈ 0.45 A",
+          "marking": [
+            "Resistance: 1",
+            "Current: 1"
+          ]
+        },
+        {
+          "q": "Why should biodegradable and non-biodegradable wastes be collected in separate dustbins?",
+          "marks": 2,
+          "answer": "Biodegradable waste can be composted or broken down by decomposers. Non-biodegradable waste (plastic, glass, metal) can be sent for recycling. Mixing them makes both composting and recycling difficult and pollutes the environment.",
+          "marking": [
+            "Biodegradable → compost: 1",
+            "Non-biodegradable → recycle: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "attempt": 6,
+      "note": "Answer any 6 questions. 3 marks each.",
+      "questions": [
+        {
+          "q": "What is a redox reaction? In the reaction MnO_{2} + 4HCl → MnCl_{2} + 2H_{2}O + Cl_{2}, identify the substance oxidised and the substance reduced.",
+          "marks": 3,
+          "answer": "A reaction in which one substance is oxidised and another is reduced at the same time. HCl is oxidised (it loses hydrogen to form Cl_{2}). MnO_{2} is reduced (it loses oxygen).",
+          "marking": [
+            "Definition: 1",
+            "Oxidised: 1",
+            "Reduced: 1"
+          ]
+        },
+        {
+          "q": "Write balanced equations for the reactions of: (i) sodium with cold water, (ii) iron with steam, (iii) calcium with water.",
+          "marks": 3,
+          "answer": "(i) 2Na + 2H_{2}O → 2NaOH + H_{2} + heat (vigorous, H_{2} may catch fire) (ii) 3Fe + 4H_{2}O → Fe_{3}O_{4} + 4H_{2} (iii) Ca + 2H_{2}O → Ca(OH)_{2} + H_{2} (calcium floats as bubbles of H_{2} stick to it)",
+          "marking": [
+            "Each balanced equation: 1"
+          ]
+        },
+        {
+          "q": "How is bleaching powder prepared? Write the equation and give two uses.",
+          "marks": 3,
+          "answer": "By passing chlorine gas over dry slaked lime: Ca(OH)_{2} + Cl_{2} → CaOCl_{2} + H_{2}O. Uses (any two): bleaching cotton and linen in textile factories and wood pulp in paper factories; bleaching washed clothes in laundry; as an oxidising agent in industry; disinfecting drinking water.",
+          "marking": [
+            "Preparation/equation: 1",
+            "Two uses: 1 + 1"
+          ]
+        },
+        {
+          "q": "Give three differences between the transport of water and the transport of food in plants.",
+          "marks": 3,
+          "answer": "Water and minerals are carried by the xylem, while food is carried by the phloem. Water moves only upwards (roots to leaves), while food can move upwards or downwards to wherever it is needed. Water moves by physical forces (root pressure and transpiration pull), while food transport (translocation) uses energy from ATP.",
+          "marking": [
+            "Each difference: 1"
+          ]
+        },
+        {
+          "q": "Why is the pancreas called both an exocrine and an endocrine gland?",
+          "marks": 3,
+          "answer": "As an exocrine gland it pours pancreatic juice, containing enzymes such as trypsin (proteins) and lipase (fats), through a duct into the small intestine. As an endocrine gland it releases the hormone insulin directly into the blood to control the blood sugar level.",
+          "marking": [
+            "Exocrine role: 1½",
+            "Endocrine role: 1½"
+          ]
+        },
+        {
+          "q": "Describe any three methods of asexual reproduction, with one example each.",
+          "marks": 3,
+          "answer": "(Any three) Fragmentation: the body breaks into pieces that each grow into a new organism (Spirogyra). Spore formation: sporangia release spores that grow into new organisms (Rhizopus). Budding: an outgrowth develops and detaches (yeast, Hydra). Regeneration: body pieces grow into complete organisms (Planaria). Vegetative propagation: new plants grow from leaves, stems or roots (Bryophyllum, potato).",
+          "marking": [
+            "Each method with example: 1"
+          ]
+        },
+        {
+          "q": "An object is placed 30 cm from a concave lens of focal length 20 cm. Find the position and nature of the image, and the magnification.",
+          "marks": 3,
+          "answer": "u = −30 cm, f = −20 cm. 1/v = 1/f + 1/u = −1/20 − 1/30 = −5/60, so v = −12 cm (same side as the object). m = v/u = (−12)/(−30) = +0.4. The image is virtual, erect and diminished.",
+          "marking": [
+            "v = −12 cm: 1",
+            "m = +0.4: 1",
+            "Nature: 1"
+          ]
+        },
+        {
+          "q": "What is a solenoid? Describe the magnetic field inside and outside it, and give two ways to make the field stronger.",
+          "marks": 3,
+          "answer": "A coil of many closely wound turns of insulated copper wire in the shape of a cylinder. Inside, the field lines are parallel straight lines (a uniform field). Outside, the pattern is like that of a bar magnet, with one end acting as N and the other as S. To make the field stronger (any two): increase the number of turns, increase the current, insert a soft iron core.",
+          "marking": [
+            "Definition: 1",
+            "Field pattern: 1",
+            "Two ways: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "attempt": 5,
+      "note": "Answer any 5 questions. 4 marks each.",
+      "questions": [
+        {
+          "q": "Give two chemical reactions of ethanol with equations, and two uses of ethanol.",
+          "marks": 4,
+          "answer": "Reactions: 2C_{2}H_{5}OH + 2Na → 2C_{2}H_{5}ONa + H_{2} (hydrogen given off). With hot concentrated H_{2}SO_{4} at 443 K: C_{2}H_{5}OH → C_{2}H_{4} + H_{2}O (dehydration to ethene). Uses (any two): as a solvent; in medicines such as tincture iodine and cough syrups; as a fuel mixed with petrol; in alcoholic drinks (harmful to health).",
+          "marking": [
+            "Each reaction with equation: 1 + 1",
+            "Two uses: 1 + 1"
+          ]
+        },
+        {
+          "q": "Describe the extraction of zinc from zinc blende (ZnS), with equations. Why is the sulphide ore converted into an oxide first?",
+          "marks": 4,
+          "answer": "Roasting: the ore is heated strongly in excess air: 2ZnS + 3O_{2} → 2ZnO + 2SO_{2}. Reduction: zinc oxide is heated with carbon (coke): ZnO + C → Zn + CO. The ore is converted to an oxide first because it is easier to obtain a metal from its oxide than from its sulphide or carbonate.",
+          "marking": [
+            "Roasting equation: 1½",
+            "Reduction equation: 1½",
+            "Reason: 1"
+          ]
+        },
+        {
+          "q": "Describe the role of the mouth, stomach and small intestine (with the liver and pancreas) in the digestion of food.",
+          "marks": 4,
+          "answer": "Mouth: teeth chew the food; salivary amylase breaks down starch into sugar. Stomach: HCl makes the medium acidic and kills germs, pepsin digests proteins, and mucus protects the lining. Small intestine: bile from the liver emulsifies fats; pancreatic juice (trypsin for proteins, lipase for fats) and intestinal juice complete digestion into glucose, amino acids, fatty acids and glycerol. Villi absorb the digested food.",
+          "marking": [
+            "Mouth: 1",
+            "Stomach: 1",
+            "Liver/pancreas: 1",
+            "Small intestine + absorption: 1"
+          ]
+        },
+        {
+          "q": "Describe the path of air in the human respiratory system and explain how we breathe in.",
+          "marks": 4,
+          "answer": "Air enters through the nostrils, where fine hairs and mucus filter it, then passes through the pharynx and larynx into the trachea (held open by rings of cartilage), then the bronchi, bronchioles and finally the alveoli, where gas exchange happens. Breathing in: the ribs are lifted and the diaphragm flattens, so the chest cavity becomes larger and air is sucked into the lungs.",
+          "marking": [
+            "Path of air: 2",
+            "Mechanism of inhalation: 2"
+          ]
+        },
+        {
+          "q": "Show sex determination in humans with the help of a cross. Explain why the chance of having a boy or a girl is equal.",
+          "marks": 4,
+          "answer": "Mother XX × Father XY. Gametes: all eggs carry X; half the sperm carry X and half carry Y. Offspring: X egg + X sperm → XX (girl); X egg + Y sperm → XY (boy). Since X-carrying and Y-carrying sperm are produced in equal numbers, the chance of a boy or a girl is 50% each.",
+          "marking": [
+            "Parents and gametes: 1",
+            "Offspring: 1",
+            "Ratio 1 : 1: 1",
+            "Explanation: 1"
+          ]
+        },
+        {
+          "q": "(a) State Ohm's law. [1]\n(b) Name the instruments needed to verify it and how each is connected. [1]\n(c) The potential difference across a resistor is 12 V when a current of 2.5 mA flows through it. Find its resistance. [2]",
+          "marks": 4,
+          "answer": "(a) At constant temperature, the current through a conductor is directly proportional to the potential difference across its ends: V = IR. (b) Ammeter in series and voltmeter in parallel with the resistor (with a battery, key and rheostat). (c) I = 2.5 mA = 2.5 × 10^{-3} A. R = V/I = 12/(2.5 × 10^{-3}) = 4800 Ω = 4.8 kΩ.",
+          "marking": [
+            "(a) 1",
+            "(b) 1",
+            "(c) unit conversion 1, answer 1"
+          ]
+        },
+        {
+          "q": "(a) What is hypermetropia? Give two causes and name the correcting lens. [3]\n(b) Why does the sky appear blue? [1]",
+          "marks": 4,
+          "answer": "(a) A person with hypermetropia can see distant objects clearly but not nearby ones; the image forms behind the retina. Causes: the focal length of the eye lens is too long, or the eyeball is too small. Correction: a convex lens of suitable power. (b) Fine particles in the air scatter blue light (shorter wavelength) much more than red light, so the scattered blue light reaches our eyes from all directions.",
+          "marking": [
+            "(a) defect 1, causes 1, lens 1",
+            "(b) 1"
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your boards!"
+}

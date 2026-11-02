@@ -35,30 +35,30 @@
           "options": [
             "Between F and C",
             "At C",
-            "Between the pole P and F",
-            "Beyond C"
+            "Beyond C",
+            "Between the pole P and F"
           ],
-          "answer": "(c) Between the pole P and F"
+          "answer": "(d) Between the pole P and F"
         },
         {
           "q": "The focal length of a lens is +50 cm. Its power is:",
           "marks": 1,
           "options": [
             "−2 D",
-            "+2 D",
             "+0.5 D",
+            "+2 D",
             "+50 D"
           ],
-          "answer": "(b) +2 D. P = 1/f (in metres) = 1/0.5 m = +2 D"
+          "answer": "(c) +2 D. P = 1/f (in metres) = 1/0.5 m = +2 D"
         },
         {
           "q": "The refractive index of glass is 1.5. The speed of light in glass is (speed of light in vacuum = 3 × 10^{8} m/s):",
           "marks": 1,
           "options": [
-            "4.5 × 10^{8} m/s",
-            "2 × 10^{8} m/s",
             "1.5 × 10^{8} m/s",
-            "3 × 10^{8} m/s"
+            "2 × 10^{8} m/s",
+            "3 × 10^{8} m/s",
+            "4.5 × 10^{8} m/s"
           ],
           "answer": "(b) 2 × 10^{8} m/s. v = c/n = 3 × 10^{8}/1.5"
         },
@@ -66,15 +66,15 @@
           "q": "The mirror used as a rear-view mirror in vehicles is:",
           "marks": 1,
           "options": [
+            "convex",
             "plane",
             "concave",
-            "any of these",
-            "convex"
+            "any of these"
           ],
-          "answer": "(d) convex. It gives an erect image and a wider field of view."
+          "answer": "(a) convex. It gives an erect image and a wider field of view."
         },
         {
-          "q": "**Assertion (A):** The magnification produced by a convex mirror is always positive and less than 1.  **Reason (R):** A convex mirror always forms a virtual, erect and diminished image.",
+          "q": "**Assertion (A):** The magnification produced by a convex mirror is always positive and less than 1.\n**Reason (R):** A convex mirror always forms a virtual, erect and diminished image.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",

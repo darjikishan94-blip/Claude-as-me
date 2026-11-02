@@ -23,22 +23,22 @@
           "marks": 1,
           "options": [
             "1",
-            "10",
             "4",
-            "5"
+            "5",
+            "10"
           ],
-          "answer": "(b) 10. A solution that turns red litmus blue is basic, so its pH is more than 7."
+          "answer": "(d) 10. A solution that turns red litmus blue is basic, so its pH is more than 7."
         },
         {
           "q": "Which gas is given off when dilute hydrochloric acid is added to sodium carbonate?",
           "marks": 1,
           "options": [
             "Hydrogen",
+            "Carbon dioxide",
             "Chlorine",
-            "Oxygen",
-            "Carbon dioxide"
+            "Oxygen"
           ],
-          "answer": "(d) Carbon dioxide. Na_{2}CO_{3} + 2HCl → 2NaCl + H_{2}O + CO_{2}"
+          "answer": "(b) Carbon dioxide. Na_{2}CO_{3} + 2HCl → 2NaCl + H_{2}O + CO_{2}"
         },
         {
           "q": "The chemical formula of bleaching powder is:",
@@ -56,11 +56,11 @@
           "marks": 1,
           "options": [
             "Sodium chloride",
-            "Vinegar",
             "Milk of magnesia",
+            "Vinegar",
             "Lemon juice"
           ],
-          "answer": "(c) Milk of magnesia, Mg(OH)_{2}, a mild base that neutralises excess stomach acid."
+          "answer": "(b) Milk of magnesia, Mg(OH)_{2}, a mild base that neutralises excess stomach acid."
         },
         {
           "q": "Plaster of Paris is obtained by heating:",
@@ -74,7 +74,7 @@
           "answer": "(d) gypsum (CaSO_{4}·2H_{2}O), heated at 373 K, which gives CaSO_{4}·½H_{2}O."
         },
         {
-          "q": "**Assertion (A):** A concentrated acid should be diluted by adding the acid slowly to water, and not water to the acid.  **Reason (R):** Mixing a concentrated acid with water is a highly exothermic process.",
+          "q": "**Assertion (A):** A concentrated acid should be diluted by adding the acid slowly to water, and not water to the acid.\n**Reason (R):** Mixing a concentrated acid with water is a highly exothermic process.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",

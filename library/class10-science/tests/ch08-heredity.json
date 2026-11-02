@@ -74,7 +74,7 @@
           "answer": "(c) all tall (Tt)"
         },
         {
-          "q": "**Assertion (A):** Human females have a perfect pair of sex chromosomes, both called X.  **Reason (R):** All children inherit an X chromosome from their mother.",
+          "q": "**Assertion (A):** Human females have a perfect pair of sex chromosomes, both called X.\n**Reason (R):** All children inherit an X chromosome from their mother.",
           "marks": 1,
           "options": [
             "Both A and R are true, and R is the correct explanation of A.",
