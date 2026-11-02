@@ -1,0 +1,466 @@
+{
+  "type": "test",
+  "file_name": "c10-mock-gseb-3",
+  "title": "Pre-Board Mock 3 (GSEB pattern)",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Full syllabus",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "Section A (Q1–24) is compulsory: 1 mark each.",
+    "Section B: answer any 9 of 12 questions (2 marks each). Section C: answer any 6 of 8 (3 marks each). Section D: answer any 5 of 7 (4 marks each).",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed. Show formulae and units in numericals.",
+    "This mock follows the reported GSEB blueprint (A 24 · B 18 · C 18 · D 20). Check the latest official GSEB blueprint for changes."
+  ],
+  "sections": [
+    {
+      "title": "Section A (Q1–8): Choose the correct option",
+      "questions": [
+        {
+          "q": "Which reaction is used in black-and-white photography?",
+          "marks": 1,
+          "options": [
+            "Combination of silver and bromine",
+            "Displacement of silver by copper",
+            "Neutralisation of an acid",
+            "Decomposition of silver bromide by light"
+          ],
+          "answer": "(d) Decomposition of silver bromide by light. 2AgBr → 2Ag + Br_{2}"
+        },
+        {
+          "q": "Our body works within a pH range of about:",
+          "marks": 1,
+          "options": [
+            "1.0 to 2.0",
+            "4.0 to 5.0",
+            "7.0 to 7.8",
+            "10.0 to 11.0"
+          ],
+          "answer": "(c) 7.0 to 7.8"
+        },
+        {
+          "q": "Which of these metals is the poorest conductor of heat?",
+          "marks": 1,
+          "options": [
+            "Silver",
+            "Lead",
+            "Copper",
+            "Aluminium"
+          ],
+          "answer": "(b) Lead"
+        },
+        {
+          "q": "Which of the following is a ketone?",
+          "marks": 1,
+          "options": [
+            "CH_{3}COCH_{3}",
+            "CH_{3}CHO",
+            "CH_{3}COOH",
+            "C_{2}H_{5}OH"
+          ],
+          "answer": "(a) CH_{3}COCH_{3} (propanone)"
+        },
+        {
+          "q": "Which part of the nephron reabsorbs glucose, amino acids, salts and water?",
+          "marks": 1,
+          "options": [
+            "Glomerulus",
+            "Bowman's capsule",
+            "Tubule",
+            "Ureter"
+          ],
+          "answer": "(c) Tubule"
+        },
+        {
+          "q": "Which of these is NOT an agent of cross-pollination?",
+          "marks": 1,
+          "options": [
+            "Wind",
+            "Water",
+            "Insects",
+            "Soil"
+          ],
+          "answer": "(d) Soil"
+        },
+        {
+          "q": "Which colour of visible light has the longest wavelength?",
+          "marks": 1,
+          "options": [
+            "Violet",
+            "Red",
+            "Blue",
+            "Green"
+          ],
+          "answer": "(b) Red"
+        },
+        {
+          "q": "The SI unit of resistivity is:",
+          "marks": 1,
+          "options": [
+            "ohm metre",
+            "ohm",
+            "ohm per metre",
+            "volt per ampere"
+          ],
+          "answer": "(a) ohm metre"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q9–14): Fill in the blanks",
+      "questions": [
+        {
+          "q": "______ is used as the reducing agent to obtain zinc from zinc oxide.",
+          "marks": 1,
+          "answer": "Carbon (coke). ZnO + C → Zn + CO"
+        },
+        {
+          "q": "Vinegar is a dilute solution of ______ acid.",
+          "marks": 1,
+          "answer": "ethanoic (acetic)"
+        },
+        {
+          "q": "The hormone insulin is secreted by the ______.",
+          "marks": 1,
+          "answer": "pancreas"
+        },
+        {
+          "q": "The image formed by a convex mirror is always virtual, erect and ______.",
+          "marks": 1,
+          "answer": "diminished"
+        },
+        {
+          "q": "The female reproductive part of a flower is the ______.",
+          "marks": 1,
+          "answer": "pistil (carpel)"
+        },
+        {
+          "q": "A 1 kW appliance running for 1 hour uses 1 ______ of energy.",
+          "marks": 1,
+          "answer": "kWh (unit)"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q15–19): State true or false",
+      "questions": [
+        {
+          "q": "All acids contain hydrogen.",
+          "marks": 1,
+          "answer": "True. They release H^{+} ions in water."
+        },
+        {
+          "q": "Ionic compounds conduct electricity in the solid state.",
+          "marks": 1,
+          "answer": "False. They conduct only when molten or dissolved in water."
+        },
+        {
+          "q": "The human heart has three chambers.",
+          "marks": 1,
+          "answer": "False. It has four chambers."
+        },
+        {
+          "q": "A person with myopia can see nearby objects clearly.",
+          "marks": 1,
+          "answer": "True. Distant objects are blurred."
+        },
+        {
+          "q": "Biodegradable substances can be broken down by decomposers.",
+          "marks": 1,
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q20–24): Answer in one word",
+      "questions": [
+        {
+          "q": "Name the gas given off when baking soda is heated.",
+          "marks": 1,
+          "answer": "Carbon dioxide"
+        },
+        {
+          "q": "Name the alloy of copper and tin.",
+          "marks": 1,
+          "answer": "Bronze"
+        },
+        {
+          "q": "Name the hormone that regulates the metabolism of carbohydrates, proteins and fats.",
+          "marks": 1,
+          "answer": "Thyroxin"
+        },
+        {
+          "q": "Name the phenomenon that makes the sky look blue.",
+          "marks": 1,
+          "answer": "Scattering of light"
+        },
+        {
+          "q": "Name the rule that gives the direction of the force on a current-carrying conductor in a magnetic field.",
+          "marks": 1,
+          "answer": "Fleming's left-hand rule"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "attempt": 9,
+      "note": "Answer any 9 questions. 2 marks each.",
+      "questions": [
+        {
+          "q": "Write balanced equations for: (a) sodium + water → sodium hydroxide + hydrogen, (b) zinc carbonate → zinc oxide + carbon dioxide (on heating).",
+          "marks": 2,
+          "answer": "(a) 2Na + 2H_{2}O → 2NaOH + H_{2}  (b) ZnCO_{3} → ZnO + CO_{2}",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "Why do acids not show acidic behaviour in the absence of water?",
+          "marks": 2,
+          "answer": "Acidic behaviour is due to H^{+} ions, and acids produce H^{+} ions (as H_{3}O^{+}) only in water. Without water, no H^{+} ions are formed.",
+          "marking": [
+            "H^{+} ions cause acidity: 1",
+            "Formed only in water: 1"
+          ]
+        },
+        {
+          "q": "Give two reasons why aluminium is used to make cooking utensils.",
+          "marks": 2,
+          "answer": "(Any two) It is a good conductor of heat. It is light. A thin protective oxide layer on its surface stops further corrosion. It is malleable.",
+          "marking": [
+            "Any two: 1 + 1"
+          ]
+        },
+        {
+          "q": "Name the functional group in (a) C_{2}H_{5}OH and (b) CH_{3}COOH.",
+          "marks": 2,
+          "answer": "(a) Alcohol (–OH) (b) Carboxylic acid (–COOH)",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "Give the function of xylem and of phloem.",
+          "marks": 2,
+          "answer": "Xylem carries water and dissolved minerals from the roots to the leaves. Phloem carries food (products of photosynthesis) from the leaves to other parts of the plant.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "Give one function each of the medulla and the cerebellum.",
+          "marks": 2,
+          "answer": "Medulla: controls involuntary actions such as blood pressure, salivation and vomiting. Cerebellum: maintains posture and balance, and the precision of voluntary actions.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "What is the difference between a gamete and a zygote?",
+          "marks": 2,
+          "answer": "A gamete is a reproductive cell (sperm or egg) with half the number of chromosomes. A zygote is the single cell formed when a male and a female gamete fuse; it has the full number of chromosomes and develops into an embryo.",
+          "marking": [
+            "Gamete: 1",
+            "Zygote: 1"
+          ]
+        },
+        {
+          "q": "Give one example each of a dominant and a recessive trait from Mendel's pea experiments.",
+          "marks": 2,
+          "answer": "(Any one pair) Dominant: tall stem, round seed, yellow seed, violet flower. Recessive: short stem, wrinkled seed, green seed, white flower.",
+          "marking": [
+            "Dominant: 1",
+            "Recessive: 1"
+          ]
+        },
+        {
+          "q": "Give two uses of convex lenses.",
+          "marks": 2,
+          "answer": "(Any two) Magnifying glass; spectacles to correct hypermetropia or presbyopia; cameras; microscopes and telescopes.",
+          "marking": [
+            "Any two: 1 + 1"
+          ]
+        },
+        {
+          "q": "Why does a stick partly dipped in water look bent at the water surface?",
+          "marks": 2,
+          "answer": "Light from the part under water bends away from the normal as it passes from water into air (refraction). Our eyes trace the rays back in straight lines, so the immersed part appears raised and the stick looks bent.",
+          "marking": [
+            "Refraction: 1",
+            "Appears raised: 1"
+          ]
+        },
+        {
+          "q": "A current of 0.5 A flows through a 4 Ω resistor. Find the potential difference across it and the power used.",
+          "marks": 2,
+          "answer": "V = IR = 0.5 × 4 = 2 V. P = I^{2}R = 0.25 × 4 = 1 W.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "What are CFCs used for, and why are they harmful?",
+          "marks": 2,
+          "answer": "CFCs were used as refrigerants and in fire extinguishers. They deplete the ozone layer, which shields us from harmful UV radiation.",
+          "marking": [
+            "Uses: 1",
+            "Ozone depletion: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "attempt": 6,
+      "note": "Answer any 6 questions. 3 marks each.",
+      "questions": [
+        {
+          "q": "Give reasons: (i) Sodium and potassium are never found free in nature. (ii) Gold is found free in nature. (iii) Sodium is stored under kerosene.",
+          "marks": 3,
+          "answer": "(i) They are highly reactive, so they always exist as compounds. (ii) Gold is very unreactive, so it does not combine with other elements easily. (iii) Sodium reacts vigorously with air and moisture and can catch fire; kerosene keeps air and water away.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "Write the names and molecular formulae of the first three alkanes. Why are they called saturated hydrocarbons?",
+          "marks": 3,
+          "answer": "Methane (CH_{4}), ethane (C_{2}H_{6}) and propane (C_{3}H_{8}). They are saturated because all the carbon–carbon bonds are single bonds.",
+          "marking": [
+            "Three names/formulae: 2",
+            "Reason: 1"
+          ]
+        },
+        {
+          "q": "Describe the four chambers of the human heart and the job of each.",
+          "marks": 3,
+          "answer": "Right atrium: receives deoxygenated blood from the body through the vena cava. Right ventricle: pumps it to the lungs through the pulmonary artery. Left atrium: receives oxygenated blood from the lungs through the pulmonary veins. Left ventricle: pumps it to the whole body through the aorta, so it has the thickest walls.",
+          "marking": [
+            "Right side: 1½",
+            "Left side: 1½"
+          ]
+        },
+        {
+          "q": "Explain phototropism and geotropism, with an example of how each helps the plant.",
+          "marks": 3,
+          "answer": "Phototropism is the growth of plant parts in response to light: shoots bend towards light, which helps the leaves get more sunlight for photosynthesis. Geotropism is growth in response to gravity: roots grow downwards, which anchors the plant and helps it reach water and minerals. Shoots show negative geotropism (they grow upwards). Auxin brings about these responses.",
+          "marking": [
+            "Phototropism: 1½",
+            "Geotropism: 1½"
+          ]
+        },
+        {
+          "q": "An object is placed 10 cm in front of a convex mirror of focal length 15 cm. Find the position, nature and magnification of the image.",
+          "marks": 3,
+          "answer": "u = –10 cm, f = +15 cm. 1/v = 1/f – 1/u = 1/15 + 1/10 = 5/30, so v = +6 cm (behind the mirror). m = –v/u = –6/(–10) = +0.6. The image is virtual, erect and diminished.",
+          "marking": [
+            "v = +6 cm: 1",
+            "m = +0.6: 1",
+            "Nature: 1"
+          ]
+        },
+        {
+          "q": "Resistors of 2 Ω, 3 Ω and 6 Ω are connected in parallel to a 6 V battery. Find (i) the equivalent resistance, (ii) the total current, (iii) the current through the 6 Ω resistor.",
+          "marks": 3,
+          "answer": "(i) 1/R = 1/2 + 1/3 + 1/6 = 1, so R = 1 Ω. (ii) I = 6/1 = 6 A. (iii) I = 6/6 = 1 A.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "Explain the role of the earth wire, the fuse, and the separate 15 A and 5 A circuits in domestic wiring.",
+          "marks": 3,
+          "answer": "Earth wire: gives a low-resistance path so that leaked current goes to the earth, preventing shocks from metal-bodied appliances. Fuse: melts and breaks the circuit when the current becomes too high (short-circuit or overloading). 15 A circuit: for high-power appliances such as geysers and ACs; 5 A circuit: for bulbs and fans, so that neither is overloaded.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "What is an ecosystem? Explain the roles of producers, consumers and decomposers, using a pond as the example.",
+          "marks": 3,
+          "answer": "An ecosystem is all the living organisms in an area together with the non-living environment. In a pond: producers (algae, water plants) make food by photosynthesis; consumers (small insects, fish, frogs) feed on producers or on other consumers; decomposers (bacteria, fungi) break down dead remains and return nutrients to the water and soil.",
+          "marking": [
+            "Definition: 1",
+            "Roles with pond examples: 2"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "attempt": 5,
+      "note": "Answer any 5 questions. 4 marks each.",
+      "questions": [
+        {
+          "q": "Give four properties of ionic compounds, with a reason for each.",
+          "marks": 4,
+          "answer": "(1) They are solids and somewhat hard, because of strong forces between the ions. (2) They have high melting and boiling points, because a lot of energy is needed to break these forces. (3) They are generally soluble in water but insoluble in kerosene or petrol. (4) They conduct electricity when molten or in solution, because the ions can then move; in the solid state they cannot.",
+          "marking": [
+            "Each property with reason: 1"
+          ]
+        },
+        {
+          "q": "Write equations for the preparation of bleaching powder and baking soda, and give two uses of each.",
+          "marks": 4,
+          "answer": "Bleaching powder: Ca(OH)_{2} + Cl_{2} → CaOCl_{2} + H_{2}O. Uses: bleaching cotton, linen and wood pulp; disinfecting drinking water; as an oxidising agent. Baking soda: NaCl + H_{2}O + CO_{2} + NH_{3} → NH_{4}Cl + NaHCO_{3}. Uses: in baking powder; as an antacid; in soda-acid fire extinguishers.",
+          "marking": [
+            "Each equation: 1",
+            "Two uses each: 1 + 1"
+          ]
+        },
+        {
+          "q": "Explain photosynthesis: the raw materials, the three main events, and the role of stomata.",
+          "marks": 4,
+          "answer": "Raw materials: carbon dioxide (from the air), water (from the soil), sunlight, and chlorophyll. Events: (1) chlorophyll absorbs light energy; (2) light energy is converted to chemical energy and water is split into hydrogen and oxygen; (3) carbon dioxide is reduced to carbohydrates. Stomata are tiny pores in the leaf through which CO_{2} enters and O_{2} leaves; guard cells open and close them.",
+          "marking": [
+            "Raw materials: 1",
+            "Three events: 2",
+            "Stomata: 1"
+          ]
+        },
+        {
+          "q": "Explain Mendel's monohybrid cross for seed shape (round RR × wrinkled rr) up to F_{2}, using a checkerboard.",
+          "marks": 4,
+          "answer": "Parents: RR × rr, with gametes R and r. F_{1}: all Rr (round). F_{1} × F_{1}: gametes R, r × R, r. Checkerboard: RR, Rr, Rr, rr. F_{2} phenotypic ratio: 3 round : 1 wrinkled. Genotypic ratio: 1 RR : 2 Rr : 1 rr.",
+          "marking": [
+            "Parents and F_{1}: 1",
+            "Checkerboard: 1",
+            "Phenotypic ratio: 1",
+            "Genotypic ratio: 1"
+          ]
+        },
+        {
+          "q": "Describe the main parts of the human eye and their functions. What is the power of accommodation?",
+          "marks": 4,
+          "answer": "Cornea: the transparent front where most refraction happens. Iris: controls the size of the pupil. Pupil: lets in and regulates light. Eye lens: fine-adjusts focus. Ciliary muscles: change the focal length of the lens. Retina: the light-sensitive screen where the image forms; signals go to the brain through the optic nerve. Power of accommodation: the ability of the eye lens to change its focal length so that both near and far objects can be seen clearly.",
+          "marking": [
+            "Parts and functions: 3",
+            "Power of accommodation: 1"
+          ]
+        },
+        {
+          "q": "(a) Derive the formula for the equivalent resistance of resistors connected in parallel. [2]\n(b) Two 10 Ω resistors in parallel are connected in series with a 5 Ω resistor. Find the total resistance. [2]",
+          "marks": 4,
+          "answer": "(a) In parallel, the potential difference V is the same across each resistor, and the total current is I = I_{1} + I_{2} + I_{3}. So V/R_{p} = V/R_{1} + V/R_{2} + V/R_{3}, which gives 1/R_{p} = 1/R_{1} + 1/R_{2} + 1/R_{3}. (b) Parallel: 1/R = 1/10 + 1/10, so R = 5 Ω. Total = 5 + 5 = 10 Ω.",
+          "marking": [
+            "(a) 2",
+            "(b) 2"
+          ]
+        },
+        {
+          "q": "Describe the magnetic field of a current-carrying solenoid. How is an electromagnet made? Give two uses of electromagnets.",
+          "marks": 4,
+          "answer": "Inside the solenoid the field lines are parallel straight lines (a uniform field). Outside, the field is like that of a bar magnet, with one end acting as N and the other as S. Electromagnet: place a soft iron core inside the solenoid and pass a current; the core becomes a strong magnet while the current flows. Uses (any two): cranes lifting scrap iron, electric bells, loudspeakers, electric motors.",
+          "marking": [
+            "Field pattern: 1",
+            "Making an electromagnet: 1",
+            "Two uses: 2"
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your boards!"
+}

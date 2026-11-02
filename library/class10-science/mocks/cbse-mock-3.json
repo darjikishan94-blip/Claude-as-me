@@ -1,0 +1,589 @@
+{
+  "type": "test",
+  "file_name": "c10-mock-cbse-3",
+  "title": "Pre-Board Mock 3 (CBSE pattern)",
+  "class": "10",
+  "board": "CBSE",
+  "subject": "Science",
+  "chapter": "Full syllabus (Chapters 1–13)",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "This paper has 39 questions in 5 sections (A–E). All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: Q1–Q20, 1 mark each (MCQs and Assertion–Reason). Section B: Q21–Q26, 2 marks each. Section C: Q27–Q33, 3 marks each.",
+    "Section D: Q34–Q36, 5 marks each. Section E: Q37–Q39, case-based, 4 marks each.",
+    "Write balanced equations, show formulae and units in numericals, and draw neat labelled diagrams wherever required.",
+    "This mock follows the reported 2026-27 pattern. Check the official CBSE sample paper for any changes."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Q1–Q16: choose the correct option. Q17–Q20: Assertion–Reason. For these, choose (a) both A and R true and R explains A; (b) both true but R does not explain A; (c) A true, R false; (d) A false, R true.",
+      "questions": [
+        {
+          "q": "Which of the following is NOT a redox reaction?",
+          "marks": 1,
+          "unbalanced": false,
+          "options": [
+            "CuO + H_{2} → Cu + H_{2}O",
+            "Fe_{2}O_{3} + 3CO → 2Fe + 3CO_{2}",
+            "2K + Cl_{2} → 2KCl",
+            "BaCl_{2} + H_{2}SO_{4} → BaSO_{4} + 2HCl"
+          ],
+          "answer": "(d) BaCl_{2} + H_{2}SO_{4} → BaSO_{4} + 2HCl. It is a double displacement reaction; nothing is oxidised or reduced."
+        },
+        {
+          "q": "Which of these salts does NOT contain water of crystallisation?",
+          "marks": 1,
+          "options": [
+            "Blue vitriol",
+            "Baking soda",
+            "Washing soda",
+            "Gypsum"
+          ],
+          "answer": "(b) Baking soda (NaHCO_{3})"
+        },
+        {
+          "q": "An aqueous solution has a pH of 0. It is:",
+          "marks": 1,
+          "options": [
+            "strongly acidic",
+            "strongly alkaline",
+            "neutral",
+            "amphoteric"
+          ],
+          "answer": "(a) strongly acidic"
+        },
+        {
+          "q": "Which property of metals makes them suitable for making bells?",
+          "marks": 1,
+          "options": [
+            "Ductility",
+            "Malleability",
+            "Lustre",
+            "Sonority"
+          ],
+          "answer": "(d) Sonority"
+        },
+        {
+          "q": "How many covalent bonds are there in a molecule of methane?",
+          "marks": 1,
+          "options": [
+            "1",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "(c) 4"
+        },
+        {
+          "q": "The two carbon atoms in ethyne are joined by:",
+          "marks": 1,
+          "options": [
+            "a triple bond",
+            "a single bond",
+            "a double bond",
+            "an ionic bond"
+          ],
+          "answer": "(a) a triple bond"
+        },
+        {
+          "q": "In a plant cell, photosynthesis takes place in the:",
+          "marks": 1,
+          "options": [
+            "mitochondria",
+            "chloroplasts",
+            "nucleus",
+            "ribosomes"
+          ],
+          "answer": "(b) chloroplasts"
+        },
+        {
+          "q": "Lymph is:",
+          "marks": 1,
+          "options": [
+            "a colourless fluid that also carries digested and absorbed fat",
+            "a red fluid that carries oxygen",
+            "a fluid made in the kidney",
+            "a fluid found only in plants"
+          ],
+          "answer": "(a) a colourless fluid that also carries digested and absorbed fat"
+        },
+        {
+          "q": "Iodine is needed by the body to make:",
+          "marks": 1,
+          "options": [
+            "insulin",
+            "adrenaline",
+            "testosterone",
+            "thyroxin"
+          ],
+          "answer": "(d) thyroxin"
+        },
+        {
+          "q": "Which of the following involves sexual reproduction?",
+          "marks": 1,
+          "options": [
+            "Budding in yeast",
+            "Pollination followed by fertilisation in mustard",
+            "Fragmentation in Spirogyra",
+            "Regeneration in Planaria"
+          ],
+          "answer": "(b) Pollination followed by fertilisation in mustard"
+        },
+        {
+          "q": "Two heterozygous tall pea plants (Tt × Tt) are crossed. What fraction of the offspring will be tall?",
+          "marks": 1,
+          "options": [
+            "1/4",
+            "1/2",
+            "3/4",
+            "1"
+          ],
+          "answer": "(c) 3/4 (TT, Tt, Tt are tall; tt is short)"
+        },
+        {
+          "q": "Which of these is an artificial ecosystem?",
+          "marks": 1,
+          "options": [
+            "Lake",
+            "Aquarium",
+            "Forest",
+            "Grassland"
+          ],
+          "answer": "(b) Aquarium"
+        },
+        {
+          "q": "Which mirror do dentists use to see enlarged images of teeth?",
+          "marks": 1,
+          "options": [
+            "Plane mirror",
+            "Convex mirror",
+            "Any mirror",
+            "Concave mirror"
+          ],
+          "answer": "(d) Concave mirror"
+        },
+        {
+          "q": "1 dioptre is the power of a lens whose focal length is:",
+          "marks": 1,
+          "fixed_order": true,
+          "options": [
+            "1 cm",
+            "10 cm",
+            "1 m",
+            "10 m"
+          ],
+          "answer": "(c) 1 m"
+        },
+        {
+          "q": "The potential difference across a resistor is measured with a:",
+          "marks": 1,
+          "options": [
+            "ammeter connected in series",
+            "voltmeter connected in series",
+            "voltmeter connected in parallel",
+            "ammeter connected in parallel"
+          ],
+          "answer": "(c) voltmeter connected in parallel"
+        },
+        {
+          "q": "The direction of the magnetic field around a straight current-carrying conductor is given by:",
+          "marks": 1,
+          "options": [
+            "the right-hand thumb rule",
+            "Fleming's left-hand rule",
+            "Ohm's law",
+            "Snell's law"
+          ],
+          "answer": "(a) the right-hand thumb rule"
+        },
+        {
+          "q": "**Assertion (A):** Distilled water does not conduct electricity well, but tap water does.\n**Reason (R):** Tap water contains dissolved salts, which provide ions.",
+          "marks": 1,
+          "answer": "(a)"
+        },
+        {
+          "q": "**Assertion (A):** Human beings have a four-chambered heart.\n**Reason (R):** Fish have a two-chambered heart.",
+          "marks": 1,
+          "answer": "(b). Both are true, but R does not explain A."
+        },
+        {
+          "q": "**Assertion (A):** Concave mirrors are used in solar furnaces.\n**Reason (R):** A concave mirror concentrates sunlight at its focus.",
+          "marks": 1,
+          "answer": "(a)"
+        },
+        {
+          "q": "**Assertion (A):** Diamond is a good conductor of electricity.\n**Reason (R):** Graphite is a good conductor of electricity.",
+          "marks": 1,
+          "answer": "(d). Diamond is a poor conductor; graphite conducts."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Hydrogen sulphide gas is passed through copper sulphate solution and a black precipitate forms. Write the balanced equation and name the type of reaction.",
+          "marks": 2,
+          "answer": "CuSO_{4} + H_{2}S → CuS + H_{2}SO_{4}. The black precipitate is copper sulphide. This is a double displacement (precipitation) reaction.",
+          "marking": [
+            "Balanced equation: 1",
+            "Type: 1"
+          ]
+        },
+        {
+          "q": "Give two differences between the chemical properties of metals and non-metals.",
+          "marks": 2,
+          "answer": "Metals form basic oxides, while non-metals form acidic or neutral oxides. Many metals displace hydrogen from dilute acids, while non-metals do not. Metals lose electrons to form positive ions, while non-metals gain electrons to form negative ions.",
+          "marking": [
+            "Any two differences: 1 + 1"
+          ],
+          "or": {
+            "q": "Write the chemical formulae of (a) baking soda, (b) washing soda, (c) bleaching powder, (d) Plaster of Paris.",
+            "marks": 2,
+            "answer": "(a) NaHCO_{3} (b) Na_{2}CO_{3}·10H_{2}O (c) CaOCl_{2} (d) CaSO_{4}·½H_{2}O",
+            "marking": [
+              "½ each"
+            ]
+          }
+        },
+        {
+          "q": "Name the end products of the digestion of (a) carbohydrates, (b) proteins, (c) fats.",
+          "marks": 2,
+          "answer": "(a) Glucose (b) Amino acids (c) Fatty acids and glycerol",
+          "marking": [
+            "All three: 2 (two correct: 1)"
+          ]
+        },
+        {
+          "q": "Why are offspring produced by asexual reproduction almost identical to their parent?",
+          "marks": 2,
+          "answer": "They come from a single parent, and its DNA is copied into them. Only small errors in DNA copying cause slight variations, so they are almost identical.",
+          "marking": [
+            "Single parent, DNA copied: 1",
+            "Only minor copying errors: 1"
+          ],
+          "or": {
+            "q": "Why is variation important for the survival of a species?",
+            "marks": 2,
+            "answer": "If the environment changes (e.g. temperature rises), some variants may be better suited to survive. The species then continues through these individuals, instead of being wiped out.",
+            "marking": [
+              "Changing environment: 1",
+              "Some variants survive: 1"
+            ]
+          }
+        },
+        {
+          "q": "A convex lens of focal length 50 cm is placed in contact with a concave lens of focal length 20 cm. Find the power of the combination. Is it converging or diverging?",
+          "marks": 2,
+          "answer": "P_{1} = 1/0.5 = +2 D. P_{2} = 1/(–0.2) = –5 D. P = +2 – 5 = –3 D. Since the power is negative, the combination is diverging.",
+          "marking": [
+            "Each power / sum: 1",
+            "Diverging: 1"
+          ]
+        },
+        {
+          "q": "Bulbs rated 60 W and 100 W (both for 220 V) are connected in series across 220 V. Which one glows brighter? Explain.",
+          "marks": 2,
+          "answer": "The 60 W bulb. Its resistance (220^{2}/60 ≈ 807 Ω) is higher than that of the 100 W bulb (484 Ω). In series the same current flows through both, so P = I^{2}R is greater for the 60 W bulb.",
+          "marking": [
+            "60 W bulb: 1",
+            "Same current, higher R → more power: 1"
+          ],
+          "or": {
+            "q": "Give two differences between series and parallel combinations of resistors.",
+            "marks": 2,
+            "answer": "In series the same current flows through each resistor, while in parallel the same potential difference is across each. In series the total resistance is the sum (larger than any one), while in parallel 1/R = sum of 1/R's (smaller than the smallest). In series, if one component fails the whole circuit breaks; in parallel the others keep working.",
+            "marking": [
+              "Any two: 1 + 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A compound X reacts with sodium to give hydrogen gas. When X is heated with excess concentrated sulphuric acid at 443 K, it gives an unsaturated compound Y. Identify X and Y, and write the balanced equations for both reactions.",
+          "marks": 3,
+          "answer": "X is ethanol (C_{2}H_{5}OH) and Y is ethene (C_{2}H_{4}). 2C_{2}H_{5}OH + 2Na → 2C_{2}H_{5}ONa + H_{2}. C_{2}H_{5}OH → C_{2}H_{4} + H_{2}O (dehydration by hot concentrated H_{2}SO_{4}).",
+          "marking": [
+            "X and Y: 1",
+            "Each equation: 1 + 1"
+          ]
+        },
+        {
+          "q": "Write balanced equations for the reactions of:",
+          "subparts": [
+            {
+              "q": "zinc with sodium hydroxide solution",
+              "marks": 1,
+              "answer": "2NaOH + Zn → Na_{2}ZnO_{2} + H_{2}"
+            },
+            {
+              "q": "aluminium oxide with sodium hydroxide",
+              "marks": 1,
+              "answer": "Al_{2}O_{3} + 2NaOH → 2NaAlO_{2} + H_{2}O"
+            },
+            {
+              "q": "copper with oxygen on heating",
+              "marks": 1,
+              "answer": "2Cu + O_{2} → 2CuO"
+            }
+          ]
+        },
+        {
+          "q": "How do plants respond to stimuli without a nervous system? Explain with the examples of the touch-me-not plant and a climbing tendril.",
+          "marks": 3,
+          "answer": "Plants use electrical-chemical signals and changes in the water content of cells, and plant hormones that cause uneven growth. Touch-me-not: when touched, the leaves fold because cells change shape by changing their water content; no growth is involved. Tendril: the part touching the support grows more slowly than the part away from it, so the tendril coils around the support; this is a growth movement.",
+          "marking": [
+            "General mechanism: 1",
+            "Touch-me-not: 1",
+            "Tendril: 1"
+          ]
+        },
+        {
+          "q": "Give the function of each gland: (i) pituitary, (ii) thyroid, (iii) adrenal.",
+          "marks": 3,
+          "answer": "(i) Pituitary: secretes growth hormone, which regulates growth; deficiency in childhood causes dwarfism. (ii) Thyroid: secretes thyroxin, which regulates the metabolism of carbohydrates, proteins and fats. (iii) Adrenal: secretes adrenaline, which prepares the body for emergencies (faster heartbeat and breathing).",
+          "marking": [
+            "Each: 1"
+          ],
+          "or": {
+            "q": "Why is the use of iodised salt advised? Name the gland involved and the disease caused by a deficiency.",
+            "marks": 3,
+            "answer": "Iodine is needed by the thyroid gland to make thyroxin, which regulates the metabolism of carbohydrates, proteins and fats. A lack of iodine can cause goitre (a swollen neck). Iodised salt provides enough iodine in the diet.",
+            "marking": [
+              "Iodine for thyroxin: 1",
+              "Thyroid gland: 1",
+              "Goitre: 1"
+            ]
+          }
+        },
+        {
+          "q": "State the 10 per cent law. If producers in a food chain trap 1,00,000 J of energy, how much energy reaches the fourth trophic level? Why are top carnivores few in number?",
+          "marks": 3,
+          "answer": "Only about 10% of the energy at one trophic level is passed on to the next. Energy at levels 1 → 2 → 3 → 4: 1,00,000 → 10,000 → 1,000 → 100 J. Very little energy is left at the top, so it can support only a few top carnivores.",
+          "marking": [
+            "Law: 1",
+            "100 J: 1",
+            "Reason: 1"
+          ]
+        },
+        {
+          "q": "A 10 cm tall object is placed 20 cm from a convex lens of focal length 30 cm. Find the position, size and nature of the image.",
+          "marks": 3,
+          "answer": "u = –20 cm, f = +30 cm. 1/v = 1/f + 1/u = 1/30 – 1/20 = –1/60, so v = –60 cm (on the same side as the object). m = v/u = (–60)/(–20) = +3, so h′ = 30 cm. The image is virtual, erect and magnified (30 cm tall).",
+          "marking": [
+            "v = –60 cm: 1",
+            "Size 30 cm: 1",
+            "Nature: 1"
+          ],
+          "or": {
+            "q": "A concave mirror of focal length 20 cm forms a real image 60 cm from the mirror. Find the object distance and the magnification.",
+            "marks": 3,
+            "answer": "f = –20 cm, v = –60 cm. 1/u = 1/f – 1/v = –1/20 + 1/60 = –2/60, so u = –30 cm. m = –v/u = –(–60)/(–30) = –2. The image is real, inverted and twice the size.",
+            "marking": [
+              "u = –30 cm: 1",
+              "m = –2: 1",
+              "Nature: 1"
+            ]
+          }
+        },
+        {
+          "q": "An electric iron uses 840 W at its highest setting and 360 W at its lowest, on a 220 V supply. Find the current and the resistance in each case.",
+          "marks": 3,
+          "answer": "Highest: I = 840/220 ≈ 3.82 A, R = 220^{2}/840 ≈ 57.6 Ω. Lowest: I = 360/220 ≈ 1.64 A, R = 220^{2}/360 ≈ 134.4 Ω.",
+          "marking": [
+            "Currents: 1½",
+            "Resistances: 1½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "How do acids react with metal carbonates and metal hydrogencarbonates? Give one balanced equation for each, and describe the test for the gas formed.",
+              "marks": 3,
+              "answer": "Both react with acids to give a salt, water and carbon dioxide. Na_{2}CO_{3} + 2HCl → 2NaCl + H_{2}O + CO_{2}. NaHCO_{3} + HCl → NaCl + H_{2}O + CO_{2}. Test: pass the gas through lime water, which turns milky: Ca(OH)_{2} + CO_{2} → CaCO_{3} + H_{2}O.",
+              "marking": [
+                "Each equation: 1 + 1",
+                "Lime water test: 1"
+              ]
+            },
+            {
+              "q": "Why should curd not be stored in copper or brass vessels?",
+              "marks": 1,
+              "answer": "Curd is acidic; it reacts with copper or brass to form harmful (poisonous) compounds."
+            },
+            {
+              "q": "What is a universal indicator?",
+              "marks": 1,
+              "answer": "A mixture of several indicators that shows different colours at different pH values (different concentrations of H^{+} ions)."
+            }
+          ],
+          "or": {
+            "q": "(a) Explain, with one balanced equation each, the combustion, oxidation, addition and substitution reactions of carbon compounds. [4]\n(b) Why do unsaturated hydrocarbons burn with a sooty flame? [1]",
+            "marks": 5,
+            "answer": "(a) Combustion: CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O + heat and light. Oxidation: ethanol is oxidised to ethanoic acid by alkaline KMnO_{4} or acidified K_{2}Cr_{2}O_{7}. Addition (hydrogenation): C_{2}H_{4} + H_{2} → C_{2}H_{6}, with a nickel catalyst. Substitution: CH_{4} + Cl_{2} → CH_{3}Cl + HCl, in sunlight. (b) They have a higher proportion of carbon, which does not burn completely in air, leaving unburnt carbon as soot.",
+            "marking": [
+              "(a) 1 each",
+              "(b) 1"
+            ]
+          }
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe sexual reproduction in flowering plants, from pollination to the formation of seed and fruit.",
+              "marks": 3,
+              "answer": "Pollen from the anther reaches the stigma (pollination). A pollen tube grows from the pollen grain through the style to the ovule and carries the male germ cell to the female germ cell (egg), and they fuse to form a zygote (fertilisation). The zygote divides to form an embryo, the ovule develops a tough coat and becomes the seed, and the ovary grows into the fruit.",
+              "marking": [
+                "Pollination: 1",
+                "Pollen tube and fertilisation: 1",
+                "Seed and fruit formation: 1"
+              ]
+            },
+            {
+              "q": "Give two differences between self-pollination and cross-pollination.",
+              "marks": 2,
+              "answer": "Self-pollination: pollen reaches the stigma of the same flower (or another flower of the same plant), needs no outside agent, and gives little variation. Cross-pollination: pollen reaches a flower on another plant of the same species, through agents such as wind, water or insects, and gives more variation.",
+              "marking": [
+                "Any two differences: 1 + 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Describe the role of the liver and the pancreas in digestion. [3]\n(b) How are villi suited to absorbing food? [2]",
+            "marks": 5,
+            "answer": "(a) The liver secretes bile, which makes the food in the small intestine alkaline so that pancreatic enzymes can act, and breaks fats into small globules (emulsification). The pancreas secretes pancreatic juice, containing trypsin (digests proteins) and lipase (digests emulsified fats). (b) Villi are finger-like projections that greatly increase the surface area of the small intestine, and they are richly supplied with blood vessels that carry the absorbed food to every cell.",
+            "marking": [
+              "(a) liver 1½, pancreas 1½",
+              "(b) surface area 1, blood supply 1"
+            ]
+          }
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Explain the refraction of light through a rectangular glass slab. What is lateral displacement?",
+              "marks": 3,
+              "answer": "A ray entering the slab obliquely bends towards the normal (air to glass: denser medium). When it comes out, it bends away from the normal (glass to air). Because the two faces are parallel, the emergent ray is parallel to the incident ray but shifted sideways. This perpendicular shift between the incident and emergent rays is called the lateral displacement.",
+              "marking": [
+                "Bending at the first face: 1",
+                "Bending at the second face / emergent ray parallel: 1",
+                "Lateral displacement: 1"
+              ]
+            },
+            {
+              "q": "The refractive index of water is 1.33. Find the speed of light in water. (c = 3 × 10^{8} m/s)",
+              "marks": 2,
+              "answer": "v = c/n = (3 × 10^{8})/1.33 ≈ 2.26 × 10^{8} m/s",
+              "marking": [
+                "Formula: 1",
+                "Answer: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What is dispersion of light? Explain how a rainbow is formed. [3]\n(b) Why are danger signals red? [2]",
+            "marks": 5,
+            "answer": "(a) Dispersion is the splitting of white light into its seven colours, because different colours bend by different amounts. A rainbow forms when sunlight falls on tiny water droplets after rain. Each droplet refracts and disperses the light, reflects it internally, and refracts it again as it leaves. The rainbow is seen opposite the Sun. (b) Red light has the longest wavelength and is scattered least by fog and smoke, so it can be seen clearly from far away.",
+            "marking": [
+              "(a) dispersion 1, rainbow steps 2",
+              "(b) least scattered 1, visible from far 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read each passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Doctors use Plaster of Paris to support fractured bones in the right position. It is a white powder made by heating gypsum carefully at 373 K. When mixed with water, it changes back into gypsum and sets into a hard, solid mass.",
+          "subparts": [
+            {
+              "q": "Give the chemical name and formula of Plaster of Paris.",
+              "marks": 1,
+              "answer": "Calcium sulphate hemihydrate, CaSO_{4}·½H_{2}O."
+            },
+            {
+              "q": "How is it prepared?",
+              "marks": 1,
+              "answer": "By heating gypsum (CaSO_{4}·2H_{2}O) at 373 K: CaSO_{4}·2H_{2}O → CaSO_{4}·½H_{2}O + 1½H_{2}O."
+            },
+            {
+              "q": "Why must Plaster of Paris be stored in a moisture-proof container? Give one other use.",
+              "marks": 2,
+              "answer": "If it absorbs moisture, it slowly changes into gypsum and becomes hard, losing its setting property. Other uses (any one): making toys and decorative items; making surfaces smooth.",
+              "marking": [
+                "Sets with moisture: 1",
+                "Another use: 1"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Mendel crossed pea plants that produced yellow seeds (YY) with plants that produced green seeds (yy). All the F_{1} seeds were yellow. When the F_{1} plants were self-pollinated, he obtained 6022 yellow seeds and 2001 green seeds in the F_{2} generation.",
+          "subparts": [
+            {
+              "q": "Which seed colour is dominant?",
+              "marks": 1,
+              "answer": "Yellow."
+            },
+            {
+              "q": "What is the approximate ratio of yellow to green seeds in F_{2}?",
+              "marks": 1,
+              "answer": "About 3 : 1 (6022 ÷ 2001 ≈ 3)."
+            },
+            {
+              "q": "What are the possible genotypes of the yellow F_{2} seeds, and what fraction of the yellow seeds are pure-breeding?",
+              "marks": 2,
+              "answer": "YY and Yy. Of every 3 yellow seeds, 1 is YY and 2 are Yy (the F_{2} ratio is 1 YY : 2 Yy : 1 yy), so 1/3 of the yellow seeds are pure-breeding.",
+              "marking": [
+                "YY and Yy: 1",
+                "1/3: 1"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "In scrapyards, large electromagnets hanging from cranes lift heavy pieces of scrap iron. An electromagnet is a solenoid with a soft iron core. When the current is switched on, the iron core becomes a strong magnet. When the current is switched off, it loses its magnetism.",
+          "subparts": [
+            {
+              "q": "What is an electromagnet?",
+              "marks": 1,
+              "answer": "A magnet made by passing current through a solenoid wound around a soft iron core. It is magnetic only while the current flows."
+            },
+            {
+              "q": "Why is soft iron used for the core?",
+              "marks": 1,
+              "answer": "Soft iron becomes strongly magnetised when current flows and loses its magnetism as soon as the current is switched off."
+            },
+            {
+              "q": "Give two ways to make the electromagnet lift heavier loads. What happens to the scrap when the current is switched off?",
+              "marks": 2,
+              "answer": "Increase the current, or increase the number of turns in the coil. When the current is switched off, the core loses its magnetism and the scrap drops.",
+              "marking": [
+                "Two ways: 1",
+                "Scrap drops: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your boards!"
+}

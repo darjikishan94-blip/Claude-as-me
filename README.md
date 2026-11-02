@@ -23,7 +23,7 @@ You don't need to name the skill. Just ask normally.
 - **GSEB-pattern chapter tests** for all 13 chapters (9 objective + 3×2 + 2×3 + 1×4), built from the checked questions
 - **Most-expected question banks** for Chemistry, Physics and Biology (1/2/3/5-mark, with answers)
 - **Final-revision sheets:** all-chapter equation sheet (75 checked equations), physics formula sheet, diagram checklist
-- **Four full 80-mark mock papers**: Mock 1 and Mock 2 in both CBSE and GSEB patterns, with marking schemes
+- **Six full 80-mark mock papers**: Mocks 1, 2 and 3 in both CBSE and GSEB patterns, with marking schemes
 - **Class 9 Foundation practice packs** (Motion, Force & Laws of Motion, Work & Energy, Sound, Atomic Structure, The Cell, Tissues, Mixtures & Separation, States of Matter, Gravitation): 3 levels each, worked answer keys, usable with the old or new Class 9 book
 - **Class 9 unit tests** (25 marks, with keys): Motion, Force & Laws of Motion, Work & Energy, Sound, Structure of the Atom, Matter in Our Surroundings, Mixtures & Separation, The Cell, Tissues
 - **Class 8 practice packs** (Force & Pressure, Microorganisms, Metals & Non-metals, Combustion & Flame, Sound) and **Class 8 unit tests** (Force & Pressure, Metals & Non-metals, Microorganisms, Combustion & Flame, Sound), with answer keys

@@ -6,42 +6,142 @@
   "board": "CBSE / GSEB",
   "subject": "Science",
   "blocks": [
-    {"p": "**For Kishan / teachers.** This assumes 3 sessions of about 1.5 hours a week. Each cell names the library file to use. If a batch has fewer sessions, merge S1 and S2 and keep S3 for testing."},
-    {"h": "Phase 1: Chapters (Weeks 1–7)"},
-    {"table": [
-      ["Wk", "Session 1", "Session 2", "Session 3"],
-      ["1", "Ch 1: types of reactions, balancing (revision sheet + balancing worksheet)", "Ch 2: indicators, pH, reactions, salts (revision sheet)", "Tests: Ch 1 + Ch 2"],
-      ["2", "Ch 3: properties, reactivity series, extraction, corrosion", "Ch 4: bonding, naming, reactions, soaps", "Tests: Ch 3 + Ch 4"],
-      ["3", "Ch 5: nutrition, digestion, respiration", "Ch 5: transport, excretion · Ch 6: nervous system, hormones", "Tests: Ch 5 + Ch 6"],
-      ["4", "Ch 7: asexual and sexual reproduction, human reproduction", "Ch 8: crosses with checkerboards · Ch 13: food chains, ozone, waste", "Tests: Ch 7 + Ch 8 (Ch 13 test as homework)"],
-      ["5", "Ch 9: mirrors: formula, sign convention, 6 ray diagrams", "Ch 9: lenses, power · Ch 10: eye defects, dispersion, scattering", "Tests: Ch 9 + Ch 10"],
-      ["6", "Ch 11: Ohm's law, series and parallel, numericals", "Ch 11: heating, power, kWh · Ch 12: fields, rules, domestic circuits", "Tests: Ch 11 + Ch 12"],
-      ["7", "Diagrams day (diagram checklist, each diagram drawn twice)", "Numericals day (physics formula sheet + Set B numericals)", "Set B re-tests: each student takes their 2 weakest chapters"]
-    ]},
-    {"h": "Phase 2: Board practice (Weeks 8–11)"},
-    {"table": [
-      ["Wk", "Session 1", "Session 2", "Session 3"],
-      ["8", "Mock 1 (CBSE or GSEB pattern), 3 hours, exam conditions", "Mock 1 discussion, section by section", "Error-log clinic: re-teach the 3 most common mistakes"],
-      ["9", "Drill: CBSE assertion–reason + case-based / GSEB 40 objective", "Equation sheet: cover and write all 75 equations", "Most-expected bank: Chemistry"],
-      ["10", "Mock 2 (same pattern), 3 hours", "Mock 2 discussion; compare with Mock 1", "Most-expected bank: Physics"],
-      ["11", "Previous year's board paper 1 (timed)", "Previous year's board paper 2 (timed)", "Most-expected bank: Biology + error log"]
-    ]},
-    {"h": "Phase 3: Final polish (Weeks 12–13)"},
-    {"table": [
-      ["Wk", "Session 1", "Session 2", "Session 3"],
-      ["12", "Revision sheets Ch 1–4 + equation sheet quiz", "Revision sheets Ch 5–8, 13 + diagram checklist", "Revision sheets Ch 9–12 + formula sheet"],
-      ["13", "Rapid Q&A on weak topics (no new material)", "Exam strategy: time plan, presentation, reading time", "Doubt clearing + calm pep talk"]
-    ]},
-    {"h": "After every test: same routine every time"},
-    {"bullets": [
-      "Mark the papers within 2 days. Students should get their papers back while the test is still fresh.",
-      "Share marks with parents individually: send the marks list to Claude-as-me and it uses the **test-results** skill (class summary + one message per parent).",
-      "Start the next session with 10 minutes on the 2–3 most common mistakes.",
-      "Students copy their own mistakes into the error log at the back of the 90-day plan."
-    ]},
-    {"box": [
-      "**Mock day tips.** Seat students as in the board exam. Give 15 minutes of reading time first. No phones in the room. Collect the papers at exactly 3 hours.",
-      "**Marking.** Use the marking scheme strictly, as an examiner would: half marks for missing units or labels. Students should feel the board standard before the boards."
-    ]}
+    {
+      "p": "**For Kishan / teachers.** This assumes 3 sessions of about 1.5 hours a week. Each cell names the library file to use. If a batch has fewer sessions, merge S1 and S2 and keep S3 for testing."
+    },
+    {
+      "h": "Phase 1: Chapters (Weeks 1–7)"
+    },
+    {
+      "table": [
+        [
+          "Wk",
+          "Session 1",
+          "Session 2",
+          "Session 3"
+        ],
+        [
+          "1",
+          "Ch 1: types of reactions, balancing (revision sheet + balancing worksheet)",
+          "Ch 2: indicators, pH, reactions, salts (revision sheet)",
+          "Tests: Ch 1 + Ch 2"
+        ],
+        [
+          "2",
+          "Ch 3: properties, reactivity series, extraction, corrosion",
+          "Ch 4: bonding, naming, reactions, soaps",
+          "Tests: Ch 3 + Ch 4"
+        ],
+        [
+          "3",
+          "Ch 5: nutrition, digestion, respiration",
+          "Ch 5: transport, excretion · Ch 6: nervous system, hormones",
+          "Tests: Ch 5 + Ch 6"
+        ],
+        [
+          "4",
+          "Ch 7: asexual and sexual reproduction, human reproduction",
+          "Ch 8: crosses with checkerboards · Ch 13: food chains, ozone, waste",
+          "Tests: Ch 7 + Ch 8 (Ch 13 test as homework)"
+        ],
+        [
+          "5",
+          "Ch 9: mirrors: formula, sign convention, 6 ray diagrams",
+          "Ch 9: lenses, power · Ch 10: eye defects, dispersion, scattering",
+          "Tests: Ch 9 + Ch 10"
+        ],
+        [
+          "6",
+          "Ch 11: Ohm's law, series and parallel, numericals",
+          "Ch 11: heating, power, kWh · Ch 12: fields, rules, domestic circuits",
+          "Tests: Ch 11 + Ch 12"
+        ],
+        [
+          "7",
+          "Diagrams day (diagram checklist, each diagram drawn twice)",
+          "Numericals day (physics formula sheet + Set B numericals)",
+          "Set B re-tests: each student takes their 2 weakest chapters"
+        ]
+      ]
+    },
+    {
+      "h": "Phase 2: Board practice (Weeks 8–11)"
+    },
+    {
+      "table": [
+        [
+          "Wk",
+          "Session 1",
+          "Session 2",
+          "Session 3"
+        ],
+        [
+          "8",
+          "Mock 1 (CBSE or GSEB pattern), 3 hours, exam conditions",
+          "Mock 1 discussion, section by section",
+          "Error-log clinic: re-teach the 3 most common mistakes"
+        ],
+        [
+          "9",
+          "Drill: CBSE assertion–reason + case-based / GSEB 40 objective",
+          "Equation sheet: cover and write all 75 equations",
+          "Most-expected bank: Chemistry"
+        ],
+        [
+          "10",
+          "Mock 2 (same pattern), 3 hours",
+          "Mock 2 discussion; compare with Mock 1",
+          "Most-expected bank: Physics"
+        ],
+        [
+          "11",
+          "Mock 3 (CBSE or GSEB pattern), 3 hours",
+          "Mock 3 discussion + one previous year's board paper as homework",
+          "Most-expected bank: Biology + error log"
+        ]
+      ]
+    },
+    {
+      "h": "Phase 3: Final polish (Weeks 12–13)"
+    },
+    {
+      "table": [
+        [
+          "Wk",
+          "Session 1",
+          "Session 2",
+          "Session 3"
+        ],
+        [
+          "12",
+          "Revision sheets Ch 1–4 + equation sheet quiz",
+          "Revision sheets Ch 5–8, 13 + diagram checklist",
+          "Revision sheets Ch 9–12 + formula sheet"
+        ],
+        [
+          "13",
+          "Rapid Q&A on weak topics (no new material)",
+          "Exam strategy: time plan, presentation, reading time",
+          "Doubt clearing + calm pep talk"
+        ]
+      ]
+    },
+    {
+      "h": "After every test: same routine every time"
+    },
+    {
+      "bullets": [
+        "Mark the papers within 2 days. Students should get their papers back while the test is still fresh.",
+        "Share marks with parents individually: send the marks list to Claude-as-me and it uses the **test-results** skill (class summary + one message per parent).",
+        "Start the next session with 10 minutes on the 2–3 most common mistakes.",
+        "Students copy their own mistakes into the error log at the back of the 90-day plan."
+      ]
+    },
+    {
+      "box": [
+        "**Mock day tips.** Seat students as in the board exam. Give 15 minutes of reading time first. No phones in the room. Collect the papers at exactly 3 hours.",
+        "**Marking.** Use the marking scheme strictly, as an examiner would: half marks for missing units or labels. Students should feel the board standard before the boards."
+      ]
+    }
   ]
 }
