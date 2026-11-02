@@ -1,0 +1,612 @@
+{
+  "type": "test",
+  "file_name": "c10-mock-cbse-2",
+  "title": "Pre-Board Mock 2 (CBSE pattern)",
+  "class": "10",
+  "board": "CBSE",
+  "subject": "Science",
+  "chapter": "Full syllabus (Chapters 1–13)",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "This paper has 39 questions in 5 sections (A–E). All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: Q1–Q20, 1 mark each (MCQs and Assertion–Reason). Section B: Q21–Q26, 2 marks each. Section C: Q27–Q33, 3 marks each.",
+    "Section D: Q34–Q36, 5 marks each. Section E: Q37–Q39, case-based, 4 marks each.",
+    "Write balanced equations, show formulae and units in numericals, and draw neat labelled diagrams wherever required.",
+    "This mock follows the reported 2026-27 pattern. Check the official CBSE sample paper for any changes."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Q1–Q16: choose the correct option. Q17–Q20: Assertion–Reason. For these, choose (a) both A and R true and R explains A; (b) both true but R does not explain A; (c) A true, R false; (d) A false, R true.",
+      "questions": [
+        {
+          "q": "Which of the following is a double displacement reaction?",
+          "marks": 1,
+          "options": [
+            "2Mg + O_{2} → 2MgO",
+            "Pb(NO_{3})_{2} + 2KI → PbI_{2} + 2KNO_{3}",
+            "CuO + H_{2} → Cu + H_{2}O",
+            "2H_{2}O → 2H_{2} + O_{2}"
+          ],
+          "answer": "(b) Pb(NO_{3})_{2} + 2KI → PbI_{2} + 2KNO_{3}"
+        },
+        {
+          "q": "A student adds dilute hydrochloric acid to zinc granules. What will the student observe?",
+          "marks": 1,
+          "options": [
+            "The solution turns blue",
+            "A white precipitate forms",
+            "No change",
+            "Gas bubbles form around the zinc granules"
+          ],
+          "answer": "(d) Gas bubbles form around the zinc granules (hydrogen gas)."
+        },
+        {
+          "q": "Which of these is a weak acid?",
+          "marks": 1,
+          "options": [
+            "HCl",
+            "CH_{3}COOH",
+            "H_{2}SO_{4}",
+            "HNO_{3}"
+          ],
+          "answer": "(b) CH_{3}COOH (acetic acid)"
+        },
+        {
+          "q": "An element X forms a basic oxide X_{2}O and reacts vigorously with cold water. X is most likely:",
+          "marks": 1,
+          "options": [
+            "carbon",
+            "sulphur",
+            "sodium",
+            "aluminium"
+          ],
+          "answer": "(c) sodium"
+        },
+        {
+          "q": "The molecular formula of an alcohol with three carbon atoms is:",
+          "marks": 1,
+          "options": [
+            "C_{3}H_{6}O",
+            "C_{2}H_{5}OH",
+            "C_{3}H_{8}",
+            "C_{3}H_{7}OH"
+          ],
+          "answer": "(d) C_{3}H_{7}OH (propanol)"
+        },
+        {
+          "q": "Which of these is used to remove permanent hardness of water?",
+          "marks": 1,
+          "options": [
+            "Baking soda",
+            "Bleaching powder",
+            "Plaster of Paris",
+            "Washing soda"
+          ],
+          "answer": "(d) Washing soda"
+        },
+        {
+          "q": "Which enzyme in pancreatic juice digests proteins?",
+          "marks": 1,
+          "options": [
+            "Amylase",
+            "Lipase",
+            "Trypsin",
+            "Pepsin"
+          ],
+          "answer": "(c) Trypsin"
+        },
+        {
+          "q": "The products of anaerobic respiration in yeast are:",
+          "marks": 1,
+          "options": [
+            "lactic acid and energy",
+            "ethanol, carbon dioxide and energy",
+            "carbon dioxide, water and energy",
+            "glucose and oxygen"
+          ],
+          "answer": "(b) ethanol, carbon dioxide and energy"
+        },
+        {
+          "q": "Which part of the brain controls involuntary actions such as blood pressure, salivation and vomiting?",
+          "marks": 1,
+          "options": [
+            "Medulla",
+            "Cerebrum",
+            "Cerebellum",
+            "Hypothalamus"
+          ],
+          "answer": "(a) Medulla"
+        },
+        {
+          "q": "In human females, fertilisation takes place in the:",
+          "marks": 1,
+          "options": [
+            "ovary",
+            "oviduct",
+            "uterus",
+            "vagina"
+          ],
+          "answer": "(b) oviduct (fallopian tube)"
+        },
+        {
+          "q": "In Mendel's dihybrid cross, how many different phenotypes appear in the F_{2} generation?",
+          "marks": 1,
+          "options": [
+            "2",
+            "3",
+            "4",
+            "9"
+          ],
+          "answer": "(c) 4 (round yellow, round green, wrinkled yellow, wrinkled green)"
+        },
+        {
+          "q": "Which of these is a producer in a pond ecosystem?",
+          "marks": 1,
+          "options": [
+            "Fish",
+            "Frog",
+            "Algae",
+            "Crab"
+          ],
+          "answer": "(c) Algae"
+        },
+        {
+          "q": "An object is placed between the pole and the focus of a concave mirror. The image formed is:",
+          "marks": 1,
+          "options": [
+            "real and inverted",
+            "virtual and diminished",
+            "real and of the same size",
+            "virtual, erect and enlarged"
+          ],
+          "answer": "(d) virtual, erect and enlarged"
+        },
+        {
+          "q": "The power of a concave lens of focal length 25 cm is:",
+          "marks": 1,
+          "options": [
+            "−4 D",
+            "−0.25 D",
+            "+0.25 D",
+            "+4 D"
+          ],
+          "answer": "(a) −4 D. P = 1/f = 1/(−0.25 m)"
+        },
+        {
+          "q": "Three resistors of 6 Ω each are connected in parallel. The equivalent resistance is:",
+          "marks": 1,
+          "options": [
+            "2 Ω",
+            "3 Ω",
+            "6 Ω",
+            "18 Ω"
+          ],
+          "answer": "(a) 2 Ω"
+        },
+        {
+          "q": "Which of the following is caused by the scattering of light?",
+          "marks": 1,
+          "options": [
+            "Blue colour of the sky",
+            "Twinkling of stars",
+            "Advance sunrise",
+            "Formation of a rainbow"
+          ],
+          "answer": "(a) Blue colour of the sky"
+        },
+        {
+          "q": "**Assertion (A):** Blue copper sulphate crystals turn white on heating.\n**Reason (R):** Heating removes the water of crystallisation.",
+          "marks": 1,
+          "answer": "(a)"
+        },
+        {
+          "q": "**Assertion (A):** Plants exchange gases through the stomata.\n**Reason (R):** Stomata are usually closed at night to reduce water loss.",
+          "marks": 1,
+          "answer": "(b). Both are true, but R does not explain why stomata are used for gas exchange."
+        },
+        {
+          "q": "**Assertion (A):** A fuse wire has a low melting point.\n**Reason (R):** The fuse wire must melt and break the circuit when an unduly high current flows.",
+          "marks": 1,
+          "answer": "(a)"
+        },
+        {
+          "q": "**Assertion (A):** Ozone in the upper atmosphere is essential for life on Earth.\n**Reason (R):** Ozone is a deadly poison at ground level.",
+          "marks": 1,
+          "answer": "(b). Both are true, but the correct reason for A is that ozone shields the Earth from UV radiation."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "Why are decomposition reactions called the opposite of combination reactions? Give one balanced equation for each type.",
+          "marks": 2,
+          "answer": "In a combination reaction two or more reactants form a single product, while in a decomposition reaction a single reactant breaks down into simpler products. Combination: CaO + H_{2}O → Ca(OH)_{2}. Decomposition: CaCO_{3} → CaO + CO_{2} (on heating).",
+          "marking": [
+            "Explanation: 1",
+            "One equation each: ½ + ½"
+          ]
+        },
+        {
+          "q": "What is meant by water of crystallisation? Give the name and formula of one salt that contains it.",
+          "marks": 2,
+          "answer": "The fixed number of water molecules present in one formula unit of a salt crystal. Example: gypsum, CaSO_{4}·2H_{2}O (or copper sulphate, CuSO_{4}·5H_{2}O; washing soda, Na_{2}CO_{3}·10H_{2}O).",
+          "marking": [
+            "Definition: 1",
+            "Example with formula: 1"
+          ],
+          "or": {
+            "q": "Why does an aqueous solution of an acid conduct electricity?",
+            "marks": 2,
+            "answer": "In water, acids produce hydrogen ions, H^{+}(aq). These charged ions are free to move and carry the current.",
+            "marking": [
+              "H^{+} ions produced in water: 1",
+              "Ions carry current: 1"
+            ]
+          }
+        },
+        {
+          "q": "Name the components of the transport system in human beings and give the function of each.",
+          "marks": 2,
+          "answer": "Heart: pumps blood around the body. Blood: carries oxygen, digested food, carbon dioxide, wastes and hormones. Blood vessels (arteries, veins, capillaries): carry blood to and from all parts of the body. Lymph: carries digested fat and returns extra fluid to the blood.",
+          "marking": [
+            "Components: 1",
+            "Functions: 1"
+          ]
+        },
+        {
+          "q": "What is regeneration? Why can't complex organisms reproduce by regeneration?",
+          "marks": 2,
+          "answer": "Regeneration is the ability of an organism to give rise to new individuals from its body parts (e.g. Planaria, Hydra). Complex organisms have specialised cells, tissues and organs. Most of their cells cannot divide to make all the different kinds of cells needed to form a whole new organism.",
+          "marking": [
+            "Definition with example: 1",
+            "Reason for complex organisms: 1"
+          ],
+          "or": {
+            "q": "What is a pollen tube? What is its role in fertilisation?",
+            "marks": 2,
+            "answer": "After a pollen grain lands on a suitable stigma, a tube grows out of it and travels through the style to the ovule. It carries the male germ cell to the female germ cell (egg) in the ovule, so that fertilisation can take place.",
+            "marking": [
+              "What it is: 1",
+              "Role: 1"
+            ]
+          }
+        },
+        {
+          "q": "The speed of light in glass is 2 × 10^{8} m/s. Find the refractive index of glass. (Speed of light in vacuum = 3 × 10^{8} m/s.)",
+          "marks": 2,
+          "answer": "n = c/v = (3 × 10^{8})/(2 × 10^{8}) = 1.5",
+          "marking": [
+            "Formula: 1",
+            "n = 1.5: 1"
+          ]
+        },
+        {
+          "q": "Why are electric bulbs filled with chemically inactive gases like nitrogen and argon? Why does the tungsten filament not melt?",
+          "marks": 2,
+          "answer": "The inactive gases prevent the hot filament from oxidising (burning), which makes it last longer. Tungsten has a very high melting point (3380 °C), so it does not melt even when it glows white-hot.",
+          "marking": [
+            "Inactive gas prevents oxidation: 1",
+            "High melting point of tungsten: 1"
+          ],
+          "or": {
+            "q": "Three 60 W bulbs are used for 4 hours every day. How many units (kWh) of energy do they use in 30 days?",
+            "marks": 2,
+            "answer": "Energy = 3 × 60 W × 4 h × 30 = 21600 Wh = 21.6 kWh (21.6 units).",
+            "marking": [
+              "Method: 1",
+              "21.6 kWh: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Write balanced chemical equations for the following:",
+          "subparts": [
+            {
+              "q": "Calcium carbonate is heated.",
+              "marks": 1,
+              "answer": "CaCO_{3} → CaO + CO_{2}"
+            },
+            {
+              "q": "Methane burns in oxygen.",
+              "marks": 1,
+              "answer": "CH_{4} + 2O_{2} → CO_{2} + 2H_{2}O"
+            },
+            {
+              "q": "Sodium hydroxide reacts with dilute sulphuric acid.",
+              "marks": 1,
+              "answer": "2NaOH + H_{2}SO_{4} → Na_{2}SO_{4} + 2H_{2}O"
+            }
+          ]
+        },
+        {
+          "q": "Answer the following about the hormone that controls the metabolism of carbohydrates, fats and proteins:",
+          "subparts": [
+            {
+              "q": "Name the hormone.",
+              "marks": 1,
+              "answer": "Thyroxin"
+            },
+            {
+              "q": "Which gland secretes it?",
+              "marks": 1,
+              "answer": "The thyroid gland"
+            },
+            {
+              "q": "Which mineral is needed to make it, and what disease does its deficiency cause?",
+              "marks": 1,
+              "answer": "Iodine. Its deficiency can cause goitre (a swollen neck)."
+            }
+          ]
+        },
+        {
+          "q": "How would you tell ethanol and ethanoic acid apart? Describe two tests, and write the equation for one of them.",
+          "marks": 3,
+          "answer": "Test 1: Blue litmus turns red in ethanoic acid but not in ethanol. Test 2: Add sodium hydrogencarbonate. Ethanoic acid gives brisk effervescence of CO_{2}; ethanol does not. CH_{3}COOH + NaHCO_{3} → CH_{3}COONa + H_{2}O + CO_{2}",
+          "marking": [
+            "Test 1: 1",
+            "Test 2: 1",
+            "Equation: 1"
+          ]
+        },
+        {
+          "q": "Explain the following movements in plants, with one example each: (i) phototropism, (ii) geotropism, (iii) chemotropism.",
+          "marks": 3,
+          "answer": "(i) Phototropism: movement in response to light. Shoots bend towards light. (ii) Geotropism: response to gravity. Roots grow downwards. (iii) Chemotropism: response to chemicals. The pollen tube grows towards the ovule.",
+          "marking": [
+            "Each with example: 1"
+          ]
+        },
+        {
+          "q": "How is the small intestine designed to absorb digested food?",
+          "marks": 3,
+          "answer": "It is very long, giving more time and area for absorption. Its inner lining has many finger-like projections called villi, which greatly increase the surface area. The villi are richly supplied with blood vessels, which take the absorbed food to every cell of the body.",
+          "marking": [
+            "Villi: 1",
+            "Large surface area: 1",
+            "Blood supply: 1"
+          ],
+          "or": {
+            "q": "Give the role of each of the following in the human body: (i) lymph, (ii) platelets, (iii) valves in the heart.",
+            "marks": 3,
+            "answer": "(i) Lymph carries digested and absorbed fat from the intestine, and drains excess fluid from between the cells back into the blood. (ii) Platelets help the blood to clot at the site of an injury, preventing blood loss. (iii) Valves ensure that blood does not flow backwards when the atria or ventricles contract.",
+            "marking": [
+              "Each role: 1"
+            ]
+          }
+        },
+        {
+          "q": "An object is placed 10 cm in front of a concave mirror of focal length 15 cm. Find the position, nature and magnification of the image.",
+          "marks": 3,
+          "answer": "u = −10 cm, f = −15 cm. 1/v = 1/f − 1/u = −1/15 + 1/10 = 1/30, so v = +30 cm (behind the mirror). m = −v/u = −30/(−10) = +3. The image is virtual, erect and three times larger.",
+          "marking": [
+            "v = +30 cm: 1",
+            "m = +3: 1",
+            "Nature: 1"
+          ],
+          "or": {
+            "q": "A 3 cm tall object is placed 18 cm from a convex lens of focal length 12 cm. Find the position, size and nature of the image.",
+            "marks": 3,
+            "answer": "u = −18 cm, f = +12 cm. 1/v = 1/f + 1/u = 1/12 − 1/18 = 1/36, so v = +36 cm. m = v/u = 36/(−18) = −2, so h′ = −6 cm. The image is real, inverted and magnified (6 cm tall), 36 cm on the other side of the lens.",
+            "marking": [
+              "v = +36 cm: 1",
+              "Size 6 cm: 1",
+              "Nature: 1"
+            ]
+          }
+        },
+        {
+          "q": "A copper wire is 50 m long and has a cross-sectional area of 1 mm^{2} (1 × 10^{-6} m^{2}). The resistivity of copper is 1.7 × 10^{-8} Ω m.",
+          "subparts": [
+            {
+              "q": "What is the SI unit of resistivity?",
+              "marks": 1,
+              "answer": "Ohm metre (Ω m)"
+            },
+            {
+              "q": "Find the resistance of the wire.",
+              "marks": 1,
+              "answer": "R = ρL/A = (1.7 × 10^{-8} × 50)/(1 × 10^{-6}) = 0.85 Ω"
+            },
+            {
+              "q": "What would the resistance be if the length were halved?",
+              "marks": 1,
+              "answer": "It would be halved: 0.425 Ω (R ∝ L)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "With one balanced equation each, show how a metal and a non-metal react with oxygen. What is the nature of each oxide?",
+              "marks": 3,
+              "answer": "Metal: 2Mg + O_{2} → 2MgO. Magnesium oxide is basic (it turns red litmus blue when dissolved in water). Non-metal: S + O_{2} → SO_{2}. Sulphur dioxide is acidic (it forms sulphurous acid with water and turns blue litmus red).",
+              "marking": [
+                "Metal equation + basic: 1½",
+                "Non-metal equation + acidic: 1½"
+              ]
+            },
+            {
+              "q": "Why do silver articles turn black, and copper vessels turn green, over time?",
+              "marks": 2,
+              "answer": "Silver reacts with sulphur compounds in the air to form a black coating of silver sulphide. Copper reacts with moist carbon dioxide in the air to form a green coating of basic copper carbonate.",
+              "marking": [
+                "Silver: 1",
+                "Copper: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) What is a functional group? Name the functional group, with its formula, in ethanol, ethanal, propanone and ethanoic acid. [3]\n(b) Write the name and formula of the second member of the alkene series. [2]",
+            "marks": 5,
+            "answer": "(a) An atom or group of atoms that gives a compound its characteristic properties. Ethanol: alcohol, –OH. Ethanal: aldehyde, –CHO. Propanone: ketone, >C=O. Ethanoic acid: carboxylic acid, –COOH. (b) Propene, C_{3}H_{6} (the first member is ethene, C_{2}H_{4}).",
+            "marking": [
+              "(a) definition 1, four groups 2 (½ each)",
+              "(b) name 1, formula 1"
+            ]
+          }
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "Describe how urine is formed in a nephron.",
+              "marks": 3,
+              "answer": "Blood enters the glomerulus, a cluster of capillaries inside the Bowman's capsule, where it is filtered. The filtrate passes through the tubule, where useful substances such as glucose, amino acids, salts and a major amount of water are reabsorbed into the blood. The remaining fluid is urine, which passes to the collecting duct and then to the ureter.",
+              "marking": [
+                "Filtration in glomerulus: 1",
+                "Selective reabsorption: 1",
+                "Urine to collecting duct/ureter: 1"
+              ]
+            },
+            {
+              "q": "What decides the amount of urine produced?",
+              "marks": 2,
+              "answer": "It depends on how much excess water there is in the body, and how much dissolved waste needs to be removed.",
+              "marking": [
+                "Excess water: 1",
+                "Amount of dissolved waste: 1"
+              ]
+            }
+          ],
+          "or": {
+            "q": "(a) Give two differences between asexual and sexual reproduction. [2]\n(b) After fertilisation in a flower, explain how the seed and the fruit are formed. [3]",
+            "marks": 5,
+            "answer": "(a) Asexual reproduction involves one parent, while sexual reproduction usually involves two. Asexual reproduction involves no gametes, while sexual reproduction involves the fusion of male and female gametes. Asexual offspring are nearly identical to the parent, while sexual reproduction gives more variation. (b) The zygote divides many times to form an embryo inside the ovule. The ovule develops a tough coat and becomes the seed. The ovary grows rapidly and ripens into the fruit. The petals, sepals and stamens may shrivel and fall off.",
+            "marking": [
+              "(a) two differences: 1 + 1",
+              "(b) embryo 1, seed 1, fruit 1"
+            ]
+          }
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is meant by the power of accommodation of the eye?",
+              "marks": 1,
+              "answer": "The ability of the eye lens to adjust its focal length to see both nearby and distant objects clearly."
+            },
+            {
+              "q": "A student sitting at the back of the class cannot read the board clearly, but can read a book. Name the defect, give two causes, and explain how it is corrected.",
+              "marks": 3,
+              "answer": "Myopia (near-sightedness). Causes: excessive curvature of the eye lens, or elongation of the eyeball. The image of a distant object forms in front of the retina. Correction: a concave lens of suitable power, which diverges the rays so the image forms on the retina.",
+              "marking": [
+                "Defect: 1",
+                "Two causes: 1",
+                "Correction: 1"
+              ]
+            },
+            {
+              "q": "Why can a normal eye not see clearly an object placed closer than 25 cm?",
+              "marks": 1,
+              "answer": "The ciliary muscles cannot make the eye lens thick enough (its focal length cannot be shortened below a limit) to focus such a close object on the retina."
+            }
+          ],
+          "or": {
+            "q": "(a) Give two properties of magnetic field lines. [2]\n(b) How does the magnetic field due to a current-carrying circular loop change if (i) the current is increased, (ii) the number of turns is increased, (iii) the distance from the wire is increased? [3]",
+            "marks": 5,
+            "answer": "(a) Any two: they emerge from the north pole and merge at the south pole outside the magnet, forming closed curves; they never intersect; they are closer together where the field is stronger. (b) (i) The field becomes stronger. (ii) The field becomes stronger, since the field of each turn adds up. (iii) The field becomes weaker.",
+            "marking": [
+              "(a) 1 + 1",
+              "(b) 1 each"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read each passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "In an experiment, three test tubes each held an iron nail. In tube A, the nail was in tap water with air above it. In tube B, the nail was in boiled distilled water covered with a layer of oil. In tube C, the nail was in dry air with anhydrous calcium chloride (which absorbs moisture). The tubes were left for a few days.",
+          "subparts": [
+            {
+              "q": "In which tube did the nail rust?",
+              "marks": 1,
+              "answer": "Tube A."
+            },
+            {
+              "q": "Why was the water in tube B boiled and covered with oil?",
+              "marks": 1,
+              "answer": "Boiling removes the dissolved air, and the oil layer stops air from dissolving again."
+            },
+            {
+              "q": "What does this experiment show about rusting? Give one way to prevent it.",
+              "marks": 2,
+              "answer": "Iron rusts only when both air (oxygen) and water (moisture) are present. Prevention (any one): painting, oiling or greasing, galvanising, chrome plating.",
+              "marking": [
+                "Both air and water needed: 1",
+                "One method: 1"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "The force that blood exerts against the wall of a blood vessel is called blood pressure. The pressure during ventricular contraction (systolic) is normally about 120 mm of Hg, and during relaxation (diastolic) about 80 mm of Hg. Blood pressure is measured with an instrument called a sphygmomanometer. High blood pressure, or hypertension, is caused by the narrowing (constriction) of arterioles.",
+          "subparts": [
+            {
+              "q": "What is the normal blood pressure of a human being?",
+              "marks": 1,
+              "answer": "About 120/80 mm of Hg (systolic/diastolic)."
+            },
+            {
+              "q": "Name the instrument used to measure blood pressure.",
+              "marks": 1,
+              "answer": "Sphygmomanometer"
+            },
+            {
+              "q": "What causes hypertension, and why is it dangerous?",
+              "marks": 2,
+              "answer": "Narrowing of the arterioles increases the resistance to blood flow, so the pressure rises. It can lead to the rupture of an artery and internal bleeding.",
+              "marking": [
+                "Cause: 1",
+                "Danger: 1"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "A household uses a 1000 W geyser for 1 hour a day, four 10 W LED bulbs for 6 hours a day, and a 100 W television for 3 hours a day. Electricity costs ₹6 per unit (kWh).",
+          "subparts": [
+            {
+              "q": "How much energy does the geyser use per day?",
+              "marks": 1,
+              "answer": "1 kW × 1 h = 1 kWh"
+            },
+            {
+              "q": "What is the total energy used per day?",
+              "marks": 1,
+              "answer": "Geyser 1 kWh + bulbs 4 × 10 W × 6 h = 0.24 kWh + TV 100 W × 3 h = 0.3 kWh, total 1.54 kWh"
+            },
+            {
+              "q": "Find the electricity bill for 30 days. Why are these appliances connected in parallel?",
+              "marks": 2,
+              "answer": "Energy = 1.54 × 30 = 46.2 kWh. Bill = 46.2 × ₹6 = ₹277.20. In parallel, each appliance gets the full 220 V and can be switched on or off independently.",
+              "marking": [
+                "Bill ₹277.20: 1",
+                "Parallel reason: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your boards!"
+}

@@ -1,0 +1,483 @@
+{
+  "type": "test",
+  "file_name": "c10-mock-gseb-2",
+  "title": "Pre-Board Mock 2 (GSEB pattern)",
+  "class": "10",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Full syllabus",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "Section A (Q1–24) is compulsory: 1 mark each.",
+    "Section B: answer any 9 of 12 questions (2 marks each). Section C: answer any 6 of 8 (3 marks each). Section D: answer any 5 of 7 (4 marks each).",
+    "Write balanced equations and draw neat, labelled diagrams wherever needed. Show formulae and units in numericals.",
+    "This mock follows the reported GSEB blueprint (A 24 · B 18 · C 18 · D 20). Check the latest official GSEB blueprint for changes."
+  ],
+  "sections": [
+    {
+      "title": "Section A (Q1–8): Choose the correct option",
+      "questions": [
+        {
+          "q": "An iron nail is kept in copper sulphate solution for some time. The colour of the solution becomes:",
+          "marks": 1,
+          "options": [
+            "dark blue",
+            "colourless",
+            "light green",
+            "red"
+          ],
+          "answer": "(c) light green (FeSO_{4} is formed)"
+        },
+        {
+          "q": "Which of the following is an acidic oxide?",
+          "marks": 1,
+          "options": [
+            "CaO",
+            "Na_{2}O",
+            "MgO",
+            "SO_{2}"
+          ],
+          "answer": "(d) SO_{2}"
+        },
+        {
+          "q": "Vinegar is a dilute solution of:",
+          "marks": 1,
+          "options": [
+            "ethanoic acid",
+            "methanoic acid",
+            "citric acid",
+            "tartaric acid"
+          ],
+          "answer": "(a) ethanoic acid (5–8%)"
+        },
+        {
+          "q": "Which of the following shows parasitic nutrition?",
+          "marks": 1,
+          "options": [
+            "Amoeba",
+            "Cuscuta",
+            "Mushroom",
+            "Grass"
+          ],
+          "answer": "(b) Cuscuta (amarbel)"
+        },
+        {
+          "q": "Which plant hormone inhibits growth?",
+          "marks": 1,
+          "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Abscisic acid"
+          ],
+          "answer": "(d) Abscisic acid"
+        },
+        {
+          "q": "A convex lens is also called a:",
+          "marks": 1,
+          "options": [
+            "converging lens",
+            "diverging lens",
+            "plane lens",
+            "cylindrical lens"
+          ],
+          "answer": "(a) converging lens"
+        },
+        {
+          "q": "Which instrument is used to measure electric current?",
+          "marks": 1,
+          "options": [
+            "Voltmeter",
+            "Ammeter",
+            "Galvanometer",
+            "Rheostat"
+          ],
+          "answer": "(b) Ammeter"
+        },
+        {
+          "q": "Which of the following is biodegradable?",
+          "marks": 1,
+          "options": [
+            "Plastic bag",
+            "Aluminium foil",
+            "Vegetable peel",
+            "Glass bottle"
+          ],
+          "answer": "(c) Vegetable peel"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q9–14): Fill in the blanks",
+      "questions": [
+        {
+          "q": "Coating iron with a thin layer of zinc is called ______.",
+          "marks": 1,
+          "answer": "galvanisation"
+        },
+        {
+          "q": "The chemical name of baking soda is ______.",
+          "marks": 1,
+          "answer": "sodium hydrogencarbonate (NaHCO_{3})"
+        },
+        {
+          "q": "The SI unit of electric charge is the ______.",
+          "marks": 1,
+          "answer": "coulomb"
+        },
+        {
+          "q": "The ______ is the main thinking part of the brain.",
+          "marks": 1,
+          "answer": "forebrain (cerebrum)"
+        },
+        {
+          "q": "The male reproductive part of a flower is the ______.",
+          "marks": 1,
+          "answer": "stamen"
+        },
+        {
+          "q": "The SI unit of resistance is the ______.",
+          "marks": 1,
+          "answer": "ohm (Ω)"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q15–19): State true or false",
+      "questions": [
+        {
+          "q": "Ethanol turns blue litmus red.",
+          "marks": 1,
+          "answer": "False. Ethanol is neutral; ethanoic acid turns blue litmus red."
+        },
+        {
+          "q": "Arteries carry blood away from the heart.",
+          "marks": 1,
+          "answer": "True"
+        },
+        {
+          "q": "There is more variation in asexual reproduction than in sexual reproduction.",
+          "marks": 1,
+          "answer": "False. Sexual reproduction gives more variation."
+        },
+        {
+          "q": "Red light is scattered the most by particles in the atmosphere.",
+          "marks": 1,
+          "answer": "False. Red is scattered the least; blue is scattered much more."
+        },
+        {
+          "q": "The earth wire in domestic circuits has green insulation.",
+          "marks": 1,
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q20–24): Answer in one word",
+      "questions": [
+        {
+          "q": "Name the acid present in the human stomach.",
+          "marks": 1,
+          "answer": "Hydrochloric acid (HCl)"
+        },
+        {
+          "q": "Name the green pigment that absorbs light energy in photosynthesis.",
+          "marks": 1,
+          "answer": "Chlorophyll"
+        },
+        {
+          "q": "Which gas is produced when a reactive metal reacts with dilute hydrochloric acid?",
+          "marks": 1,
+          "answer": "Hydrogen"
+        },
+        {
+          "q": "Which type of lens is used to correct myopia?",
+          "marks": 1,
+          "answer": "Concave lens"
+        },
+        {
+          "q": "What is the potential difference between the live and neutral wires in Indian homes?",
+          "marks": 1,
+          "answer": "220 V"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "attempt": 9,
+      "note": "Answer any 9 questions. 2 marks each.",
+      "questions": [
+        {
+          "q": "Why is silver chloride stored in dark-coloured bottles? Write the equation.",
+          "marks": 2,
+          "answer": "Silver chloride decomposes in sunlight into silver and chlorine, so it is kept away from light: 2AgCl → 2Ag + Cl_{2} (in sunlight).",
+          "marking": [
+            "Reason: 1",
+            "Equation: 1"
+          ]
+        },
+        {
+          "q": "Give two uses of baking soda and two uses of washing soda.",
+          "marks": 2,
+          "answer": "Baking soda (any two): in baking powder; as an antacid; in soda-acid fire extinguishers. Washing soda (any two): in glass, soap and paper industries; for cleaning at home; to remove permanent hardness of water; to make borax.",
+          "marking": [
+            "Two uses each: 1 + 1"
+          ]
+        },
+        {
+          "q": "Arrange in decreasing order of reactivity: Cu, Zn, Fe, Mg, Ag. Which of these will not react with dilute HCl?",
+          "marks": 2,
+          "answer": "Mg > Zn > Fe > Cu > Ag. Copper and silver do not react with dilute HCl, because they are below hydrogen in the reactivity series.",
+          "marking": [
+            "Correct order: 1",
+            "Cu and Ag: 1"
+          ]
+        },
+        {
+          "q": "Why is the conversion of ethanol to ethanoic acid called an oxidation reaction?",
+          "marks": 2,
+          "answer": "Oxygen is added to ethanol (and hydrogen is removed) to form ethanoic acid. This is done with oxidising agents such as alkaline potassium permanganate or acidified potassium dichromate.",
+          "marking": [
+            "Oxygen added: 1",
+            "Oxidising agent named: 1"
+          ]
+        },
+        {
+          "q": "What is the role of saliva in digestion?",
+          "marks": 2,
+          "answer": "Saliva moistens the food, making it easier to chew and swallow. It contains the enzyme salivary amylase, which breaks down starch into simple sugar.",
+          "marking": [
+            "Moistening: 1",
+            "Salivary amylase on starch: 1"
+          ]
+        },
+        {
+          "q": "Why can amphibians and many reptiles manage with a three-chambered heart?",
+          "marks": 2,
+          "answer": "These animals do not use energy to keep their body temperature constant; their body temperature depends on the surroundings. So their energy needs are lower, and they can tolerate some mixing of oxygenated and deoxygenated blood.",
+          "marking": [
+            "No energy spent on body temperature: 1",
+            "Can tolerate some mixing: 1"
+          ]
+        },
+        {
+          "q": "How does chemical coordination take place in animals?",
+          "marks": 2,
+          "answer": "Endocrine glands release hormones directly into the blood. The blood carries them to target cells or organs, where they produce their effect.",
+          "marking": [
+            "Endocrine glands release hormones into blood: 1",
+            "Act on target cells: 1"
+          ]
+        },
+        {
+          "q": "What is binary fission? Give one example.",
+          "marks": 2,
+          "answer": "A mode of asexual reproduction in which a single-celled organism divides into two equal halves, each becoming a new organism. Example: Amoeba (or Leishmania, Paramecium).",
+          "marking": [
+            "Definition: 1",
+            "Example: 1"
+          ]
+        },
+        {
+          "q": "Why does a child resemble its parents, but not exactly?",
+          "marks": 2,
+          "answer": "The child inherits half its genes from the mother and half from the father, so it shows traits of both. The new combination of genes (and small changes in DNA copying) produces variation, so the child is not identical to either parent.",
+          "marking": [
+            "Genes from both parents: 1",
+            "New combination gives variation: 1"
+          ]
+        },
+        {
+          "q": "Why is a concave mirror used in the headlights of vehicles?",
+          "marks": 2,
+          "answer": "The bulb is placed at the focus of the concave mirror, so the light reflects as a powerful parallel beam that lights up the road far ahead.",
+          "marking": [
+            "Bulb at focus: 1",
+            "Parallel beam: 1"
+          ]
+        },
+        {
+          "q": "Resistors of 10 Ω and 15 Ω are connected in series to a 50 V supply. Find the current, and the potential difference across the 10 Ω resistor.",
+          "marks": 2,
+          "answer": "R = 10 + 15 = 25 Ω. I = V/R = 50/25 = 2 A. V across 10 Ω = IR = 2 × 10 = 20 V.",
+          "marking": [
+            "I = 2 A: 1",
+            "20 V: 1"
+          ]
+        },
+        {
+          "q": "What is a food web? How is it different from a food chain?",
+          "marks": 2,
+          "answer": "A food web is a network of many interconnected food chains in an ecosystem. A food chain is a single straight sequence of who eats whom, while a food web shows that most organisms eat, and are eaten by, more than one kind of organism.",
+          "marking": [
+            "Definition: 1",
+            "Difference: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "attempt": 6,
+      "note": "Answer any 6 questions. 3 marks each.",
+      "questions": [
+        {
+          "q": "Balance the following equations and state the type of each reaction:",
+          "unbalanced": true,
+          "subparts": [
+            {
+              "q": "H_{2} + Cl_{2} → HCl",
+              "marks": 1,
+              "answer": "H_{2} + Cl_{2} → 2HCl (combination)"
+            },
+            {
+              "q": "Na + H_{2}O → NaOH + H_{2}",
+              "marks": 1,
+              "answer": "2Na + 2H_{2}O → 2NaOH + H_{2} (displacement)"
+            },
+            {
+              "q": "BaCl_{2} + H_{2}SO_{4} → BaSO_{4} + HCl",
+              "marks": 1,
+              "answer": "BaCl_{2} + H_{2}SO_{4} → BaSO_{4} + 2HCl (double displacement / precipitation)"
+            }
+          ]
+        },
+        {
+          "q": "Show the formation of sodium chloride and magnesium chloride by the transfer of electrons. (Na: 11, Mg: 12, Cl: 17)",
+          "marks": 3,
+          "answer": "Na (2,8,1) loses 1 electron: Na → Na^{+} + e^{–}. Cl (2,8,7) gains 1 electron: Cl + e^{–} → Cl^{–}. Na^{+} and Cl^{–} attract to form NaCl. Mg (2,8,2) loses 2 electrons: Mg → Mg^{2+} + 2e^{–}. Two Cl atoms each gain one electron to form 2Cl^{–}, giving MgCl_{2}.",
+          "marking": [
+            "NaCl electron transfer: 1½",
+            "MgCl_{2} electron transfer: 1½"
+          ]
+        },
+        {
+          "q": "Write balanced equations for: (i) ethanoic acid + sodium hydroxide, (ii) burning of ethanol in air, (iii) methane + chlorine in sunlight.",
+          "marks": 3,
+          "answer": "(i) CH_{3}COOH + NaOH → CH_{3}COONa + H_{2}O  (ii) C_{2}H_{5}OH + 3O_{2} → 2CO_{2} + 3H_{2}O  (iii) CH_{4} + Cl_{2} → CH_{3}Cl + HCl",
+          "marking": [
+            "Each balanced equation: 1"
+          ]
+        },
+        {
+          "q": "What are the different ways in which glucose is broken down to release energy in different organisms?",
+          "marks": 3,
+          "answer": "In all cases, glucose is first broken down into pyruvate in the cytoplasm. (1) In yeast, without oxygen, pyruvate → ethanol + CO_{2} + energy. (2) In our muscles, when oxygen is short, pyruvate → lactic acid + energy. (3) With oxygen, in the mitochondria, pyruvate → CO_{2} + water + a lot of energy.",
+          "marking": [
+            "Each pathway: 1"
+          ]
+        },
+        {
+          "q": "How do the following plant hormones affect plants: (i) auxin, (ii) gibberellin, (iii) abscisic acid?",
+          "marks": 3,
+          "answer": "(i) Auxin is made at the shoot tip and helps cells grow longer. It causes bending towards light. (ii) Gibberellin helps the stem grow. (iii) Abscisic acid inhibits growth and causes wilting of leaves.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "Explain, with one example each: (i) fragmentation, (ii) budding, (iii) spore formation.",
+          "marks": 3,
+          "answer": "(i) Fragmentation: the organism breaks into pieces, and each piece grows into a new individual (Spirogyra). (ii) Budding: an outgrowth (bud) forms because of repeated cell division, grows and detaches as a new individual (Hydra, yeast). (iii) Spore formation: sporangia produce spores that grow into new individuals in suitable conditions (Rhizopus).",
+          "marking": [
+            "Each with example: 1"
+          ]
+        },
+        {
+          "q": "For a convex lens, give the position, size and nature of the image when the object is (i) at infinity, (ii) at 2F_{1}, (iii) between F_{1} and the optical centre.",
+          "marks": 3,
+          "answer": "(i) At F_{2}: highly diminished (point-sized), real and inverted. (ii) At 2F_{2}: same size, real and inverted. (iii) On the same side as the object: enlarged, virtual and erect.",
+          "marking": [
+            "Each: 1"
+          ]
+        },
+        {
+          "q": "An electric iron is rated 1500 W, 220 V. Find (i) the current it draws, (ii) its resistance, (iii) the heat it produces in 1 minute.",
+          "marks": 3,
+          "answer": "(i) I = P/V = 1500/220 ≈ 6.8 A. (ii) R = V^{2}/P = 220^{2}/1500 ≈ 32.3 Ω. (iii) H = P × t = 1500 × 60 = 90000 J = 9 × 10^{4} J.",
+          "marking": [
+            "Each: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "attempt": 5,
+      "note": "Answer any 5 questions. 4 marks each.",
+      "questions": [
+        {
+          "q": "Why are metals high in the reactivity series (sodium, magnesium) extracted by electrolysis and not by reduction with carbon? Explain how sodium is obtained.",
+          "marks": 4,
+          "answer": "These metals have a greater affinity for oxygen than carbon has, so carbon cannot reduce their oxides. They are obtained by electrolysis of their molten chlorides. For sodium, molten NaCl is electrolysed. Sodium is deposited at the cathode (Na^{+} + e^{–} → Na) and chlorine is released at the anode (2Cl^{–} → Cl_{2} + 2e^{–}).",
+          "marking": [
+            "Why not carbon: 1",
+            "Electrolysis of molten chloride: 1",
+            "Cathode reaction: 1",
+            "Anode reaction: 1"
+          ]
+        },
+        {
+          "q": "(a) What does the pH of a solution tell us? [1]\n(b) A milkman adds a very small amount of baking soda to fresh milk. (i) Why does he shift the pH of the milk from 6 to slightly alkaline? (ii) Why does this milk take a long time to set as curd? [3]",
+          "marks": 4,
+          "answer": "(a) pH measures the hydrogen ion concentration of a solution on a scale of 0 to 14: below 7 is acidic, 7 is neutral, and above 7 is basic. (b)(i) In an alkaline medium the milk does not turn sour as quickly, so it keeps longer. (ii) The lactic acid produced while setting curd first has to neutralise the added base, so it takes longer for the milk to become acidic enough to set.",
+          "marking": [
+            "(a) 1",
+            "(b)(i) 1½",
+            "(b)(ii) 1½"
+          ]
+        },
+        {
+          "q": "Name the organs of the human excretory system and give the function of each. Name the functional unit of the kidney.",
+          "marks": 4,
+          "answer": "Kidneys: filter the blood to remove nitrogenous waste (urea) and excess water and salts, forming urine. Ureters: carry urine from the kidneys to the urinary bladder. Urinary bladder: stores urine until it is passed out. Urethra: carries urine out of the body. The functional unit of the kidney is the nephron.",
+          "marking": [
+            "Four organs with functions: 3 (¾ each)",
+            "Nephron: 1"
+          ]
+        },
+        {
+          "q": "(a) Name the main organs of the human female reproductive system and give one function of each. [3]\n(b) What happens if the egg is not fertilised? [1]",
+          "marks": 4,
+          "answer": "(a) Ovaries: produce eggs and the hormones oestrogen and progesterone. Oviducts (fallopian tubes): carry the egg; fertilisation takes place here. Uterus: the embryo implants and develops here. Vagina: receives sperm and is the birth canal. (b) The thick, spongy lining of the uterus breaks down and comes out as blood and mucus (menstruation), roughly every month.",
+          "marking": [
+            "(a) organs with functions: 3",
+            "(b) 1"
+          ]
+        },
+        {
+          "q": "(a) What is dispersion of light? [1]\n(b) Why does the sky look dark to astronauts in space? [1]\n(c) Why does the Sun appear reddish at sunrise and sunset? [2]",
+          "marks": 4,
+          "answer": "(a) The splitting of white light into its seven component colours, e.g. by a prism. (b) In space there is no atmosphere to scatter sunlight, so no scattered light reaches their eyes. (c) Near the horizon, sunlight passes through a much thicker layer of air. Most of the blue light is scattered away, and mainly red light, which is scattered least, reaches our eyes.",
+          "marking": [
+            "(a) 1",
+            "(b) 1",
+            "(c) longer path 1, blue scattered / red reaches 1"
+          ]
+        },
+        {
+          "q": "(a) State Joule's law of heating. [1]\n(b) Give two practical applications of the heating effect of current. [1]\n(c) Why is a fuse wire made of a material with a low melting point, and why is it connected in series with the live wire? [2]",
+          "marks": 4,
+          "answer": "(a) The heat produced in a resistor is directly proportional to the square of the current, the resistance and the time: H = I^{2}Rt. (b) Any two: electric iron, toaster, heater, bulb filament, fuse. (c) It must melt quickly and break the circuit when the current becomes too high. In series with the live wire, it cuts off the whole circuit when it melts, protecting the appliances and the wiring.",
+          "marking": [
+            "(a) 1",
+            "(b) 1",
+            "(c) low melting point 1, series with live wire 1"
+          ]
+        },
+        {
+          "q": "(a) What is biological magnification? [1]\n(b) Why is its effect greatest in human beings? [1]\n(c) Explain the 10 per cent law of energy flow with an example. [2]",
+          "marks": 4,
+          "answer": "(a) The progressive build-up of non-biodegradable chemicals (e.g. pesticides) at each trophic level of a food chain. (b) Humans are at the top of many food chains, so these chemicals collect in the largest amounts in our bodies. (c) Only about 10% of the energy at one trophic level passes to the next. For example, if plants have 10,000 J, herbivores get about 1,000 J and carnivores about 100 J.",
+          "marking": [
+            "(a) 1",
+            "(b) 1",
+            "(c) law 1, example 1"
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your boards!"
+}

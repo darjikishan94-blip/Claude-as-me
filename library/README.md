@@ -47,7 +47,9 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Title | Files |
 |---|---|
 | Pre-Board Mock 1 (CBSE pattern) | [PDF](class10-science/pdf/c10-mock-cbse-1.pdf) · [Word](class10-science/pdf/c10-mock-cbse-1.docx) · [Answer key](class10-science/pdf/c10-mock-cbse-1-answer-key.pdf) |
+| Pre-Board Mock 2 (CBSE pattern) | [PDF](class10-science/pdf/c10-mock-cbse-2.pdf) · [Word](class10-science/pdf/c10-mock-cbse-2.docx) · [Answer key](class10-science/pdf/c10-mock-cbse-2-answer-key.pdf) |
 | Pre-Board Mock 1 (GSEB pattern) | [PDF](class10-science/pdf/c10-mock-gseb-1.pdf) · [Word](class10-science/pdf/c10-mock-gseb-1.docx) · [Answer key](class10-science/pdf/c10-mock-gseb-1-answer-key.pdf) |
+| Pre-Board Mock 2 (GSEB pattern) | [PDF](class10-science/pdf/c10-mock-gseb-2.pdf) · [Word](class10-science/pdf/c10-mock-gseb-2.docx) · [Answer key](class10-science/pdf/c10-mock-gseb-2-answer-key.pdf) |
 
 ### Plans
 
