@@ -68,7 +68,8 @@
         "Changing a formula (H_{2}O → H_{2}O_{2}) to \"balance\" an equation.",
         "Forgetting physical states (s), (l), (g), (aq) when the question asks for them.",
         "Writing \"blue to green\" for Fe + CuSO_{4}. The solution turns from blue to **light green**."
-      ]
+      ],
+      "unbalanced": true
     },
     {
       "h": "Quick check"

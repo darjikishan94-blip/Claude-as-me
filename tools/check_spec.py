@@ -64,7 +64,9 @@ def parse_group(s):
 
 def parse_species(tok):
     """'2H2O(l)' -> Counter of atoms (with coefficient). None if not a formula. 'skip' for heat/energy."""
-    tok = tok.strip().rstrip(",.;")
+    tok = tok.strip().rstrip(",.;:!?\"'”’)✓").lstrip("\"'“‘")
+    if tok.count("(") > tok.count(")"):  # e.g. "4H2(g" after stripping a closing bracket: restore it
+        tok += ")"
     if tok in NON_SPECIES:
         return "skip"
     tok = STATE.sub("", tok)

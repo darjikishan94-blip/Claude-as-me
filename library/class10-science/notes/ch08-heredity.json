@@ -6,49 +6,106 @@
   "board": "CBSE / GSEB",
   "subject": "Science",
   "blocks": [
-    {"h": "Key terms"},
-    {"table": [
-      ["Term", "Meaning"],
-      ["Heredity", "Passing of traits from parents to offspring"],
-      ["Variation", "Differences among individuals of a species; very little in asexual reproduction, more in sexual reproduction"],
-      ["Gene", "A section of DNA that carries the information for a protein, and so for a trait"],
-      ["Dominant trait", "Expressed even if only one copy is present (T)"],
-      ["Recessive trait", "Expressed only when both copies are recessive (tt)"],
-      ["Genotype / phenotype", "Gene make-up (TT, Tt, tt) / visible trait (tall, short)"],
-      ["F_{1}, F_{2}", "First and second filial (offspring) generations"]
-    ]},
-    {"h": "Mendel's experiments (garden pea)"},
-    {"bullets": [
-      "Why pea: many clear contrasting traits, short life cycle, self-pollinating but easy to cross, many seeds.",
-      "**Monohybrid cross:** TT (tall) × tt (short) → F_{1} all tall (Tt). F_{1} × F_{1} → F_{2}: TT, Tt, Tt, tt.",
-      "F_{2} ratios: **phenotype 3 tall : 1 short**; **genotype 1 TT : 2 Tt : 1 tt**.",
-      "The short trait is not lost in F_{1}. It is hidden by the dominant trait and reappears in F_{2}.",
-      "**Dihybrid cross:** RRYY (round yellow) × rryy (wrinkled green) → F_{1} all RrYy (round yellow).",
-      "F_{2}: **9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green**, so traits are inherited **independently**."
-    ]},
-    {"box": [
-      "**Checkerboard for Tt × Tt.** Gametes from each parent: T and t.",
-      "T × T = TT (tall) · T × t = Tt (tall) · t × T = Tt (tall) · t × t = tt (short)"
-    ]},
-    {"h": "How genes control traits"},
-    {"p": "Gene → protein (often an enzyme) → trait. Example: an efficient enzyme makes more growth hormone, so the plant is tall. An altered gene gives a less efficient enzyme, less hormone, and a short plant. Each parent gives **one copy** of each gene to the offspring through the germ cells."},
-    {"h": "Sex determination in humans"},
-    {"bullets": [
-      "Humans have 23 pairs of chromosomes. One pair is the sex chromosomes.",
-      "Mother: XX, so every egg carries X. Father: XY, so half the sperm carry X and half carry Y.",
-      "X sperm + egg → XX (girl). Y sperm + egg → XY (boy). So the **father's sperm decides** the sex. The chance is 50 : 50.",
-      "In some animals the environment decides sex: in some reptiles, the temperature at which eggs are kept. Some snails can change sex."
-    ]},
-    {"h": "Common mistakes"},
-    {"bullets": [
-      "Writing the F_{2} ratio as 1 : 2 : 1 when the question asks for the **phenotypic** ratio (3 : 1).",
-      "Saying the mother decides the sex of the child.",
-      "Forgetting to show gametes in a cross. They carry marks!"
-    ]},
-    {"h": "Quick check"},
-    {"p": "1. In a cross Tt × tt, what fraction of offspring will be short?"},
-    {"lines": 1},
-    {"p": "2. Why is the sex of a child decided by the father?"},
-    {"lines": 2}
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning"
+        ],
+        [
+          "Heredity",
+          "Passing of traits from parents to offspring"
+        ],
+        [
+          "Variation",
+          "Differences among individuals of a species; very little in asexual reproduction, more in sexual reproduction"
+        ],
+        [
+          "Gene",
+          "A section of DNA that carries the information for a protein, and so for a trait"
+        ],
+        [
+          "Dominant trait",
+          "Expressed even if only one copy is present (T)"
+        ],
+        [
+          "Recessive trait",
+          "Expressed only when both copies are recessive (tt)"
+        ],
+        [
+          "Genotype / phenotype",
+          "Gene make-up (TT, Tt, tt) / visible trait (tall, short)"
+        ],
+        [
+          "F_{1}, F_{2}",
+          "First and second filial (offspring) generations"
+        ]
+      ]
+    },
+    {
+      "h": "Mendel's experiments (garden pea)"
+    },
+    {
+      "bullets": [
+        "Why pea: many clear contrasting traits, short life cycle, self-pollinating but easy to cross, many seeds.",
+        "**Monohybrid cross:** TT (tall) × tt (short) → F_{1} all tall (Tt). F_{1} × F_{1} → F_{2}: TT, Tt, Tt, tt.",
+        "F_{2} ratios: **phenotype 3 tall : 1 short**; **genotype 1 TT : 2 Tt : 1 tt**.",
+        "The short trait is not lost in F_{1}. It is hidden by the dominant trait and reappears in F_{2}.",
+        "**Dihybrid cross:** RRYY (round yellow) × rryy (wrinkled green) → F_{1} all RrYy (round yellow).",
+        "F_{2}: **9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green**, so traits are inherited **independently**."
+      ],
+      "unbalanced": true
+    },
+    {
+      "box": [
+        "**Checkerboard for Tt × Tt.** Gametes from each parent: T and t.",
+        "T × T = TT (tall) · T × t = Tt (tall) · t × T = Tt (tall) · t × t = tt (short)"
+      ]
+    },
+    {
+      "h": "How genes control traits"
+    },
+    {
+      "p": "Gene → protein (often an enzyme) → trait. Example: an efficient enzyme makes more growth hormone, so the plant is tall. An altered gene gives a less efficient enzyme, less hormone, and a short plant. Each parent gives **one copy** of each gene to the offspring through the germ cells."
+    },
+    {
+      "h": "Sex determination in humans"
+    },
+    {
+      "bullets": [
+        "Humans have 23 pairs of chromosomes. One pair is the sex chromosomes.",
+        "Mother: XX, so every egg carries X. Father: XY, so half the sperm carry X and half carry Y.",
+        "X sperm + egg → XX (girl). Y sperm + egg → XY (boy). So the **father's sperm decides** the sex. The chance is 50 : 50.",
+        "In some animals the environment decides sex: in some reptiles, the temperature at which eggs are kept. Some snails can change sex."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Writing the F_{2} ratio as 1 : 2 : 1 when the question asks for the **phenotypic** ratio (3 : 1).",
+        "Saying the mother decides the sex of the child.",
+        "Forgetting to show gametes in a cross. They carry marks!"
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. In a cross Tt × tt, what fraction of offspring will be short?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Why is the sex of a child decided by the father?"
+    },
+    {
+      "lines": 2
+    }
   ]
 }
