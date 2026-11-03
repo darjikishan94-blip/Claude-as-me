@@ -1,0 +1,403 @@
+<title>Level Up Library</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: a teacher's ledger. Shelves of papers indexed by class; royal-blue ink marks papers, red pen marks answer keys. */
+:root {
+  --paper: #F5F7FC;
+  --surface: #FFFFFF;
+  --ink: #16213F;
+  --muted: #56607E;
+  --line: #DCE1ED;
+  --chip: #EBEFF8;
+  --accent: #2446C9;
+  --accent-ink: #FFFFFF;
+  --accent-soft: #E3E9FB;
+  --redpen: #BF3329;
+  --redpen-soft: #FBE9E7;
+  --shadow: 0 10px 30px rgba(22, 33, 63, .14);
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0D1323; --surface: #151D33; --ink: #E7EBF5; --muted: #9AA5C3; --line: #27324F; --chip: #1C2540;
+    --accent: #8EA2FF; --accent-ink: #0D1323; --accent-soft: #1F2A4D; --redpen: #FF8A7A; --redpen-soft: #3A1E22;
+    --shadow: 0 10px 30px rgba(0, 0, 0, .45); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0D1323; --surface: #151D33; --ink: #E7EBF5; --muted: #9AA5C3; --line: #27324F; --chip: #1C2540;
+  --accent: #8EA2FF; --accent-ink: #0D1323; --accent-soft: #1F2A4D; --redpen: #FF8A7A; --redpen-soft: #3A1E22;
+  --shadow: 0 10px 30px rgba(0, 0, 0, .45); color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+.wrap { max-width: 980px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* masthead */
+.mast { padding-block: 28px 12px; }
+.eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--display); font-weight: 800; font-size: clamp(32px, 7vw, 52px); line-height: 1.02; letter-spacing: -.02em; margin: 6px 0 10px; text-wrap: balance; }
+h1 em { font-style: normal; color: var(--accent); }
+.lede { max-width: 62ch; color: var(--muted); margin: 0; }
+.tally { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 16px 0 0; padding: 0; list-style: none; font-family: var(--mono); font-size: 13px; }
+.tally b { font-family: var(--display); font-size: 22px; font-weight: 800; margin-right: 6px; font-variant-numeric: tabular-nums; }
+
+/* sticky search bar */
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--paper); border-bottom: 1px solid var(--line); }
+.bar .wrap { padding-block: 10px; display: grid; gap: 10px; }
+.search { position: relative; }
+.search input { width: 100%; font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 11px 14px 11px 40px; }
+.search svg { position: absolute; left: 13px; top: 50%; transform: translateY(-50%); width: 18px; height: 18px; color: var(--muted); }
+.shelves { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.shelves::-webkit-scrollbar { display: none; }
+.shelf-btn { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; cursor: pointer; font-size: 14px; white-space: nowrap; }
+.shelf-btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.shelf-btn .n { font-family: var(--mono); font-size: 12px; opacity: .7; margin-left: 4px; }
+
+/* shelves */
+main { padding-block: 8px 64px; }
+.shelf { margin-top: 28px; }
+.shelf > h2 { font-family: var(--display); font-weight: 800; font-size: 26px; letter-spacing: -.01em; margin: 0 0 4px; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.shelf > h2 .n { font-family: var(--mono); font-size: 13px; font-weight: 500; color: var(--muted); }
+.shelf > p { margin: 0 0 8px; color: var(--muted); max-width: 64ch; font-size: 15px; }
+.section { margin-top: 18px; }
+.section h3 { font-family: var(--mono); font-weight: 500; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; gap: 12px; }
+.list { display: grid; gap: 0; }
+.row { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center; width: 100%; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--line); padding: 12px 4px; cursor: pointer; }
+.row:hover { background: var(--accent-soft); }
+.row .t { font-weight: 700; min-width: 0; }
+.row .m { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+.row .go { color: var(--muted); font-size: 20px; line-height: 1; }
+.chip { font-family: var(--mono); font-size: 11.5px; padding: 2px 8px; border-radius: 6px; background: var(--chip); color: var(--muted); white-space: nowrap; }
+.chip.key { background: var(--redpen-soft); color: var(--redpen); }
+.chip.board { background: var(--accent-soft); color: var(--accent); }
+
+/* chapter ledger */
+.ledger { display: grid; gap: 0; }
+.ch { display: grid; grid-template-columns: 2.6rem minmax(0, 1fr) auto; gap: 10px 12px; align-items: center; border-bottom: 1px solid var(--line); padding: 10px 4px; }
+.ch .no { font-family: var(--display); font-weight: 800; font-size: 22px; color: var(--accent); font-variant-numeric: tabular-nums; }
+.ch .name { font-weight: 700; min-width: 0; }
+.ch .vers { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.ver { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 6px 10px; cursor: pointer; font-size: 13px; white-space: nowrap; }
+.ver:hover { border-color: var(--accent); color: var(--accent); }
+@media (max-width: 560px) {
+  .ch { grid-template-columns: 2.2rem minmax(0, 1fr); }
+  .ch .vers { grid-column: 2; justify-content: flex-start; }
+}
+.empty { color: var(--muted); padding: 24px 4px; }
+
+/* bottom sheet */
+.scrim { position: fixed; inset: 0; background: rgba(8, 12, 24, .45); z-index: 20; display: flex; align-items: flex-end; justify-content: center; }
+.sheet { background: var(--surface); width: min(560px, 100%); border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 20px max(18px, env(safe-area-inset-left, 0px)) calc(20px + env(safe-area-inset-bottom, 0px)) max(18px, env(safe-area-inset-right, 0px)); max-height: 88vh; overflow-y: auto; }
+@media (min-width: 700px) { .scrim { align-items: center; } .sheet { border-radius: 18px; } }
+.sheet .grab { width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: -6px auto 14px; }
+.sheet h4 { font-family: var(--display); font-weight: 800; font-size: 22px; line-height: 1.15; margin: 0 0 6px; text-wrap: balance; }
+.sheet .sub { color: var(--muted); margin: 0 0 10px; }
+.sheet .m { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.acts { display: grid; gap: 8px; }
+.act { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; border-radius: 10px; padding: 12px 14px; cursor: pointer; border: 1px solid var(--line); background: var(--surface); text-align: left; font-weight: 700; }
+.act small { font-weight: 400; color: var(--muted); font-family: var(--mono); font-size: 12px; }
+.act.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.act.primary small { color: inherit; opacity: .8; }
+.act.key { border-color: var(--redpen); color: var(--redpen); }
+.act[disabled] { opacity: .5; cursor: default; }
+.note { font-size: 14px; color: var(--muted); margin: 14px 0 0; }
+.close-x { float: right; border: 0; background: none; font-size: 26px; line-height: 1; cursor: pointer; color: var(--muted); margin: -8px -4px 0 8px; }
+
+/* reader */
+.viewer { position: fixed; inset: 0; z-index: 30; background: var(--paper); display: flex; flex-direction: column; }
+.vbar { flex: none; display: flex; align-items: center; gap: 10px; padding: calc(10px + env(safe-area-inset-top, 0px)) max(16px, env(safe-area-inset-right, 0px)) 10px max(16px, env(safe-area-inset-left, 0px)); border-bottom: 1px solid var(--line); background: var(--surface); }
+.vbar .vt { flex: 1; min-width: 0; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.vbtn { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 7px 12px; cursor: pointer; font-size: 14px; white-space: nowrap; }
+.vbtn.strong { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.vbody { flex: 1; overflow-y: auto; padding: 16px max(16px, env(safe-area-inset-right, 0px)) calc(32px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+.pages { display: grid; gap: 14px; justify-items: center; }
+.pages canvas { background: #fff; box-shadow: var(--shadow); max-width: 100%; height: auto; border-radius: 2px; }
+.loading, .err { text-align: center; color: var(--muted); padding: 40px 8px; }
+.article { max-width: 70ch; margin: 0 auto; }
+.article h1 { font-size: 30px; }
+.article h2 { font-family: var(--display); font-weight: 800; font-size: 22px; margin: 28px 0 8px; }
+.article h3 { font-family: var(--display); font-weight: 600; font-size: 18px; margin: 22px 0 6px; }
+.article a { color: var(--accent); }
+.article table { border-collapse: collapse; font-size: 14px; min-width: 100%; }
+.article th, .article td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+.article .tbl { overflow-x: auto; margin: 10px 0; }
+.article blockquote { margin: 10px 0; padding: 4px 14px; border-left: 3px solid var(--accent); color: var(--muted); }
+.msg { position: relative; margin: 10px 0 16px; }
+.msg pre { margin: 0; white-space: pre-wrap; word-break: break-word; font-family: var(--body); font-size: 15px; background: var(--accent-soft); border-radius: 12px; padding: 14px 14px 14px 14px; padding-top: 38px; }
+.msg .copy { position: absolute; top: 8px; right: 8px; border: 1px solid var(--line); background: var(--surface); border-radius: 7px; padding: 3px 10px; font-size: 13px; cursor: pointer; }
+.article code { font-family: var(--mono); font-size: .9em; }
+
+/* toast */
+.toast { position: fixed; left: 50%; bottom: calc(18px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 10px 16px; border-radius: 10px; z-index: 40; font-size: 14px; max-width: calc(100% - 32px); box-shadow: var(--shadow); }
+footer { color: var(--muted); font-size: 13px; padding-block: 0 40px; }
+@media (prefers-reduced-motion: no-preference) { .sheet { animation: rise .18s ease-out; } @keyframes rise { from { transform: translateY(16px); opacity: .6; } to { transform: none; opacity: 1; } } }
+</style>
+
+<header class="mast"><div class="wrap">
+  <div class="eyebrow">Level Up Academy · CBSE &amp; GSEB · Classes 8–10</div>
+  <h1>Level Up <em>Library</em></h1>
+  <p class="lede">Every test paper, answer key, revision sheet, mock, plan and message kit made for the academy. Tap anything to read it here, open its answer key, or save the PDF. Need the editable Word file? Ask Claude in your Claude-as-me session, e.g. “send me the Word file of the Ch 11 test”.</p>
+  <ul class="tally" id="tally"></ul>
+</div></header>
+
+<div class="bar"><div class="wrap">
+  <label class="search" for="q"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+    <input id="q" type="search" placeholder="Search: electricity, mock, Class 9 motion, fees…" autocomplete="off" aria-label="Search the library"></label>
+  <nav class="shelves" id="shelves" aria-label="Shelves"></nav>
+</div></div>
+
+<main class="wrap" id="main"></main>
+<footer class="wrap" id="foot"></footer>
+
+<div class="scrim" id="scrim" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title"></div></div>
+<div class="viewer" id="viewer" hidden>
+  <div class="vbar"><button class="vbtn" id="vclose" type="button">Close</button><div class="vt" id="vtitle"></div><button class="vbtn strong" id="vsave" type="button" hidden>Save</button></div>
+  <div class="vbody" id="vbody"></div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script type="application/json" id="lib-data">/*__DATA__*/</script>
+<script>
+(function () {
+  const DATA = JSON.parse(document.getElementById("lib-data").textContent);
+  const ITEMS = DATA.items;
+  const byId = Object.fromEntries(ITEMS.map(i => [i.id, i]));
+  const SHELVES = DATA.shelves;
+  const $ = s => document.querySelector(s);
+  const main = $("#main"), q = $("#q"), shelvesNav = $("#shelves");
+  let shelf = "all", downloads = null, downloadsKnown = false;
+
+  // ---------- capabilities ----------
+  const use = window.claude && typeof window.claude.use === "function" ? window.claude.use("downloads") : Promise.resolve(null);
+  use.then(d => { downloads = d; downloadsKnown = true; refreshSheet(); }).catch(() => { downloadsKnown = true; refreshSheet(); });
+
+  // ---------- helpers ----------
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === "class") n.className = v; else if (k === "text") n.textContent = v;
+      else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else if (v !== false && v != null) n.setAttribute(k, v);
+    }
+    for (const kid of kids.flat()) if (kid != null) n.append(kid);
+    return n;
+  };
+  const chip = (t, cls = "") => el("span", { class: "chip " + cls, text: t });
+  let toastTimer;
+  function toast(msg) { const t = $("#toast"); t.textContent = msg; t.hidden = false; clearTimeout(toastTimer); toastTimer = setTimeout(() => t.hidden = true, 3200); }
+  const store = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} } };
+
+  function metaChips(it) {
+    const out = [];
+    if (it.board) out.push(chip(it.board, "board"));
+    if (it.marks) out.push(chip(it.marks + " marks"));
+    if (it.time) out.push(chip(it.time));
+    if (it.pages) out.push(chip(it.pages + (it.pages === 1 ? " page" : " pages")));
+    if (it.files && it.files.key) out.push(chip("answer key", "key"));
+    if (it.kind === "kit") out.push(chip("ready-to-copy messages"));
+    return out;
+  }
+
+  // ---------- tally + shelves ----------
+  const tally = $("#tally");
+  for (const [n, label] of DATA.tally) tally.append(el("li", {}, el("b", { text: String(n) }), label));
+  function renderShelves() {
+    shelvesNav.innerHTML = "";
+    const all = [{ id: "all", name: "Everything", count: ITEMS.length }, ...SHELVES.map(s => ({ id: s.id, name: s.short, count: ITEMS.filter(i => i.shelf === s.id).length }))];
+    for (const s of all) {
+      shelvesNav.append(el("button", { class: "shelf-btn", type: "button", "aria-pressed": String(shelf === s.id), onclick: () => setShelf(s.id, true) },
+        s.name, el("span", { class: "n", text: String(s.count) })));
+    }
+  }
+  function setShelf(id, push) {
+    shelf = SHELVES.some(s => s.id === id) ? id : "all";
+    store.set("lul-shelf", shelf);
+    if (push) { try { history.replaceState(null, "", shelf === "all" ? location.pathname + location.search : "#" + shelf); } catch (e) {} }
+    renderShelves(); render();
+  }
+
+  // ---------- main list ----------
+  function itemRow(it) {
+    return el("button", { class: "row", type: "button", onclick: () => openSheet(it.id) },
+      el("div", { class: "t" }, it.title, el("div", { class: "m" }, metaChips(it))),
+      el("span", { class: "go", "aria-hidden": "true", text: "›" }));
+  }
+  function ledger(items) {
+    const chapters = {};
+    for (const it of items) (chapters[it.chapter_no] = chapters[it.chapter_no] || { name: it.chapter, vers: [] }).vers.push(it);
+    const order = ["Set A", "Set B", "GSEB"];
+    return el("div", { class: "ledger" }, Object.keys(chapters).map(Number).sort((a, b) => a - b).map(no => {
+      const c = chapters[no];
+      c.vers.sort((a, b) => order.indexOf(a.variant) - order.indexOf(b.variant));
+      return el("div", { class: "ch" },
+        el("div", { class: "no", text: String(no).padStart(2, "0") }),
+        el("div", { class: "name", text: c.name }),
+        el("div", { class: "vers" }, c.vers.map(v => el("button", { class: "ver", type: "button", onclick: () => openSheet(v.id), "aria-label": c.name + ", " + v.variant, text: v.variant }))));
+    }));
+  }
+  function matches(it, words) {
+    const hay = it.search;
+    return words.every(w => hay.includes(w));
+  }
+  function render() {
+    main.innerHTML = "";
+    const words = q.value.toLowerCase().split(/\s+/).filter(Boolean);
+    const shelves = SHELVES.filter(s => shelf === "all" || s.id === shelf);
+    let shown = 0;
+    for (const s of shelves) {
+      const items = ITEMS.filter(i => i.shelf === s.id && (!words.length || matches(i, words)));
+      if (!items.length) continue;
+      shown += items.length;
+      const box = el("section", { class: "shelf", id: "shelf-" + s.id },
+        el("h2", {}, s.name, el("span", { class: "n", text: items.length + (items.length === 1 ? " item" : " items") })),
+        s.blurb && !words.length ? el("p", { text: s.blurb }) : null);
+      for (const sec of s.sections) {
+        const its = items.filter(i => i.section === sec.name);
+        if (!its.length) continue;
+        const head = el("h3", {}, el("span", { text: sec.name }), el("span", { text: String(its.length) }));
+        const body = sec.ledger && !words.length ? ledger(its) : el("div", { class: "list" }, its.map(itemRow));
+        box.append(el("div", { class: "section" }, head, sec.note && !words.length ? el("p", { class: "note", style: "margin:0 0 6px", text: sec.note }) : null, body));
+      }
+      main.append(box);
+    }
+    if (!shown) main.append(el("p", { class: "empty", text: "Nothing matches “" + q.value + "”. Try a chapter name like “electricity” or a class like “class 9”." }));
+  }
+
+  // ---------- detail sheet ----------
+  let sheetItem = null;
+  function openSheet(id) { sheetItem = byId[id]; refreshSheet(); $("#scrim").hidden = false; setTimeout(() => { const b = $("#sheet .act"); if (b) b.focus(); }, 30); }
+  function closeSheet() { $("#scrim").hidden = true; sheetItem = null; }
+  function refreshSheet() {
+    const it = sheetItem; if (!it) return;
+    const sh = $("#sheet"); sh.innerHTML = "";
+    const f = it.files || {};
+    const acts = [];
+    if (it.kind === "kit" || it.kind === "doc") acts.push(act("Read here", it.kind === "kit" ? "copy buttons on every message" : "", "primary", () => openHtml(it)));
+    if (f.pdf && it.kind !== "kit") acts.push(act("Read paper", it.pages ? it.pages + (it.pages === 1 ? " page" : " pages") : "", "primary", () => openPdf(f.pdf, it.title, it.save.pdf)));
+    if (f.key) acts.push(act("Read answer key", "teacher copy", "key", () => openPdf(f.key, it.title + " (answer key)", it.save.key)));
+    const saves = [];
+    if (f.pdf) saves.push(act("Save PDF", "print-ready", "", () => saveFile(f.pdf, it.save.pdf)));
+    if (f.key) saves.push(act("Save answer key", "PDF", "", () => saveFile(f.key, it.save.key)));
+    if (f.md) saves.push(act(it.kind === "kit" ? "Save messages as text" : "Save text file", ".md", "", () => saveFile(f.md, it.save.md)));
+    sh.append(
+      el("div", { class: "grab", "aria-hidden": "true" }),
+      el("button", { class: "close-x", type: "button", "aria-label": "Close", onclick: closeSheet, text: "×" }),
+      el("h4", { id: "sheet-title", text: it.title }),
+      it.sub ? el("p", { class: "sub", text: it.sub }) : null,
+      el("div", { class: "m" }, metaChips(it)),
+      el("div", { class: "acts" }, acts, downloads ? saves : []));
+    if (!downloads && saves.length) sh.append(el("p", { class: "note", text: downloadsKnown ? "Saving files works when this library is opened in claude.ai or the Claude app. You can still read everything here." : "Checking whether saving is available…" }));
+    if (it.howto) sh.append(el("p", { class: "note", text: it.howto }));
+  }
+  function act(label, small, cls, fn) { return el("button", { class: "act " + cls, type: "button", onclick: fn }, el("span", { text: label }), small ? el("small", { text: small }) : null); }
+  $("#scrim").addEventListener("click", e => { if (e.target.id === "scrim") closeSheet(); });
+
+  // ---------- saving ----------
+  async function saveFile(path, filename) {
+    if (!downloads) { toast("Saving isn't available in this view."); return; }
+    let blob;
+    try { const r = await fetch(path); if (!r.ok) throw new Error(r.status); blob = await r.blob(); }
+    catch (e) { toast("That file isn't available yet. Try again in a minute."); return; }
+    try { await downloads.save({ filename, data: blob }); toast("Saved " + filename); }
+    catch (e) {
+      const c = e && e.code;
+      if (c === "declined") toast("Not saved.");
+      else if (c === "rate_limited") toast("Finish the save that's already open first.");
+      else toast("Couldn't save this file here.");
+    }
+  }
+
+  // ---------- reader ----------
+  const viewer = $("#viewer"), vbody = $("#vbody"), vsave = $("#vsave");
+  let viewToken = 0, viewSave = null, lastFocus = null;
+  function showViewer(title, save) {
+    lastFocus = document.activeElement;
+    $("#vtitle").textContent = title; viewer.hidden = false; vbody.scrollTop = 0;
+    viewSave = save; vsave.hidden = !(save && downloads);
+    $("#vclose").focus();
+  }
+  $("#vclose").addEventListener("click", () => { viewToken++; viewer.hidden = true; vbody.innerHTML = ""; if (lastFocus) lastFocus.focus(); });
+  vsave.addEventListener("click", () => { if (viewSave) saveFile(viewSave.path, viewSave.name); });
+  document.addEventListener("keydown", e => {
+    if (e.key !== "Escape") return;
+    if (!viewer.hidden) $("#vclose").click(); else if (!$("#scrim").hidden) closeSheet();
+  });
+
+  const PDFJS = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/";
+  let pdfReady = null;
+  function loadScript(src) { return new Promise((res, rej) => { const s = document.createElement("script"); s.src = src; s.onload = res; s.onerror = rej; document.head.append(s); }); }
+  function loadPdfJs() {
+    if (!pdfReady) pdfReady = loadScript(PDFJS + "pdf.worker.min.js").then(() => loadScript(PDFJS + "pdf.min.js")).then(() => {
+      window.pdfjsLib.GlobalWorkerOptions.workerSrc = PDFJS + "pdf.worker.min.js"; return window.pdfjsLib;
+    });
+    pdfReady.catch(() => { pdfReady = null; });
+    return pdfReady;
+  }
+  async function openPdf(path, title, saveName) {
+    const token = ++viewToken;
+    showViewer(title, { path, name: saveName });
+    vbody.innerHTML = ""; const pages = el("div", { class: "pages" }); const status = el("p", { class: "loading", text: "Opening…" });
+    vbody.append(status, pages);
+    try {
+      const [lib, buf] = await Promise.all([loadPdfJs(), fetch(path).then(r => { if (!r.ok) throw new Error(r.status); return r.arrayBuffer(); })]);
+      const doc = await lib.getDocument({ data: buf }).promise;
+      if (token !== viewToken) return;
+      status.remove();
+      const width = Math.min(vbody.clientWidth - 32, 860);
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      for (let i = 1; i <= doc.numPages; i++) {
+        const page = await doc.getPage(i);
+        if (token !== viewToken) return;
+        const base = page.getViewport({ scale: 1 });
+        const vp = page.getViewport({ scale: (width / base.width) * dpr });
+        const c = el("canvas", { "aria-label": "Page " + i + " of " + doc.numPages });
+        c.width = Math.floor(vp.width); c.height = Math.floor(vp.height); c.style.width = Math.floor(vp.width / dpr) + "px";
+        pages.append(c);
+        await page.render({ canvasContext: c.getContext("2d"), viewport: vp }).promise;
+      }
+    } catch (e) {
+      if (token !== viewToken) return;
+      status.className = "err";
+      status.textContent = downloads ? "This paper couldn't be shown here. Use Save to open it on your device." : "This paper couldn't be shown here right now.";
+    }
+  }
+  function openHtml(it) {
+    viewToken++;
+    const f = it.files || {};
+    const save = f.pdf ? { path: f.pdf, name: it.save.pdf } : f.md ? { path: f.md, name: it.save.md } : null;
+    showViewer(it.title, save);
+    vbody.innerHTML = "";
+    const art = el("article", { class: "article" });
+    art.innerHTML = it.html;
+    art.querySelectorAll("table").forEach(t => { const w = el("div", { class: "tbl" }); t.replaceWith(w); w.append(t); });
+    art.querySelectorAll("pre").forEach(pre => {
+      const box = el("div", { class: "msg" }); pre.replaceWith(box);
+      const btn = el("button", { class: "copy", type: "button", text: "Copy" });
+      btn.addEventListener("click", () => copyText(pre.innerText.replace(/\n$/, ""), btn, pre));
+      box.append(pre, btn);
+    });
+    vbody.append(art);
+  }
+  function copyText(text, btn, pre) {
+    const done = () => { btn.textContent = "Copied"; setTimeout(() => btn.textContent = "Copy", 1600); };
+    const fallback = () => { const r = document.createRange(); r.selectNodeContents(pre); const s = getSelection(); s.removeAllRanges(); s.addRange(r); toast("Selected. Use your phone's Copy."); };
+    try { navigator.clipboard.writeText(text).then(done, fallback); } catch (e) { fallback(); }
+  }
+
+  // ---------- start ----------
+  $("#foot").textContent = DATA.footer;
+  q.addEventListener("input", () => render());
+  const fromHash = location.hash.replace("#", "");
+  setShelf(SHELVES.some(s => s.id === fromHash) ? fromHash : (store.get("lul-shelf") || "all"), false);
+  window.addEventListener("hashchange", () => { const h = location.hash.replace("#", ""); if (SHELVES.some(s => s.id === h)) setShelf(h, false); });
+})();
+</script>

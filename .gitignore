@@ -11,3 +11,6 @@ __pycache__/
 .DS_Store
 ~$*
 dist/kishan-as-me/
+
+# built Level Up Library site (copies of library files)
+dist/library-site/

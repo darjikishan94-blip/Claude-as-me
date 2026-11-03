@@ -16,6 +16,11 @@ My AI twin. Claude reads this repo and works **as me (Kishan)**. It writes in my
 
 You don't need to name the skill. Just ask normally.
 
+## 📱 Level Up Library: everything in one link
+**https://claude.ai/artifact/2HPHX5ohg3F6GYLhrge6dF** (private to me)
+
+A phone-friendly library website holding every test, answer key, revision sheet, mock, plan, message kit and YouTube script. It sorts everything onto shelves (Class 10 / 9 / 8, Admin, YouTube, Setup) and has search. Each paper opens right on the page with its answer key, and PDFs can be saved. Every message in the kits has a Copy button for WhatsApp. To rebuild it, run `python3 tools/build_library_site.py` and ask Claude to republish it to the same link.
+
 ## 📚 Ready-made content library
 **[library/README.md](library/README.md)** has everything ready to print, all automatically checked (marks add up, equations balanced, answer keys valid):
 - **Class 10 Science:** a 25-mark test + answer key for all 13 chapters, and a one-page revision sheet for each
@@ -62,6 +67,7 @@ tools/
   check_spec.py        accuracy checks: balanced equations, valid MCQ keys
   balance_mcq.py       spreads correct MCQ answers across (a)–(d)
   build_library.py     builds every library PDF + the library index
+  build_library_site.py  builds the Level Up Library web page (dist/library-site)
   marks_report.py      marks list → summary, ranks, tiers, Excel sheet
   build_app_skill.py   packs everything into dist/kishan-as-me.zip
 samples/               example specs + rendered PDFs
