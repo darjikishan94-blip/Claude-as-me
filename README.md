@@ -25,6 +25,7 @@ A phone-friendly library website holding every test, answer key, revision sheet,
 **[library/README.md](library/README.md)** has everything ready to print, all automatically checked (marks add up, equations balanced, answer keys valid):
 - **Class 10 Science:** a 25-mark test + answer key for all 13 chapters, and a one-page revision sheet for each
 - **Set B re-tests** for every chapter, so each chapter has two different 25-mark tests
+- **Daily practice packs** for all 13 chapters: three ~25-minute days per chapter in the order of the 90-day plan, question-only sheets (answers in the notebook) with answer keys. 267 new questions, checked so they don't repeat the tests or mocks
 - **GSEB-pattern chapter tests** for all 13 chapters (9 objective + 3×2 + 2×3 + 1×4), built from the checked questions
 - **Most-expected question banks** for Chemistry, Physics and Biology (1/2/3/5-mark, with answers)
 - **Final-revision sheets:** all-chapter equation sheet (75 checked equations), physics formula sheet, diagram checklist
@@ -38,7 +39,7 @@ A phone-friendly library website holding every test, answer key, revision sheet,
 - **Admissions kit 2027-28:** broadcasts, posters, Instagram captions, enquiry replies, demo-class plan, referral and testimonial messages
 - **3 YouTube video scripts** (balancing equations, 3-mark answers, 90-day plan), with titles, descriptions, tags and Shorts cuts
 
-Just ask: *"send me the Ch 11 test"*, *"Set B of the Ch 4 test"*, *"the 90-day plan PDF"*.
+Just ask: *"send me the Ch 11 test"*, *"Set B of the Ch 4 test"*, *"this week's daily practice"*, *"the 90-day plan PDF"*.
 
 ## How to use it from my phone
 1. Open the **Claude** app → **Code** → start a session on **Claude-as-me**.
@@ -65,6 +66,7 @@ library/               ready-made tests, notes, mocks, plans, kits, scripts (see
 tools/
   make_paper.py        JSON → printable DOCX + PDF (tests, worksheets, notes)
   check_spec.py        accuracy checks: balanced equations, valid MCQ keys
+  check_duplicates.py  flags new questions that repeat ones already in the library
   balance_mcq.py       spreads correct MCQ answers across (a)–(d)
   build_library.py     builds every library PDF + the library index
   build_library_site.py  builds the Level Up Library web page (dist/library-site)

@@ -1,0 +1,203 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch12-magnetic-effects",
+  "title": "Daily Practice: Ch 12 Magnetic Effects of Electric Current",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Magnetic Effects of Electric Current · Week 6 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "For every direction question, use your hand and say the rule out loud. Right-hand thumb rule for the field; Fleming's left-hand rule for the force."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Magnetic fields and field lines",
+      "questions": [
+        {
+          "q": "A compass needle is a small:",
+          "lines": 0,
+          "options": [
+            "bar magnet",
+            "piece of copper",
+            "solenoid",
+            "electric cell"
+          ],
+          "answer": "(a) bar magnet, free to turn"
+        },
+        {
+          "q": "Around a bar magnet, the magnetic field is strongest:",
+          "lines": 0,
+          "options": [
+            "at the middle of the magnet",
+            "far away from the magnet",
+            "near the poles",
+            "equally everywhere"
+          ],
+          "answer": "(c) near the poles, where the field lines are most crowded"
+        },
+        {
+          "q": "The magnetic field produced by a straight current-carrying wire at a given point becomes stronger if:",
+          "lines": 0,
+          "options": [
+            "the point is moved farther from the wire",
+            "the current in the wire is increased",
+            "the wire is painted",
+            "the current is reduced"
+          ],
+          "answer": "(b) the current in the wire is increased"
+        },
+        {
+          "q": "What did Hans Christian Oersted observe in 1820, and why was it important?",
+          "lines": 2,
+          "answer": "He saw that a compass needle near a wire was deflected whenever an electric current flowed through the wire. It showed that electricity and magnetism are linked: an electric current produces a magnetic field."
+        },
+        {
+          "q": "How does a field-line diagram show where a magnetic field is strong and where it is weak?",
+          "lines": 2,
+          "answer": "By how close together the field lines are. Where the lines are crowded, the field is strong; where they are far apart, it is weak."
+        },
+        {
+          "q": "A straight vertical wire passes through a horizontal sheet of cardboard and carries current upwards. Describe the field lines on the cardboard, and give their direction as seen from above. What changes if the current is reversed?",
+          "lines": 4,
+          "answer": "The field lines are concentric circles centred on the wire. With the current upwards, by the right-hand thumb rule (thumb up), they run anticlockwise as seen from above. If the current is reversed, the circles stay the same but the direction becomes clockwise."
+        },
+        {
+          "q": "Why is the magnetic field at the centre of a circular coil of 50 turns about 50 times as strong as that of a single turn carrying the same current?",
+          "lines": 3,
+          "answer": "The current in each turn flows in the same direction, so the magnetic fields of all the turns point the same way at the centre and add up. Fifty turns therefore give about fifty times the field of one turn."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Force on a conductor and electromagnets",
+      "questions": [
+        {
+          "q": "In Fleming's left-hand rule, the thumb points in the direction of the:",
+          "lines": 0,
+          "options": [
+            "force (motion) on the conductor",
+            "current",
+            "magnetic field",
+            "north pole"
+          ],
+          "answer": "(a) force (motion). Forefinger: field. Middle finger: current."
+        },
+        {
+          "q": "The force on a current-carrying conductor in a magnetic field is greatest when the angle between the current and the field is:",
+          "lines": 0,
+          "options": [
+            "0°",
+            "30°",
+            "45°",
+            "90°"
+          ],
+          "answer": "(d) 90°: the conductor is perpendicular to the field"
+        },
+        {
+          "q": "A beam of electrons moves from left to right across this page. A magnetic field acts into the page. The force on the beam is towards the:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "top of the page",
+            "bottom of the page",
+            "inside of the page",
+            "outside of the page"
+          ],
+          "answer": "(b) bottom of the page. Electrons moving left to right are a conventional current from right to left; Fleming's left-hand rule then gives a force towards the bottom of the page."
+        },
+        {
+          "q": "How can you find out which end of a current-carrying solenoid is its north pole, using only a compass?",
+          "lines": 2,
+          "answer": "Bring the compass near one end. If the north pole of the needle is repelled (points away), that end is the solenoid's north pole; if it is attracted, that end is the south pole."
+        },
+        {
+          "q": "Why is soft iron, and not steel, used as the core of an electromagnet?",
+          "lines": 2,
+          "answer": "Soft iron becomes strongly magnetised when the current flows and loses its magnetism almost completely when the current is switched off. Steel would keep its magnetism and stay a magnet."
+        },
+        {
+          "q": "A copper rod PQ is hung between the poles of a horseshoe magnet. When current flows from P to Q, the rod moves to the left. What happens if: (a) the current is reversed? (b) the poles of the magnet are swapped? (c) a larger current is passed?",
+          "lines": 3,
+          "answer": "(a) The rod moves to the right. (b) The rod moves to the right. (c) The rod moves to the left again, but further, because the force is larger."
+        },
+        {
+          "q": "Give three advantages of an electromagnet over a permanent magnet.",
+          "lines": 3,
+          "answer": "Its magnetism can be switched on and off. Its strength can be changed by changing the current or the number of turns. Its polarity can be reversed by reversing the current. (It can also be made much stronger.)"
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Domestic circuits, mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** In a domestic circuit, the fuse is connected in the neutral wire.\n**Reason (R):** A fuse protects appliances by melting when the current becomes too large.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(d) A is false: the fuse is connected in the live wire, so that the appliance is cut off from the high-voltage side when it melts. R is true."
+        },
+        {
+          "q": "Short-circuiting happens when:",
+          "lines": 0,
+          "options": [
+            "too many appliances are run from one socket",
+            "the earth wire is disconnected",
+            "the live wire and the neutral wire come into direct contact",
+            "a fuse melts"
+          ],
+          "answer": "(c) the live and neutral wires touch, so the resistance becomes very small and a very large current flows"
+        },
+        {
+          "q": "In India, the potential difference between the live wire and the neutral wire of the household supply is:",
+          "lines": 0,
+          "options": [
+            "12 V",
+            "110 V",
+            "220 V",
+            "440 V"
+          ],
+          "answer": "(c) 220 V"
+        },
+        {
+          "q": "In a hostel room, a 1320 W room heater, a 440 W iron and a 110 W fan are all plugged into one extension board on a 5 A socket. The supply is 220 V.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Find the total current drawn when all three are on.",
+              "lines": 2,
+              "answer": "Total power = 1320 + 440 + 110 = 1870 W. I = P/V = 1870/220 = 8.5 A."
+            },
+            {
+              "q": "Is this safe on a 5 A socket? What is this situation called?",
+              "lines": 2,
+              "answer": "No: 8.5 A is far more than the 5 A rating. This is overloading; the wires can overheat and start a fire, unless the fuse melts first."
+            },
+            {
+              "q": "Which of the three appliances could safely be used alone on the 5 A socket?",
+              "lines": 2,
+              "answer": "The iron (440/220 = 2 A) and the fan (110/220 = 0.5 A). The heater draws 1320/220 = 6 A, so it needs a 15 A socket."
+            }
+          ]
+        },
+        {
+          "q": "(a) State the right-hand thumb rule and Fleming's left-hand rule.\n(b) A straight wire lies north–south, just above a compass needle, and carries current from south to north. Which way does the north pole of the needle turn?\n(c) Why does the needle swing back when the current is switched off?",
+          "lines": 6,
+          "answer": "(a) Right-hand thumb rule: hold the wire in your right hand with the thumb along the current; your curled fingers show the direction of the magnetic field. Fleming's left-hand rule: stretch the thumb, forefinger and middle finger of the left hand at right angles; if the forefinger points along the field and the middle finger along the current, the thumb gives the direction of the force.\n(b) Below the wire, the field due to the current points west, so the north pole of the needle turns towards the west.\n(c) With no current there is no magnetic field from the wire, so the needle points along the Earth's magnetic field (north–south) again."
+        },
+        {
+          "q": "Someone replaces a blown fuse with a much thicker piece of wire 'so that it never blows again'. Why is this dangerous?",
+          "lines": 3,
+          "answer": "A thick wire has a lower resistance, so it heats up much less and needs a far larger current to melt. During an overload or short circuit, it would not melt in time, so the large current could damage the appliances and overheat the wiring, causing a fire."
+        }
+      ]
+    }
+  ],
+  "closing": "Week 6 done after this one. All 13 chapters practised. Superb!"
+}

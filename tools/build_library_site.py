@@ -217,6 +217,7 @@ def main():
     tally = [
         (count(lambda i: i["section"] in ("Chapter tests", "Unit tests")), "test papers"),
         (count(lambda i: i["section"] == "Mock papers"), "full mocks"),
+        (count(lambda i: i["section"] == "Daily practice"), "daily practice packs"),
         (count(lambda i: "key" in i["files"]), "answer keys"),
         (count(lambda i: i["section"] in ("Revision notes", "Final revision sheets", "Question banks", "Drills", "Practice packs")), "revision & practice sheets"),
         (count(lambda i: i["kind"] == "kit"), "kits & scripts"),

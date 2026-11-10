@@ -1,0 +1,225 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch09-light-reflection-refraction",
+  "title": "Daily Practice: Ch 9 Light – Reflection and Refraction",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Light – Reflection and Refraction · Week 5 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook, check them with the key the same day, and copy every mistake into your error log.",
+    "Numericals: write u, v, f with signs first (u is negative). Mirror: 1/v + 1/u = 1/f, m = −v/u. Lens: 1/v − 1/u = 1/f, m = v/u."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Spherical mirrors",
+      "questions": [
+        {
+          "q": "The focal length of a concave mirror is 15 cm. Its radius of curvature is:",
+          "lines": 0,
+          "options": [
+            "7.5 cm",
+            "15 cm",
+            "30 cm",
+            "45 cm"
+          ],
+          "answer": "(c) 30 cm: R = 2f"
+        },
+        {
+          "q": "An object is placed at the centre of curvature (C) of a concave mirror. The image is:",
+          "lines": 0,
+          "options": [
+            "at F; real, diminished",
+            "beyond C; real, enlarged",
+            "behind mirror; virtual, erect",
+            "at C; real, inverted, same size"
+          ],
+          "answer": "(d) at C, real, inverted and the same size"
+        },
+        {
+          "q": "The mirror formula is:",
+          "lines": 0,
+          "options": [
+            "1/v − 1/u = 1/f",
+            "m = v/u",
+            "u + v = f",
+            "1/v + 1/u = 1/f"
+          ],
+          "answer": "(d) 1/v + 1/u = 1/f. (1/v − 1/u = 1/f is the lens formula.)"
+        },
+        {
+          "q": "A ray of light passing through the centre of curvature of a concave mirror, after reflection:",
+          "lines": 0,
+          "options": [
+            "retraces its path",
+            "passes through the focus",
+            "becomes parallel to the axis",
+            "passes through the pole"
+          ],
+          "answer": "(a) is reflected back along the same path, because it falls along the normal"
+        },
+        {
+          "q": "State the New Cartesian sign convention for spherical mirrors.",
+          "lines": 3,
+          "answer": "The object is placed to the left of the mirror, and all distances are measured from the pole. Distances measured in the direction of the incident light (to the right) are positive; those against it (to the left) are negative. Heights above the principal axis are positive; heights below it are negative."
+        },
+        {
+          "q": "An object is placed 30 cm in front of a concave mirror of focal length 20 cm. Find the position of the image, the magnification and the nature of the image.",
+          "lines": 4,
+          "answer": "u = −30 cm, f = −20 cm.\n1/v = 1/f − 1/u = −1/20 + 1/30 = −1/60, so v = −60 cm.\nm = −v/u = −(−60)/(−30) = −2.\nThe image is 60 cm in front of the mirror: real, inverted and twice the size of the object."
+        },
+        {
+          "q": "A car's convex rear-view mirror has a radius of curvature of 4 m. A motorbike is 6 m behind the car. Find the position, nature and magnification of the image of the motorbike.",
+          "lines": 4,
+          "answer": "f = R/2 = +2 m, u = −6 m.\n1/v = 1/f − 1/u = 1/2 + 1/6 = 2/3, so v = +1.5 m.\nm = −v/u = −1.5/(−6) = +0.25.\nThe image is 1.5 m behind the mirror: virtual, erect and diminished (a quarter of the size)."
+        },
+        {
+          "q": "An object 3 cm high is placed 6 cm in front of a concave mirror of focal length 12 cm. Find the position, size and nature of the image.",
+          "lines": 4,
+          "answer": "u = −6 cm, f = −12 cm.\n1/v = 1/f − 1/u = −1/12 + 1/6 = 1/12, so v = +12 cm.\nm = −v/u = −12/(−6) = +2, so image height = 2 × 3 = 6 cm.\nThe image is 12 cm behind the mirror: virtual, erect and enlarged (the object is between P and F)."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Refraction and lenses",
+      "questions": [
+        {
+          "q": "The refractive index of water is 1.33. This means that:",
+          "lines": 0,
+          "options": [
+            "light travels 1.33 times faster in water than in vacuum",
+            "the speed of light in vacuum is 1.33 times its speed in water",
+            "water is 1.33 times denser than air",
+            "light bends by 1.33° on entering water"
+          ],
+          "answer": "(b) n = speed in vacuum ÷ speed in the medium"
+        },
+        {
+          "q": "A lens has a power of −2.5 D. It is a:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "convex lens, f = 40 cm",
+            "concave lens, f = 40 cm",
+            "concave lens, f = 2.5 m",
+            "convex lens, f = 25 cm"
+          ],
+          "answer": "(b) concave lens of focal length 40 cm: f = 1/P = 1/(−2.5) = −0.4 m. The minus sign means concave."
+        },
+        {
+          "q": "A convex lens forms a real, inverted image of the same size as the object when the object is placed:",
+          "lines": 0,
+          "options": [
+            "at F_{1}",
+            "between F_{1} and 2F_{1}",
+            "at 2F_{1}",
+            "at infinity"
+          ],
+          "answer": "(c) at 2F_{1}; the image is formed at 2F_{2}"
+        },
+        {
+          "q": "A ray of light passing through the optical centre of a lens:",
+          "lines": 0,
+          "options": [
+            "bends towards the axis",
+            "becomes parallel to the axis",
+            "goes through undeviated",
+            "is reflected back"
+          ],
+          "answer": "(c) goes through without deviation"
+        },
+        {
+          "q": "Why does a ray of light bend when it passes obliquely from air into glass? What happens to a ray that falls along the normal?",
+          "lines": 3,
+          "answer": "Light travels more slowly in glass than in air. This change in speed at the surface makes an oblique ray bend (towards the normal, since glass is denser). A ray along the normal also slows down, but it goes straight through without bending."
+        },
+        {
+          "q": "The speed of light in a liquid is 2.25 × 10^{8} m/s. Find its refractive index. (Speed of light in vacuum = 3 × 10^{8} m/s.) Which common liquid could it be?",
+          "lines": 3,
+          "answer": "n = c/v = (3 × 10^{8}) ÷ (2.25 × 10^{8}) = 1.33. The liquid could be water."
+        },
+        {
+          "q": "An object is placed 12 cm from a convex lens of focal length 8 cm. Find the position of the image, the magnification and the nature of the image.",
+          "lines": 4,
+          "answer": "u = −12 cm, f = +8 cm.\n1/v = 1/f + 1/u = 1/8 − 1/12 = 1/24, so v = +24 cm.\nm = v/u = 24/(−12) = −2.\nThe image is 24 cm on the other side of the lens: real, inverted and twice the size."
+        },
+        {
+          "q": "An object is placed 15 cm from a concave lens of focal length 10 cm. Find the position of the image, the magnification and the nature of the image.",
+          "lines": 4,
+          "answer": "u = −15 cm, f = −10 cm.\n1/v = 1/f + 1/u = −1/10 − 1/15 = −1/6, so v = −6 cm.\nm = v/u = (−6)/(−15) = +0.4.\nThe image is 6 cm from the lens, on the same side as the object: virtual, erect and diminished."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** A concave mirror can form both real and virtual images.\n**Reason (R):** The nature of the image formed by a concave mirror depends on where the object is placed.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a) Both are true, and R explains A: beyond F the image is real; between P and F it is virtual."
+        },
+        {
+          "q": "Which of these always forms a virtual, erect and diminished image, wherever the object is?",
+          "lines": 0,
+          "options": [
+            "a concave mirror",
+            "a convex mirror",
+            "a convex lens",
+            "a plane mirror"
+          ],
+          "answer": "(b) a convex mirror (a concave lens does too)"
+        },
+        {
+          "q": "A lens gives a magnification of −1. The image is:",
+          "lines": 0,
+          "options": [
+            "virtual, same size",
+            "real, enlarged",
+            "virtual, diminished",
+            "real, inverted, same size"
+          ],
+          "answer": "(d) real, inverted and the same size: the minus sign means real and inverted"
+        },
+        {
+          "q": "A student focused the image of a distant building on a screen using a convex lens. The screen was 20 cm from the lens. She then placed a candle 30 cm in front of the same lens.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "What is the focal length of the lens? How do you know?",
+              "lines": 2,
+              "answer": "20 cm. Rays from a distant object are almost parallel, so their image forms at the focus."
+            },
+            {
+              "q": "Where must she place the screen to get a sharp image of the candle?",
+              "lines": 2,
+              "answer": "u = −30 cm, f = +20 cm. 1/v = 1/20 − 1/30 = 1/60, so v = +60 cm: 60 cm from the lens, on the other side."
+            },
+            {
+              "q": "Find the magnification and describe the image.",
+              "lines": 2,
+              "answer": "m = v/u = 60/(−30) = −2. The image is real, inverted and twice the size of the candle."
+            }
+          ]
+        },
+        {
+          "q": "(a) State the paths of three rays you can use to draw ray diagrams for a convex lens.\n(b) A 5 cm tall object is 15 cm in front of a convex mirror of focal length 10 cm. Find the position, height and nature of the image.",
+          "lines": 7,
+          "answer": "(a) A ray parallel to the principal axis passes through the principal focus on the other side after refraction. A ray through the principal focus emerges parallel to the axis. A ray through the optical centre goes straight through without deviation.\n(b) u = −15 cm, f = +10 cm. 1/v = 1/f − 1/u = 1/10 + 1/15 = 1/6, so v = +6 cm. m = −v/u = −6/(−15) = +0.4, so the height = 0.4 × 5 = 2 cm. The image is 6 cm behind the mirror: virtual, erect and diminished."
+        },
+        {
+          "q": "A concave mirror and a convex mirror look the same from the back. How can you tell them apart just by looking into them?",
+          "lines": 3,
+          "answer": "Look at your own image as you bring your face close. In the concave mirror, the image of your face becomes large and erect when you are close (and inverted when you move far away). In the convex mirror, the image is always erect and smaller than your face, wherever you stand."
+        }
+      ]
+    }
+  ],
+  "closing": "Sign convention right = numerical right. Do one extra numerical tonight!"
+}

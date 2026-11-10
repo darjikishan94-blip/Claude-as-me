@@ -1,0 +1,214 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch11-electricity",
+  "title": "Daily Practice: Ch 11 Electricity",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Electricity · Week 6 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "Formulas: Q = It · V = W/Q · V = IR · R = ρL/A · series R = R_{1} + R_{2} + … · parallel 1/R = 1/R_{1} + 1/R_{2} + … · P = VI = I^{2}R = V^{2}/R · H = I^{2}Rt · 1 kWh = 3.6 × 10^{6} J"
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Current, potential difference and Ohm's law",
+      "questions": [
+        {
+          "q": "One ampere is equal to:",
+          "lines": 0,
+          "options": [
+            "1 coulomb per second",
+            "1 joule per second",
+            "1 joule per coulomb",
+            "1 ohm per volt"
+          ],
+          "answer": "(a) 1 coulomb per second (1 J/s is a watt; 1 J/C is a volt)"
+        },
+        {
+          "q": "At a constant temperature, the resistance of a wire does NOT depend on:",
+          "lines": 0,
+          "options": [
+            "its length",
+            "the potential difference applied across it",
+            "its area of cross-section",
+            "the material it is made of"
+          ],
+          "answer": "(b) the potential difference applied across it: if V is doubled, I doubles and R stays the same"
+        },
+        {
+          "q": "A current of 2 A flows through a wire for 3 minutes. The charge that flows is:",
+          "lines": 0,
+          "options": [
+            "6 C",
+            "90 C",
+            "360 C",
+            "600 C"
+          ],
+          "answer": "(c) 360 C: Q = It = 2 × 180"
+        },
+        {
+          "q": "The potential difference between two points is the:",
+          "lines": 0,
+          "options": [
+            "charge flowing per unit time",
+            "work done to move a unit charge from one point to the other",
+            "current per unit resistance",
+            "energy used per unit time"
+          ],
+          "answer": "(b) work done per unit charge: V = W/Q"
+        },
+        {
+          "q": "Draw the circuit symbols for: a cell, a battery, a closed plug key, a resistor, a rheostat (variable resistor), an ammeter and a voltmeter.",
+          "lines": 4,
+          "answer": "Cell: one long thin line (+) and one short thick line (−). Battery: two or more cells joined. Closed plug key: a key symbol with a dot (plug) in it. Resistor: a zig-zag line. Rheostat: a zig-zag with an arrow across it. Ammeter: a circle with A. Voltmeter: a circle with V."
+        },
+        {
+          "q": "A potential difference of 6 V is applied across a 24 Ω resistor. Find the current. What will the current be if the potential difference is doubled?",
+          "lines": 2,
+          "answer": "I = V/R = 6/24 = 0.25 A. If V is doubled to 12 V, I = 12/24 = 0.5 A: the current also doubles (Ohm's law)."
+        },
+        {
+          "q": "Wire P has length L and area of cross-section A. Wire Q, made of the same material, has length 2L and area of cross-section 4A. Compare their resistances.",
+          "lines": 3,
+          "answer": "R_{P} = ρL/A. R_{Q} = ρ(2L)/(4A) = ½ × ρL/A. So the resistance of Q is half that of P."
+        },
+        {
+          "q": "A nichrome wire 2 m long, with an area of cross-section of 0.5 mm^{2}, has a resistance of 4 Ω. Find the resistivity of nichrome.",
+          "lines": 3,
+          "answer": "A = 0.5 mm^{2} = 0.5 × 10^{-6} m^{2}.\nρ = RA/L = (4 × 0.5 × 10^{-6}) ÷ 2 = 1 × 10^{-6} Ω m."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Resistors in series and parallel",
+      "questions": [
+        {
+          "q": "Resistors of 3 Ω, 6 Ω and 9 Ω are connected in series. The equivalent resistance is:",
+          "lines": 0,
+          "options": [
+            "1.6 Ω",
+            "6 Ω",
+            "18 Ω",
+            "27 Ω"
+          ],
+          "answer": "(c) 18 Ω: in series, R = 3 + 6 + 9"
+        },
+        {
+          "q": "Resistors of 6 Ω and 3 Ω are connected in parallel. The equivalent resistance is:",
+          "lines": 0,
+          "options": [
+            "2 Ω",
+            "4.5 Ω",
+            "9 Ω",
+            "18 Ω"
+          ],
+          "answer": "(a) 2 Ω: 1/R = 1/6 + 1/3 = 1/2"
+        },
+        {
+          "q": "In a parallel combination of resistors, which quantity is the same for every resistor?",
+          "lines": 0,
+          "options": [
+            "the current",
+            "the potential difference",
+            "the resistance",
+            "the power"
+          ],
+          "answer": "(b) the potential difference"
+        },
+        {
+          "q": "You have three 6 Ω resistors. How will you connect them to get an equivalent resistance of (a) 9 Ω, (b) 4 Ω?",
+          "lines": 3,
+          "answer": "(a) Two in parallel (3 Ω), then that pair in series with the third: 3 + 6 = 9 Ω.\n(b) Two in series (12 Ω), then that pair in parallel with the third: (12 × 6)/(12 + 6) = 4 Ω."
+        },
+        {
+          "q": "Resistors of 5 Ω, 10 Ω and 15 Ω are connected in series to a 6 V battery. Find the current and the potential difference across each resistor.",
+          "lines": 3,
+          "answer": "Total R = 30 Ω, so I = 6/30 = 0.2 A.\nV_{5} = 0.2 × 5 = 1 V, V_{10} = 0.2 × 10 = 2 V, V_{15} = 0.2 × 15 = 3 V. (Check: 1 + 2 + 3 = 6 V.)"
+        },
+        {
+          "q": "Resistors of 10 Ω and 40 Ω are connected in parallel, and this combination is connected in series with a 2 Ω resistor and a 10 V battery. Find (i) the total resistance, (ii) the current from the battery, (iii) the current through the 10 Ω and 40 Ω resistors.",
+          "lines": 5,
+          "answer": "(i) Parallel part: (10 × 40)/(10 + 40) = 8 Ω. Total = 8 + 2 = 10 Ω.\n(ii) I = 10/10 = 1 A.\n(iii) Potential difference across the parallel part = 1 × 8 = 8 V. Current through 10 Ω = 8/10 = 0.8 A; through 40 Ω = 8/40 = 0.2 A. (Check: 0.8 + 0.2 = 1 A.)"
+        },
+        {
+          "q": "Which has the higher resistance: a 100 W bulb or a 60 W bulb, both rated for 220 V? Show by calculation.",
+          "lines": 3,
+          "answer": "R = V^{2}/P. 100 W bulb: 220 × 220/100 = 484 Ω. 60 W bulb: 220 × 220/60 ≈ 807 Ω. The 60 W bulb has the higher resistance."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Heating effect and electric power",
+      "questions": [
+        {
+          "q": "**Assertion (A):** Electric power is measured in kilowatt-hours.\n**Reason (R):** 1 kWh = 3.6 × 10^{6} J.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(d) A is false: the kWh is a unit of energy; power is measured in watts. R is true."
+        },
+        {
+          "q": "The heat produced in a resistor is H = I^{2}Rt. If the current is doubled, the heat produced in the same time becomes:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "half",
+            "the same",
+            "double",
+            "four times"
+          ],
+          "answer": "(d) four times, because heat depends on the square of the current"
+        },
+        {
+          "q": "In a circuit, a fuse is connected:",
+          "lines": 0,
+          "options": [
+            "in series with the device",
+            "in parallel with the device",
+            "between the earth wire and the neutral wire",
+            "only to the earth wire"
+          ],
+          "answer": "(a) in series with the device, so that it breaks the circuit when the current is too high"
+        },
+        {
+          "q": "An electric kettle is rated 880 W, 220 V.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Find the current it draws.",
+              "lines": 1,
+              "answer": "I = P/V = 880/220 = 4 A."
+            },
+            {
+              "q": "Find the resistance of its heating element.",
+              "lines": 1,
+              "answer": "R = V/I = 220/4 = 55 Ω."
+            },
+            {
+              "q": "Fuses of 2 A, 5 A and 15 A are available. Which one should be used for the kettle? Why?",
+              "lines": 2,
+              "answer": "The 5 A fuse. It is a little above the normal current of 4 A, so it will not blow in normal use but will melt if the current rises dangerously. A 2 A fuse would blow at once; a 15 A fuse would not protect the kettle."
+            }
+          ]
+        },
+        {
+          "q": "(a) Starting from P = VI, show that P = I^{2}R and P = V^{2}/R.\n(b) A motor draws a current of 3 A from a 220 V supply. Find its power, the energy it uses in 5 hours (in kWh), and the cost if electricity costs ₹6 per unit.",
+          "lines": 6,
+          "answer": "(a) Using V = IR: P = VI = (IR)I = I^{2}R. Using I = V/R: P = V(V/R) = V^{2}/R.\n(b) P = VI = 220 × 3 = 660 W = 0.66 kW. Energy = 0.66 × 5 = 3.3 kWh (3.3 units). Cost = 3.3 × 6 = ₹19.80."
+        },
+        {
+          "q": "The 100 W and 60 W bulbs from Day 2 are connected in series to a 220 V supply. Which one glows brighter? Explain.",
+          "lines": 3,
+          "answer": "The 60 W bulb. In series, the same current flows through both, so the power used (P = I^{2}R) is greater in the bulb with the higher resistance. The 60 W bulb has the higher resistance (about 807 Ω against 484 Ω), so it glows brighter."
+        }
+      ]
+    }
+  ],
+  "closing": "Write the formula, substitute, then the unit. That's 3 marks every time!"
+}

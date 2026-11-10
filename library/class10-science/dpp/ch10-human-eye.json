@@ -1,0 +1,209 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch10-human-eye-colourful-world",
+  "title": "Daily Practice: Ch 10 The Human Eye and the Colourful World",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "The Human Eye and the Colourful World · Week 5 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "Defects of vision: for myopia the lens makes a distant object's image at the far point; for hypermetropia it makes the image of an object at 25 cm at the near point. Then use the lens formula."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: The eye and its defects",
+      "questions": [
+        {
+          "q": "Most of the refraction of light entering the eye takes place at the:",
+          "lines": 0,
+          "options": [
+            "eye lens",
+            "outer surface of the cornea",
+            "iris",
+            "retina"
+          ],
+          "answer": "(b) outer surface of the cornea. The eye lens fine-tunes the focus."
+        },
+        {
+          "q": "The eye lens is:",
+          "lines": 0,
+          "options": [
+            "a concave lens",
+            "a glass prism",
+            "a flat, transparent sheet",
+            "a convex lens made of a fibrous, jelly-like material"
+          ],
+          "answer": "(d) a convex lens made of a fibrous, jelly-like material"
+        },
+        {
+          "q": "When we look at a distant object, the ciliary muscles are ______ and the eye lens becomes ______.",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "relaxed, thin",
+            "contracted, thick",
+            "relaxed, thick",
+            "contracted, thin"
+          ],
+          "answer": "(a) relaxed, thin: its focal length increases"
+        },
+        {
+          "q": "A person with hypermetropia needs spectacles with:",
+          "lines": 0,
+          "options": [
+            "concave lenses (negative power)",
+            "lenses of zero power",
+            "convex lenses (positive power)",
+            "cylindrical lenses"
+          ],
+          "answer": "(c) convex lenses (positive power)"
+        },
+        {
+          "q": "What happens to the pupil when you walk from bright sunlight into a dark room? Why?",
+          "lines": 2,
+          "answer": "The pupil becomes larger: the iris widens it so that more light can enter the eye. That is why it takes a little time before we can see in the dark room."
+        },
+        {
+          "q": "Why can we not see an object clearly when it is held closer than 25 cm to the eye?",
+          "lines": 2,
+          "answer": "The eye lens cannot become thicker (shorten its focal length) beyond a limit, so for very close objects the image cannot be focused on the retina."
+        },
+        {
+          "q": "A myopic person can see clearly only up to 80 cm. Find the nature and power of the lens needed to correct the defect.",
+          "lines": 4,
+          "answer": "The lens must form the image of a distant object (u = ∞) at the far point, v = −80 cm, so f = −80 cm = −0.8 m.\nP = 1/f = 1/(−0.8) = −1.25 D. A concave lens of power −1.25 D."
+        },
+        {
+          "q": "Compare myopia and hypermetropia: what the person can see clearly, where the image of the problem object forms, and the lens used to correct each.",
+          "lines": 4,
+          "answer": "Myopia: sees nearby objects clearly but not distant ones; the image of a distant object forms in front of the retina; corrected with a concave lens.\nHypermetropia: sees distant objects clearly but not nearby ones; the image of a nearby object would form behind the retina; corrected with a convex lens."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: The prism and atmospheric refraction",
+      "questions": [
+        {
+          "q": "The angle between the two refracting surfaces of a prism is called the:",
+          "lines": 0,
+          "options": [
+            "angle of the prism",
+            "angle of incidence",
+            "angle of deviation",
+            "angle of refraction"
+          ],
+          "answer": "(a) angle of the prism"
+        },
+        {
+          "q": "A beam of white light passes through a glass prism. Which colour is deviated the least?",
+          "lines": 0,
+          "options": [
+            "violet",
+            "red",
+            "blue",
+            "green"
+          ],
+          "answer": "(b) red: it bends the least, and violet bends the most"
+        },
+        {
+          "q": "Newton showed that the colours of white light can be recombined into white light by using:",
+          "lines": 0,
+          "options": [
+            "a single prism",
+            "a convex lens",
+            "a concave mirror",
+            "a second identical prism placed upside down"
+          ],
+          "answer": "(d) a second identical prism placed upside down"
+        },
+        {
+          "q": "What is the angle of deviation in a prism? Describe the path of a ray through a triangular glass prism.",
+          "lines": 3,
+          "answer": "It is the angle between the direction of the incident ray (extended) and the emergent ray. The ray bends towards the normal as it enters the prism (air to glass) and away from the normal as it leaves (glass to air), so it bends towards the base of the prism."
+        },
+        {
+          "q": "A rectangular glass slab does not split white light into colours, but a prism does. Why?",
+          "lines": 3,
+          "answer": "In a slab, the two refracting surfaces are parallel, so the colours come out parallel to each other and overlap again as white light. In a prism, the surfaces are inclined, so each colour bends through a different angle and the colours spread out."
+        },
+        {
+          "q": "Objects seen through the hot air rising above a fire or a radiator seem to waver. Explain why.",
+          "lines": 3,
+          "answer": "The hot air just above the fire is less dense, and has a lower refractive index, than the cooler air above it. These conditions keep changing, so light from the objects is refracted by varying amounts and their apparent position keeps changing. This is atmospheric refraction on a small scale."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Scattering, mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** A person with presbyopia may need bifocal lenses.\n**Reason (R):** Presbyopia happens because the cornea becomes cloudy with age.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(c) A is true, but R is false: presbyopia is caused by the ciliary muscles weakening and the eye lens becoming less flexible with age."
+        },
+        {
+          "q": "The far point of a normal human eye is at:",
+          "lines": 0,
+          "options": [
+            "infinity",
+            "25 cm",
+            "1 m",
+            "100 m"
+          ],
+          "answer": "(a) infinity"
+        },
+        {
+          "q": "The colour of scattered light depends mainly on:",
+          "lines": 0,
+          "options": [
+            "the temperature of the air",
+            "the size of the scattering particles",
+            "the speed of the wind",
+            "the height of the observer"
+          ],
+          "answer": "(b) the size of the scattering particles"
+        },
+        {
+          "q": "On a clear afternoon, Aman noticed that the sky was deep blue but the clouds were white.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Which colour of sunlight is scattered most by the tiny molecules of air? Why?",
+              "lines": 2,
+              "answer": "Blue, because it has a shorter wavelength than red, and very fine particles scatter shorter wavelengths much more."
+            },
+            {
+              "q": "Why do the clouds look white?",
+              "lines": 2,
+              "answer": "Clouds are made of water droplets that are much larger than air molecules. Large particles scatter all colours about equally, so the scattered light looks white."
+            },
+            {
+              "q": "What is the Tyndall effect? Give one everyday example.",
+              "lines": 2,
+              "answer": "The scattering of light by tiny particles, which makes the path of a light beam visible. Example: a beam of sunlight entering a smoky or dusty room through a small window, or sunlight passing through a dense forest canopy."
+            }
+          ]
+        },
+        {
+          "q": "(a) What is hypermetropia? Give its two causes.\n(b) The near point of a hypermetropic eye is 40 cm. Find the power of the lens needed to read at 25 cm.\n(c) Why must this lens be convex?",
+          "lines": 6,
+          "answer": "(a) A person can see distant objects clearly but not nearby ones. Causes: the focal length of the eye lens is too long, or the eyeball has become too small.\n(b) The lens must form the image of an object at u = −25 cm at the near point, v = −40 cm.\n1/f = 1/v − 1/u = −1/40 + 1/25 = 3/200, so f = 200/3 ≈ 66.7 cm = 0.667 m. P = 1/f = +1.5 D.\n(c) A convex lens gives the extra converging power needed to focus the image on the retina."
+        },
+        {
+          "q": "The image formed on the retina is real and inverted. Why, then, do we see objects upright?",
+          "lines": 2,
+          "answer": "The retina's light-sensitive cells send electrical signals through the optic nerve to the brain. The brain interprets these signals and processes them so that we perceive objects as they are, upright."
+        }
+      ]
+    }
+  ],
+  "closing": "Week 5 done after this one. Physics is all about practice. Keep at it!"
+}
