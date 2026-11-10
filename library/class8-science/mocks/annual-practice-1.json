@@ -1,0 +1,303 @@
+{
+  "type": "test",
+  "file_name": "c8-annual-practice-1",
+  "title": "Annual Exam Practice Paper 1",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Force and Pressure · Microorganisms · Metals and Non-metals · Combustion and Flame · Sound",
+  "time": "2 hours",
+  "total_marks": 50,
+  "instructions": [
+    "All questions are compulsory.",
+    "Section A: MCQs, 1 mark each. Section B: fill in the blanks and true/false, 1 mark each. Section C: match the columns, 4 marks. Section D: 2 marks each. Section E: 3 marks each. Section F: 4 marks each.",
+    "Write units in numericals and draw neat, labelled diagrams.",
+    "This paper is topic-based. Check the topic list against your school's annual exam syllabus before using it."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Choose the correct option.",
+      "questions": [
+        {
+          "q": "A rubber sucker stays stuck to a smooth wall because of:",
+          "marks": 1,
+          "options": [
+            "friction",
+            "magnetic force",
+            "atmospheric pressure",
+            "gravity"
+          ],
+          "answer": "(c) atmospheric pressure, which pushes it against the wall"
+        },
+        {
+          "q": "The same person exerts the greatest pressure on the ground when:",
+          "marks": 1,
+          "options": [
+            "standing on both feet",
+            "standing on one foot",
+            "lying flat on the ground",
+            "standing on wide skis"
+          ],
+          "answer": "(b) standing on one foot: the same weight acts on the smallest area"
+        },
+        {
+          "q": "Malaria is caused by a:",
+          "marks": 1,
+          "options": [
+            "protozoan",
+            "bacterium",
+            "virus",
+            "fungus"
+          ],
+          "answer": "(a) protozoan (Plasmodium), spread by the female Anopheles mosquito"
+        },
+        {
+          "q": "The oxide of which element turns moist red litmus paper blue?",
+          "marks": 1,
+          "options": [
+            "sulphur",
+            "carbon",
+            "phosphorus",
+            "magnesium"
+          ],
+          "answer": "(d) magnesium: metal oxides are basic"
+        },
+        {
+          "q": "Goldsmiths melt gold using the part of the flame that is:",
+          "marks": 1,
+          "options": [
+            "the innermost dark zone",
+            "the middle yellow zone",
+            "the wick",
+            "the outermost blue zone"
+          ],
+          "answer": "(d) the outermost blue zone: it is the hottest"
+        },
+        {
+          "q": "A sound is made shriller (higher in pitch) by increasing its:",
+          "marks": 1,
+          "options": [
+            "amplitude",
+            "frequency",
+            "loudness",
+            "time period"
+          ],
+          "answer": "(b) frequency"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "note": "Q7–Q10: fill in the blanks. Q11–Q14: write True or False.",
+      "questions": [
+        {
+          "q": "The force that opposes motion between two surfaces in contact is called ______.",
+          "marks": 1,
+          "answer": "friction"
+        },
+        {
+          "q": "The process of heating milk to about 70 °C and then chilling it quickly is called ______.",
+          "marks": 1,
+          "answer": "pasteurisation"
+        },
+        {
+          "q": "Metals that can be drawn into thin wires are said to be ______.",
+          "marks": 1,
+          "answer": "ductile"
+        },
+        {
+          "q": "The lowest temperature at which a substance catches fire is called its ______.",
+          "marks": 1,
+          "answer": "ignition temperature"
+        },
+        {
+          "q": "Liquids exert pressure only on the bottom of their container.",
+          "marks": 1,
+          "answer": "False: they press on the walls too."
+        },
+        {
+          "q": "Viruses can reproduce only inside the cells of a host organism.",
+          "marks": 1,
+          "answer": "True"
+        },
+        {
+          "q": "Carbon dioxide can be used to put out a fire in electrical equipment.",
+          "marks": 1,
+          "answer": "True"
+        },
+        {
+          "q": "Sound travels faster in air than through a solid such as iron.",
+          "marks": 1,
+          "answer": "False: sound travels faster in solids."
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "Match each microorganism in Column A with its use in Column B.\nColumn A: (i) Rhizobium (ii) Yeast (iii) Lactobacillus (iv) Penicillium (a mould)\nColumn B: (a) setting curd (b) making an antibiotic (c) fixing nitrogen in the soil (d) making bread rise",
+          "marks": 4,
+          "answer": "(i) Rhizobium: (c) fixing nitrogen. (ii) Yeast: (d) making bread rise. (iii) Lactobacillus: (a) setting curd. (iv) Penicillium: (b) making an antibiotic.",
+          "marking": [
+            "Each correct pair: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "A brick weighs 30 N and measures 0.2 m × 0.1 m × 0.05 m. Find the pressure it exerts on the ground when it rests on (a) its largest face and (b) its smallest face.",
+          "marks": 2,
+          "answer": "(a) Area = 0.2 × 0.1 = 0.02 m^{2}. Pressure = 30 ÷ 0.02 = 1500 Pa.\n(b) Area = 0.1 × 0.05 = 0.005 m^{2}. Pressure = 30 ÷ 0.005 = 6000 Pa.",
+          "marking": [
+            "Each part: 1"
+          ]
+        },
+        {
+          "q": "Give two examples each of contact forces and non-contact forces from daily life.",
+          "marks": 2,
+          "answer": "Contact: kicking a football (muscular force); a rolling ball slowing down on the ground (friction). Non-contact: a magnet pulling iron pins (magnetic force); a fruit falling from a tree (gravitational force). Any correct examples.",
+          "marking": [
+            "Contact examples: 1",
+            "Non-contact examples: 1"
+          ]
+        },
+        {
+          "q": "What is a vaccine? Who first developed a vaccine, and for which disease?",
+          "marks": 2,
+          "answer": "A vaccine contains dead or weakened microbes. When it is given, the body makes antibodies, so it can fight that disease if it is attacked later. Edward Jenner developed the first vaccine, for smallpox.",
+          "marking": [
+            "What a vaccine is: 1",
+            "Jenner + smallpox: 1"
+          ]
+        },
+        {
+          "q": "Why does a heap of green leaves not catch fire easily, while dry leaves catch fire quickly?",
+          "marks": 2,
+          "answer": "Green leaves contain a lot of water. The heat supplied is used up in evaporating the water, so the leaves do not reach their ignition temperature. Dry leaves have little water and reach it quickly.",
+          "marking": [
+            "Water in green leaves: 1",
+            "Ignition temperature not reached: 1"
+          ]
+        },
+        {
+          "q": "Give two uses of metals and two uses of non-metals in daily life.",
+          "marks": 2,
+          "answer": "Metals: copper and aluminium for electric wires; iron for machinery and buildings; aluminium foil for wrapping food; gold and silver for jewellery (any two). Non-metals: oxygen for breathing; nitrogen in fertilisers; chlorine to purify water; iodine solution on wounds (any two).",
+          "marking": [
+            "Metals: 1",
+            "Non-metals: 1"
+          ]
+        },
+        {
+          "q": "What is noise pollution? Give two of its harmful effects on health.",
+          "marks": 2,
+          "answer": "The presence of too much unpleasant sound (noise) in the surroundings. Effects (any two): lack of sleep, high blood pressure, anxiety, headaches, and loss of hearing.",
+          "marking": [
+            "Meaning: 1",
+            "Two effects: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "questions": [
+        {
+          "q": "Describe a simple activity to show that a liquid presses on the walls of its container, and that this pressure increases with depth.",
+          "marks": 3,
+          "answer": "Take a tall plastic bottle and make three holes of the same size at different heights along one side. Fill it with water. Water spurts out of all three holes, so the liquid presses on the walls. The water from the lowest hole travels the farthest, so the pressure is greatest at the bottom: it increases with depth.",
+          "marking": [
+            "Set-up: 1",
+            "Pressure on walls: 1",
+            "Increases with depth: 1"
+          ]
+        },
+        {
+          "q": "For each disease, name the type of microorganism that causes it and how it spreads: (a) cholera, (b) dengue, (c) tuberculosis.",
+          "marks": 3,
+          "answer": "(a) Cholera: bacterium; spreads through contaminated water and food.\n(b) Dengue: virus; spread by the Aedes mosquito.\n(c) Tuberculosis: bacterium; spreads through the air when an infected person coughs or sneezes.",
+          "marking": [
+            "Each disease: 1"
+          ]
+        },
+        {
+          "q": "Draw a neat, labelled diagram of a candle flame showing its three zones. Write which zone is the hottest and which is the least hot.",
+          "marks": 3,
+          "answer": "The diagram shows the wick at the bottom, the innermost dark zone around it (unburnt wax vapour), the middle bright yellow zone (partial combustion), and the outermost blue zone (complete combustion). The outermost zone is the hottest; the innermost dark zone is the least hot.",
+          "marking": [
+            "Diagram: 1",
+            "Three zones labelled: 1",
+            "Hottest and least hot: 1"
+          ]
+        },
+        {
+          "q": "Element X is a shiny solid that conducts electricity. It burns in air to form an oxide. The oxide dissolves in water to give a solution that turns red litmus blue.\n(a) Is X a metal or a non-metal?\n(b) Is its oxide acidic or basic?\n(c) Name one element that fits, and write the word equations for the two reactions.",
+          "marks": 3,
+          "answer": "(a) A metal.\n(b) Basic.\n(c) Magnesium. Magnesium + oxygen → magnesium oxide. Magnesium oxide + water → magnesium hydroxide.",
+          "marking": [
+            "Metal: 1",
+            "Basic: 1",
+            "Example with equations: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section F",
+      "questions": [
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "A guitar string vibrates 600 times in 2 seconds. Find its frequency and time period. Can a human hear this sound?",
+              "marks": 2,
+              "answer": "Frequency = 600 ÷ 2 = 300 Hz. Time period = 1 ÷ 300 ≈ 0.0033 s. Yes: 300 Hz is within the audible range of 20 Hz to 20,000 Hz.",
+              "marking": [
+                "Frequency and time period: 1",
+                "Audible, with reason: 1"
+              ]
+            },
+            {
+              "q": "A dog whistle seems silent to us, but a dog responds to it. Explain why. What are such sounds called?",
+              "marks": 2,
+              "answer": "The whistle makes sound with a frequency above 20,000 Hz, which our ears cannot hear but a dog's ears can. Such sounds are called ultrasonic sounds (ultrasound).",
+              "marking": [
+                "Frequency above our range: 1",
+                "Ultrasonic: 1"
+              ]
+            }
+          ]
+        },
+        {
+          "q": "Answer the following:",
+          "subparts": [
+            {
+              "q": "What is the calorific value of a fuel? Which has the highest calorific value: LPG, petrol, coal or wood?",
+              "marks": 2,
+              "answer": "The amount of heat energy produced when 1 kg of a fuel burns completely, measured in kJ/kg. LPG has the highest (about 55,000 kJ/kg).",
+              "marking": [
+                "Definition with unit: 1",
+                "LPG: 1"
+              ]
+            },
+            {
+              "q": "How does water put out a fire? Why must water not be used on a fire in electrical equipment?",
+              "marks": 2,
+              "answer": "Water cools the burning material below its ignition temperature, and its vapour surrounds the fire and cuts off the air supply. Water conducts electricity, so the person putting out an electrical fire could get a shock.",
+              "marking": [
+                "How water works: 1",
+                "Why not on electrical fires: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your annual exam!"
+}

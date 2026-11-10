@@ -33,6 +33,7 @@ A phone-friendly library website holding every test, answer key, revision sheet,
 - **Class 9 Foundation practice packs** (Motion, Force & Laws of Motion, Work & Energy, Sound, Atomic Structure, The Cell, Tissues, Mixtures & Separation, States of Matter, Gravitation): 3 levels each, worked answer keys, usable with the old or new Class 9 book
 - **Class 9 unit tests** (25 marks, with keys): Motion, Force & Laws of Motion, Work & Energy, Sound, Structure of the Atom, Matter in Our Surroundings, Mixtures & Separation, The Cell, Tissues
 - **Class 8 practice packs** (Force & Pressure, Microorganisms, Metals & Non-metals, Combustion & Flame, Sound) and **Class 8 unit tests** (Force & Pressure, Metals & Non-metals, Microorganisms, Combustion & Flame, Sound), with answer keys
+- **Annual exam practice papers:** Class 9 (80 marks, CBSE pattern, 3 hours, 9 topics) and Class 8 (50 marks, school pattern, 2 hours, 5 topics), with marking schemes
 - **One-page revision sheets for Class 9** (all 10 topics above, plus Gravitation) **and Class 8** (all 5 topics), in the same style as the Class 10 sheets
 - **Two drill sheets:** CBSE assertion–reason + case-based, and GSEB 40 rapid-fire objective questions
 - **Parent Handbook** (policies with blanks to fill + acknowledgement page), **year-round parent message calendar**, and a **tough-conversations playbook** (16 difficult situations, with replies)

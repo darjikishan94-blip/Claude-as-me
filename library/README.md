@@ -157,6 +157,12 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Practice Pack: Microorganisms – Friend and Foe | [PDF](class8-science/pdf/c8-practice-microorganisms.pdf) · [Word](class8-science/pdf/c8-practice-microorganisms.docx) · [Answer key](class8-science/pdf/c8-practice-microorganisms-answer-key.pdf) |
 | Practice Pack: Sound | [PDF](class8-science/pdf/c8-practice-sound.pdf) · [Word](class8-science/pdf/c8-practice-sound.docx) · [Answer key](class8-science/pdf/c8-practice-sound-answer-key.pdf) |
 
+### Full mock papers
+
+| Title | Files |
+|---|---|
+| Annual Exam Practice Paper 1 | [PDF](class8-science/pdf/c8-annual-practice-1.pdf) · [Word](class8-science/pdf/c8-annual-practice-1.docx) · [Answer key](class8-science/pdf/c8-annual-practice-1-answer-key.pdf) |
+
 ## Class 9 Science
 
 ### Chapter tests (25 marks)
@@ -202,6 +208,12 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Practice Pack: Matter in Our Surroundings | [PDF](class9-science/pdf/c9-practice-states-of-matter.pdf) · [Word](class9-science/pdf/c9-practice-states-of-matter.docx) · [Answer key](class9-science/pdf/c9-practice-states-of-matter-answer-key.pdf) |
 | Practice Pack: Tissues | [PDF](class9-science/pdf/c9-practice-tissues.pdf) · [Word](class9-science/pdf/c9-practice-tissues.docx) · [Answer key](class9-science/pdf/c9-practice-tissues-answer-key.pdf) |
 | Practice Pack: Work and Energy | [PDF](class9-science/pdf/c9-practice-work-energy.pdf) · [Word](class9-science/pdf/c9-practice-work-energy.docx) · [Answer key](class9-science/pdf/c9-practice-work-energy-answer-key.pdf) |
+
+### Full mock papers
+
+| Title | Files |
+|---|---|
+| Annual Exam Practice Paper 1 (CBSE pattern) | [PDF](class9-science/pdf/c9-annual-practice-cbse-1.pdf) · [Word](class9-science/pdf/c9-annual-practice-cbse-1.docx) · [Answer key](class9-science/pdf/c9-annual-practice-cbse-1-answer-key.pdf) |
 
 ## Guides & message kits
 

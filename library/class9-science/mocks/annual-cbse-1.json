@@ -1,0 +1,513 @@
+{
+  "type": "test",
+  "file_name": "c9-annual-practice-cbse-1",
+  "title": "Annual Exam Practice Paper 1 (CBSE pattern)",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Motion · Force and Laws of Motion · Work and Energy · Sound · Matter in Our Surroundings · Is Matter Around Us Pure? · Structure of the Atom · The Cell · Tissues",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "This paper has 39 questions in 5 sections (A–E). All questions are compulsory. Internal choice is given in some questions.",
+    "Section A: Q1–Q20, 1 mark each (MCQs and Assertion–Reason). Section B: Q21–Q26, 2 marks each. Section C: Q27–Q33, 3 marks each. Section D: Q34–Q36, 5 marks each. Section E: Q37–Q39, case-based, 4 marks each.",
+    "Show formulae, substitution and units in every numerical. Draw neat, labelled diagrams wherever asked.",
+    "This paper is topic-based. Check the topic list against your school's annual exam syllabus before using it."
+  ],
+  "sections": [
+    {
+      "title": "Section A",
+      "note": "Q1–Q16: choose the correct option. Q17–Q20: Assertion–Reason. For these, choose (a) both A and R true and R explains A; (b) both true but R does not explain A; (c) A true, R false; (d) A false, R true.",
+      "questions": [
+        {
+          "q": "The slope of a distance–time graph gives the:",
+          "marks": 1,
+          "options": [
+            "acceleration",
+            "displacement",
+            "force",
+            "speed"
+          ],
+          "answer": "(d) speed"
+        },
+        {
+          "q": "The velocity of a car changes from 10 m/s to 20 m/s in 5 s. Its acceleration is:",
+          "marks": 1,
+          "options": [
+            "0.5 m/s^{2}",
+            "2 m/s^{2}",
+            "4 m/s^{2}",
+            "6 m/s^{2}"
+          ],
+          "answer": "(b) 2 m/s^{2}: a = (20 − 10)/5"
+        },
+        {
+          "q": "The momentum of a 2 kg ball moving at 3 m/s is:",
+          "marks": 1,
+          "options": [
+            "1.5 kg m/s",
+            "5 kg m/s",
+            "6 kg m/s",
+            "9 kg m/s"
+          ],
+          "answer": "(c) 6 kg m/s: p = mv"
+        },
+        {
+          "q": "Which of these is the SI unit of work?",
+          "marks": 1,
+          "options": [
+            "joule",
+            "newton",
+            "watt",
+            "pascal"
+          ],
+          "answer": "(a) joule"
+        },
+        {
+          "q": "The range of frequencies that a normal human ear can hear is about:",
+          "marks": 1,
+          "fixed_order": true,
+          "options": [
+            "2 Hz to 2,000 Hz",
+            "20 Hz to 20,000 Hz",
+            "200 Hz to 2,00,000 Hz",
+            "20 kHz to 200 kHz"
+          ],
+          "answer": "(b) 20 Hz to 20,000 Hz"
+        },
+        {
+          "q": "A wave has a time period of 0.02 s. Its frequency is:",
+          "marks": 1,
+          "options": [
+            "0.02 Hz",
+            "20 Hz",
+            "50 Hz",
+            "200 Hz"
+          ],
+          "answer": "(c) 50 Hz: ν = 1/T"
+        },
+        {
+          "q": "Which of these changes directly from solid to vapour on heating?",
+          "marks": 1,
+          "options": [
+            "camphor",
+            "sugar",
+            "common salt",
+            "sand"
+          ],
+          "answer": "(a) camphor (sublimation)"
+        },
+        {
+          "q": "In which of these are the forces of attraction between particles the strongest?",
+          "marks": 1,
+          "options": [
+            "oxygen gas",
+            "water",
+            "kerosene",
+            "an iron nail"
+          ],
+          "answer": "(d) an iron nail: particles in a solid attract each other most strongly"
+        },
+        {
+          "q": "Which of these is a colloid?",
+          "marks": 1,
+          "options": [
+            "salt solution",
+            "sugar solution",
+            "chalk powder in water",
+            "milk"
+          ],
+          "answer": "(d) milk"
+        },
+        {
+          "q": "The electronic configuration of an atom is 2, 8, 3. Its valency is:",
+          "marks": 1,
+          "options": [
+            "1",
+            "2",
+            "3",
+            "5"
+          ],
+          "answer": "(c) 3: it loses its three valence electrons (aluminium)"
+        },
+        {
+          "q": "Isobars have the same:",
+          "marks": 1,
+          "options": [
+            "mass number",
+            "atomic number",
+            "number of protons",
+            "number of electrons"
+          ],
+          "answer": "(a) mass number, e.g. calcium-40 and argon-40"
+        },
+        {
+          "q": "Which cell organelle packages materials and dispatches them to places inside and outside the cell?",
+          "marks": 1,
+          "options": [
+            "ribosome",
+            "Golgi apparatus",
+            "lysosome",
+            "nucleus"
+          ],
+          "answer": "(b) Golgi apparatus"
+        },
+        {
+          "q": "Which plant tissue gives flexibility to leaf stalks and young stems?",
+          "marks": 1,
+          "options": [
+            "collenchyma",
+            "parenchyma",
+            "sclerenchyma",
+            "xylem"
+          ],
+          "answer": "(a) collenchyma"
+        },
+        {
+          "q": "A bacterial cell does NOT have:",
+          "marks": 1,
+          "options": [
+            "a cell membrane",
+            "a nucleus with a nuclear membrane",
+            "cytoplasm",
+            "ribosomes"
+          ],
+          "answer": "(b) a nucleus with a nuclear membrane: bacteria are prokaryotes"
+        },
+        {
+          "q": "Tendons connect:",
+          "marks": 1,
+          "options": [
+            "bone to bone",
+            "muscle to muscle",
+            "muscle to bone",
+            "skin to muscle"
+          ],
+          "answer": "(c) muscle to bone (ligaments connect bone to bone)"
+        },
+        {
+          "q": "An animal cell is placed in a strong salt solution. It will:",
+          "marks": 1,
+          "options": [
+            "swell up",
+            "burst",
+            "stay the same",
+            "shrink"
+          ],
+          "answer": "(d) shrink, because it loses water by osmosis (hypertonic solution)"
+        },
+        {
+          "q": "**Assertion (A):** A passenger standing in a bus tends to fall backwards when the bus starts suddenly.\n**Reason (R):** The feet move forward with the bus, but the upper body tends to stay at rest because of inertia.",
+          "marks": 1,
+          "answer": "(a)"
+        },
+        {
+          "q": "**Assertion (A):** Sound travels faster in steel than in air.\n**Reason (R):** Sound travels fastest in a vacuum.",
+          "marks": 1,
+          "answer": "(c) A is true. R is false: sound cannot travel in a vacuum at all."
+        },
+        {
+          "q": "**Assertion (A):** The isotopes of an element have similar chemical properties.\n**Reason (R):** Chemical properties depend on the number of valence electrons, which is the same for all isotopes of an element.",
+          "marks": 1,
+          "answer": "(a)"
+        },
+        {
+          "q": "**Assertion (A):** Sclerenchyma cells are living cells.\n**Reason (R):** The walls of sclerenchyma cells are thickened with lignin.",
+          "marks": 1,
+          "answer": "(d) A is false: sclerenchyma cells are dead. R is true."
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "questions": [
+        {
+          "q": "A bus starts from rest and reaches a speed of 54 km/h in 10 s. Assuming uniform acceleration, find (a) its acceleration and (b) the distance it covers in this time.",
+          "marks": 2,
+          "answer": "54 km/h = 54/3.6 = 15 m/s.\n(a) a = (v − u)/t = (15 − 0)/10 = 1.5 m/s^{2}\n(b) s = ut + ½at^{2} = 0 + ½ × 1.5 × 10^{2} = 75 m",
+          "marking": [
+            "Conversion + acceleration: 1",
+            "Distance: 1"
+          ]
+        },
+        {
+          "q": "The velocity of a 5 kg object increases from 3 m/s to 7 m/s in 2 s. Find the change in its momentum and the force acting on it.",
+          "marks": 2,
+          "answer": "Change in momentum = m(v − u) = 5 × (7 − 3) = 20 kg m/s.\nF = change in momentum ÷ time = 20/2 = 10 N.",
+          "marking": [
+            "Change in momentum: 1",
+            "Force: 1"
+          ],
+          "or": {
+            "q": "A box of mass 10 kg is lifted to a shelf 2 m high. How much work is done against gravity? (g = 9.8 m/s^{2}) Where does this energy go?",
+            "marks": 2,
+            "answer": "W = mgh = 10 × 9.8 × 2 = 196 J. It is stored in the box as potential energy.",
+            "marking": [
+              "Calculation: 1",
+              "Stored as potential energy: 1"
+            ]
+          }
+        },
+        {
+          "q": "Convert: (a) 300 K into °C, (b) 573 K into °C, (c) 25 °C into K. (d) What is the physical state of water at 573 K?",
+          "marks": 2,
+          "answer": "(a) 300 − 273 = 27 °C (b) 573 − 273 = 300 °C (c) 25 + 273 = 298 K (d) Gas (steam), because 300 °C is above its boiling point.",
+          "marking": [
+            "Each part: ½"
+          ]
+        },
+        {
+          "q": "How much sugar and how much water are needed to make 200 g of a 15% (mass by mass) sugar solution?",
+          "marks": 2,
+          "answer": "Mass of sugar = 15/100 × 200 = 30 g. Mass of water = 200 − 30 = 170 g.",
+          "marking": [
+            "Sugar: 1",
+            "Water: 1"
+          ]
+        },
+        {
+          "q": "Where in the cell are (a) chromosomes and (b) ribosomes found? Give the function of each.",
+          "marks": 2,
+          "answer": "(a) Chromosomes are in the nucleus. They carry genes (DNA), the information passed from parents to the next generation.\n(b) Ribosomes are on the rough endoplasmic reticulum (and free in the cytoplasm). They make proteins.",
+          "marking": [
+            "Chromosomes: location + function: 1",
+            "Ribosomes: location + function: 1"
+          ]
+        },
+        {
+          "q": "Name the tissue: (a) that stores fat below the skin, (b) that joins two bones, (c) that lines the kidney tubules, (d) that forms the husk of a coconut.",
+          "marks": 2,
+          "answer": "(a) Adipose tissue (b) Ligament (c) Cuboidal epithelium (d) Sclerenchyma",
+          "marking": [
+            "Each: ½"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "questions": [
+        {
+          "q": "A car moves at a steady 10 m/s for 4 s. The brakes are then applied and it slows down uniformly, stopping 6 s later.\n(a) Describe the shape of its velocity–time graph.\n(b) Find the total distance covered.\n(c) Find the retardation.",
+          "marks": 3,
+          "answer": "(a) A horizontal line at 10 m/s from 0 to 4 s, then a straight line sloping down to zero at 10 s.\n(b) Distance = area under the graph = (10 × 4) + (½ × 6 × 10) = 40 + 30 = 70 m.\n(c) Retardation = 10/6 ≈ 1.67 m/s^{2}.",
+          "marking": [
+            "Graph described: 1",
+            "Distance from area: 1",
+            "Retardation: 1"
+          ]
+        },
+        {
+          "q": "An object of mass 8 kg moves at 5 m/s.\n(a) Find its kinetic energy.\n(b) What will its kinetic energy be if its speed is doubled?\n(c) How much work must be done to stop it when it is moving at 5 m/s?",
+          "marks": 3,
+          "answer": "(a) KE = ½mv^{2} = ½ × 8 × 5^{2} = 100 J\n(b) KE = ½ × 8 × 10^{2} = 400 J (four times, since KE depends on v^{2})\n(c) 100 J: the work needed equals its kinetic energy.",
+          "marking": [
+            "Each part: 1"
+          ]
+        },
+        {
+          "q": "A man stands between two parallel cliffs and claps once. He hears the first echo after 2 s and the second echo after 3 s. Find the distance between the two cliffs. (Speed of sound = 340 m/s)",
+          "marks": 3,
+          "answer": "Distance to the first cliff = (340 × 2)/2 = 340 m.\nDistance to the second cliff = (340 × 3)/2 = 510 m.\nDistance between the cliffs = 340 + 510 = 850 m.",
+          "marking": [
+            "First cliff: 1",
+            "Second cliff: 1",
+            "Total: 1"
+          ],
+          "or": {
+            "q": "What are loudness and pitch? On which property of a sound wave does each depend? Give one example of a high-pitched and one of a low-pitched sound.",
+            "marks": 3,
+            "answer": "Loudness is how strong a sound seems to the ear; it depends on the amplitude. Pitch is how shrill or deep a sound is; it depends on the frequency. High pitch: a whistle (or a bird's chirp). Low pitch: a lion's roar (or a drum).",
+            "marking": [
+              "Loudness + amplitude: 1",
+              "Pitch + frequency: 1",
+              "Examples: 1"
+            ]
+          }
+        },
+        {
+          "q": "How do (a) surface area, (b) humidity and (c) wind speed affect the rate of evaporation? Give an everyday example for each.",
+          "marks": 3,
+          "answer": "(a) Larger surface area, faster evaporation: clothes dry faster when spread out.\n(b) Higher humidity, slower evaporation: clothes take longer to dry in the rainy season.\n(c) Higher wind speed, faster evaporation: clothes dry faster on a windy day.",
+          "marking": [
+            "Each factor with example: 1"
+          ]
+        },
+        {
+          "q": "A sodium atom has atomic number 11 and mass number 23.\n(a) How many protons, neutrons and electrons does it have?\n(b) Write its electronic configuration and draw its Bohr model.\n(c) What is its valency? Why?",
+          "marks": 3,
+          "answer": "(a) Protons 11, electrons 11, neutrons = 23 − 11 = 12.\n(b) 2, 8, 1. The Bohr model shows a nucleus (11 p, 12 n) with 2 electrons in K, 8 in L and 1 in M.\n(c) Valency 1: it loses its one outer electron to get a stable octet.",
+          "marking": [
+            "Particles: 1",
+            "Configuration + model: 1",
+            "Valency with reason: 1"
+          ]
+        },
+        {
+          "q": "Name the method you would use to separate: (a) iron filings from sand, (b) butter from curd, (c) tea leaves from tea. Give a reason for each choice.",
+          "marks": 3,
+          "answer": "(a) A magnet: iron is attracted by it, sand is not.\n(b) Centrifugation (churning): the lighter butter separates and collects at the top.\n(c) Filtration (straining): the solid tea leaves stay behind in the strainer.",
+          "marking": [
+            "Each method with reason: 1"
+          ]
+        },
+        {
+          "q": "Compare striated (skeletal), smooth and cardiac muscle under these headings: (a) where they are found, (b) voluntary or involuntary, (c) shape of the cells.",
+          "marks": 3,
+          "answer": "Striated: limbs, attached to bones; voluntary; long, cylindrical, unbranched, multinucleate.\nSmooth: walls of the stomach, intestine, blood vessels, iris; involuntary; spindle-shaped, one nucleus.\nCardiac: heart; involuntary (rhythmic all through life); cylindrical, branched, one nucleus.",
+          "marking": [
+            "Each muscle type: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "questions": [
+        {
+          "q": "(a) Write the three equations of motion for uniformly accelerated motion.\n(b) A ball is thrown straight up with a velocity of 20 m/s. Find the maximum height it reaches and the time it takes to get there. (Take g = 10 m/s^{2}.)\n(c) With what speed will it come back to the thrower's hand?",
+          "marks": 5,
+          "answer": "(a) v = u + at · s = ut + ½at^{2} · v^{2} − u^{2} = 2as\n(b) At the top, v = 0 and a = −10 m/s^{2}. v^{2} − u^{2} = 2as gives 0 − 400 = −20 × s, so s = 20 m. v = u + at gives 0 = 20 − 10t, so t = 2 s.\n(c) 20 m/s (downwards), the same speed it was thrown with.",
+          "marking": [
+            "Three equations: 1½",
+            "Height: 1½",
+            "Time: 1",
+            "Return speed: 1"
+          ],
+          "or": {
+            "q": "(a) State the law of conservation of momentum.\n(b) A bullet of mass 25 g is fired from a gun of mass 5 kg with a velocity of 400 m/s. Find the recoil velocity of the gun.\n(c) Why is the gun's recoil speed so much smaller than the bullet's speed?",
+            "marks": 5,
+            "answer": "(a) When two or more objects interact, their total momentum stays the same, provided no external force acts on them.\n(b) Total momentum before firing = 0. So 0 = (0.025 × 400) + (5 × v), giving v = −10/5 = −2 m/s. The gun recoils at 2 m/s, in the direction opposite to the bullet.\n(c) The gun and the bullet get equal and opposite momentum. The gun's mass is 200 times the bullet's, so its velocity is 200 times smaller.",
+            "marking": [
+              "Law: 1",
+              "Momentum equation: 1",
+              "Recoil velocity with direction: 2",
+              "Reason: 1"
+            ]
+          }
+        },
+        {
+          "q": "(a) Describe Rutherford's alpha-particle scattering experiment. Give three observations and the conclusion drawn from each.\n(b) What was the main drawback of Rutherford's model?\n(c) How did Bohr's model overcome this drawback?",
+          "marks": 5,
+          "answer": "(a) Fast alpha particles were directed at a very thin gold foil. Most passed straight through: most of the atom is empty space. Some were deflected through small angles: the positive charge occupies a very small space. Very few (about 1 in 12,000) bounced back: almost all the mass and positive charge is concentrated in a tiny nucleus.\n(b) A charged particle moving in a circle should radiate energy, so the electron would lose energy and fall into the nucleus. The atom would be unstable, but atoms are stable.\n(c) Bohr proposed that electrons revolve only in certain special (discrete) orbits, and do not radiate energy while in them.",
+          "marking": [
+            "Set-up: 1",
+            "Three observations with conclusions: 2",
+            "Drawback: 1",
+            "Bohr's idea: 1"
+          ],
+          "or": {
+            "q": "(a) What are isotopes? Give two uses of isotopes.\n(b) Atom X has 6 protons and 6 neutrons; atom Y has 6 protons and 8 neutrons. Find their atomic and mass numbers. How are X and Y related?\n(c) What are isobars? Give one pair as an example.",
+            "marks": 5,
+            "answer": "(a) Atoms of the same element with the same atomic number but different mass numbers. Uses: an isotope of uranium is a fuel in nuclear reactors; an isotope of cobalt is used to treat cancer; an isotope of iodine is used to treat goitre (any two).\n(b) X: atomic number 6, mass number 12. Y: atomic number 6, mass number 14. They are isotopes of carbon.\n(c) Atoms of different elements with the same mass number, e.g. calcium-40 and argon-40.",
+            "marking": [
+              "Isotope definition + two uses: 2",
+              "Numbers + relation: 2",
+              "Isobars with example: 1"
+            ]
+          }
+        },
+        {
+          "q": "(a) Draw a neat, labelled diagram of a plant cell.\n(b) Give three differences between a plant cell and an animal cell.",
+          "marks": 5,
+          "answer": "(a) Labels: cell wall, cell membrane, nucleus (with nuclear membrane and nucleolus), cytoplasm, chloroplast, large central vacuole, mitochondria, endoplasmic reticulum, Golgi apparatus (at least six correct labels).\n(b) Plant cells have a cell wall; animal cells do not. Plant cells have plastids such as chloroplasts; animal cells do not. Plant cells usually have one large central vacuole; animal cells have small vacuoles or none.",
+          "marking": [
+            "Diagram: 1",
+            "Labels (six or more): 1",
+            "Three differences: 3"
+          ],
+          "or": {
+            "q": "(a) What are complex permanent tissues? Name the elements that make up xylem and phloem.\n(b) Give the function of xylem and of phloem.\n(c) Which element of phloem is made of dead cells?",
+            "marks": 5,
+            "answer": "(a) Tissues made of more than one type of cell, all working together for a common function. Xylem: tracheids, vessels, xylem parenchyma, xylem fibres. Phloem: sieve tubes, companion cells, phloem parenchyma, phloem fibres.\n(b) Xylem carries water and minerals from the roots upwards. Phloem carries food from the leaves to other parts of the plant, in both directions.\n(c) Phloem fibres.",
+            "marking": [
+              "Definition: 1",
+              "Elements of xylem and phloem: 2",
+              "Functions: 1",
+              "Dead element: 1"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Section E",
+      "note": "Read each passage and answer the questions that follow.",
+      "questions": [
+        {
+          "q": "Cars have seat belts and airbags to protect passengers in a crash. When a car stops suddenly, the passengers keep moving forward. A seat belt holds them back, and an airbag inflates in a fraction of a second to cushion them. In one crash test, a car moving at 20 m/s stopped in 0.1 s, and a 60 kg dummy inside was brought to rest with it.",
+          "subparts": [
+            {
+              "q": "Why do passengers keep moving forward when the car stops suddenly?",
+              "marks": 1,
+              "answer": "Because of inertia of motion: their bodies tend to keep moving at the same speed."
+            },
+            {
+              "q": "Find the force needed to stop the 60 kg dummy in 0.1 s.",
+              "marks": 2,
+              "answer": "F = m(v − u)/t = 60 × (0 − 20)/0.1 = −12,000 N. A force of 12,000 N, acting backwards.",
+              "marking": [
+                "Formula + substitution: 1",
+                "Answer with unit: 1"
+              ]
+            },
+            {
+              "q": "How does an airbag reduce the force on a passenger?",
+              "marks": 1,
+              "answer": "It makes the passenger stop over a longer time, so the rate of change of momentum, and therefore the force, is smaller."
+            }
+          ]
+        },
+        {
+          "q": "Seawater contains about 35 g of salts in every 1 kg of seawater. In salt pans along the Gujarat coast, seawater is let into shallow beds and left in the sun. The water evaporates and salt is left behind. To get pure crystals of a substance such as copper sulphate in the laboratory, crystallisation is used instead of heating the solution to dryness.",
+          "subparts": [
+            {
+              "q": "Find the concentration of salts in seawater in mass by mass percent.",
+              "marks": 2,
+              "answer": "Concentration = 35/1000 × 100 = 3.5%",
+              "marking": [
+                "Formula: 1",
+                "Answer: 1"
+              ]
+            },
+            {
+              "q": "Why are the salt beds kept shallow?",
+              "marks": 1,
+              "answer": "A shallow bed has a large surface area for its volume, so the water evaporates faster."
+            },
+            {
+              "q": "Why is crystallisation better than heating a solution to dryness for getting a pure solid?",
+              "marks": 1,
+              "answer": "Soluble impurities stay behind in the solution, and some solids decompose or char when heated to dryness. Crystallisation gives pure crystals."
+            }
+          ]
+        },
+        {
+          "q": "Meera put a freshly cut white flower with a long stalk into a glass of water mixed with red ink. After a few hours, red streaks appeared in the petals. When she cut the stalk across and looked at it with a hand lens, she saw red dots arranged in a ring.",
+          "subparts": [
+            {
+              "q": "Which tissue carried the coloured water up the stalk?",
+              "marks": 1,
+              "answer": "Xylem."
+            },
+            {
+              "q": "Name the two kinds of cells in this tissue that actually carry the water.",
+              "marks": 1,
+              "answer": "Tracheids and vessels."
+            },
+            {
+              "q": "Which tissue carries food in a plant? How is its direction of transport different from that of the tissue in (i)?",
+              "marks": 2,
+              "answer": "Phloem. It carries food both upwards and downwards, while xylem carries water and minerals only upwards from the roots.",
+              "marking": [
+                "Phloem: 1",
+                "Direction difference: 1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your annual exam!"
+}
