@@ -1,0 +1,224 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch07-how-do-organisms-reproduce",
+  "title": "Daily Practice: Ch 7 How do Organisms Reproduce?",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "How do Organisms Reproduce? · Week 4 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "Practise the flower diagram (longitudinal section) on Day 2 until you can label it without looking."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Asexual reproduction",
+      "questions": [
+        {
+          "q": "Leishmania (which causes kala-azar) reproduces by:",
+          "lines": 0,
+          "options": [
+            "budding",
+            "binary fission along a definite plane",
+            "multiple fission",
+            "fragmentation"
+          ],
+          "answer": "(b) binary fission along a definite plane, because of a whip-like structure at one end"
+        },
+        {
+          "q": "Which plant can grow new plants from buds in the notches along its leaf margins?",
+          "lines": 0,
+          "options": [
+            "Bryophyllum",
+            "rose",
+            "sugarcane",
+            "banana"
+          ],
+          "answer": "(a) Bryophyllum"
+        },
+        {
+          "q": "Hydra reproduces asexually by:",
+          "lines": 0,
+          "options": [
+            "binary fission",
+            "spore formation",
+            "budding",
+            "multiple fission"
+          ],
+          "answer": "(c) budding (it can also regenerate)"
+        },
+        {
+          "q": "In Rhizopus, the spores are produced inside the:",
+          "lines": 0,
+          "options": [
+            "hyphae",
+            "sporangia",
+            "pollen sacs",
+            "buds"
+          ],
+          "answer": "(b) sporangia: the small knob-like structures at the tips of the hyphae"
+        },
+        {
+          "q": "How are spores able to survive harsh conditions?",
+          "lines": 2,
+          "answer": "Spores are covered by thick walls that protect them until they reach a moist surface, where they can begin to grow."
+        },
+        {
+          "q": "What is tissue culture? Give one advantage of it.",
+          "lines": 3,
+          "answer": "New plants are grown from a few cells taken from the growing tip of a plant. The cells are kept in an artificial medium, where they divide to form a mass of cells (callus), and plant hormones then make them form plantlets. Advantage: many identical, disease-free plants can be produced quickly from one parent, e.g. ornamental plants."
+        },
+        {
+          "q": "Describe how Hydra reproduces by budding.",
+          "lines": 3,
+          "answer": "Because of repeated cell division at one specific site, a bud develops as an outgrowth on the body. The bud grows into a tiny individual, and when it is fully mature it detaches from the parent and becomes a new, independent Hydra."
+        },
+        {
+          "q": "A potato plant is grown from a piece of potato with an 'eye', and a pea plant is grown from a seed. Which new plant will be more similar to its parent? Explain.",
+          "lines": 4,
+          "answer": "The potato plant. It comes from a single parent by vegetative (asexual) reproduction, so it gets an almost exact copy of the parent's DNA. The pea plant comes from a seed made by sexual reproduction, which combines DNA from two parents, so it shows more variation."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Sexual reproduction in flowering plants",
+      "questions": [
+        {
+          "q": "The part of a stamen that makes pollen grains is the:",
+          "lines": 0,
+          "options": [
+            "filament",
+            "style",
+            "anther",
+            "ovary"
+          ],
+          "answer": "(c) anther. The filament is the stalk that holds it up."
+        },
+        {
+          "q": "Which part of the pistil receives the pollen grains?",
+          "lines": 0,
+          "options": [
+            "stigma",
+            "style",
+            "ovary",
+            "ovule"
+          ],
+          "answer": "(a) stigma: it is sticky"
+        },
+        {
+          "q": "Which of these plants has unisexual flowers?",
+          "lines": 0,
+          "options": [
+            "hibiscus",
+            "mustard",
+            "rose",
+            "papaya"
+          ],
+          "answer": "(d) papaya (watermelon too). Hibiscus and mustard are bisexual."
+        },
+        {
+          "q": "In a seed, the part that grows into the future shoot is the:",
+          "lines": 0,
+          "options": [
+            "radicle",
+            "plumule",
+            "cotyledon",
+            "seed coat"
+          ],
+          "answer": "(b) plumule. The radicle becomes the root."
+        },
+        {
+          "q": "A pollen grain has landed on a stigma. How does its male germ cell reach the ovule?",
+          "lines": 2,
+          "answer": "A pollen tube grows out of the pollen grain and travels down through the style until it reaches the ovule in the ovary. The male germ cell moves through this tube."
+        },
+        {
+          "q": "Name three agents of cross-pollination. Give two features of flowers that are pollinated by insects.",
+          "lines": 3,
+          "answer": "Wind, water and animals (such as insects and birds). Insect-pollinated flowers usually have bright, colourful petals and sweet nectar or scent that attract insects."
+        },
+        {
+          "q": "Draw a labelled diagram of the longitudinal section of a flower. Label: sepal, petal, anther, filament, stigma, style, ovary and ovule.",
+          "lines": 6,
+          "answer": "The diagram should show sepals at the base, petals above them, stamens (each an anther on a filament), and the central pistil: stigma at the top, the style below it, and the swollen ovary at the base containing ovules. All eight labels should be shown with straight label lines."
+        },
+        {
+          "q": "What does a seed contain? Why is making seeds an advantage for a plant?",
+          "lines": 3,
+          "answer": "A seed contains the future plant, the embryo, with stored food, inside a protective seed coat. Seeds can survive unfavourable conditions until conditions are good for growth, and they can be spread far from the parent plant."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Human reproduction and reproductive health",
+      "questions": [
+        {
+          "q": "**Assertion (A):** A human egg is fertilised by many sperms.\n**Reason (R):** Sperms are released in very large numbers.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(d) A is false: only one sperm fertilises the egg. R is true."
+        },
+        {
+          "q": "The tube that carries sperms from the testis towards the urethra is the:",
+          "lines": 0,
+          "options": [
+            "oviduct",
+            "ureter",
+            "vas deferens",
+            "fallopian tube"
+          ],
+          "answer": "(c) vas deferens"
+        },
+        {
+          "q": "A Copper-T is placed in the:",
+          "lines": 0,
+          "options": [
+            "vagina",
+            "ovary",
+            "oviduct",
+            "uterus"
+          ],
+          "answer": "(d) uterus: it prevents pregnancy"
+        },
+        {
+          "q": "A news report says that in one district, the number of girls born has fallen far below the number of boys. Investigators found that some clinics were illegally telling parents whether their unborn child was a boy or a girl.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "What is female foeticide?",
+              "lines": 2,
+              "answer": "The illegal killing (abortion) of a female foetus, only because it is a girl."
+            },
+            {
+              "q": "Why has the law banned prenatal sex determination?",
+              "lines": 2,
+              "answer": "To stop female foeticide and keep a healthy sex ratio in society."
+            },
+            {
+              "q": "Which parent's germ cell decides whether the child is a boy or a girl? Explain.",
+              "lines": 2,
+              "answer": "The father's. Every egg carries an X chromosome. A sperm carrying X gives a girl (XX), and a sperm carrying Y gives a boy (XY)."
+            }
+          ]
+        },
+        {
+          "q": "(a) Name, in order, the parts through which sperms travel from where they are made to outside the body.\n(b) About how long does a baby take to develop inside the mother, and how is it born?\n(c) Give the two functions of the ovaries.",
+          "lines": 6,
+          "answer": "(a) Testis → vas deferens → urethra → outside (the secretions of the seminal vesicles and prostate gland are added on the way).\n(b) About nine months. The baby is born by rhythmic contractions of the muscles of the uterus.\n(c) The ovaries produce the eggs (female germ cells) and the hormone oestrogen."
+        },
+        {
+          "q": "A woman has had both her oviducts blocked by a surgical method of contraception. Will she still have periods? Can she become pregnant? Explain.",
+          "lines": 3,
+          "answer": "Yes, her periods continue, because her ovaries and uterus still work normally. She cannot become pregnant, because the blocked oviducts stop the egg and the sperm from meeting, so fertilisation cannot happen."
+        }
+      ]
+    }
+  ],
+  "closing": "Three days, one chapter done. Draw that flower once more before you sleep!"
+}

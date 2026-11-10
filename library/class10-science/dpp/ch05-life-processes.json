@@ -1,0 +1,224 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch05-life-processes",
+  "title": "Daily Practice: Ch 5 Life Processes",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Life Processes · Week 3 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "Biology answers need the right keywords. When you check, underline the keywords you missed."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Nutrition",
+      "questions": [
+        {
+          "q": "Which of these organisms is a parasite?",
+          "lines": 0,
+          "options": [
+            "Amoeba",
+            "mushroom",
+            "Cuscuta (amarbel)",
+            "grass"
+          ],
+          "answer": "(c) Cuscuta: it takes its food from the host plant it grows on"
+        },
+        {
+          "q": "The enzyme in saliva (salivary amylase) breaks down:",
+          "lines": 0,
+          "options": [
+            "proteins",
+            "starch",
+            "fats",
+            "vitamins"
+          ],
+          "answer": "(b) starch, into a simpler sugar"
+        },
+        {
+          "q": "Bile is made in the:",
+          "lines": 0,
+          "options": [
+            "liver",
+            "gall bladder",
+            "pancreas",
+            "stomach"
+          ],
+          "answer": "(a) liver. It is stored in the gall bladder."
+        },
+        {
+          "q": "During photosynthesis, the oxygen given out comes from the splitting of:",
+          "lines": 0,
+          "options": [
+            "carbon dioxide",
+            "glucose",
+            "chlorophyll",
+            "water"
+          ],
+          "answer": "(d) water"
+        },
+        {
+          "q": "Describe, step by step, how Amoeba takes in and digests its food.",
+          "lines": 3,
+          "answer": "Amoeba pushes out finger-like projections (pseudopodia) around the food particle, which fuse to form a food vacuole. The food is broken down inside the vacuole, and the digested food diffuses into the cytoplasm. Undigested material is moved to the surface and thrown out."
+        },
+        {
+          "q": "What is peristalsis? Why is it needed?",
+          "lines": 2,
+          "answer": "Peristalsis is the rhythmic contraction of the muscles lining the alimentary canal. It pushes the food forward, so that it can be processed properly in each part of the canal."
+        },
+        {
+          "q": "Give the function of: (a) the villi of the small intestine, (b) pancreatic juice, (c) the sphincter muscle at the exit of the stomach.",
+          "lines": 4,
+          "answer": "(a) Villi increase the surface area for absorbing digested food; they have a rich blood supply that carries the food to every cell.\n(b) Pancreatic juice contains trypsin, which digests proteins, and lipase, which breaks down emulsified fats.\n(c) The sphincter controls the release of food from the stomach into the small intestine, a little at a time."
+        },
+        {
+          "q": "Desert plants such as cacti keep their stomata closed during the day to save water. How do they still carry out photosynthesis?",
+          "lines": 3,
+          "answer": "They open their stomata at night and take in carbon dioxide, which they store as an intermediate compound. During the day, with the stomata closed, the energy absorbed by chlorophyll is used to make food from this stored compound."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Respiration and transport",
+      "questions": [
+        {
+          "q": "In yeast, the anaerobic breakdown of pyruvate gives:",
+          "lines": 0,
+          "options": [
+            "lactic acid and energy",
+            "carbon dioxide, water and energy",
+            "ethanol, carbon dioxide and energy",
+            "glucose and oxygen"
+          ],
+          "answer": "(c) ethanol, carbon dioxide and energy (fermentation)"
+        },
+        {
+          "q": "The respiratory pigment haemoglobin is found in:",
+          "lines": 0,
+          "options": [
+            "red blood cells",
+            "plasma",
+            "white blood cells",
+            "platelets"
+          ],
+          "answer": "(a) red blood cells: it carries oxygen from the lungs to the tissues"
+        },
+        {
+          "q": "Which blood vessels have thick, elastic walls because the blood in them is under high pressure?",
+          "lines": 0,
+          "options": [
+            "veins",
+            "arteries",
+            "capillaries",
+            "lymph vessels"
+          ],
+          "answer": "(b) arteries: they carry blood away from the heart"
+        },
+        {
+          "q": "The energy currency of the cell is:",
+          "lines": 0,
+          "options": [
+            "ADP",
+            "ATP",
+            "glucose",
+            "pyruvate"
+          ],
+          "answer": "(b) ATP: the energy released in respiration is stored in ATP and used for every activity of the cell"
+        },
+        {
+          "q": "What is lymph? Give two of its functions.",
+          "lines": 3,
+          "answer": "Lymph is the colourless fluid that escapes from the blood capillaries into the spaces between cells. It carries digested and absorbed fat from the intestine, and it drains excess fluid from the spaces between cells back into the blood."
+        },
+        {
+          "q": "Why are the walls of capillaries only one cell thick?",
+          "lines": 2,
+          "answer": "So that materials such as oxygen, food and wastes can easily pass between the blood and the surrounding cells."
+        },
+        {
+          "q": "What is blood pressure? Name the instrument used to measure it, and give the normal systolic and diastolic values.",
+          "lines": 3,
+          "answer": "Blood pressure is the force that blood exerts against the wall of a blood vessel. It is measured with a sphygmomanometer. Normal values are about 120 mm of Hg (systolic) and 80 mm of Hg (diastolic). High blood pressure is called hypertension."
+        },
+        {
+          "q": "Trace the path of a molecule of oxygen from the air you breathe in to a muscle cell in your leg.",
+          "lines": 5,
+          "answer": "Nostrils → pharynx → larynx → trachea → bronchi → bronchioles → alveoli. It diffuses into the blood in the capillaries around the alveoli and binds to haemoglobin in red blood cells. Pulmonary vein → left atrium → left ventricle → aorta → arteries → capillaries in the leg muscle. There it diffuses out of the blood into the muscle cell."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Excretion, mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** Anaerobic respiration releases more energy than aerobic respiration.\n**Reason (R):** In aerobic respiration, glucose is broken down completely into carbon dioxide and water.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(d) A is false: aerobic respiration releases much more energy. R is true, and complete breakdown is the reason aerobic respiration releases more."
+        },
+        {
+          "q": "The basic filtration unit of the kidney is the:",
+          "lines": 0,
+          "options": [
+            "neuron",
+            "alveolus",
+            "villus",
+            "nephron"
+          ],
+          "answer": "(d) nephron"
+        },
+        {
+          "q": "Which of these is NOT a job of the kidneys?",
+          "lines": 0,
+          "options": [
+            "removing urea from the blood",
+            "controlling the amount of water in the body",
+            "making bile",
+            "filtering the blood"
+          ],
+          "answer": "(c) making bile: that is the liver's job"
+        },
+        {
+          "q": "To find out whether plants need carbon dioxide for photosynthesis, Meera took two similar de-starched potted plants, P and Q, and placed each under a bell jar sealed with vaseline. She put a watch glass of potassium hydroxide inside the jar over Q only. Both jars stood in sunlight for a few hours, and then a leaf from each plant was tested with iodine.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Why was potassium hydroxide placed in the jar over Q?",
+              "lines": 2,
+              "answer": "Potassium hydroxide absorbs carbon dioxide, so the air around plant Q had no carbon dioxide."
+            },
+            {
+              "q": "Which leaf turned blue-black with iodine?",
+              "lines": 1,
+              "answer": "The leaf from plant P."
+            },
+            {
+              "q": "What does the result show?",
+              "lines": 2,
+              "answer": "Starch (food) was made only by the plant that had carbon dioxide. So carbon dioxide is necessary for photosynthesis."
+            }
+          ]
+        },
+        {
+          "q": "(a) Give three differences between arteries and veins.\n(b) What would happen if a person's blood had no platelets?\n(c) A fish heart has only two chambers. How many times does the blood pass through the heart in one complete circuit of the fish's body?",
+          "lines": 6,
+          "answer": "(a) Arteries carry blood away from the heart; veins bring it back. Arteries have thick, elastic walls; veins have thinner walls. Veins have valves to keep blood flowing one way; arteries do not.\n(b) The blood would not clot, so even a small cut would keep bleeding.\n(c) Only once: the heart pumps blood to the gills, and from there it goes to the rest of the body (single circulation)."
+        },
+        {
+          "q": "A disease damages most of the villi in a person's small intestine. What effect would this have on the person, and why?",
+          "lines": 3,
+          "answer": "The surface area for absorbing digested food would fall sharply, so much of the digested food would not be absorbed into the blood. The person would become weak and lose weight, even while eating enough."
+        }
+      ]
+    }
+  ],
+  "closing": "Biggest biology chapter, done in three days. Proud of you!"
+}

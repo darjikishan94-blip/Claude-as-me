@@ -1,0 +1,216 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch08-heredity",
+  "title": "Daily Practice: Ch 8 Heredity",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Heredity · Week 4 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "In every cross, write the parents, then the gametes, then a checkerboard, then the ratio. Never skip the gametes step!"
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Heredity and Mendel's basics",
+      "questions": [
+        {
+          "q": "Which of these is NOT one of the pairs of contrasting traits Mendel studied in garden peas?",
+          "lines": 0,
+          "options": [
+            "tall and short plants",
+            "round and wrinkled seeds",
+            "violet and white flowers",
+            "red and black seeds"
+          ],
+          "answer": "(d) red and black seeds. (Seed colour in his work was yellow or green.)"
+        },
+        {
+          "q": "When two pure-breeding plants with contrasting traits are crossed, the trait seen in all the F_{1} plants is called:",
+          "lines": 0,
+          "options": [
+            "recessive",
+            "dominant",
+            "acquired",
+            "variation"
+          ],
+          "answer": "(b) dominant"
+        },
+        {
+          "q": "The genotype of a pure-breeding short pea plant is:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "TT",
+            "Tt",
+            "tt",
+            "T"
+          ],
+          "answer": "(c) tt: a recessive trait shows only when both copies are recessive"
+        },
+        {
+          "q": "In a cross between Tt and tt pea plants, the percentage of short plants expected is:",
+          "lines": 0,
+          "options": [
+            "0%",
+            "25%",
+            "50%",
+            "75%"
+          ],
+          "answer": "(c) 50%: Tt × tt gives Tt and tt in a 1 : 1 ratio"
+        },
+        {
+          "q": "What is heredity? What is a gene?",
+          "lines": 2,
+          "answer": "Heredity is the passing of traits (characters) from parents to their offspring. A gene is a section of DNA that carries the information for making one protein, and so controls a trait."
+        },
+        {
+          "q": "Every person has two copies of each gene. Where does each copy come from?",
+          "lines": 2,
+          "answer": "One copy comes from the father and one from the mother, through their germ cells (sperm and egg)."
+        },
+        {
+          "q": "A pea plant with yellow seeds (Yy) is self-pollinated. Show the cross with a checkerboard, and give the genotypic and phenotypic ratios of the offspring.",
+          "lines": 5,
+          "answer": "Parents: Yy × Yy. Gametes: Y, y from each parent.\nCheckerboard: YY, Yy, Yy, yy.\nGenotypic ratio: 1 YY : 2 Yy : 1 yy.\nPhenotypic ratio: 3 yellow : 1 green."
+        },
+        {
+          "q": "Explain, with an example of each: (a) a pure-breeding plant, (b) a hybrid, (c) the F_{2} generation.",
+          "lines": 4,
+          "answer": "(a) A plant that gives offspring with the same trait generation after generation when self-pollinated, e.g. a TT tall plant.\n(b) The offspring of two pure-breeding parents with contrasting traits, e.g. Tt from TT × tt.\n(c) The generation obtained by self-pollinating the F_{1} plants, e.g. Tt × Tt gives F_{2} in the ratio 3 tall : 1 short."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Working out crosses",
+      "questions": [
+        {
+          "q": "Which cross will give offspring that ALL show the dominant trait?",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "Tt × Tt",
+            "Tt × tt",
+            "TT × tt",
+            "tt × tt"
+          ],
+          "answer": "(c) TT × tt: every offspring is Tt"
+        },
+        {
+          "q": "The 9 : 3 : 3 : 1 ratio in the F_{2} of Mendel's dihybrid cross shows that:",
+          "lines": 0,
+          "options": [
+            "the two traits are always inherited together",
+            "only dominant traits are passed on",
+            "the F_{1} plants were pure-breeding",
+            "the two traits are inherited independently"
+          ],
+          "answer": "(d) the two traits are inherited independently"
+        },
+        {
+          "q": "Plant height depends on a growth hormone. The gene for height controls:",
+          "lines": 0,
+          "options": [
+            "how well the enzyme that makes the hormone works",
+            "the number of chromosomes in the plant",
+            "the size of the seed",
+            "the colour of the flower"
+          ],
+          "answer": "(a) If the gene makes an efficient enzyme, more hormone is made and the plant grows tall."
+        },
+        {
+          "q": "A cross between two tall pea plants gives offspring in the ratio 3 tall : 1 short. What are the genotypes of the parents?",
+          "lines": 2,
+          "answer": "Both are Tt. Tt × Tt gives TT, Tt, Tt and tt: 3 tall to 1 short."
+        },
+        {
+          "q": "A cross between two pea plants gives 50% round seeds and 50% wrinkled seeds. What are the genotypes of the parents?",
+          "lines": 2,
+          "answer": "Rr × rr. The gametes are R and r from one parent, and only r from the other, so the offspring are Rr and rr in a 1 : 1 ratio."
+        },
+        {
+          "q": "Mendel's F_{1} plants from the dihybrid cross had the genotype RrYy.\n(a) Write the four kinds of gametes they make.\n(b) What fraction of the F_{2} seeds are round and green?\n(c) What fraction are wrinkled and yellow?",
+          "lines": 4,
+          "answer": "(a) RY, Ry, rY and ry\n(b) 3/16\n(c) 3/16\n(The full F_{2} ratio is 9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green.)"
+        },
+        {
+          "q": "A tall pea plant could be TT or Tt. How can you find out which it is? Explain with crosses.",
+          "lines": 4,
+          "answer": "Cross it with a short plant (tt).\nIf it is TT: TT × tt gives all Tt, so all the offspring are tall.\nIf it is Tt: Tt × tt gives Tt and tt, so about half the offspring are short."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Sex determination, mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** The sex of a child is decided at the time of fertilisation.\n**Reason (R):** Whether the fertilising sperm carries an X or a Y chromosome decides the sex of the child.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a) Both are true, and R explains A."
+        },
+        {
+          "q": "In some reptiles, the sex of the young is decided by:",
+          "lines": 0,
+          "options": [
+            "the temperature at which the eggs are kept",
+            "X and Y chromosomes",
+            "the mother's diet",
+            "the age of the father"
+          ],
+          "answer": "(a) the temperature at which the fertilised eggs are incubated"
+        },
+        {
+          "q": "Which genotype belongs to a pure-breeding plant with round, yellow seeds?",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "RrYy",
+            "RRYY",
+            "RRYy",
+            "rryy"
+          ],
+          "answer": "(b) RRYY: pure-breeding means both copies of each gene are the same"
+        },
+        {
+          "q": "A couple has three daughters and is expecting a fourth child. Some relatives blame the mother for not having a son.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Which sex chromosome does the mother pass on to every child?",
+              "lines": 1,
+              "answer": "An X chromosome: all her eggs carry X."
+            },
+            {
+              "q": "Is the mother responsible for the sex of the children? Explain.",
+              "lines": 2,
+              "answer": "No. The father's sperm carries either X or Y. A sperm with X gives a girl (XX) and one with Y gives a boy (XY), so the sex is decided by the sperm, not the egg."
+            },
+            {
+              "q": "What is the chance that the fourth child will be a boy?",
+              "lines": 2,
+              "answer": "50%, or 1 in 2. Each pregnancy is independent, so the three daughters born earlier do not change the chance."
+            }
+          ]
+        },
+        {
+          "q": "A plant with round, green seeds (RRyy) is crossed with a plant with wrinkled, yellow seeds (rrYY).\n(a) Write the gametes of each parent and the genotype and phenotype of the F_{1}.\n(b) The F_{1} plants are self-pollinated. What fraction of the F_{2} will have round, yellow seeds?\n(c) Which two combinations of traits in the F_{2} were not seen in either of the original parents?",
+          "lines": 6,
+          "answer": "(a) Gametes: Ry from the RRyy parent and rY from the rrYY parent. F_{1}: RrYy, round and yellow.\n(b) 9/16\n(c) Round yellow and wrinkled green. (This shows that the two traits are inherited independently.)"
+        },
+        {
+          "q": "A trait can 'skip a generation': a grandparent and a grandchild show it, but the parent in between does not. Explain how this can happen.",
+          "lines": 3,
+          "answer": "The trait is recessive. The parent got one recessive copy from the grandparent but also a dominant copy, so the trait stayed hidden. If the child then receives a recessive copy from both parents, it shows the trait again."
+        }
+      ]
+    }
+  ],
+  "closing": "If you can do a dihybrid checkerboard in under 5 minutes, you're board-ready on this one!"
+}

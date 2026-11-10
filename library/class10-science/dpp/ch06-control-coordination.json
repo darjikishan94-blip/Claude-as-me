@@ -1,0 +1,210 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch06-control-coordination",
+  "title": "Daily Practice: Ch 6 Control and Coordination",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Control and Coordination · Week 3 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "Make a gland | hormone | function table in your notebook on Day 3. It is worth marks every single year."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: The nervous system",
+      "questions": [
+        {
+          "q": "The hypothalamus is a part of the:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "fore-brain",
+            "mid-brain",
+            "hind-brain",
+            "spinal cord"
+          ],
+          "answer": "(a) fore-brain. It controls the pituitary gland through releasing factors."
+        },
+        {
+          "q": "Involuntary actions such as blood pressure, salivation and vomiting are controlled by the:",
+          "lines": 0,
+          "options": [
+            "cerebrum",
+            "medulla",
+            "cerebellum",
+            "spinal cord"
+          ],
+          "answer": "(b) medulla, in the hind-brain"
+        },
+        {
+          "q": "Which part of a neuron carries the impulse away from the cell body?",
+          "lines": 0,
+          "options": [
+            "dendrite",
+            "synapse",
+            "receptor",
+            "axon"
+          ],
+          "answer": "(d) axon"
+        },
+        {
+          "q": "Olfactory receptors detect:",
+          "lines": 0,
+          "options": [
+            "taste",
+            "smell",
+            "light",
+            "sound"
+          ],
+          "answer": "(b) smell"
+        },
+        {
+          "q": "You touch a hot pan and pull your hand away at once. Trace the path of this reflex arc, from the stimulus to the response.",
+          "lines": 3,
+          "answer": "Heat receptors in the skin → sensory neuron → relay neuron in the spinal cord → motor neuron → effector (arm muscle), which contracts and pulls the hand away. The message reaches the brain only afterwards."
+        },
+        {
+          "q": "Name the two parts of the central nervous system. How is the spinal cord protected?",
+          "lines": 2,
+          "answer": "The brain and the spinal cord. The spinal cord is protected by the vertebral column (backbone)."
+        },
+        {
+          "q": "How does a nerve impulse make a muscle contract?",
+          "lines": 3,
+          "answer": "When the impulse reaches the muscle, special proteins in the muscle cells change their shape and arrangement. This makes the muscle cells shorter, so the muscle contracts."
+        },
+        {
+          "q": "Name the part of the brain mainly involved in each action: (a) solving a maths problem, (b) walking in a straight line, (c) riding a bicycle smoothly, (d) your mouth watering when food is in it.",
+          "lines": 3,
+          "answer": "(a) Cerebrum (fore-brain): thinking. (b) Cerebellum: balance and posture. (c) Cerebellum: precise, coordinated voluntary movement. (d) Medulla: salivation is an involuntary action."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Coordination in plants",
+      "questions": [
+        {
+          "q": "Which plant hormone helps the stem grow?",
+          "lines": 0,
+          "options": [
+            "cytokinin",
+            "abscisic acid",
+            "insulin",
+            "gibberellin"
+          ],
+          "answer": "(d) gibberellin"
+        },
+        {
+          "q": "Roots growing towards water is an example of:",
+          "lines": 0,
+          "options": [
+            "phototropism",
+            "geotropism",
+            "hydrotropism",
+            "chemotropism"
+          ],
+          "answer": "(c) hydrotropism"
+        },
+        {
+          "q": "The tendrils of a pea plant coil around a support because:",
+          "lines": 0,
+          "options": [
+            "the part touching the support grows faster",
+            "the tendril loses water",
+            "the part away from the support grows faster",
+            "the tendril bends towards light"
+          ],
+          "answer": "(c) the part away from the support grows faster, so the tendril curls around it"
+        },
+        {
+          "q": "Why is abscisic acid called a 'stress hormone'?",
+          "lines": 2,
+          "answer": "It is released when the plant is under stress, such as drought. It inhibits growth and causes the wilting of leaves, which helps the plant save water."
+        },
+        {
+          "q": "Describe a simple experiment to show hydrotropism.",
+          "lines": 4,
+          "answer": "Fill a box or tray with dry soil and bury a small porous clay pot filled with water at one side. Sow a few seeds at a distance from the pot and keep the soil dry elsewhere. After some days, dig them out carefully: the roots will have grown towards the pot of water."
+        },
+        {
+          "q": "A potted plant is laid on its side in a dark room for a few days. Describe what happens to the shoot and the root, and name each response. Why was the room kept dark?",
+          "lines": 4,
+          "answer": "The shoot bends upwards, away from gravity: negative geotropism. The root bends downwards, towards gravity: positive geotropism. The room was dark so that light could not affect the shoot; the bending is due to gravity alone."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Hormones, mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** Hormones are released directly into the blood.\n**Reason (R):** Endocrine glands do not have ducts.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a) Both are true, and R explains A: with no ducts, the hormones pass straight into the blood."
+        },
+        {
+          "q": "Thyroxin regulates the metabolism of:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "carbohydrates only",
+            "proteins only",
+            "carbohydrates, proteins and fats",
+            "vitamins and minerals"
+          ],
+          "answer": "(c) carbohydrates, proteins and fats"
+        },
+        {
+          "q": "A large amount of adrenaline is released into a person's blood. Which of these will NOT happen?",
+          "lines": 0,
+          "options": [
+            "The heart beats faster.",
+            "Breathing becomes faster.",
+            "More blood flows to the skeletal muscles.",
+            "More blood flows to the digestive system."
+          ],
+          "answer": "(d) Blood supply to the digestive system and skin is reduced, so that more blood reaches the muscles."
+        },
+        {
+          "q": "Rahul is 13. His voice has started to crack and hair is growing on his face.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Which hormone causes these changes, and which gland makes it?",
+              "lines": 1,
+              "answer": "Testosterone, made by the testes."
+            },
+            {
+              "q": "Which hormone brings about the changes of puberty in girls, and which gland makes it?",
+              "lines": 1,
+              "answer": "Oestrogen, made by the ovaries."
+            },
+            {
+              "q": "Name two changes that happen in girls at puberty.",
+              "lines": 2,
+              "answer": "Any two: breasts grow in size, menstruation (periods) begins, hair grows in the armpits and genital area."
+            }
+          ]
+        },
+        {
+          "q": "Make a table with three columns (gland, hormone, one function) for these five glands: thyroid, pancreas, adrenal, pituitary and testes.",
+          "lines": 7,
+          "answer": "Thyroid: thyroxin; regulates carbohydrate, protein and fat metabolism.\nPancreas: insulin; regulates the blood sugar level.\nAdrenal: adrenaline; prepares the body for an emergency.\nPituitary: growth hormone; regulates growth and development.\nTestes: testosterone; brings about the changes of puberty in boys."
+        },
+        {
+          "q": "After a serious injury, a man's spinal cord is cut in his neck. His leg muscles are healthy, yet he cannot move his legs. Explain why.",
+          "lines": 3,
+          "answer": "The message to move the legs starts in the brain and must travel down the spinal cord to the nerves that serve the leg muscles. With the spinal cord cut, the impulses from the brain cannot get past the injury, so the healthy muscles never receive the signal to contract."
+        }
+      ]
+    }
+  ],
+  "closing": "Week 3 done after this one. Halfway through biology. Keep going!"
+}

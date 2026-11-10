@@ -66,6 +66,11 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Daily Practice: Ch 2 Acids, Bases and Salts | [PDF](class10-science/pdf/c10-dpp-ch02-acids-bases-salts.pdf) · [Word](class10-science/pdf/c10-dpp-ch02-acids-bases-salts.docx) · [Answer key](class10-science/pdf/c10-dpp-ch02-acids-bases-salts-answer-key.pdf) |
 | Daily Practice: Ch 3 Metals and Non-metals | [PDF](class10-science/pdf/c10-dpp-ch03-metals-non-metals.pdf) · [Word](class10-science/pdf/c10-dpp-ch03-metals-non-metals.docx) · [Answer key](class10-science/pdf/c10-dpp-ch03-metals-non-metals-answer-key.pdf) |
 | Daily Practice: Ch 4 Carbon and its Compounds | [PDF](class10-science/pdf/c10-dpp-ch04-carbon-compounds.pdf) · [Word](class10-science/pdf/c10-dpp-ch04-carbon-compounds.docx) · [Answer key](class10-science/pdf/c10-dpp-ch04-carbon-compounds-answer-key.pdf) |
+| Daily Practice: Ch 5 Life Processes | [PDF](class10-science/pdf/c10-dpp-ch05-life-processes.pdf) · [Word](class10-science/pdf/c10-dpp-ch05-life-processes.docx) · [Answer key](class10-science/pdf/c10-dpp-ch05-life-processes-answer-key.pdf) |
+| Daily Practice: Ch 6 Control and Coordination | [PDF](class10-science/pdf/c10-dpp-ch06-control-coordination.pdf) · [Word](class10-science/pdf/c10-dpp-ch06-control-coordination.docx) · [Answer key](class10-science/pdf/c10-dpp-ch06-control-coordination-answer-key.pdf) |
+| Daily Practice: Ch 7 How do Organisms Reproduce? | [PDF](class10-science/pdf/c10-dpp-ch07-how-do-organisms-reproduce.pdf) · [Word](class10-science/pdf/c10-dpp-ch07-how-do-organisms-reproduce.docx) · [Answer key](class10-science/pdf/c10-dpp-ch07-how-do-organisms-reproduce-answer-key.pdf) |
+| Daily Practice: Ch 8 Heredity | [PDF](class10-science/pdf/c10-dpp-ch08-heredity.pdf) · [Word](class10-science/pdf/c10-dpp-ch08-heredity.docx) · [Answer key](class10-science/pdf/c10-dpp-ch08-heredity-answer-key.pdf) |
+| Daily Practice: Ch 13 Our Environment | [PDF](class10-science/pdf/c10-dpp-ch13-our-environment.pdf) · [Word](class10-science/pdf/c10-dpp-ch13-our-environment.docx) · [Answer key](class10-science/pdf/c10-dpp-ch13-our-environment-answer-key.pdf) |
 
 ### Quick revision notes
 

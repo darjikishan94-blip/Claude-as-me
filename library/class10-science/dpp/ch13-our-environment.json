@@ -1,0 +1,187 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch13-our-environment",
+  "title": "Daily Practice: Ch 13 Our Environment",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Our Environment · Week 4 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 20 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "For every energy question, write the food chain first and the energy under each level. Each step keeps only 10%."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Ecosystems and food chains",
+      "questions": [
+        {
+          "q": "Which of these is an abiotic component of an ecosystem?",
+          "lines": 0,
+          "options": [
+            "temperature",
+            "bacteria",
+            "grass",
+            "fungi"
+          ],
+          "answer": "(a) temperature (rainfall, soil and minerals are abiotic too)"
+        },
+        {
+          "q": "An animal that eats both plants and animals is called:",
+          "lines": 0,
+          "options": [
+            "a herbivore",
+            "a carnivore",
+            "a producer",
+            "an omnivore"
+          ],
+          "answer": "(d) an omnivore"
+        },
+        {
+          "q": "In the food chain plants → insects → frogs → snakes, the frog is a:",
+          "lines": 0,
+          "options": [
+            "secondary consumer",
+            "primary consumer",
+            "tertiary consumer",
+            "producer"
+          ],
+          "answer": "(a) secondary consumer (third trophic level)"
+        },
+        {
+          "q": "Arrange hawk, grass, snake and rat into a food chain. Which trophic level is the snake at?",
+          "lines": 2,
+          "answer": "Grass → rat → snake → hawk. The snake is at the third trophic level (secondary consumer)."
+        },
+        {
+          "q": "Give one example each of a land food chain and a water food chain, with three trophic levels.",
+          "lines": 2,
+          "answer": "Land: grass → deer → tiger (or grass → goat → human).\nWater: phytoplankton → zooplankton → fish (any correct examples)."
+        },
+        {
+          "q": "In a pond, you find water plants, tadpoles that eat the plants, small fish that eat the tadpoles, and bacteria on the dead remains at the bottom. Name the producer, the primary consumer, the secondary consumer and the decomposer.",
+          "lines": 3,
+          "answer": "Producer: water plants. Primary consumer: tadpoles. Secondary consumer: small fish. Decomposer: bacteria."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Energy flow and nutrient cycling",
+      "questions": [
+        {
+          "q": "At each trophic level, most of the energy taken in is:",
+          "lines": 0,
+          "options": [
+            "passed on to the next level",
+            "used for life processes and lost as heat",
+            "stored by decomposers",
+            "reflected back to the sun"
+          ],
+          "answer": "(b) used for life processes and lost as heat; only about 10% is passed on"
+        },
+        {
+          "q": "In the food chain grass → deer → lion, the grass has 20,000 J of energy. About how much reaches the lion?",
+          "lines": 0,
+          "options": [
+            "20 J",
+            "200 J",
+            "2,000 J",
+            "20,000 J"
+          ],
+          "answer": "(b) 200 J: deer get 2,000 J (10%) and lions 200 J (10% of that)"
+        },
+        {
+          "q": "Energy enters an ecosystem through the:",
+          "lines": 0,
+          "options": [
+            "decomposers",
+            "herbivores",
+            "carnivores",
+            "producers (green plants)"
+          ],
+          "answer": "(d) producers, which capture sunlight in photosynthesis"
+        },
+        {
+          "q": "Why does the food chain grass → human make more energy available to humans than grass → goat → human?",
+          "lines": 3,
+          "answer": "The first chain has fewer trophic levels. At every step about 90% of the energy is lost, so with one step fewer, much more of the energy trapped by the grass reaches humans."
+        },
+        {
+          "q": "In the food chain phytoplankton → zooplankton → fish → kingfisher, the kingfisher receives 2 J of energy. How much energy did the phytoplankton trap? Show the energy at each level.",
+          "lines": 3,
+          "answer": "Work backwards, multiplying by 10 at each step: kingfisher 2 J ← fish 20 J ← zooplankton 200 J ← phytoplankton 2,000 J."
+        },
+        {
+          "q": "Energy flows through an ecosystem in one direction, but nutrients go round in a cycle. Explain the difference.",
+          "lines": 4,
+          "answer": "Energy from the sun passes from one trophic level to the next and is lost as heat at every step; it never comes back to the plants. Nutrients (minerals) in dead plants and animals are broken down by decomposers and returned to the soil, where plants take them up and use them again."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Ozone, waste and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** At ground level, ozone is a deadly poison.\n**Reason (R):** An ozone molecule is made up of two oxygen atoms.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(c) A is true, but R is false: ozone (O_{3}) has three oxygen atoms."
+        },
+        {
+          "q": "In 1987, an international agreement led by the United Nations Environment Programme froze the production of:",
+          "lines": 0,
+          "options": [
+            "carbon dioxide",
+            "plastics",
+            "CFCs",
+            "pesticides"
+          ],
+          "answer": "(c) CFCs, at their 1986 levels, to protect the ozone layer"
+        },
+        {
+          "q": "Which of these will take the longest to break down in soil?",
+          "lines": 0,
+          "options": [
+            "a banana peel",
+            "a cotton cloth",
+            "a newspaper",
+            "a polythene bag"
+          ],
+          "answer": "(d) a polythene bag: it is non-biodegradable"
+        },
+        {
+          "q": "A school's eco-club weighed the canteen waste for one week: 40 kg of leftover food and peels, 12 kg of paper plates and napkins, 8 kg of plastic wrappers and bottles, and 2 kg of aluminium foil.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Which of these wastes are biodegradable?",
+              "lines": 1,
+              "answer": "Leftover food and peels, and paper plates and napkins."
+            },
+            {
+              "q": "What percentage of the total waste is biodegradable?",
+              "lines": 2,
+              "answer": "Total = 40 + 12 + 8 + 2 = 62 kg. Biodegradable = 40 + 12 = 52 kg. 52/62 × 100 ≈ 84%."
+            },
+            {
+              "q": "Suggest one way to manage the food waste and one way to cut down the plastic waste.",
+              "lines": 2,
+              "answer": "Food waste: compost it, and use the compost in the school garden. Plastic: use steel plates and glasses that can be washed and reused, and send bottles for recycling."
+            }
+          ]
+        },
+        {
+          "q": "Why do we never need to clean ponds or lakes, while an aquarium must be cleaned regularly?",
+          "lines": 3,
+          "answer": "A pond is a natural, balanced ecosystem: its decomposers break down wastes and dead remains and return the nutrients. An aquarium is a small, artificial ecosystem with few decomposers, so wastes build up and must be removed by cleaning."
+        }
+      ]
+    }
+  ],
+  "closing": "Week 4 done after this one. That's all of biology. Great going!"
+}
