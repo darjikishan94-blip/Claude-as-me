@@ -215,6 +215,7 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Title | Files |
 |---|---|
 | Annual Exam Practice Paper 1 (CBSE pattern) | [PDF](class9-science/pdf/c9-annual-practice-cbse-1.pdf) · [Word](class9-science/pdf/c9-annual-practice-cbse-1.docx) · [Answer key](class9-science/pdf/c9-annual-practice-cbse-1-answer-key.pdf) |
+| Annual Exam Practice Paper 1 (GSEB pattern) | [PDF](class9-science/pdf/c9-annual-practice-gseb-1.pdf) · [Word](class9-science/pdf/c9-annual-practice-gseb-1.docx) · [Answer key](class9-science/pdf/c9-annual-practice-gseb-1-answer-key.pdf) |
 
 ## Guides & message kits
 

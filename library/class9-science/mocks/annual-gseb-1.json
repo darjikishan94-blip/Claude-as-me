@@ -1,0 +1,481 @@
+{
+  "type": "test",
+  "file_name": "c9-annual-practice-gseb-1",
+  "title": "Annual Exam Practice Paper 1 (GSEB pattern)",
+  "class": "9",
+  "board": "GSEB",
+  "subject": "Science",
+  "chapter": "Motion · Force and Laws of Motion · Work and Energy · Sound · Matter in Our Surroundings · Is Matter Around Us Pure? · Structure of the Atom · The Cell · Tissues",
+  "time": "3 hours",
+  "total_marks": 80,
+  "instructions": [
+    "Section A (Q1–24) is compulsory: 1 mark each.",
+    "Section B: answer any 9 of 12 questions (2 marks each). Section C: answer any 6 of 8 (3 marks each). Section D: answer any 5 of 7 (4 marks each).",
+    "Show formulae and units in numericals, and draw neat, labelled diagrams wherever needed.",
+    "This paper is topic-based and follows the reported GSEB blueprint (A 24 · B 18 · C 18 · D 20). Check the topic list and blueprint against your school's annual exam before using it."
+  ],
+  "sections": [
+    {
+      "title": "Section A (Q1–8): Choose the correct option",
+      "questions": [
+        {
+          "q": "A body moves with uniform velocity. Its acceleration is:",
+          "marks": 1,
+          "options": [
+            "zero",
+            "positive",
+            "negative",
+            "always increasing"
+          ],
+          "answer": "(a) zero: the velocity does not change"
+        },
+        {
+          "q": "One newton is equal to:",
+          "marks": 1,
+          "fixed_order": true,
+          "options": [
+            "1 kg m/s",
+            "1 kg m/s^{2}",
+            "1 g cm/s^{2}",
+            "1 kg m^{2}/s^{2}"
+          ],
+          "answer": "(b) 1 kg m/s^{2} (F = ma)"
+        },
+        {
+          "q": "If the speed of a moving body is doubled, its kinetic energy becomes:",
+          "marks": 1,
+          "fixed_order": true,
+          "options": [
+            "half",
+            "double",
+            "three times",
+            "four times"
+          ],
+          "answer": "(d) four times, because KE = ½mv^{2}"
+        },
+        {
+          "q": "Which of these is a heterogeneous mixture?",
+          "marks": 1,
+          "options": [
+            "sand in water",
+            "air",
+            "salt solution",
+            "brass"
+          ],
+          "answer": "(a) sand in water"
+        },
+        {
+          "q": "The direct change of a gas into a solid, without becoming a liquid, is called:",
+          "marks": 1,
+          "options": [
+            "sublimation",
+            "condensation",
+            "evaporation",
+            "deposition"
+          ],
+          "answer": "(d) deposition"
+        },
+        {
+          "q": "The maximum number of electrons that the M shell can hold is:",
+          "marks": 1,
+          "options": [
+            "2",
+            "8",
+            "18",
+            "32"
+          ],
+          "answer": "(c) 18 (2n^{2} with n = 3)"
+        },
+        {
+          "q": "Which of these is found in plant cells but not in animal cells?",
+          "marks": 1,
+          "options": [
+            "mitochondria",
+            "plastids",
+            "Golgi apparatus",
+            "ribosomes"
+          ],
+          "answer": "(b) plastids"
+        },
+        {
+          "q": "Bats can fly and find their food in the dark because they use:",
+          "marks": 1,
+          "options": [
+            "infrasound",
+            "light",
+            "ultrasound",
+            "magnetism"
+          ],
+          "answer": "(c) ultrasound: they hear its reflections from obstacles and insects"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q9–14): Fill in the blanks",
+      "questions": [
+        {
+          "q": "The area under a velocity–time graph gives the ______ of the object.",
+          "marks": 1,
+          "answer": "displacement"
+        },
+        {
+          "q": "The SI unit of power is the ______.",
+          "marks": 1,
+          "answer": "watt (W)"
+        },
+        {
+          "q": "Sound waves in air are ______ waves.",
+          "marks": 1,
+          "answer": "longitudinal"
+        },
+        {
+          "q": "The temperature at which a solid melts at atmospheric pressure is called its ______.",
+          "marks": 1,
+          "answer": "melting point"
+        },
+        {
+          "q": "Rutherford's experiment showed that most of the space inside an atom is ______.",
+          "marks": 1,
+          "answer": "empty"
+        },
+        {
+          "q": "Xylem and phloem are examples of ______ permanent tissues.",
+          "marks": 1,
+          "answer": "complex"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q15–19): State true or false",
+      "questions": [
+        {
+          "q": "An object can have zero displacement even after covering a large distance.",
+          "marks": 1,
+          "answer": "True, e.g. one full round of a circular track."
+        },
+        {
+          "q": "Action and reaction forces act on the same body.",
+          "marks": 1,
+          "answer": "False. They act on two different bodies."
+        },
+        {
+          "q": "Evaporation takes place only at the boiling point of a liquid.",
+          "marks": 1,
+          "answer": "False. It takes place at all temperatures below the boiling point."
+        },
+        {
+          "q": "Isotopes of an element have different atomic numbers.",
+          "marks": 1,
+          "answer": "False. They have the same atomic number but different mass numbers."
+        },
+        {
+          "q": "Lysosomes contain digestive enzymes.",
+          "marks": 1,
+          "answer": "True"
+        }
+      ]
+    },
+    {
+      "title": "Section A (Q20–24): Answer in one word",
+      "questions": [
+        {
+          "q": "Name the quantity equal to the product of mass and velocity.",
+          "marks": 1,
+          "answer": "Momentum"
+        },
+        {
+          "q": "What is the SI unit of frequency?",
+          "marks": 1,
+          "answer": "Hertz (Hz)"
+        },
+        {
+          "q": "Name the method used to separate cream from milk.",
+          "marks": 1,
+          "answer": "Centrifugation"
+        },
+        {
+          "q": "Who discovered the neutron?",
+          "marks": 1,
+          "answer": "J. Chadwick"
+        },
+        {
+          "q": "Name the tissue at the tips of roots and stems that makes them grow longer.",
+          "marks": 1,
+          "answer": "Apical meristem"
+        }
+      ]
+    },
+    {
+      "title": "Section B",
+      "attempt": 9,
+      "note": "Answer any 9 questions. 2 marks each.",
+      "questions": [
+        {
+          "q": "Give two differences between uniform and non-uniform motion, with one example of each.",
+          "marks": 2,
+          "answer": "Uniform motion: equal distances in equal intervals of time; the distance–time graph is a straight line; e.g. a car moving at a steady 60 km/h on a highway. Non-uniform motion: unequal distances in equal intervals of time; the distance–time graph is a curve; e.g. a bus in city traffic.",
+          "marking": [
+            "Two differences: 1",
+            "Examples: 1"
+          ]
+        },
+        {
+          "q": "A car travels 120 km in 2 hours and then 60 km in the next 1 hour. Find its average speed for the whole journey.",
+          "marks": 2,
+          "answer": "Total distance = 120 + 60 = 180 km. Total time = 2 + 1 = 3 h. Average speed = 180 ÷ 3 = 60 km/h.",
+          "marking": [
+            "Totals: 1",
+            "Average speed: 1"
+          ]
+        },
+        {
+          "q": "State Newton's first law of motion. Why is it also called the law of inertia?",
+          "marks": 2,
+          "answer": "A body stays in its state of rest or of uniform motion in a straight line unless an unbalanced force acts on it. It is called the law of inertia because it describes inertia: the tendency of a body to resist any change in its state of rest or motion.",
+          "marking": [
+            "Law: 1",
+            "Reason: 1"
+          ]
+        },
+        {
+          "q": "What force is needed to give a car of mass 1500 kg an acceleration of 2 m/s^{2}? What acceleration would the same force give a 3000 kg truck?",
+          "marks": 2,
+          "answer": "F = ma = 1500 × 2 = 3000 N. For the truck: a = F/m = 3000/3000 = 1 m/s^{2}.",
+          "marking": [
+            "Force: 1",
+            "Truck's acceleration: 1"
+          ]
+        },
+        {
+          "q": "When is the work done by a force zero? Give one example.",
+          "marks": 2,
+          "answer": "When there is no displacement, or when the force is at right angles to the displacement. Example: pushing a wall that does not move; or a person carrying a bag while walking on level ground does no work against gravity.",
+          "marking": [
+            "Condition: 1",
+            "Example: 1"
+          ]
+        },
+        {
+          "q": "What is an echo? Why do we not hear an echo in a small room?",
+          "marks": 2,
+          "answer": "An echo is a sound heard again after it is reflected from a large surface. To hear a separate echo, the reflecting surface must be at least about 17.2 m away; in a small room the walls are much closer, so the reflected sound reaches us too soon to be heard separately.",
+          "marking": [
+            "Echo: 1",
+            "Reason (distance): 1"
+          ]
+        },
+        {
+          "q": "What is sublimation? Name two substances that sublime.",
+          "marks": 2,
+          "answer": "The change of a solid directly into vapour on heating, without becoming a liquid. Examples: camphor, naphthalene, ammonium chloride (any two).",
+          "marking": [
+            "Definition: 1",
+            "Two examples: 1"
+          ]
+        },
+        {
+          "q": "Why are cotton clothes more comfortable than synthetic clothes in summer?",
+          "marks": 2,
+          "answer": "We sweat more in summer. Cotton absorbs the sweat and spreads it out, so it evaporates easily. Evaporation takes heat from our body, so we feel cool. Synthetic clothes absorb little sweat.",
+          "marking": [
+            "Cotton absorbs sweat: 1",
+            "Evaporation cools the body: 1"
+          ]
+        },
+        {
+          "q": "Give two differences between a true solution and a colloid.",
+          "marks": 2,
+          "answer": "In a true solution the particles are extremely small (below 1 nm); in a colloid they are larger (about 1–100 nm). A true solution does not scatter light; a colloid scatters a beam of light (Tyndall effect).",
+          "marking": [
+            "Each difference: 1"
+          ]
+        },
+        {
+          "q": "Write the electronic configurations of magnesium (Z = 12) and chlorine (Z = 17), and give the valency of each.",
+          "marks": 2,
+          "answer": "Magnesium: 2, 8, 2; valency 2 (it loses 2 electrons). Chlorine: 2, 8, 7; valency 1 (it gains 1 electron).",
+          "marking": [
+            "Magnesium: 1",
+            "Chlorine: 1"
+          ]
+        },
+        {
+          "q": "Name the cell organelle that: (a) makes proteins, (b) carries out photosynthesis, (c) stores starch in plant cells, (d) helps form lysosomes.",
+          "marks": 2,
+          "answer": "(a) Ribosome (b) Chloroplast (c) Leucoplast (d) Golgi apparatus",
+          "marking": [
+            "Each: ½"
+          ]
+        },
+        {
+          "q": "What are stomata? Give two of their functions.",
+          "marks": 2,
+          "answer": "Stomata are small pores in the epidermis of a leaf, each surrounded by two guard cells. Functions: exchange of gases with the air (CO_{2} in, O_{2} out during photosynthesis), and loss of water vapour (transpiration).",
+          "marking": [
+            "What stomata are: 1",
+            "Two functions: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section C",
+      "attempt": 6,
+      "note": "Answer any 6 questions. 3 marks each.",
+      "questions": [
+        {
+          "q": "Derive the equation v^{2} − u^{2} = 2as using a velocity–time graph.",
+          "marks": 3,
+          "answer": "For uniform acceleration, the v–t graph is a straight line from u (at time 0) to v (at time t). Displacement s = area under the graph, a trapezium: s = ½(u + v)t. From the slope, a = (v − u)/t, so t = (v − u)/a. Substituting: s = ½(u + v)(v − u)/a = (v^{2} − u^{2})/2a. So v^{2} − u^{2} = 2as.",
+          "marking": [
+            "s = area = ½(u + v)t: 1",
+            "t = (v − u)/a: 1",
+            "Result: 1"
+          ]
+        },
+        {
+          "q": "A ball of mass 0.5 kg moving at 10 m/s is hit straight back by a bat at 15 m/s. The bat is in contact with the ball for 0.01 s. Find the change in momentum of the ball and the average force exerted by the bat.",
+          "marks": 3,
+          "answer": "Take the original direction as positive: u = +10 m/s, v = −15 m/s.\nChange in momentum = m(v − u) = 0.5 × (−15 − 10) = −12.5 kg m/s.\nForce = change in momentum ÷ time = −12.5/0.01 = −1250 N: a force of 1250 N opposite to the ball's original direction.",
+          "marking": [
+            "Signs for velocities: 1",
+            "Change in momentum: 1",
+            "Force: 1"
+          ]
+        },
+        {
+          "q": "A girl of mass 40 kg climbs a staircase 5 m high in 10 s. Find the work she does against gravity and her power. (g = 10 m/s^{2})",
+          "marks": 3,
+          "answer": "W = mgh = 40 × 10 × 5 = 2000 J. P = W/t = 2000/10 = 200 W.",
+          "marking": [
+            "Formula: 1",
+            "Work: 1",
+            "Power: 1"
+          ]
+        },
+        {
+          "q": "Explain how a vibrating tuning fork produces sound, and how the sound travels through air to our ears.",
+          "marks": 3,
+          "answer": "When a prong moves forward, it pushes the air in front of it and forms a region of high pressure (a compression). When it moves back, it leaves a region of low pressure (a rarefaction). As the fork keeps vibrating, a series of compressions and rarefactions moves through the air. The air particles only vibrate back and forth about their positions; the disturbance travels and makes our eardrum vibrate.",
+          "marking": [
+            "Compression: 1",
+            "Rarefaction: 1",
+            "Propagation through particles: 1"
+          ]
+        },
+        {
+          "q": "How will you separate: (a) common salt from a mixture of salt and sand, (b) acetone from a mixture of acetone and water, (c) the different gases of the air?",
+          "marks": 3,
+          "answer": "(a) Add water so the salt dissolves, filter off the sand, then evaporate the filtrate to get salt.\n(b) Distillation, because the boiling points of acetone and water are far apart.\n(c) Compress and cool the air to make it liquid, then use fractional distillation.",
+          "marking": [
+            "Each part: 1"
+          ]
+        },
+        {
+          "q": "What are canal rays? Who discovered them, and which particle did they lead to?",
+          "marks": 3,
+          "answer": "Canal rays are positively charged radiations produced in a gas discharge tube. E. Goldstein discovered them in 1886. They led to the discovery of the proton, a positively charged sub-atomic particle.",
+          "marking": [
+            "What they are: 1",
+            "Goldstein: 1",
+            "Proton: 1"
+          ]
+        },
+        {
+          "q": "Draw a neat, labelled diagram of an animal cell.",
+          "marks": 3,
+          "answer": "Labels: cell membrane, cytoplasm, nucleus (nuclear membrane, nucleolus), mitochondria, endoplasmic reticulum, Golgi apparatus, lysosome, ribosomes, small vacuole (at least six correct labels). No cell wall and no chloroplasts.",
+          "marking": [
+            "Diagram: 1",
+            "Labels: 2"
+          ]
+        },
+        {
+          "q": "Give one difference each in the structure of parenchyma, collenchyma and sclerenchyma, and one function of each.",
+          "marks": 3,
+          "answer": "Parenchyma: living, thin-walled, loosely packed cells; stores food (and makes food when it has chlorophyll).\nCollenchyma: living, elongated cells thickened at the corners; gives flexibility to leaf stalks and young stems.\nSclerenchyma: dead, long, narrow cells with walls thickened by lignin; makes plant parts hard and stiff, e.g. the husk of a coconut.",
+          "marking": [
+            "Each tissue: 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Section D",
+      "attempt": 5,
+      "note": "Answer any 5 questions. 4 marks each.",
+      "questions": [
+        {
+          "q": "(a) What is uniform circular motion? Why is it called accelerated motion?\n(b) An athlete runs once around a circular track of radius 70 m in 44 s. Find his speed. (Take π = 22/7.)",
+          "marks": 4,
+          "answer": "(a) Motion of a body along a circular path at constant speed. It is accelerated because the direction of motion changes at every point, so the velocity keeps changing.\n(b) v = 2πr/t = (2 × 22/7 × 70) ÷ 44 = 440 ÷ 44 = 10 m/s.",
+          "marking": [
+            "Definition + why accelerated: 2",
+            "Speed: 2"
+          ]
+        },
+        {
+          "q": "(a) State the law of conservation of energy.\n(b) A 2 kg ball is dropped from a height of 10 m. Find its potential energy and kinetic energy at the top, at a height of 5 m, and just before it hits the ground. (g = 10 m/s^{2}) What do you notice?",
+          "marks": 4,
+          "answer": "(a) Energy can neither be created nor destroyed; it can only change from one form to another, and the total stays constant.\n(b) Top: PE = mgh = 2 × 10 × 10 = 200 J, KE = 0. At 5 m: PE = 2 × 10 × 5 = 100 J; it has fallen 5 m, so v^{2} = 2gh = 100 and KE = ½ × 2 × 100 = 100 J. Ground: PE = 0, KE = 200 J. The total (PE + KE) is 200 J at every point.",
+          "marking": [
+            "Law: 1",
+            "Top and ground: 1",
+            "At 5 m: 1",
+            "Total constant: 1"
+          ]
+        },
+        {
+          "q": "(a) What is SONAR?\n(b) A ship sends an ultrasound signal to the sea bed and receives its echo 2 s later. If sound travels at 1500 m/s in sea water, how deep is the sea there?\n(c) Give one more use of ultrasound.",
+          "marks": 4,
+          "answer": "(a) Sound Navigation And Ranging: a device that uses ultrasonic waves to measure the distance, direction and speed of underwater objects.\n(b) Depth = (1500 × 2)/2 = 1500 m.\n(c) Any one: scanning internal organs (ultrasonography), detecting cracks in metal blocks, cleaning hard-to-reach parts.",
+          "marking": [
+            "SONAR: 1",
+            "Depth: 2",
+            "Use: 1"
+          ]
+        },
+        {
+          "q": "(a) What is the Tyndall effect? Give one everyday example.\n(b) Compare a solution, a suspension and a colloid on: (i) whether the particles can be seen, (ii) whether they settle down.",
+          "marks": 4,
+          "answer": "(a) The scattering of a beam of light by the particles of a colloid, which makes the path of the beam visible. Example: sunlight entering a dark room through a small hole, or through the canopy of a dense forest.\n(b) Solution: particles cannot be seen, and do not settle. Suspension: particles can be seen, and settle down when left undisturbed. Colloid: particles cannot be seen with the naked eye, and do not settle.",
+          "marking": [
+            "Tyndall effect + example: 1",
+            "Comparison: 3"
+          ]
+        },
+        {
+          "q": "(a) How can a gas be changed into a liquid?\n(b) Why is solid carbon dioxide called dry ice?\n(c) Why do water droplets form on the outside of a glass of iced water?",
+          "marks": 4,
+          "answer": "(a) By increasing the pressure and lowering the temperature, which brings its particles close together.\n(b) Solid CO_{2} changes directly into gas when the pressure drops to 1 atmosphere, without becoming a liquid, so it leaves nothing wet behind.\n(c) Water vapour in the air touches the cold surface of the glass, loses energy and condenses into droplets.",
+          "marking": [
+            "Liquefying a gas: 1",
+            "Dry ice: 1",
+            "Condensation explained: 2"
+          ]
+        },
+        {
+          "q": "(a) Write two postulates of Bohr's model of the atom.\n(b) An oxygen atom has atomic number 8 and mass number 16. Draw its atomic structure, and give its electronic configuration and valency.",
+          "marks": 4,
+          "answer": "(a) Only certain special orbits (energy levels, K, L, M, N) are allowed for the electrons. While revolving in these discrete orbits, electrons do not radiate energy.\n(b) Nucleus with 8 protons and 8 neutrons; 2 electrons in K and 6 in L. Configuration 2, 6. Valency 2 (it gains 2 electrons to complete the octet).",
+          "marking": [
+            "Two postulates: 2",
+            "Structure: 1",
+            "Configuration + valency: 1"
+          ]
+        },
+        {
+          "q": "(a) Draw a neat, labelled diagram of a neuron.\n(b) Give the function of the dendrites and of the axon.",
+          "marks": 4,
+          "answer": "(a) Labels: cell body (cyton) with nucleus, dendrites, axon, nerve ending.\n(b) Dendrites receive messages (impulses) and carry them to the cell body. The axon carries the impulse away from the cell body to the next cell.",
+          "marking": [
+            "Diagram with labels: 2",
+            "Dendrites: 1",
+            "Axon: 1"
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": "All the best for your annual exam!"
+}
