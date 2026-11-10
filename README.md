@@ -37,7 +37,7 @@ A phone-friendly library website holding every test, answer key, revision sheet,
 - **One-page revision sheets for Class 9** (all 10 topics above, plus Gravitation) **and Class 8** (all 5 topics), in the same style as the Class 10 sheets
 - **Two drill sheets:** CBSE assertion–reason + case-based, and GSEB 40 rapid-fire objective questions
 - **Parent Handbook** (policies with blanks to fill + acknowledgement page), **year-round parent message calendar**, and a **tough-conversations playbook** (16 difficult situations, with replies)
-- **90-day board revision plan** (9 Nov 2026 – 7 Feb 2027) with an error-log page, plus 11 parent WhatsApp messages to go with it
+- **90-day board revision plan** (9 Nov 2026 – 7 Feb 2027) with an error-log page, plus 11 parent WhatsApp messages and a weekly message for the student group (15 in all) to go with it
 - **Admissions kit 2027-28:** broadcasts, posters, Instagram captions, enquiry replies, demo-class plan, referral and testimonial messages
 - **3 YouTube video scripts** (balancing equations, 3-mark answers, 90-day plan), with titles, descriptions, tags and Shorts cuts
 

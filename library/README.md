@@ -222,6 +222,7 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 - [Tough conversations playbook](admin/tough-conversations-playbook.md)
 - [Admissions kit 2027-28: Level Up Academy](admissions/admissions-kit-2027-28.md)
 - [Class 10 board season: parent message series (Nov 2026 – Feb 2027)](class10-science/plans/class10-90-day-parent-messages.md)
+- [Class 10 board season: weekly messages for the student group](class10-science/plans/class10-90-day-student-messages.md)
 - [YouTube Shorts pack 1: five 30–60 second scripts (videos 2, 3, 6, 8, 10)](youtube/shorts-pack-1.md)
 - [YouTube videos 1 and 7: long-video scripts](youtube/video-01-07-long-videos.md)
 - [YouTube video 4: Balancing chemical equations, step by step (Class 10)](youtube/video-04-balancing-equations.md)
