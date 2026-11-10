@@ -1,0 +1,184 @@
+{
+  "type": "notes",
+  "file_name": "level-up-academy-progress-report",
+  "title": "Student Progress Report",
+  "subject": "",
+  "blocks": [
+    {
+      "table": [
+        [
+          "Student's name",
+          " "
+        ],
+        [
+          "Class · board · batch",
+          " "
+        ],
+        [
+          "Report for (month / term)",
+          " "
+        ],
+        [
+          "Attendance",
+          "__________ out of __________ classes"
+        ]
+      ],
+      "row_height_cm": 0.8,
+      "col_widths": [
+        5,
+        12.6
+      ],
+      "header": false
+    },
+    {
+      "h": "Test record"
+    },
+    {
+      "table": [
+        [
+          "Test / chapter",
+          "Date",
+          "Marks",
+          "Out of",
+          "Class average"
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " ",
+          " "
+        ]
+      ],
+      "row_height_cm": 0.7,
+      "col_widths": [
+        6.6,
+        2.6,
+        2.4,
+        2.4,
+        3.6
+      ]
+    },
+    {
+      "h": "How things are going"
+    },
+    {
+      "table": [
+        [
+          "Area",
+          "Strong",
+          "Good",
+          "Needs work"
+        ],
+        [
+          "Understanding the concepts",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          "Numericals",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          "Diagrams and labelling",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          "Writing complete answers",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          "Homework and daily practice",
+          " ",
+          " ",
+          " "
+        ],
+        [
+          "Regularity and punctuality",
+          " ",
+          " ",
+          " "
+        ]
+      ],
+      "row_height_cm": 0.62,
+      "col_widths": [
+        8,
+        3.2,
+        3.2,
+        3.2
+      ]
+    },
+    {
+      "h": "Teacher's note"
+    },
+    {
+      "table": [
+        [
+          "What's going well",
+          " "
+        ],
+        [
+          "One thing to work on",
+          " "
+        ],
+        [
+          "Our plan for next month",
+          " "
+        ]
+      ],
+      "row_height_cm": 1.2,
+      "col_widths": [
+        4.6,
+        13
+      ],
+      "header": false
+    },
+    {
+      "h": "Parent's note (optional)"
+    },
+    {
+      "lines": 2
+    },
+    {
+      "p": "Teacher's signature: ______________________          Parent's signature: ______________________"
+    },
+    {
+      "p": "Thank you for your support. Happy to talk anytime: just message us to set up a quick call."
+    }
+  ]
+}

@@ -10,6 +10,7 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 
 | Title | Files |
 |---|---|
+| Student Progress Report | [PDF](admin/pdf/level-up-academy-progress-report.pdf) · [Word](admin/pdf/level-up-academy-progress-report.docx) |
 | Parent Handbook [2027-28] | [PDF](admin/pdf/level-up-academy-parent-handbook.pdf) · [Word](admin/pdf/level-up-academy-parent-handbook.docx) |
 
 ## Class 10 Science

@@ -48,7 +48,7 @@ SHELVES = [
      "sections": [{"name": "Unit tests"}, {"name": "Annual exam practice", "note": "Full-syllabus practice papers with answer keys. Check the topic list against your school's syllabus."}, {"name": "Practice packs"}, {"name": "Revision notes"}]},
     {"id": "admin", "name": "Academy admin", "short": "Admin",
      "blurb": "Parent communication in your voice: the handbook, a message for every month, replies for difficult conversations, and the admissions kit.",
-     "sections": [{"name": "Parent handbook"}, {"name": "Message kits"}, {"name": "Admissions 2027-28"}]},
+     "sections": [{"name": "Parent handbook"}, {"name": "Forms and templates"}, {"name": "Message kits"}, {"name": "Admissions 2027-28"}]},
     {"id": "youtube", "name": "YouTube", "short": "YouTube",
      "blurb": "Scripts for the first 10 videos, with titles, descriptions, tags and Shorts cuts.",
      "sections": [{"name": "Video scripts"}]},
@@ -153,7 +153,7 @@ def main():
             item["shelf"] = "class-9" if a.startswith("class9") else "class-8"
             item["section"] = {"tests": "Unit tests", "notes": "Revision notes", "mocks": "Annual exam practice"}.get(kind, "Practice packs")
         elif a == "admin":
-            item.update(shelf="admin", section="Parent handbook")
+            item.update(shelf="admin", section="Forms and templates" if stem.startswith("form-") else "Parent handbook")
         else:
             item.update(shelf="setup", section="Your profile")
         if spec.get("type") == "notes":

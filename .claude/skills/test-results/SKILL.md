@@ -66,3 +66,6 @@ Only name toppers in a group if Kishan explicitly asks. If Kishan does, record t
 2. **Ready to send:** one code block per student, labelled `[Name]: [marks]/[max] · [tier]`, ordered top → support → absent.
 3. **Check before sending:** the "needs support" messages, where the specific "area" is only known if Kishan told you or the paper analysis shows it (otherwise leave `[area]` for Kishan), and any uncertain readings from a photo.
 4. Offer a follow-up: "Want a practice worksheet for the [n] students who need support?" (see `worksheet-notes`).
+
+## Printed report card (PTM / end of term)
+`library/admin/notes/form-progress-report.json` is a blank one-page **Student Progress Report** (details, test record, skills grid, teacher's note, parent's note). It prints from the Level Up Library (Admin → Forms and templates). Teachers fill it in by hand. If Kishan wants filled-in cards, generate them only into `private/` from the marks he shares, and never commit them.

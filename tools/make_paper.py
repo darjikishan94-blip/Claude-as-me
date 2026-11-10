@@ -522,10 +522,11 @@ def render_notes(spec, path):
             t = doc.add_table(rows=len(rows), cols=len(rows[0]))
             t.style = "Table Grid"
             set_col_widths(t, rows, block.get("col_widths"))
+            head = block.get("header", True)  # false: a form, where every row is a write-in row
             for r, row in enumerate(rows):
                 for c, txt in enumerate(row):
-                    add_rich(t.rows[r].cells[c].paragraphs[0], txt, size=10, bold=(r == 0))
-                if r and block.get("row_height_cm"):
+                    add_rich(t.rows[r].cells[c].paragraphs[0], txt, size=10, bold=(r == 0 and head) or (c == 0 and not head))
+                if (r or not head) and block.get("row_height_cm"):
                     trPr = t.rows[r]._tr.get_or_add_trPr()
                     h = OxmlElement("w:trHeight")
                     h.set(qn("w:val"), str(int(float(block["row_height_cm"]) * 567)))
