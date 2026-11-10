@@ -1,0 +1,215 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch03-metals-non-metals",
+  "title": "Daily Practice: Ch 3 Metals and Non-metals",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Metals and Non-metals · Week 2 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each: Day 1 on the day you study the chapter, then Day 2 and Day 3. Write answers in your notebook and check them with the key the same day. Copy every mistake into your error log.",
+    "Keep the reactivity series in front of you on Day 1. By Day 3 you should know it by heart: K Na Ca Mg Al Zn Fe Pb [H] Cu Hg Ag Au."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Properties of metals and non-metals",
+      "questions": [
+        {
+          "q": "Which of these non-metals is lustrous (shiny)?",
+          "lines": 0,
+          "options": [
+            "sulphur",
+            "phosphorus",
+            "iodine",
+            "nitrogen"
+          ],
+          "answer": "(c) iodine"
+        },
+        {
+          "q": "Which metal will melt if you hold it in your palm?",
+          "lines": 0,
+          "options": [
+            "sodium",
+            "mercury",
+            "lead",
+            "gallium"
+          ],
+          "answer": "(d) gallium (caesium also has a very low melting point)"
+        },
+        {
+          "q": "Which non-metal is a good conductor of electricity?",
+          "lines": 0,
+          "options": [
+            "sulphur",
+            "phosphorus",
+            "iodine",
+            "graphite (a form of carbon)"
+          ],
+          "answer": "(d) graphite"
+        },
+        {
+          "q": "Which of these metals does not react with water at all, not even with steam?",
+          "lines": 0,
+          "options": [
+            "sodium",
+            "copper",
+            "calcium",
+            "magnesium"
+          ],
+          "answer": "(b) copper (gold, silver and lead also do not react with water)"
+        },
+        {
+          "q": "Give reasons: (a) Cooking vessels are made of metals. (b) Electric wires are made of copper and covered with PVC or rubber.",
+          "lines": 3,
+          "answer": "(a) Metals are good conductors of heat and have high melting points.\n(b) Copper is a very good conductor of electricity and is ductile, so it can be drawn into wires. PVC and rubber are insulators, so the covering keeps us safe from shocks."
+        },
+        {
+          "q": "What do you see when (i) a small piece of potassium is dropped into cold water and (ii) calcium is put into water? Write the balanced equations, and say why calcium starts floating.",
+          "lines": 4,
+          "answer": "(i) Potassium reacts violently, giving out so much heat that the hydrogen formed catches fire: 2K + 2H_{2}O → 2KOH + H_{2} + heat\n(ii) Calcium reacts less violently; bubbles of gas form on it: Ca + 2H_{2}O → Ca(OH)_{2} + H_{2}\nCalcium floats because bubbles of hydrogen gas stick to its surface."
+        },
+        {
+          "q": "Write balanced equations for the reactions of (i) magnesium with hot water and (ii) aluminium with steam. Name one metal that does not react even with steam.",
+          "lines": 4,
+          "answer": "(i) Mg + 2H_{2}O → Mg(OH)_{2} + H_{2}\n(ii) 2Al + 3H_{2}O → Al_{2}O_{3} + 3H_{2}\nCopper (or silver, gold, lead) does not react even with steam."
+        },
+        {
+          "q": "What is an alloy? What is an amalgam? Name the metals in brass and in stainless steel.",
+          "lines": 3,
+          "answer": "An alloy is a uniform mixture of a metal with other metals or a non-metal. An amalgam is an alloy in which one of the metals is mercury. Brass: copper and zinc. Stainless steel: iron with nickel and chromium."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Reactivity series and ionic compounds",
+      "questions": [
+        {
+          "q": "Which of these reactions will NOT take place?",
+          "lines": 0,
+          "options": [
+            "Fe + CuSO_{4} → FeSO_{4} + Cu",
+            "Zn + FeSO_{4} → ZnSO_{4} + Fe",
+            "2Ag + CuSO_{4} → Ag_{2}SO_{4} + Cu",
+            "Mg + ZnSO_{4} → MgSO_{4} + Zn"
+          ],
+          "answer": "(c) Silver is less reactive than copper, so it cannot displace copper."
+        },
+        {
+          "q": "Aqua regia, which can dissolve gold, is a mixture of:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "conc. HCl and conc. HNO_{3} in the ratio 3 : 1",
+            "conc. HCl and conc. HNO_{3} in the ratio 1 : 3",
+            "conc. H_{2}SO_{4} and conc. HNO_{3} in the ratio 3 : 1",
+            "conc. HCl and conc. H_{2}SO_{4} in the ratio 1 : 1"
+          ],
+          "answer": "(a) conc. HCl and conc. HNO_{3} in the ratio 3 : 1"
+        },
+        {
+          "q": "The electronic configuration of the sodium ion, Na^{+}, is:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "2, 8, 1",
+            "2, 8",
+            "2, 8, 2",
+            "2, 7"
+          ],
+          "answer": "(b) 2, 8: sodium (2, 8, 1) loses its one outer electron"
+        },
+        {
+          "q": "Name two metals that are found free (uncombined) in nature. Why are they found this way?",
+          "lines": 2,
+          "answer": "Gold and silver (also platinum, and sometimes copper). They are at the bottom of the reactivity series, so they hardly react with air, water or other substances."
+        },
+        {
+          "q": "A yellow non-metal X burns in air with a blue flame. Its oxide turns moist blue litmus red. Identify X and its oxide, and write the balanced equations for burning X and for its oxide dissolving in water.",
+          "lines": 3,
+          "answer": "X is sulphur and the oxide is sulphur dioxide.\nS + O_{2} → SO_{2}\nSO_{2} + H_{2}O → H_{2}SO_{3} (sulphurous acid, which is why litmus turns red)"
+        },
+        {
+          "q": "Metals A, B, C and D were added to solutions of FeSO_{4}, CuSO_{4}, ZnSO_{4} and AgNO_{3}. A displaces copper but not iron. B displaces iron but not zinc. C displaces only silver. D displaces none of them.\n(i) Which metal is the most reactive? (ii) What will you see if B is added to copper sulphate solution? (iii) Arrange A, B, C and D in decreasing order of reactivity.",
+          "lines": 5,
+          "answer": "(i) B\n(ii) B displaces copper: a reddish-brown deposit of copper forms and the blue colour of the solution fades (B is more reactive than iron, which is more reactive than copper).\n(iii) B > A > C > D"
+        },
+        {
+          "q": "Give reasons:\n(a) Silver articles turn black after some time in air.\n(b) Sodium and potassium catch fire in water, but magnesium does not.\n(c) Lemon or tamarind juice is used to clean tarnished copper vessels.",
+          "lines": 5,
+          "answer": "(a) Silver reacts with sulphur compounds (hydrogen sulphide) in the air and forms a black coating of silver sulphide.\n(b) Sodium and potassium react with cold water so violently, and with so much heat, that the hydrogen formed catches fire. Magnesium reacts only slowly, with hot water.\n(c) The green coating on copper is basic copper carbonate. The acid in lemon or tamarind reacts with it and dissolves it, so the copper shines again."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Extraction, corrosion and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** In the electrolytic refining of copper, a thick block of impure copper is made the anode.\n**Reason (R):** At the anode, copper atoms of the impure metal lose electrons and go into the solution as ions.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a) Both are true, and R explains A: the impure anode dissolves, and pure copper is deposited on the cathode."
+        },
+        {
+          "q": "Which ore is converted into its oxide by calcination (heating strongly in limited air)?",
+          "lines": 0,
+          "options": [
+            "zinc blende, ZnS",
+            "calamine, ZnCO_{3}",
+            "cinnabar, HgS",
+            "copper glance, Cu_{2}S"
+          ],
+          "answer": "(b) calamine: ZnCO_{3} → ZnO + CO_{2}. Sulphide ores are roasted instead."
+        },
+        {
+          "q": "Which of these metals is obtained by the electrolysis of its molten chloride?",
+          "lines": 0,
+          "options": [
+            "iron",
+            "copper",
+            "sodium",
+            "zinc"
+          ],
+          "answer": "(c) sodium: it is too reactive to be obtained by reducing its oxide with carbon"
+        },
+        {
+          "q": "In Neha's kitchen, leftover food is wrapped in aluminium foil, the steel cooking pots have copper bottoms, and the pot handles are made of plastic or wood.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Which property of aluminium lets it be rolled into thin foil? Why doesn't the foil react with food quickly?",
+              "lines": 2,
+              "answer": "Malleability. Aluminium is covered by a thin, protective layer of aluminium oxide that stops further reaction."
+            },
+            {
+              "q": "Why do cooking pots have copper bottoms?",
+              "lines": 2,
+              "answer": "Copper is an excellent conductor of heat, so it spreads the heat quickly and evenly and the food cooks without burning in one spot."
+            },
+            {
+              "q": "Why are the handles made of plastic or wood and not of metal?",
+              "lines": 2,
+              "answer": "Plastic and wood are poor conductors of heat, so the handles stay cool enough to hold. A metal handle would get too hot."
+            }
+          ]
+        },
+        {
+          "q": "Manganese is obtained by heating manganese dioxide with aluminium powder:\n3MnO_{2} + 4Al → 3Mn + 2Al_{2}O_{3} + heat\n(a) Which substance is oxidised and which is reduced? (b) Why is aluminium able to do this? (c) Why is a lot of heat given out, and why is that useful?",
+          "lines": 5,
+          "answer": "(a) Aluminium is oxidised (it gains oxygen). Manganese dioxide is reduced (it loses oxygen).\n(b) Aluminium is more reactive than manganese, so it displaces manganese from its oxide.\n(c) The reaction is highly exothermic. The heat produced melts the metal, so it is obtained in molten form."
+        },
+        {
+          "q": "(a) Draw the electron-dot structures of sodium, oxygen and magnesium.\n(b) Show the formation of Na_{2}O and MgO by the transfer of electrons.\n(c) Name the ions present in each compound.",
+          "lines": 7,
+          "answer": "(a) Na: one dot (2, 8, 1). O: six dots (2, 6). Mg: two dots (2, 8, 2).\n(b) Each Na atom loses 1 electron: Na → Na^{+} + e^{-}. An O atom gains 2 electrons: O + 2e^{-} → O^{2-}. So 2Na^{+} + O^{2-} → Na_{2}O.\nMg loses 2 electrons: Mg → Mg^{2+} + 2e^{-}. O gains them: O + 2e^{-} → O^{2-}. So Mg^{2+} + O^{2-} → MgO.\n(c) Na_{2}O: Na^{+} and O^{2-} ions. MgO: Mg^{2+} and O^{2-} ions."
+        }
+      ]
+    }
+  ],
+  "closing": "If you can say the reactivity series without looking, you've won half this chapter!"
+}

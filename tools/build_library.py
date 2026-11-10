@@ -3,7 +3,7 @@
 
 Usage:  python3 tools/build_library.py [--all]
 
-- Specs live in library/<area>/<kind>/*.json  (kind = tests | notes | mocks | worksheets | plans)
+- Specs live in library/<area>/<kind>/*.json  (kind = tests | dpp | notes | mocks | worksheets | plans)
 - Output goes to library/<area>/pdf/
 - Only specs that changed since their PDF was built are re-rendered, unless --all is given.
 - Every spec goes through the same accuracy checks as make_paper.py (marks, equations, MCQ keys).
@@ -22,8 +22,8 @@ LIB = ROOT / "library"
 sys.path.insert(0, str(ROOT / "tools"))
 import make_paper  # noqa: E402
 
-KIND_ORDER = ["tests", "notes", "worksheets", "mocks", "plans"]
-KIND_LABEL = {"tests": "Chapter tests (25 marks)", "notes": "Quick revision notes",
+KIND_ORDER = ["tests", "dpp", "notes", "worksheets", "mocks", "plans"]
+KIND_LABEL = {"tests": "Chapter tests (25 marks)", "dpp": "Daily practice (3 days per chapter)", "notes": "Quick revision notes",
               "worksheets": "Worksheets", "mocks": "Full mock papers", "plans": "Plans"}
 
 

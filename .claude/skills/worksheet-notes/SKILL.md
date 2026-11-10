@@ -14,6 +14,7 @@ Same engine and the same accuracy bar as `test-paper`. Read its sections **1 (br
 |---|---|---|
 | Practice / homework / revision worksheet | `worksheet` | Questions with answer lines (`"lines": n`), no marks needed, plus a separate answer key |
 | Chapter question bank / important questions | `worksheet` | Grouped by type (1-mark, 2-mark, 3-mark, 5-mark), `"lines": 0`, plus answer key |
+| Daily practice (DPP) / notebook homework | `worksheet` + `"answer_lines": false` | Question-only sheet (answers go in the notebook), sections "Day 1/2/3", plus answer key. Class 10 already has one per chapter in `library/class10-science/dpp/` |
 | Short notes / one-page revision / formula sheet | `notes` | `blocks`: headings, paragraphs, bullets, tables, boxed "Remember" tips |
 
 ## Worksheets

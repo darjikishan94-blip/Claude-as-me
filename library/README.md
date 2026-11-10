@@ -58,6 +58,15 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Ch 13 Test (Set B): Our Environment | [PDF](class10-science/pdf/c10-ch13-test-b-our-environment.pdf) · [Word](class10-science/pdf/c10-ch13-test-b-our-environment.docx) · [Answer key](class10-science/pdf/c10-ch13-test-b-our-environment-answer-key.pdf) |
 | Ch 13 Test (GSEB pattern): Our Environment | [PDF](class10-science/pdf/c10-ch13-test-gseb-our-environment.pdf) · [Word](class10-science/pdf/c10-ch13-test-gseb-our-environment.docx) · [Answer key](class10-science/pdf/c10-ch13-test-gseb-our-environment-answer-key.pdf) |
 
+### Daily practice (3 days per chapter)
+
+| Title | Files |
+|---|---|
+| Daily Practice: Ch 1 Chemical Reactions and Equations | [PDF](class10-science/pdf/c10-dpp-ch01-chemical-reactions.pdf) · [Word](class10-science/pdf/c10-dpp-ch01-chemical-reactions.docx) · [Answer key](class10-science/pdf/c10-dpp-ch01-chemical-reactions-answer-key.pdf) |
+| Daily Practice: Ch 2 Acids, Bases and Salts | [PDF](class10-science/pdf/c10-dpp-ch02-acids-bases-salts.pdf) · [Word](class10-science/pdf/c10-dpp-ch02-acids-bases-salts.docx) · [Answer key](class10-science/pdf/c10-dpp-ch02-acids-bases-salts-answer-key.pdf) |
+| Daily Practice: Ch 3 Metals and Non-metals | [PDF](class10-science/pdf/c10-dpp-ch03-metals-non-metals.pdf) · [Word](class10-science/pdf/c10-dpp-ch03-metals-non-metals.docx) · [Answer key](class10-science/pdf/c10-dpp-ch03-metals-non-metals-answer-key.pdf) |
+| Daily Practice: Ch 4 Carbon and its Compounds | [PDF](class10-science/pdf/c10-dpp-ch04-carbon-compounds.pdf) · [Word](class10-science/pdf/c10-dpp-ch04-carbon-compounds.docx) · [Answer key](class10-science/pdf/c10-dpp-ch04-carbon-compounds-answer-key.pdf) |
+
 ### Quick revision notes
 
 | Title | Files |

@@ -32,10 +32,12 @@ import build_library  # noqa: E402
 
 SHELVES = [
     {"id": "class-10", "name": "Class 10 Science", "short": "Class 10",
-     "blurb": "The board year. Two CBSE-style tests and a GSEB version for every chapter, six full mocks, revision sheets, question banks and the 90-day plan.",
+     "blurb": "The board year. Two CBSE-style tests and a GSEB version for every chapter, daily practice, six full mocks, revision sheets, question banks and the 90-day plan.",
      "sections": [
          {"name": "Chapter tests", "ledger": True,
           "note": "Set A and Set B are CBSE-style 25-mark tests. GSEB is the same chapter in Gujarat Board format (9 objective, 3×2, 2×3, 1×4)."},
+         {"name": "Daily practice",
+          "note": "Three short practice days per chapter, in the order of the 90-day plan. About 25 minutes a day, answer key included."},
          {"name": "Mock papers"}, {"name": "Revision notes"}, {"name": "Final revision sheets"},
          {"name": "Question banks"}, {"name": "Drills"}, {"name": "Plans"}]},
     {"id": "class-9", "name": "Class 9 Science", "short": "Class 9",
@@ -135,6 +137,8 @@ def main():
             if kind == "tests" and m:
                 item.update(section="Chapter tests", chapter_no=int(m.group(1)), chapter=spec.get("chapter", ""),
                             variant={"": "Set A", "b": "Set B", "g": "GSEB"}[m.group(2)])
+            elif kind == "dpp":
+                item.update(section="Daily practice", chapter_no=int(stem[2:4]) if stem[2:4].isdigit() else None)
             elif kind == "mocks":
                 item["section"] = "Mock papers"
             elif kind == "notes":

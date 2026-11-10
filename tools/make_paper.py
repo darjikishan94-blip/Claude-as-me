@@ -327,7 +327,7 @@ def options_block(doc, options, indent):
 
 
 def render_question(doc, number, q, worksheet, indent=0.0):
-    marks = question_marks(q) if ("marks" in q or q.get("subparts")) else None
+    marks = (question_marks(q) or None) if ("marks" in q or q.get("subparts")) else None  # no "[0]" on unmarked worksheets
     has_body = bool(q.get("options") or q.get("subparts") or q.get("or") or q.get("box_cm")
                     or (worksheet and q.get("lines", default_lines(q))))
     q_line(doc, number, q["q"], marks, indent=indent, keep=has_body)
@@ -370,6 +370,7 @@ def default_lines(q):
 
 def render_paper(spec, path):
     worksheet = spec.get("type", "test") == "worksheet"
+    lines_on = worksheet and spec.get("answer_lines", True)  # false: question-only sheet, answers go in the notebook
     doc = new_document(f"{spec.get('academy', 'Level Up Academy')}  ·  {spec.get('title', '')}")
     header_block(doc, spec)
     n = 0
@@ -391,7 +392,7 @@ def render_paper(spec, path):
             para(doc, sec["note"], size=9.5, italic=True, after=2, color=GREY)
         for q in sec.get("questions", []):
             n += 1
-            render_question(doc, f"Q{n}.", q, worksheet)
+            render_question(doc, f"Q{n}.", q, lines_on)
     closing = spec.get("closing", "All the best!")
     if closing:
         para(doc, f"~ {closing} ~", size=10.5, italic=True, align=WD_ALIGN_PARAGRAPH.CENTER,
@@ -422,7 +423,7 @@ def render_key(spec, path):
 
 
 def key_entry(doc, number, q, indent=0.0):
-    marks = question_marks(q) if ("marks" in q or q.get("subparts")) else None
+    marks = (question_marks(q) or None) if ("marks" in q or q.get("subparts")) else None  # no "[0]" on unmarked worksheets
     q_line(doc, number, short(q["q"]), marks, indent=indent, keep=True)
     body = indent + 0.9
     if q.get("answer"):

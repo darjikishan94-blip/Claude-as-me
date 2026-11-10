@@ -1,0 +1,217 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch04-carbon-compounds",
+  "title": "Daily Practice: Ch 4 Carbon and its Compounds",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Carbon and its Compounds · Week 2 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each. Do Day 1 on the day you study the chapter, then Day 2 and Day 3 on the next two days.",
+    "Write your answers in your notebook, then check them with the key the same day. Copy every mistake into your error log.",
+    "Draw every structure with all its bonds. Check that each carbon has exactly four bonds!"
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Bonding and structures",
+      "questions": [
+        {
+          "q": "How many electrons are shared between the two nitrogen atoms in a molecule of N_{2}?",
+          "lines": 0,
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "(c) 6: each nitrogen shares three electrons, forming a triple bond (N≡N)"
+        },
+        {
+          "q": "Which form of carbon is made of football-shaped molecules of 60 carbon atoms?",
+          "lines": 0,
+          "options": [
+            "diamond",
+            "graphite",
+            "charcoal",
+            "buckminsterfullerene"
+          ],
+          "answer": "(d) buckminsterfullerene, C_{60}"
+        },
+        {
+          "q": "The molecular formula of cyclohexane is:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "C_{6}H_{6}",
+            "C_{6}H_{12}",
+            "C_{6}H_{14}",
+            "C_{6}H_{10}"
+          ],
+          "answer": "(b) C_{6}H_{12}: a ring of six carbons, each with two hydrogens"
+        },
+        {
+          "q": "The general formula of the alkynes is:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "C_{n}H_{2n+2}",
+            "C_{n}H_{2n}",
+            "C_{n}H_{2n-2}",
+            "C_{n}H_{n}"
+          ],
+          "answer": "(c) C_{n}H_{2n-2}, e.g. ethyne C_{2}H_{2}, propyne C_{3}H_{4}"
+        },
+        {
+          "q": "Draw the electron-dot structures of (a) an oxygen molecule, O_{2}, and (b) carbon dioxide, CO_{2}.",
+          "lines": 4,
+          "answer": "(a) The two O atoms share two pairs of electrons: a double bond, O=O. Each O also keeps two lone pairs.\n(b) Carbon shares two pairs with each oxygen: O=C=O, two double bonds. Each O keeps two lone pairs."
+        },
+        {
+          "q": "Diamond and graphite are both pure carbon. Why is diamond very hard, while graphite is soft and slippery?",
+          "lines": 3,
+          "answer": "In diamond each carbon is bonded to four others in a rigid three-dimensional network, so it is very hard. In graphite each carbon is bonded to three others in flat hexagonal layers; the layers slide over one another, so graphite is soft and slippery."
+        },
+        {
+          "q": "Write the structural formula and the molecular formula of (i) propane, (ii) propene and (iii) propyne.",
+          "lines": 4,
+          "answer": "(i) Propane: CH_{3}–CH_{2}–CH_{3}, C_{3}H_{8}\n(ii) Propene: CH_{3}–CH=CH_{2}, C_{3}H_{6}\n(iii) Propyne: CH_{3}–C≡CH, C_{3}H_{4}"
+        },
+        {
+          "q": "Draw the structures of cyclohexane and benzene. How is the bonding different?",
+          "lines": 4,
+          "answer": "Cyclohexane, C_{6}H_{12}: a ring of six carbons joined by single bonds, each carbon with two H atoms.\nBenzene, C_{6}H_{6}: a ring of six carbons with alternate single and double bonds, each carbon with one H atom.\nCyclohexane is saturated; benzene has double bonds, so it is unsaturated."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Functional groups, naming and isomers",
+      "questions": [
+        {
+          "q": "The IUPAC name of CH_{3}–CH_{2}–CH_{2}–COOH is:",
+          "lines": 0,
+          "options": [
+            "propanoic acid",
+            "butanal",
+            "butanol",
+            "butanoic acid"
+          ],
+          "answer": "(d) butanoic acid: four carbons, with the –COOH group"
+        },
+        {
+          "q": "Which pair belongs to the same homologous series?",
+          "lines": 0,
+          "options": [
+            "CH_{4} and C_{2}H_{4}",
+            "C_{2}H_{6} and C_{3}H_{8}",
+            "C_{2}H_{4} and C_{2}H_{2}",
+            "CH_{3}OH and CH_{3}COOH"
+          ],
+          "answer": "(b) C_{2}H_{6} and C_{3}H_{8}: both alkanes, differing by –CH_{2}–"
+        },
+        {
+          "q": "The formula of chloropropane is:",
+          "lines": 0,
+          "fixed_order": true,
+          "options": [
+            "C_{3}H_{7}Cl",
+            "C_{3}H_{8}Cl",
+            "C_{3}H_{6}Cl",
+            "C_{2}H_{5}Cl"
+          ],
+          "answer": "(a) C_{3}H_{7}Cl: one H of propane (C_{3}H_{8}) is replaced by Cl"
+        },
+        {
+          "q": "Name the functional group in each: (a) CH_{3}CHO (b) CH_{3}COCH_{2}CH_{3} (c) CH_{3}CH_{2}COOH (d) CH_{3}Cl.",
+          "lines": 2,
+          "answer": "(a) aldehyde (–CHO) (b) ketone (C=O inside the chain) (c) carboxylic acid (–COOH) (d) halo group (chloro, –Cl)"
+        },
+        {
+          "q": "Draw the structures of (a) ethanoic acid, (b) bromopentane and (c) butanone.",
+          "lines": 4,
+          "answer": "(a) CH_{3}–COOH, i.e. CH_{3}–C(=O)–OH\n(b) CH_{3}–CH_{2}–CH_{2}–CH_{2}–CH_{2}–Br\n(c) CH_{3}–CO–CH_{2}–CH_{3}, i.e. CH_{3}–C(=O)–CH_{2}–CH_{3}"
+        },
+        {
+          "q": "Pentane, C_{5}H_{12}, has three structural isomers. Draw all three.",
+          "lines": 5,
+          "answer": "1. A straight chain: CH_{3}–CH_{2}–CH_{2}–CH_{2}–CH_{3}\n2. A branch on the second carbon: CH_{3}–CH(CH_{3})–CH_{2}–CH_{3}\n3. Two branches on the middle carbon: C(CH_{3})_{4}, a central carbon joined to four CH_{3} groups.\nAll three have the formula C_{5}H_{12}."
+        },
+        {
+          "q": "Carbon forms neither C^{4+} nor C^{4-} ions. Explain why, and say how carbon achieves a stable configuration instead.",
+          "lines": 4,
+          "answer": "To form C^{4+}, carbon would have to lose four electrons, which needs a very large amount of energy. To form C^{4-}, it would have to gain four electrons, and a nucleus with six protons cannot hold ten electrons easily. So carbon shares its four valence electrons with other atoms, forming covalent bonds."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Reactions, ethanol and ethanoic acid",
+      "questions": [
+        {
+          "q": "**Assertion (A):** Oils containing unsaturated fatty acids should be chosen for cooking.\n**Reason (R):** Animal fats generally contain saturated fatty acids, which are said to be harmful for health.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(a) Both are true, and R explains A."
+        },
+        {
+          "q": "Denatured alcohol is ethanol made unfit for drinking by adding:",
+          "lines": 0,
+          "options": [
+            "methanol and a blue dye",
+            "only water",
+            "ethanoic acid",
+            "glucose"
+          ],
+          "answer": "(a) methanol (a poison) and a blue dye, so that it can be recognised"
+        },
+        {
+          "q": "Which of these reacts with chlorine in sunlight by substitution?",
+          "lines": 0,
+          "options": [
+            "C_{2}H_{4}",
+            "C_{2}H_{2}",
+            "CH_{4}",
+            "CO_{2}"
+          ],
+          "answer": "(c) CH_{4}: saturated hydrocarbons give substitution reactions. CH_{4} + Cl_{2} → CH_{3}Cl + HCl"
+        },
+        {
+          "q": "A teacher gave Aryan two unlabelled bottles, one of ethanol and one of ethanoic acid. He added a pinch of sodium hydrogencarbonate to a little of each. One bottle gave brisk effervescence; the other showed no change.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Which liquid gave the effervescence? Write the balanced equation.",
+              "lines": 2,
+              "answer": "Ethanoic acid: CH_{3}COOH + NaHCO_{3} → CH_{3}COONa + H_{2}O + CO_{2}"
+            },
+            {
+              "q": "How can he test the gas given off?",
+              "lines": 1,
+              "answer": "Pass it through lime water: it turns milky, so the gas is carbon dioxide."
+            },
+            {
+              "q": "Suggest one more way to tell the two liquids apart.",
+              "lines": 2,
+              "answer": "Ethanoic acid turns blue litmus red; ethanol does not. (Ethanoic acid also smells of vinegar.)"
+            }
+          ]
+        },
+        {
+          "q": "(a) Write the balanced equation for the complete combustion of ethanol.\n(b) What is an oxidising agent? Name two substances that can oxidise ethanol to ethanoic acid.\n(c) What is vinegar? Why is ethanoic acid called a weak acid?",
+          "lines": 6,
+          "answer": "(a) C_{2}H_{5}OH + 3O_{2} → 2CO_{2} + 3H_{2}O + heat and light\n(b) A substance that adds oxygen to another substance. Alkaline potassium permanganate and acidified potassium dichromate.\n(c) Vinegar is a 5–8% solution of ethanoic acid in water. Ethanoic acid is weak because it ionises only partly in water, giving few H^{+} ions."
+        },
+        {
+          "q": "Compound A has the formula C_{2}H_{6}O and is found in alcoholic drinks. When A is heated with excess concentrated sulphuric acid at 443 K, it gives a gas B. B adds hydrogen in the presence of a nickel catalyst to give C, C_{2}H_{6}. Identify A, B and C and write the two balanced equations.",
+          "lines": 4,
+          "answer": "A: ethanol. B: ethene. C: ethane.\nC_{2}H_{5}OH → C_{2}H_{4} + H_{2}O (conc. H_{2}SO_{4}, 443 K: dehydration)\nC_{2}H_{4} + H_{2} → C_{2}H_{6} (nickel catalyst: addition/hydrogenation)"
+        }
+      ]
+    }
+  ],
+  "closing": "Week 2 done after this one. Big chapters, great work!"
+}

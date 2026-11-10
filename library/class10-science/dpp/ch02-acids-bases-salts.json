@@ -1,0 +1,203 @@
+{
+  "type": "worksheet",
+  "file_name": "c10-dpp-ch02-acids-bases-salts",
+  "title": "Daily Practice: Ch 2 Acids, Bases and Salts",
+  "class": "10",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Acids, Bases and Salts · Week 1 of the 90-day plan",
+  "answer_lines": false,
+  "instructions": [
+    "One day at a time, about 25 minutes each. Do Day 1 on the day you study the chapter, then Day 2 and Day 3 on the next two days.",
+    "Write your answers in your notebook, then check them with the key the same day. Copy every mistake into your error log.",
+    "Learn the formula and one use of each salt: baking soda, washing soda, bleaching powder and Plaster of Paris."
+  ],
+  "sections": [
+    {
+      "title": "Day 1: Acids, bases and indicators",
+      "questions": [
+        {
+          "q": "Which of the following is an olfactory indicator?",
+          "lines": 0,
+          "options": [
+            "litmus",
+            "clove oil",
+            "phenolphthalein",
+            "methyl orange"
+          ],
+          "answer": "(b) clove oil: its smell disappears in a basic solution (vanilla and onion work the same way)"
+        },
+        {
+          "q": "Which acid is present in tamarind?",
+          "lines": 0,
+          "options": [
+            "citric acid",
+            "lactic acid",
+            "oxalic acid",
+            "tartaric acid"
+          ],
+          "answer": "(d) tartaric acid"
+        },
+        {
+          "q": "In water, acids produce:",
+          "lines": 0,
+          "options": [
+            "OH^{-} ions",
+            "H^{+} ions (as H_{3}O^{+})",
+            "Na^{+} ions",
+            "Cl^{-} ions only"
+          ],
+          "answer": "(b) H^{+} ions, which join water molecules to form H_{3}O^{+}"
+        },
+        {
+          "q": "A base that dissolves in water is called:",
+          "lines": 0,
+          "options": [
+            "a salt",
+            "an indicator",
+            "an oxide",
+            "an alkali"
+          ],
+          "answer": "(d) an alkali, e.g. NaOH, KOH"
+        },
+        {
+          "q": "Name the acid present in: (i) vinegar (ii) curd (iii) an ant sting (iv) lemon.",
+          "lines": 2,
+          "answer": "(i) acetic (ethanoic) acid (ii) lactic acid (iii) methanoic (formic) acid (iv) citric acid"
+        },
+        {
+          "q": "HCl and H_{2}SO_{4} show acidic properties in water, but solutions of glucose and alcohol do not, although they also contain hydrogen. Why?",
+          "lines": 3,
+          "answer": "Acids give H^{+} ions when dissolved in water, and these ions cause acidic behaviour. Glucose and alcohol do not split into ions in water, so they produce no H^{+} ions."
+        },
+        {
+          "q": "Zinc reacts with sodium hydroxide solution on warming. Write the balanced equation and name the gas formed.",
+          "lines": 2,
+          "answer": "2NaOH + Zn → Na_{2}ZnO_{2} + H_{2}. The gas is hydrogen; the salt is sodium zincate."
+        },
+        {
+          "q": "You have three test tubes. One contains distilled water, one an acid and one a base. You have only red litmus paper. How will you identify each one?",
+          "lines": 4,
+          "answer": "Dip red litmus into each: the one that turns it blue is the base. Now use this blue litmus strip on the other two: the one that turns it red again is the acid. The one with no effect is distilled water."
+        }
+      ]
+    },
+    {
+      "title": "Day 2: Reactions and pH",
+      "questions": [
+        {
+          "q": "Metal oxides are generally:",
+          "lines": 0,
+          "options": [
+            "acidic",
+            "neutral",
+            "basic",
+            "always amphoteric"
+          ],
+          "answer": "(c) basic: they react with acids to give a salt and water"
+        },
+        {
+          "q": "The pH of the gastric juice in our stomach is about:",
+          "lines": 0,
+          "options": [
+            "2",
+            "7",
+            "9",
+            "12"
+          ],
+          "answer": "(a) 2: the stomach makes hydrochloric acid, which helps digestion"
+        },
+        {
+          "q": "Solutions of equal concentration are made of each substance below. Which has the lowest pH?",
+          "lines": 0,
+          "options": [
+            "HCl",
+            "NaOH",
+            "NaCl",
+            "CH_{3}COOH"
+          ],
+          "answer": "(a) HCl: it is a strong acid, so it gives the most H^{+} ions"
+        },
+        {
+          "q": "Write the balanced equations for the reactions of dilute hydrochloric acid with (i) copper(II) oxide and (ii) magnesium hydroxide. What do both reactions have in common?",
+          "lines": 4,
+          "answer": "(i) CuO + 2HCl → CuCl_{2} + H_{2}O (the solution turns blue-green)\n(ii) Mg(OH)_{2} + 2HCl → MgCl_{2} + 2H_{2}O\nBoth give a salt and water: the oxide and the hydroxide behave as bases."
+        },
+        {
+          "q": "Why does an ant sting cause pain and a burning feeling? What can be applied to the skin for relief, and why does it work?",
+          "lines": 3,
+          "answer": "The ant injects methanoic (formic) acid into the skin. Rubbing on a mild base such as baking soda solution neutralises the acid and relieves the pain."
+        },
+        {
+          "q": "Fresh milk has a pH of about 6.\n(a) How does the pH change as it turns into curd? Why?\n(b) A milkman adds a very small amount of baking soda to fresh milk. Why?\n(c) Why does this milk take longer to set as curd?",
+          "lines": 5,
+          "answer": "(a) The pH falls, because lactic acid forms and the milk becomes more acidic.\n(b) Slightly alkaline milk does not turn sour as quickly, so it stays fresh for longer.\n(c) The first lactic acid that forms is neutralised by the baking soda, so it takes longer for the milk to become acidic enough to set."
+        },
+        {
+          "q": "Salt solutions can be acidic, basic or neutral. Classify each with a reason: (i) NaCl (ii) Na_{2}CO_{3} (iii) NH_{4}Cl.",
+          "lines": 4,
+          "answer": "(i) NaCl: neutral (pH 7), from a strong acid (HCl) and a strong base (NaOH).\n(ii) Na_{2}CO_{3}: basic (pH > 7), from a strong base (NaOH) and a weak acid (H_{2}CO_{3}).\n(iii) NH_{4}Cl: acidic (pH < 7), from a strong acid (HCl) and a weak base (NH_{4}OH)."
+        }
+      ]
+    },
+    {
+      "title": "Day 3: Salts, mixed practice and challenge",
+      "questions": [
+        {
+          "q": "**Assertion (A):** Plaster of Paris sets into a hard mass when it is mixed with water.\n**Reason (R):** Plaster of Paris contains no water of crystallisation.",
+          "lines": 0,
+          "options": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is not the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ],
+          "answer": "(c) A is true, but R is false: Plaster of Paris is CaSO_{4}·½H_{2}O, so it has half a molecule of water per CaSO_{4}. It sets because it turns back into gypsum."
+        },
+        {
+          "q": "Bleaching powder is made by passing chlorine gas over:",
+          "lines": 0,
+          "options": [
+            "dry slaked lime",
+            "quicklime",
+            "limestone",
+            "gypsum"
+          ],
+          "answer": "(a) dry slaked lime: Ca(OH)_{2} + Cl_{2} → CaOCl_{2} + H_{2}O"
+        },
+        {
+          "q": "Riya got a turmeric (haldi) stain on her white shirt. When she scrubbed it with soap, the stain turned reddish-brown. After she rinsed it with plenty of water, it turned yellow again.",
+          "lines": 0,
+          "subparts": [
+            {
+              "q": "Why did the stain turn reddish-brown?",
+              "lines": 2,
+              "answer": "Soap solution is basic, and turmeric is a natural indicator that turns reddish-brown in a base."
+            },
+            {
+              "q": "Why did it turn yellow again after rinsing?",
+              "lines": 2,
+              "answer": "Rinsing washed the soap away, so the stain was no longer in a basic medium and turmeric showed its normal yellow colour."
+            },
+            {
+              "q": "Name one more natural indicator and one synthetic indicator.",
+              "lines": 1,
+              "answer": "Natural: litmus (or red cabbage juice). Synthetic: phenolphthalein (or methyl orange)."
+            }
+          ]
+        },
+        {
+          "q": "(a) A few drops of phenolphthalein are added to sodium hydroxide solution. Dilute hydrochloric acid is then added drop by drop. Describe the colour changes, explain them and write the balanced equation.\n(b) What will you see if a few drops of NaOH are added again?\n(c) Name the salt formed. Is its solution acidic, basic or neutral?",
+          "lines": 6,
+          "answer": "(a) The solution is pink at first, because phenolphthalein is pink in a base. As acid is added the pink fades, and it becomes colourless once all the base is neutralised. NaOH + HCl → NaCl + H_{2}O\n(b) It turns pink again, because the solution becomes basic again.\n(c) Sodium chloride. Its solution is neutral (pH 7)."
+        },
+        {
+          "q": "A calcium compound A reacts with dilute hydrochloric acid with effervescence. The gas given off puts out a burning candle. One of the products is calcium chloride. Identify A and the gas, and write the balanced equation.",
+          "lines": 3,
+          "answer": "A is calcium carbonate and the gas is carbon dioxide.\nCaCO_{3} + 2HCl → CaCl_{2} + CO_{2} + H_{2}O"
+        }
+      ]
+    }
+  ],
+  "closing": "Week 1 done after this one. Ch 1 and Ch 2 tests next. You've got this!"
+}
