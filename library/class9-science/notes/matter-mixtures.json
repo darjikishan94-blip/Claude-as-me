@@ -1,0 +1,119 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-matter-mixtures",
+  "title": "Quick Revision: Is Matter Around Us Pure?",
+  "blocks": [
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning / example"
+        ],
+        [
+          "Pure substance",
+          "Made of only one kind of particle: an element or a compound"
+        ],
+        [
+          "Homogeneous mixture",
+          "Uniform composition throughout, e.g. salt solution, air"
+        ],
+        [
+          "Heterogeneous mixture",
+          "Non-uniform composition, e.g. sand in water, oil and water"
+        ],
+        [
+          "Solution",
+          "Homogeneous mixture of a solute in a solvent; particles too small to see; no Tyndall effect"
+        ],
+        [
+          "Suspension",
+          "Heterogeneous; particles visible and settle down, e.g. chalk in water"
+        ],
+        [
+          "Colloid",
+          "Particles too small to see but they scatter light (Tyndall effect) and do not settle, e.g. milk, fog"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**Concentration (mass by mass %) = mass of solute ÷ mass of solution × 100**",
+        "Mass of solution = mass of solute + mass of solvent"
+      ]
+    },
+    {
+      "h": "Separation methods"
+    },
+    {
+      "table": [
+        [
+          "Mixture",
+          "Method"
+        ],
+        [
+          "Coloured dye from blue/black ink",
+          "Evaporation"
+        ],
+        [
+          "Cream from milk",
+          "Centrifugation"
+        ],
+        [
+          "Oil and water",
+          "Separating funnel"
+        ],
+        [
+          "Ammonium chloride from common salt",
+          "Sublimation"
+        ],
+        [
+          "Dyes in black ink",
+          "Chromatography"
+        ],
+        [
+          "Acetone and water (boiling points far apart)",
+          "Distillation"
+        ],
+        [
+          "Gases of the air; petroleum fractions (boiling points close)",
+          "Fractional distillation"
+        ],
+        [
+          "Pure copper sulphate from impure sample",
+          "Crystallisation"
+        ]
+      ]
+    },
+    {
+      "h": "Mixture or compound?"
+    },
+    {
+      "bullets": [
+        "Iron filings mixed with sulphur powder: a **mixture**. A magnet pulls out the iron, and each keeps its own properties.",
+        "Heated together they form a **compound**, iron sulphide: Fe + S → FeS. It has new properties and a fixed composition, and a magnet cannot separate it."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. A solution contains 40 g of common salt in 320 g of water. Find its concentration."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. How will you separate a mixture of salt and ammonium chloride?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

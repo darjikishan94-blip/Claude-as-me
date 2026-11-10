@@ -1,0 +1,88 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-sound",
+  "title": "Quick Revision: Sound",
+  "blocks": [
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning"
+        ],
+        [
+          "Longitudinal wave",
+          "Particles vibrate along the direction of the wave. Sound in air is longitudinal."
+        ],
+        [
+          "Compression / rarefaction",
+          "Regions of high / low pressure and density"
+        ],
+        [
+          "Wavelength (λ)",
+          "Distance between two consecutive compressions (or rarefactions), in m"
+        ],
+        [
+          "Frequency (ν)",
+          "Number of oscillations per second, in hertz (Hz). T = 1/ν"
+        ],
+        [
+          "Amplitude",
+          "Maximum disturbance; decides **loudness**"
+        ],
+        [
+          "Pitch",
+          "Decided by **frequency**: higher frequency, higher pitch"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**v = λν** · T = 1/ν · Echo: distance to the reflector = (v × t)/2",
+        "Audible range: 20 Hz to 20 kHz · Below 20 Hz: infrasound · Above 20 kHz: ultrasound"
+      ]
+    },
+    {
+      "h": "Must-know points"
+    },
+    {
+      "bullets": [
+        "Sound needs a medium; it cannot travel through a vacuum.",
+        "Speed of sound: **solids > liquids > gases**. In air it is about 344 m/s at 22 °C, and it increases with temperature.",
+        "An echo is heard only if the reflected sound arrives at least 0.1 s later, so the obstacle must be at least **17.2 m** away.",
+        "Reverberation (repeated reflections) is reduced in halls with soft, sound-absorbing materials on walls and seats.",
+        "Uses of ultrasound: detecting cracks in metal, cleaning hard-to-reach parts, scanning internal organs (ultrasonography), SONAR."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Forgetting to halve the distance in echo and SONAR questions (the sound goes there and back).",
+        "Converting kHz: 1 kHz = 1000 Hz."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. A sound wave has a frequency of 500 Hz and a wavelength of 0.68 m. Find its speed."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. A girl claps 170 m from a cliff. If sound travels at 340 m/s, after how long does she hear the echo?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

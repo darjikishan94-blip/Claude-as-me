@@ -1,0 +1,97 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-motion",
+  "title": "Quick Revision: Motion",
+  "blocks": [
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning",
+          "SI unit"
+        ],
+        [
+          "Distance",
+          "Total length of the path covered (scalar)",
+          "m"
+        ],
+        [
+          "Displacement",
+          "Shortest distance from start to finish, with direction (vector)",
+          "m"
+        ],
+        [
+          "Speed",
+          "Distance covered per unit time",
+          "m/s"
+        ],
+        [
+          "Velocity",
+          "Speed in a given direction (displacement per unit time)",
+          "m/s"
+        ],
+        [
+          "Acceleration",
+          "Change in velocity per unit time",
+          "m/s^{2}"
+        ],
+        [
+          "Uniform motion",
+          "Equal distances in equal intervals of time",
+          "–"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**Equations of motion (uniform acceleration):** v = u + at · s = ut + ½at^{2} · v^{2} − u^{2} = 2as",
+        "Average speed = total distance ÷ total time · Average velocity = (u + v)/2 (uniform acceleration only)",
+        "km/h → m/s: divide by 3.6 · Uniform circular motion: v = 2πr/t"
+      ]
+    },
+    {
+      "h": "Must-know points"
+    },
+    {
+      "bullets": [
+        "Displacement can be zero even when distance is not (e.g. one full round of a track).",
+        "Distance–time graph: slope = speed. A straight sloping line means uniform speed.",
+        "Velocity–time graph: slope = acceleration; **area under the graph = displacement**.",
+        "A horizontal line on a velocity–time graph means uniform velocity (zero acceleration).",
+        "Uniform circular motion is **accelerated** motion: the speed is constant but the direction keeps changing.",
+        "Retardation (slowing down) is negative acceleration."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Mixing km/h with m/s in the same formula. Convert first.",
+        "Forgetting the minus sign for retardation, or for a body thrown upwards (a = −g)."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. A car speeds up from 18 km/h to 36 km/h in 5 s. Find its acceleration."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. What does the area under a velocity–time graph tell you?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

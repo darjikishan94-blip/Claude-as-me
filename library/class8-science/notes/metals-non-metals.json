@@ -1,0 +1,85 @@
+{
+  "type": "notes",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "file_name": "c8-notes-metals-non-metals",
+  "title": "Quick Revision: Metals and Non-metals",
+  "blocks": [
+    {
+      "h": "Physical properties"
+    },
+    {
+      "table": [
+        [
+          "Property",
+          "Metals",
+          "Non-metals"
+        ],
+        [
+          "Lustre",
+          "Shiny",
+          "Dull (iodine is an exception)"
+        ],
+        [
+          "Malleability / ductility",
+          "Can be beaten into sheets and drawn into wires",
+          "Brittle: break into pieces"
+        ],
+        [
+          "Conduction",
+          "Good conductors of heat and electricity",
+          "Poor conductors (graphite conducts electricity)"
+        ],
+        [
+          "Sound",
+          "Sonorous (ring when struck)",
+          "Not sonorous"
+        ]
+      ]
+    },
+    {
+      "h": "Chemical properties"
+    },
+    {
+      "bullets": [
+        "Metals burn to form **basic oxides**: 2Mg + O_{2} → 2MgO. The oxide in water turns **red litmus blue**: MgO + H_{2}O → Mg(OH)_{2}.",
+        "Non-metals form **acidic oxides**: S + O_{2} → SO_{2}. In water it turns **blue litmus red**: SO_{2} + H_{2}O → H_{2}SO_{3}.",
+        "Sodium reacts vigorously with water, so it is stored in **kerosene**. Phosphorus catches fire in air, so it is stored in **water**.",
+        "Many metals react with dilute acids to give **hydrogen**, which burns with a pop sound: Zn + H_{2}SO_{4} → ZnSO_{4} + H_{2}.",
+        "A more reactive metal **displaces** a less reactive metal from its salt solution: Fe + CuSO_{4} → FeSO_{4} + Cu (the blue colour fades)."
+      ]
+    },
+    {
+      "box": [
+        "Reactivity (most to least, common ones): sodium > magnesium > zinc > iron > copper",
+        "Copper cannot displace zinc or iron, so no reaction happens when copper is put in zinc sulphate."
+      ]
+    },
+    {
+      "h": "Uses"
+    },
+    {
+      "bullets": [
+        "Metals: machinery, cars, utensils, wires (copper, aluminium), jewellery (gold, silver), food wrapping (aluminium foil).",
+        "Non-metals: oxygen for breathing, nitrogen in fertilisers, chlorine to purify water, iodine solution on wounds."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Why are electric wires made of copper or aluminium?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. What happens when an iron nail is put in copper sulphate solution? Write the word equation."
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

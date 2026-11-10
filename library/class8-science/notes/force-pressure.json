@@ -1,0 +1,73 @@
+{
+  "type": "notes",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "file_name": "c8-notes-force-pressure",
+  "title": "Quick Revision: Force and Pressure",
+  "blocks": [
+    {
+      "h": "Key ideas"
+    },
+    {
+      "bullets": [
+        "A **force** is a push or a pull. It arises from an interaction between two objects, and has both size (magnitude) and direction. SI unit: newton (N).",
+        "A force can **start or stop motion, change speed, change direction, or change shape**.",
+        "Forces in the same direction add up; forces in opposite directions subtract. Equal and opposite forces cancel."
+      ]
+    },
+    {
+      "table": [
+        [
+          "Contact forces",
+          "Non-contact forces"
+        ],
+        [
+          "Muscular force (our muscles), friction (between surfaces in contact)",
+          "Magnetic force, electrostatic force (charged objects), gravitational force (Earth's pull)"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**Pressure = force ÷ area** · unit: N/m^{2} = pascal (Pa)",
+        "Same force, smaller area → more pressure. Same force, larger area → less pressure."
+      ]
+    },
+    {
+      "h": "Pressure in daily life"
+    },
+    {
+      "bullets": [
+        "Knives, nails and needles have sharp ends (small area, high pressure). School bags have wide straps and porters put a round cloth on their heads (large area, low pressure).",
+        "**Liquids** press on the bottom and the walls of their container, and the pressure **increases with depth**. That is why dam walls are thicker at the bottom.",
+        "**Air** around us exerts atmospheric pressure. A rubber sucker sticks to a smooth wall because the air pressure outside pushes it."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Writing pressure without a unit, or mixing up force (N) and pressure (Pa).",
+        "Saying a force always makes things move. It may only change their shape."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. A force of 100 N acts on an area of 2 m^{2}. What is the pressure?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Why do heavy trucks and tractors have broad tyres?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

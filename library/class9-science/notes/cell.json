@@ -1,0 +1,108 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-cell",
+  "title": "Quick Revision: The Fundamental Unit of Life (Cell)",
+  "blocks": [
+    {
+      "h": "Milestones"
+    },
+    {
+      "bullets": [
+        "Robert Hooke (1665) saw cells in a thin slice of cork. Leeuwenhoek first saw free-living cells in pond water. Robert Brown discovered the nucleus (1831).",
+        "**Cell theory:** all plants and animals are made of cells, and all cells arise from pre-existing cells."
+      ]
+    },
+    {
+      "table": [
+        [
+          "Prokaryotic cell",
+          "Eukaryotic cell"
+        ],
+        [
+          "Small; nuclear region (nucleoid) with no nuclear membrane",
+          "Larger; nucleus with a nuclear membrane"
+        ],
+        [
+          "Single chromosome; no membrane-bound organelles",
+          "More than one chromosome; membrane-bound organelles present"
+        ],
+        [
+          "e.g. bacteria",
+          "e.g. plant and animal cells"
+        ]
+      ]
+    },
+    {
+      "h": "Cell organelles"
+    },
+    {
+      "table": [
+        [
+          "Part",
+          "Job"
+        ],
+        [
+          "Plasma membrane",
+          "Selectively permeable; lets only some substances in and out"
+        ],
+        [
+          "Cell wall (plants)",
+          "Made of cellulose; gives strength and lets the cell survive in dilute solutions"
+        ],
+        [
+          "Nucleus",
+          "Contains chromosomes (DNA); controls the cell's activities"
+        ],
+        [
+          "Endoplasmic reticulum",
+          "Rough ER (with ribosomes) makes proteins; smooth ER makes fats; transport channels; detoxification"
+        ],
+        [
+          "Golgi apparatus",
+          "Stores, modifies and packages products; forms lysosomes"
+        ],
+        [
+          "Lysosomes",
+          "Digest foreign material and worn-out parts; 'suicide bags' of the cell"
+        ],
+        [
+          "Mitochondria",
+          "Release energy as ATP; 'powerhouse'; have their own DNA and ribosomes"
+        ],
+        [
+          "Plastids (plants)",
+          "Chloroplasts (photosynthesis); leucoplasts (store starch, oils, proteins)"
+        ],
+        [
+          "Vacuoles",
+          "Store materials; very large in plant cells, small in animal cells"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**Osmosis:** water moves through a selectively permeable membrane from a dilute solution to a concentrated one.",
+        "Cell in a **hypotonic** (dilute) solution swells · **isotonic**: no change · **hypertonic** (concentrated): shrinks. Plasmolysis: a plant cell's contents shrink away from the wall when it loses water."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Why are lysosomes called the 'suicide bags' of the cell?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. What happens to a raisin placed in plain water, and why?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "notes",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "file_name": "c8-notes-combustion-flame",
+  "title": "Quick Revision: Combustion and Flame",
+  "blocks": [
+    {
+      "h": "Key ideas"
+    },
+    {
+      "bullets": [
+        "**Combustion** is a chemical process in which a substance reacts with oxygen to give off heat (and often light).",
+        "Three things are needed: **fuel, air (oxygen), and heating to the ignition temperature**. Remove any one and the fire goes out.",
+        "**Ignition temperature:** the lowest temperature at which a substance catches fire. Inflammable substances (petrol, LPG, alcohol) have very low ignition temperatures."
+      ]
+    },
+    {
+      "table": [
+        [
+          "Type",
+          "Example"
+        ],
+        [
+          "Rapid combustion",
+          "LPG burning on a gas stove"
+        ],
+        [
+          "Spontaneous combustion",
+          "White phosphorus catching fire in air at room temperature"
+        ],
+        [
+          "Explosion",
+          "Firecrackers, when heat, light and sound are released suddenly"
+        ]
+      ]
+    },
+    {
+      "h": "A candle flame"
+    },
+    {
+      "table": [
+        [
+          "Zone",
+          "What happens",
+          "Heat"
+        ],
+        [
+          "Outermost (blue, non-luminous)",
+          "Complete combustion",
+          "Hottest. Goldsmiths use it to melt gold and silver."
+        ],
+        [
+          "Middle (yellow, luminous)",
+          "Partial combustion",
+          "Moderately hot"
+        ],
+        [
+          "Innermost (dark)",
+          "Unburnt wax vapour",
+          "Least hot"
+        ]
+      ]
+    },
+    {
+      "h": "Fire control and fuels"
+    },
+    {
+      "bullets": [
+        "Water cools the fuel below its ignition temperature, but must **not** be used on electrical fires or oil and petrol fires.",
+        "**Carbon dioxide** is the best extinguisher for electrical and oil fires: it is heavier than oxygen, so it covers the fire like a blanket, and it also cools it.",
+        "A good fuel is cheap, easily available, burns at a moderate rate, has a high calorific value and leaves little residue.",
+        "Calorific value (kJ/kg): hydrogen about 1,50,000 · LPG about 55,000 · petrol and kerosene about 45,000 · coal 25,000–33,000 · wood 17,000–22,000 · cow dung cake 6,000–8,000.",
+        "Harmful effects: carbon monoxide is poisonous; more CO_{2} adds to global warming; oxides of sulphur and nitrogen cause acid rain."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Why does a matchstick catch fire when rubbed on the side of the box, but not on its own?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Why is water not used to put out a fire caused by petrol?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

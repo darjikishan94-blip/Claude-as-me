@@ -1,0 +1,78 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-tissues",
+  "title": "Quick Revision: Tissues",
+  "blocks": [
+    {
+      "h": "Plant tissues"
+    },
+    {
+      "bullets": [
+        "**Meristematic** (dividing) tissue: apical (tips of root and shoot: length), lateral (cambium: girth), intercalary (base of leaves or internodes).",
+        "**Simple permanent:** parenchyma (living, thin walls, stores food; chlorenchyma has chlorophyll; aerenchyma has air spaces for floating), collenchyma (thickened corners, flexibility, e.g. leaf stalk), sclerenchyma (dead, lignin-thickened, hard, e.g. husk of coconut).",
+        "**Protective:** epidermis (single layer, waxy cuticle in dry areas, stomata for gas exchange and transpiration); cork (dead cells with suberin, in older stems).",
+        "**Complex permanent:** xylem (tracheids, vessels, xylem parenchyma, xylem fibres) carries water and minerals; phloem (sieve tubes, companion cells, phloem fibres, phloem parenchyma) carries food. Only phloem fibres are dead in phloem."
+      ]
+    },
+    {
+      "h": "Animal tissues"
+    },
+    {
+      "table": [
+        [
+          "Tissue",
+          "Types and examples"
+        ],
+        [
+          "Epithelial",
+          "Covers and protects: squamous (skin, lining of mouth), cuboidal (kidney tubules, glands), columnar (intestine), ciliated (respiratory tract)"
+        ],
+        [
+          "Connective",
+          "Blood (plasma + RBC, WBC, platelets), bone, cartilage, ligament (bone to bone), tendon (muscle to bone), areolar, adipose (fat storage)"
+        ],
+        [
+          "Muscular",
+          "Striated or voluntary (limbs); smooth or involuntary (stomach, intestine, iris); cardiac (heart; involuntary, contracts and relaxes rhythmically throughout life)"
+        ],
+        [
+          "Nervous",
+          "Neurons: cell body, dendrites, axon; carry messages quickly"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**Remember:** tendon = muscle to bone · ligament = bone to bone · cartilage smooths joint surfaces (also in the nose, ear, trachea)"
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Mixing up tendon and ligament.",
+        "Saying xylem carries food. Xylem: water and minerals; phloem: food."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Which tissue makes a plant grow in girth, and where is it found?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Name the muscle tissue in the heart, and give one way it differs from muscle in the arm."
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

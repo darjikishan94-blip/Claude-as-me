@@ -1,0 +1,77 @@
+{
+  "type": "notes",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "file_name": "c8-notes-sound",
+  "title": "Quick Revision: Sound",
+  "blocks": [
+    {
+      "h": "Key ideas"
+    },
+    {
+      "bullets": [
+        "Sound is produced by a **vibrating** object. In humans, sound comes from the vibrating vocal cords in the **larynx** (voice box).",
+        "Sound needs a **medium** (solid, liquid or gas). It cannot travel through a vacuum.",
+        "We hear when sound makes the **eardrum** vibrate; the vibrations are passed on to the inner ear and then to the brain."
+      ]
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning",
+          "Decides"
+        ],
+        [
+          "Amplitude",
+          "Size of the vibration",
+          "Loudness, measured in decibels (dB)"
+        ],
+        [
+          "Frequency",
+          "Number of vibrations per second, in hertz (Hz)",
+          "Pitch: higher frequency, shriller sound"
+        ],
+        [
+          "Time period",
+          "Time for one vibration, in seconds",
+          "Time period = 1 ÷ frequency"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "Human hearing: about **20 Hz to 20,000 Hz**. Below 20 Hz is infrasonic; above 20,000 Hz is ultrasonic (dogs can hear some of it).",
+        "Sounds above about **80 dB** become physically painful."
+      ]
+    },
+    {
+      "h": "Noise and noise pollution"
+    },
+    {
+      "bullets": [
+        "Unpleasant sounds are **noise**; pleasant sounds are music.",
+        "Sources of noise pollution: vehicle horns, loudspeakers, firecrackers, machines, construction work.",
+        "Effects: lack of sleep, high blood pressure, anxiety, and even loss of hearing.",
+        "Control: silencers on vehicles and machines, keeping TVs and music low, planting trees along roads, keeping factories away from homes."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. A pendulum makes 40 oscillations in 4 seconds. Find its frequency and time period."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Why can't astronauts on the Moon talk to each other directly, without radios?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

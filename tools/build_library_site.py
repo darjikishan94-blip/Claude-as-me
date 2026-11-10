@@ -42,10 +42,10 @@ SHELVES = [
          {"name": "Question banks"}, {"name": "Drills"}, {"name": "Plans"}]},
     {"id": "class-9", "name": "Class 9 Science", "short": "Class 9",
      "blurb": "Topic-based, so it works with the old or the new NCERT book. Check each topic against the book your students use.",
-     "sections": [{"name": "Unit tests"}, {"name": "Practice packs"}]},
+     "sections": [{"name": "Unit tests"}, {"name": "Practice packs"}, {"name": "Revision notes"}]},
     {"id": "class-8", "name": "Class 8 Science", "short": "Class 8",
      "blurb": "Topic-based for the 8th Science group, at Class 8 level.",
-     "sections": [{"name": "Unit tests"}, {"name": "Practice packs"}]},
+     "sections": [{"name": "Unit tests"}, {"name": "Practice packs"}, {"name": "Revision notes"}]},
     {"id": "admin", "name": "Academy admin", "short": "Admin",
      "blurb": "Parent communication in your voice: the handbook, a message for every month, replies for difficult conversations, and the admissions kit.",
      "sections": [{"name": "Parent handbook"}, {"name": "Message kits"}, {"name": "Admissions 2027-28"}]},
@@ -151,7 +151,7 @@ def main():
                 item["section"] = "Plans"
         elif a in ("class9-science", "class8-science"):
             item["shelf"] = "class-9" if a.startswith("class9") else "class-8"
-            item["section"] = "Unit tests" if kind == "tests" else "Practice packs"
+            item["section"] = {"tests": "Unit tests", "notes": "Revision notes"}.get(kind, "Practice packs")
         elif a == "admin":
             item.update(shelf="admin", section="Parent handbook")
         else:

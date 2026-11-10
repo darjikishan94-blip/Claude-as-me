@@ -1,0 +1,92 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-force-laws-of-motion",
+  "title": "Quick Revision: Force and Laws of Motion",
+  "blocks": [
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning"
+        ],
+        [
+          "Balanced forces",
+          "Equal and opposite forces; no change in the state of motion"
+        ],
+        [
+          "Unbalanced force",
+          "A net force; it changes speed or direction (causes acceleration)"
+        ],
+        [
+          "Inertia",
+          "The tendency of a body to resist a change in its state of rest or motion. Mass is a measure of inertia."
+        ],
+        [
+          "Momentum (p)",
+          "p = mv. A vector, in kg m/s"
+        ],
+        [
+          "1 newton",
+          "The force that gives a 1 kg mass an acceleration of 1 m/s^{2}"
+        ]
+      ]
+    },
+    {
+      "h": "Newton's laws"
+    },
+    {
+      "bullets": [
+        "**First law:** a body stays at rest, or in uniform motion in a straight line, unless an unbalanced force acts on it (law of inertia).",
+        "**Second law:** the rate of change of momentum is proportional to the applied force, in the direction of the force: **F = ma**.",
+        "**Third law:** to every action there is an equal and opposite reaction. **Action and reaction act on different bodies**, so they never cancel."
+      ]
+    },
+    {
+      "box": [
+        "F = ma = (mv − mu)/t · p = mv",
+        "**Conservation of momentum:** m_{1}u_{1} + m_{2}u_{2} = m_{1}v_{1} + m_{2}v_{2} (total momentum before = after, if no external force)"
+      ]
+    },
+    {
+      "h": "Everyday examples"
+    },
+    {
+      "bullets": [
+        "Passengers lurch forward when a bus stops suddenly; beating a carpet removes dust: **inertia**.",
+        "A fielder pulls the hands back while catching: more time, so a smaller force (second law).",
+        "Gun recoil, rockets, swimming, walking: **third law**. Seat belts reduce injury by slowing us down over a longer time."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Using grams instead of kg, or km/h instead of m/s, in F = ma.",
+        "Saying action and reaction cancel. They act on different objects."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. A 1000 kg car moving at 20 m/s is stopped in 5 s. Find the force applied by the brakes."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Why does a gun recoil when a bullet is fired?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

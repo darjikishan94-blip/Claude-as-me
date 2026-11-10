@@ -1,0 +1,112 @@
+{
+  "type": "notes",
+  "class": "8",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 8 book your students follow",
+  "file_name": "c8-notes-microorganisms",
+  "title": "Quick Revision: Microorganisms: Friend and Foe",
+  "blocks": [
+    {
+      "h": "The main groups"
+    },
+    {
+      "bullets": [
+        "Microorganisms are too small to see without a microscope. Main groups: **bacteria, fungi, protozoa, algae**. **Viruses** are different: they reproduce only inside the cells of a host.",
+        "They live everywhere: in soil, water, air, and inside our bodies."
+      ]
+    },
+    {
+      "table": [
+        [
+          "Friends (useful)",
+          "How"
+        ],
+        [
+          "Curd",
+          "The bacterium Lactobacillus turns milk into curd"
+        ],
+        [
+          "Bread, cakes",
+          "Yeast respires and gives off carbon dioxide, which makes the dough rise"
+        ],
+        [
+          "Alcohol, wine",
+          "Yeast turns sugar into alcohol (fermentation)"
+        ],
+        [
+          "Medicines",
+          "Antibiotics such as penicillin (discovered by Alexander Fleming) are made from bacteria and fungi"
+        ],
+        [
+          "Vaccines",
+          "Dead or weakened microbes train the body to fight a disease (Edward Jenner: smallpox)"
+        ],
+        [
+          "Soil fertility",
+          "Rhizobium in the root nodules of legumes fixes nitrogen; decomposers recycle dead matter"
+        ]
+      ]
+    },
+    {
+      "table": [
+        [
+          "Disease",
+          "Caused by",
+          "Spread by"
+        ],
+        [
+          "Cholera, typhoid",
+          "Bacteria",
+          "Contaminated water and food"
+        ],
+        [
+          "Tuberculosis",
+          "Bacteria",
+          "Air (coughing, sneezing)"
+        ],
+        [
+          "Malaria",
+          "Protozoan",
+          "Female Anopheles mosquito"
+        ],
+        [
+          "Dengue",
+          "Virus",
+          "Aedes mosquito"
+        ],
+        [
+          "Measles, chickenpox, polio",
+          "Virus",
+          "Air / contact / water"
+        ],
+        [
+          "In plants: citrus canker; rust of wheat; yellow vein mosaic of okra",
+          "Bacteria; fungi; virus",
+          "Air, insects"
+        ]
+      ]
+    },
+    {
+      "box": [
+        "**Food preservation:** salt (pickles, fish), sugar (jams), oil and vinegar (pickles), heating and cooling, airtight packing.",
+        "**Pasteurisation** (Louis Pasteur): milk is heated to about 70 °C for 15 to 30 seconds, then quickly chilled."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Name the microorganism that makes dough rise, and explain how it does it."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. How do the root nodules of pea and gram plants help the soil?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

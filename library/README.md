@@ -137,6 +137,16 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Unit Test: Microorganisms – Friend and Foe | [PDF](class8-science/pdf/c8-test-microorganisms.pdf) · [Word](class8-science/pdf/c8-test-microorganisms.docx) · [Answer key](class8-science/pdf/c8-test-microorganisms-answer-key.pdf) |
 | Unit Test: Sound | [PDF](class8-science/pdf/c8-test-sound.pdf) · [Word](class8-science/pdf/c8-test-sound.docx) · [Answer key](class8-science/pdf/c8-test-sound-answer-key.pdf) |
 
+### Quick revision notes
+
+| Title | Files |
+|---|---|
+| Quick Revision: Combustion and Flame | [PDF](class8-science/pdf/c8-notes-combustion-flame.pdf) · [Word](class8-science/pdf/c8-notes-combustion-flame.docx) |
+| Quick Revision: Force and Pressure | [PDF](class8-science/pdf/c8-notes-force-pressure.pdf) · [Word](class8-science/pdf/c8-notes-force-pressure.docx) |
+| Quick Revision: Metals and Non-metals | [PDF](class8-science/pdf/c8-notes-metals-non-metals.pdf) · [Word](class8-science/pdf/c8-notes-metals-non-metals.docx) |
+| Quick Revision: Microorganisms: Friend and Foe | [PDF](class8-science/pdf/c8-notes-microorganisms.pdf) · [Word](class8-science/pdf/c8-notes-microorganisms.docx) |
+| Quick Revision: Sound | [PDF](class8-science/pdf/c8-notes-sound.pdf) · [Word](class8-science/pdf/c8-notes-sound.docx) |
+
 ### Worksheets
 
 | Title | Files |
@@ -162,6 +172,21 @@ Ready-to-print material made by Claude-as-me. Every paper passes the automatic c
 | Unit Test: Matter in Our Surroundings | [PDF](class9-science/pdf/c9-test-states-of-matter.pdf) · [Word](class9-science/pdf/c9-test-states-of-matter.docx) · [Answer key](class9-science/pdf/c9-test-states-of-matter-answer-key.pdf) |
 | Unit Test: Tissues | [PDF](class9-science/pdf/c9-test-tissues.pdf) · [Word](class9-science/pdf/c9-test-tissues.docx) · [Answer key](class9-science/pdf/c9-test-tissues-answer-key.pdf) |
 | Unit Test: Work and Energy | [PDF](class9-science/pdf/c9-test-work-energy.pdf) · [Word](class9-science/pdf/c9-test-work-energy.docx) · [Answer key](class9-science/pdf/c9-test-work-energy-answer-key.pdf) |
+
+### Quick revision notes
+
+| Title | Files |
+|---|---|
+| Quick Revision: Structure of the Atom | [PDF](class9-science/pdf/c9-notes-atomic-structure.pdf) · [Word](class9-science/pdf/c9-notes-atomic-structure.docx) |
+| Quick Revision: The Fundamental Unit of Life (Cell) | [PDF](class9-science/pdf/c9-notes-cell.pdf) · [Word](class9-science/pdf/c9-notes-cell.docx) |
+| Quick Revision: Force and Laws of Motion | [PDF](class9-science/pdf/c9-notes-force-laws-of-motion.pdf) · [Word](class9-science/pdf/c9-notes-force-laws-of-motion.docx) |
+| Quick Revision: Gravitation | [PDF](class9-science/pdf/c9-notes-gravitation.pdf) · [Word](class9-science/pdf/c9-notes-gravitation.docx) |
+| Quick Revision: Is Matter Around Us Pure? | [PDF](class9-science/pdf/c9-notes-matter-mixtures.pdf) · [Word](class9-science/pdf/c9-notes-matter-mixtures.docx) |
+| Quick Revision: Motion | [PDF](class9-science/pdf/c9-notes-motion.pdf) · [Word](class9-science/pdf/c9-notes-motion.docx) |
+| Quick Revision: Sound | [PDF](class9-science/pdf/c9-notes-sound.pdf) · [Word](class9-science/pdf/c9-notes-sound.docx) |
+| Quick Revision: Matter in Our Surroundings | [PDF](class9-science/pdf/c9-notes-states-of-matter.pdf) · [Word](class9-science/pdf/c9-notes-states-of-matter.docx) |
+| Quick Revision: Tissues | [PDF](class9-science/pdf/c9-notes-tissues.pdf) · [Word](class9-science/pdf/c9-notes-tissues.docx) |
+| Quick Revision: Work and Energy | [PDF](class9-science/pdf/c9-notes-work-energy.pdf) · [Word](class9-science/pdf/c9-notes-work-energy.docx) |
 
 ### Worksheets
 

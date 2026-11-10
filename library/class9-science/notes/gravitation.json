@@ -1,0 +1,80 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-gravitation",
+  "title": "Quick Revision: Gravitation",
+  "blocks": [
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Term",
+          "Meaning / formula"
+        ],
+        [
+          "Universal law of gravitation",
+          "F = G m_{1}m_{2}/d^{2}; G = 6.67 × 10^{-11} N m^{2} kg^{-2}"
+        ],
+        [
+          "Acceleration due to gravity (g)",
+          "g = GM/R^{2} ≈ 9.8 m/s^{2} on Earth"
+        ],
+        [
+          "Mass",
+          "Amount of matter; same everywhere; kg"
+        ],
+        [
+          "Weight",
+          "Force of gravity on a body, W = mg; newton (N)"
+        ],
+        [
+          "Thrust / pressure",
+          "Thrust is force acting perpendicular to a surface; pressure = thrust ÷ area, in pascal (Pa)"
+        ],
+        [
+          "Buoyancy",
+          "The upward force a fluid exerts on an object in it"
+        ]
+      ]
+    },
+    {
+      "h": "Must-know points"
+    },
+    {
+      "bullets": [
+        "If the distance between two bodies is doubled, the force becomes **one-fourth**.",
+        "All objects fall with the same acceleration g in the absence of air resistance (free fall).",
+        "Weight on the Moon is about **one-sixth** of the weight on Earth; mass does not change.",
+        "g is slightly greater at the poles than at the equator, because the Earth's radius is smaller at the poles.",
+        "Sharp knives cut easily and camels have broad feet: same force, smaller or larger area changes the pressure.",
+        "**Archimedes' principle:** a body fully or partly immersed in a fluid feels an upward force equal to the weight of the fluid it displaces. An object floats if its density is less than the liquid's."
+      ]
+    },
+    {
+      "box": [
+        "Equations of motion for free fall: replace a with g (and use −g for a body thrown up).",
+        "Relative density = density of the substance ÷ density of water (no unit)"
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. What happens to the gravitational force between two objects if the mass of one is doubled?"
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. A 60 kg astronaut weighs how much on Earth and on the Moon? (g = 9.8 m/s^{2})"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

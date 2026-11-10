@@ -1,0 +1,91 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-work-energy",
+  "title": "Quick Revision: Work and Energy",
+  "blocks": [
+    {
+      "h": "Key terms"
+    },
+    {
+      "table": [
+        [
+          "Quantity",
+          "Formula",
+          "SI unit"
+        ],
+        [
+          "Work",
+          "W = F × s (force × displacement in its direction)",
+          "joule (J)"
+        ],
+        [
+          "Kinetic energy",
+          "KE = ½mv^{2}",
+          "J"
+        ],
+        [
+          "Potential energy",
+          "PE = mgh",
+          "J"
+        ],
+        [
+          "Power",
+          "P = W/t",
+          "watt (W)"
+        ],
+        [
+          "Commercial unit of energy",
+          "1 kWh = 3.6 × 10^{6} J",
+          "kWh ('unit')"
+        ]
+      ]
+    },
+    {
+      "h": "Must-know points"
+    },
+    {
+      "bullets": [
+        "Work is done only if a force moves the body. **No displacement means no work** (e.g. pushing a wall).",
+        "Work is **positive** when force and displacement are in the same direction, **negative** when opposite (e.g. friction), and **zero** when they are at right angles.",
+        "1 J of work is done when a force of 1 N moves a body 1 m in its direction.",
+        "**Law of conservation of energy:** energy can only change from one form to another; the total stays constant.",
+        "A freely falling body: PE changes into KE, and PE + KE stays the same at every point.",
+        "Doubling the speed makes KE **four times**, because KE depends on v^{2}."
+      ]
+    },
+    {
+      "box": [
+        "Take g = 9.8 m/s^{2} unless the question says 10 m/s^{2}.",
+        "1 kW = 1000 W · 1 hour = 3600 s · Energy (kWh) = power (kW) × time (h)"
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Using mass in grams. Convert to kg first.",
+        "Forgetting to square the velocity in ½mv^{2}."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Find the potential energy of a 2 kg ball held 5 m above the ground (g = 10 m/s^{2})."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. A 60 W bulb glows for 10 hours. How many units of energy does it use?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

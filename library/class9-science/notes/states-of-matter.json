@@ -1,0 +1,95 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-states-of-matter",
+  "title": "Quick Revision: Matter in Our Surroundings",
+  "blocks": [
+    {
+      "h": "Characteristics of particles of matter"
+    },
+    {
+      "bullets": [
+        "Particles of matter have spaces between them, are continuously moving, and attract each other.",
+        "Diffusion (e.g. the smell of hot food spreading) shows that particles move; it is faster at higher temperature."
+      ]
+    },
+    {
+      "table": [
+        [
+          "Property",
+          "Solid",
+          "Liquid",
+          "Gas"
+        ],
+        [
+          "Shape",
+          "Fixed",
+          "Takes the shape of the container",
+          "No fixed shape"
+        ],
+        [
+          "Volume",
+          "Fixed",
+          "Fixed",
+          "No fixed volume"
+        ],
+        [
+          "Compressibility",
+          "Negligible",
+          "Very little",
+          "High"
+        ],
+        [
+          "Force of attraction",
+          "Strongest",
+          "Weaker",
+          "Weakest"
+        ]
+      ]
+    },
+    {
+      "h": "Change of state"
+    },
+    {
+      "bullets": [
+        "**Melting point** of ice: 273 K (0 °C). **Boiling point** of water: 373 K (100 °C). Temperature stays constant during a change of state.",
+        "**Latent heat** is the heat used to change the state without raising the temperature (latent heat of fusion; of vaporisation).",
+        "**Sublimation:** solid changes directly into gas, e.g. camphor, naphthalene, ammonium chloride. The reverse is called deposition.",
+        "Increasing pressure and lowering temperature can turn a gas into a liquid. Solid CO_{2} is called dry ice."
+      ]
+    },
+    {
+      "box": [
+        "**Kelvin = °C + 273** (more exactly 273.15)",
+        "**Evaporation** happens at any temperature below the boiling point, at the surface. It increases with surface area, temperature and wind speed, and **decreases with humidity**. Evaporation causes **cooling**."
+      ]
+    },
+    {
+      "h": "Common mistakes"
+    },
+    {
+      "bullets": [
+        "Confusing evaporation (surface, any temperature) with boiling (whole liquid, fixed temperature).",
+        "Writing °K. The unit is just K."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Convert 25 °C to the Kelvin scale, and 373 K to °C."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. Why do we feel cool after sweating, and why is this slower on a humid day?"
+    },
+    {
+      "lines": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "notes",
+  "class": "9",
+  "board": "CBSE / GSEB",
+  "subject": "Science",
+  "chapter": "Topic-based: use with whichever Class 9 book your students follow",
+  "file_name": "c9-notes-atomic-structure",
+  "title": "Quick Revision: Structure of the Atom",
+  "blocks": [
+    {
+      "h": "Sub-atomic particles"
+    },
+    {
+      "table": [
+        [
+          "Particle",
+          "Charge",
+          "Mass",
+          "Discovered by"
+        ],
+        [
+          "Electron",
+          "−1",
+          "about 1/2000 of a proton",
+          "J. J. Thomson"
+        ],
+        [
+          "Proton",
+          "+1",
+          "1 u",
+          "E. Goldstein (canal rays)"
+        ],
+        [
+          "Neutron",
+          "0",
+          "about 1 u",
+          "J. Chadwick"
+        ]
+      ]
+    },
+    {
+      "h": "Models of the atom"
+    },
+    {
+      "bullets": [
+        "**Thomson:** a positive sphere with electrons embedded in it, like seeds in a watermelon. Atom is neutral overall.",
+        "**Rutherford (α-particle scattering on gold foil):** most α-particles passed straight through, so most of the atom is **empty space**; a few were deflected and very few bounced back, so the positive charge and mass are concentrated in a tiny **nucleus**.",
+        "**Drawback of Rutherford's model:** a revolving electron should lose energy and fall into the nucleus, so the atom would be unstable.",
+        "**Bohr:** electrons revolve in certain discrete orbits (shells K, L, M, N) and do not radiate energy while in them."
+      ]
+    },
+    {
+      "box": [
+        "Atomic number Z = number of protons · Mass number A = protons + neutrons · Neutrons = A − Z",
+        "Maximum electrons in a shell = 2n^{2}: K = 2, L = 8, M = 18 (but the outermost shell holds at most 8)",
+        "**Valency** = electrons gained, lost or shared to complete the octet, e.g. Na (2, 8, 1): 1; Cl (2, 8, 7): 1; O (2, 6): 2"
+      ]
+    },
+    {
+      "h": "Isotopes and isobars"
+    },
+    {
+      "bullets": [
+        "**Isotopes:** same atomic number, different mass number, e.g. hydrogen-1, 2, 3; carbon-12 and carbon-14. Uses: uranium-235 as nuclear fuel, cobalt-60 to treat cancer, iodine-131 to treat goitre.",
+        "**Isobars:** same mass number, different atomic number, e.g. calcium-40 and argon-40."
+      ]
+    },
+    {
+      "h": "Quick check"
+    },
+    {
+      "p": "1. Write the electronic configuration of sulphur (Z = 16) and give its valency."
+    },
+    {
+      "lines": 1
+    },
+    {
+      "p": "2. An atom has 11 protons and 12 neutrons. Find its atomic number and mass number."
+    },
+    {
+      "lines": 1
+    }
+  ]
+}
