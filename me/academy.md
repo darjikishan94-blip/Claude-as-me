@@ -14,6 +14,7 @@
 - **Contact number for public posts:** [confirm]
 - **Class timings & days:** [confirm per batch]
 - **Regular test day:** [confirm]
+- **Printer:** Epson L380 ink tank. In Nov 2026 it showed the ink-pad error (green power light on, paper and ink lights blinking alternately), which needs a service visit: counter reset plus pad clean or replace. Run head cleaning only when a nozzle check shows gaps, because every cleaning fills the pad.
 
 ## Classes & WhatsApp groups (known so far)
 | Group | Notes |
