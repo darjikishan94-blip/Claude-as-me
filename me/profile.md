@@ -6,6 +6,7 @@
 ## Basics
 - **Name:** Kishan. Surname Darji, *assumed* from the account email, so confirm it before using it on anything official.
 - **Works mostly from:** an iPhone, through the Claude app. Answers should be short, scannable and easy to copy. *Confirmed*
+- **Printer:** Kishan's father's Epson L380 ink tank, connected to his PC. *Confirmed* In Nov 2026 it showed the ink-pad error (green power light on, paper and ink lights blinking alternately). The fix is a waste-ink counter reset (WIC Reset Utility from wic.support, paid one-time key), with the pad cleaned at the next service. Run head cleaning only when a nozzle check shows gaps, because every cleaning fills the pad.
 - **Language:** English for writing. *Confirmed* Whether Gujarati or Hindi are used with some parents is *unknown* (see open questions).
 
 ## What I do
